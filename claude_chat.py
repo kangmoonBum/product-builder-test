@@ -53,25 +53,36 @@ def main():
         
         # Claude API 호출
         try:
-            response = client.messages.create(
-                model="claude-3-5-sonnet-20241022",
+            # Fable 5는 안전 분류기 거부 시 opus-4-8로 서버측 fallback (기본 권장)
+            response = client.beta.messages.create(
+                model="claude-fable-5",
                 max_tokens=1024,
+                betas=["server-side-fallback-2026-06-01"],
+                fallbacks=[{"model": "claude-opus-4-8"}],
                 system="당신은 한국어를 능숙하게 사용하는 친절한 AI 어시스턴트입니다. 사용자의 질문에 간단하고 명확하게 답변해주세요.",
                 messages=conversation_history
             )
-            
-            # 응답 메시지
-            assistant_message = response.content[0].text
-            
+
+            # 거부(refusal) 처리 — content를 읽기 전에 stop_reason 확인
+            if response.stop_reason == "refusal":
+                print("\n⚠️  요청이 안전상의 이유로 거부되었습니다.\n")
+                conversation_history.pop()  # 마지막 사용자 메시지 제거
+                continue
+
+            # 응답 메시지 — thinking 블록이 먼저 올 수 있으므로 text 블록을 찾음
+            assistant_message = next(
+                (b.text for b in response.content if b.type == "text"), ""
+            )
+
             # 히스토리에 추가
             conversation_history.append({
                 "role": "assistant",
                 "content": assistant_message
             })
-            
+
             # 출력
             print(f"\n🤖 Claude: {assistant_message}\n")
-            
+
         except Exception as e:
             print(f"\n❌ 오류 발생: {e}\n")
             # 마지막 사용자 메시지 제거 (재시도 위함)

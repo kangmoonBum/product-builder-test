@@ -11,16 +11,8 @@
   gtag('config', 'G-XWEXR9EB9P');
 </script>
 <meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0, viewport-fit=cover" name="viewport"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <title>AURA - Style Recommendation</title>
-<!-- Mobile web app meta -->
-<meta content="#f9f9f9" media="(prefers-color-scheme: light)" name="theme-color"/>
-<meta content="#e2e2e2" media="(prefers-color-scheme: dark)" name="theme-color"/>
-<meta content="yes" name="apple-mobile-web-app-capable"/>
-<meta content="yes" name="mobile-web-app-capable"/>
-<meta content="default" name="apple-mobile-web-app-status-bar-style"/>
-<meta content="AURA" name="apple-mobile-web-app-title"/>
-<meta content="telephone=no" name="format-detection"/>
 <!-- Material Symbols -->
 <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
 <!-- Google Fonts: Playfair Display & Inter -->
@@ -209,7 +201,7 @@
             -webkit-backdrop-filter: blur(20px);
             border: 1px solid rgba(229, 229, 229, 0.5);
         }
-
+        
         .ai-glow {
             position: relative;
         }
@@ -224,7 +216,7 @@
             opacity: 0.5;
             filter: blur(8px);
         }
-
+        
         @keyframes rotateGlow {
             0% { transform: rotate(0deg); }
             100% { transform: rotate(360deg); }
@@ -237,31 +229,22 @@
             -ms-overflow-style: none;
             scrollbar-width: none;
         }
-
-        /* Mobile app frame + safe-area insets */
-        .app-shell {
-            max-width: 480px;
-            margin-inline: auto;
-        }
-        .safe-top { padding-top: env(safe-area-inset-top); }
-        .safe-bottom { padding-bottom: env(safe-area-inset-bottom); }
-        /* Prevent iOS tap highlight / text size adjust on the app UI */
-        body {
-            -webkit-tap-highlight-color: transparent;
-            -webkit-text-size-adjust: 100%;
-            text-size-adjust: 100%;
-        }
     </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
   </head>
-<body class="bg-surface text-on-surface antialiased overflow-x-hidden pb-24 min-h-[100dvh]">
-<!-- Top App Bar -->
-<header class="app-shell safe-top fixed top-0 inset-x-0 z-50 bg-surface/70 dark:bg-surface-container-highest/70 backdrop-blur-md border-b border-outline-variant/20 flex items-center justify-between px-margin-mobile h-16 transition-all duration-300">
+<body class="bg-surface text-on-surface antialiased overflow-x-hidden pb-24 md:pb-0">
+<!-- Top App Bar (Mobile & Desktop) -->
+<header class="fixed top-0 w-full z-50 bg-surface/70 dark:bg-surface-container-highest/70 backdrop-blur-md border-b border-outline-variant/20 flex items-center justify-between px-margin-mobile h-16 transition-all duration-300">
 <!-- Leading Icon: Menu -->
-<button aria-label="Menu" class="text-primary hover:opacity-80 transition-opacity active:scale-95 -ml-1 p-1">
+<button aria-label="Menu" class="text-primary hover:opacity-80 transition-opacity active:scale-95">
 <span class="material-symbols-outlined" data-icon="menu">menu</span>
 </button>
 <!-- Headline / Brand -->
-<h1 class="font-headline-lg-mobile text-headline-lg-mobile tracking-widest text-primary absolute left-1/2 -translate-x-1/2">
+<h1 class="font-headline-lg-mobile text-headline-lg-mobile md:font-headline-lg md:text-headline-lg tracking-widest text-primary absolute left-1/2 -translate-x-1/2">
             AURA
         </h1>
 <!-- Trailing Avatar -->
@@ -270,28 +253,28 @@
 </button>
 </header>
 <!-- Main Content Canvas -->
-<main class="app-shell pt-24 pb-stack-lg px-margin-mobile">
+<main class="pt-24 pb-stack-lg max-w-container-max mx-auto px-margin-mobile md:px-margin-desktop">
 <!-- Style Profile Header -->
 <section class="mb-stack-md flex flex-col items-center text-center">
 <div class="inline-flex items-center gap-2 bg-secondary-container text-on-secondary-container px-4 py-1.5 rounded-full mb-4">
 <span class="material-symbols-outlined text-[18px]" data-icon="auto_awesome">auto_awesome</span>
 <span class="font-label-md text-label-md uppercase tracking-wider">Style Profile match</span>
 </div>
-<h2 class="font-headline-md text-headline-md text-primary mb-2">Elegant Minimalist</h2>
-<p class="font-body-md text-body-md text-on-surface-variant">
+<h2 class="font-headline-md text-headline-md md:font-display-lg md:text-display-lg text-primary mb-2">Elegant Minimalist</h2>
+<p class="font-body-md text-body-md text-on-surface-variant max-w-2xl mx-auto">
                 Curated specifically for your proportions. This look emphasizes clean lines, structured silhouettes, and a neutral palette to elongate your frame.
             </p>
 </section>
-<!-- Look of the Day Showcase -->
+<!-- Look of the Day Showcase (Bento/Asymmetric Layout) -->
 <section class="mb-stack-lg">
 <h3 class="font-headline-sm text-headline-sm text-primary mb-stack-sm flex items-center gap-2">
                 Look of the Day
                 <span class="w-2 h-2 rounded-full bg-primary-fixed-dim animate-pulse"></span>
 </h3>
-<div class="flex flex-col gap-unit">
+<div class="grid grid-cols-1 md:grid-cols-12 gap-unit auto-rows-[250px] md:auto-rows-[300px]">
 <!-- Main Feature Image -->
-<div class="relative h-[440px] rounded-xl overflow-hidden group">
-<img alt="Look of the day feature" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" data-alt="Full body shot of a model wearing an elegant minimalist outfit: a tailored cream blazer over a silk camisole and wide-leg charcoal trousers. High-end editorial fashion photography, soft studio lighting, clean white background, sophisticated and trendy vibe." src="screen.png"/>
+<div class="md:col-span-8 row-span-2 relative rounded-xl overflow-hidden group">
+<img alt="Look of the day feature" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" data-alt="Full body shot of a model wearing an elegant minimalist outfit: a tailored cream blazer over a silk camisole and wide-leg charcoal trousers. High-end editorial fashion photography, soft studio lighting, clean white background, sophisticated and trendy vibe." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDF79CgU2KrBvc500KxaX-8XpT5XD7Y4bsMCEiTGgqz9JzTxSHEykE2CWc6XGQn84_bzYZ5Sq_yfNxrMhMfJMKBGcsqmHhn6uPYKFi-RkLIiCn_g8V1PMcWvAbxL90LATzwvb5nyFJGvR0GzyHOOhAYw7e9aOhzqIiJovigxmPrgvhXEr9XZx17N20_c5aISVLLdNyHBUZ2eBza5oi9kN21Ql1_BcDRzhtDYr4nhBOOjR5HiRzA6DQQIu-aiiC0yla6QadROq0sj7Y"/>
 <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
 <!-- Glassmorphic Details Overlay -->
 <div class="absolute bottom-6 left-6 right-6 glass-panel rounded-lg p-4 flex justify-between items-end">
@@ -302,21 +285,21 @@
 </div>
 <h4 class="font-headline-sm text-headline-sm text-white">The 'Executive Edge' Ensemble</h4>
 </div>
-<button aria-label="Save look" class="bg-primary text-on-primary rounded-full p-3 hover:opacity-90 transition-opacity flex-shrink-0 ai-glow">
+<button class="bg-primary text-on-primary rounded-full p-3 hover:opacity-90 transition-opacity flex-shrink-0 ai-glow">
 <span class="material-symbols-outlined" data-icon="favorite">favorite</span>
 </button>
 </div>
 </div>
 <!-- Secondary Detail 1 -->
-<div class="relative h-[220px] rounded-xl overflow-hidden">
+<div class="md:col-span-4 row-span-1 relative rounded-xl overflow-hidden">
 <img alt="Fabric detail" class="w-full h-full object-cover" data-alt="Close up detail shot of the texture of a high-quality cream wool blazer lapel. Soft ambient lighting, shallow depth of field, minimalist luxury aesthetic, emphasizing fabric quality." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCW2-l6Psj-qRSQZ4K3arvJknur5IEI_Z9Y87xu6rpORFajaiRr1AqoFMDkAxrmoaWI6QB2asAnnSG4khYS25WOXztjGGbeV9k25DvIPJPHaGkJjJcV4VygeZGgZy_WF6GR08urC4GWmjr59t8dZN_I7_z1s1WDnKh7BgZkXDm4evUJ7TC7O01Gq7ZYw-Qam-um86bpI0siw1pzlbZiaQqTE_RXmlLCsCJAe-tcCycFY7QE182DUT4Nhz0N6jCS127U-W3rEA10fto"/>
 <div class="absolute inset-0 bg-black/20"></div>
 <div class="absolute bottom-4 left-4">
 <span class="text-white font-label-md text-label-md drop-shadow-md">Textural Contrast</span>
 </div>
 </div>
-<!-- Secondary Detail 2 (AI Styling Note) -->
-<div class="bg-surface-container-low rounded-xl p-6 flex flex-col justify-center items-center text-center border border-outline-variant/30">
+<!-- Secondary Detail 2 (Interactive/Shoppable hotspot hint) -->
+<div class="md:col-span-4 row-span-1 bg-surface-container-low rounded-xl p-6 flex flex-col justify-center items-center text-center border border-outline-variant/30">
 <span class="material-symbols-outlined text-4xl text-primary-fixed-dim mb-4" data-icon="insights">insights</span>
 <h5 class="font-body-lg text-body-lg text-primary mb-2">AI Styling Note</h5>
 <p class="font-body-md text-body-md text-on-surface-variant">
@@ -333,13 +316,13 @@
                     View all <span class="material-symbols-outlined text-[16px]" data-icon="arrow_forward">arrow_forward</span>
 </button>
 </div>
-<!-- Horizontal snap scroll (mobile-native) -->
-<div class="flex gap-4 overflow-x-auto hide-scrollbar snap-x snap-mandatory pb-4 -mx-margin-mobile px-margin-mobile">
+<!-- Horizontal Scroll on Mobile, Grid on Desktop -->
+<div class="flex md:grid md:grid-cols-3 gap-6 overflow-x-auto hide-scrollbar snap-x pb-4">
 <!-- Item 1 -->
-<div class="min-w-[260px] flex-shrink-0 snap-center bg-surface-container-lowest rounded-xl border border-outline-variant/20 shadow-sm overflow-hidden group">
-<div class="relative h-[300px] bg-surface-container overflow-hidden">
+<div class="min-w-[280px] md:min-w-0 flex-shrink-0 snap-center bg-surface-container-lowest rounded-xl border border-outline-variant/20 shadow-sm overflow-hidden group">
+<div class="relative h-[320px] bg-surface-container overflow-hidden">
 <img alt="Tailored Cream Blazer" class="w-full h-full object-cover object-top mix-blend-multiply group-hover:scale-105 transition-transform duration-500" data-alt="Product shot of a tailored cream wool-blend blazer on a minimalist hanger against a pure white background. High-end e-commerce photography, crisp lighting, luxurious texture." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCNboCbhjDQT7hTtdmMQJl_ZYCJ7O35XSl6JT7iqg5V9U8bDBLjUMbBP3MB5Kw5Z2hXx7n9eCZD5ZxaiZ9xAVRdkL5TpNDHf7PDk2pH5ll_DQTVpl7dMFoy78pN9HtNkRI7Ag5ymry3ZRizdml417_8naH_6qIXx5pOtAbyWQyxPA5CNl1SrBFjrWXXpj21b5MqSJsDgCF8uGi1PZyfSAFwQX_rzZVzOk_c0OsNYNnmOBlsyw2QsJI7nTb5cuwVGd6zHj4kgQQb0yk"/>
-<button aria-label="Bookmark" class="absolute top-3 right-3 p-2 bg-surface/80 rounded-full text-on-surface-variant hover:text-primary backdrop-blur-sm transition-colors z-10">
+<button class="absolute top-3 right-3 p-2 bg-surface/80 rounded-full text-on-surface-variant hover:text-primary backdrop-blur-sm transition-colors z-10">
 <span class="material-symbols-outlined text-[20px]" data-icon="bookmark">bookmark</span>
 </button>
 </div>
@@ -356,10 +339,10 @@
 </div>
 </div>
 <!-- Item 2 -->
-<div class="min-w-[260px] flex-shrink-0 snap-center bg-surface-container-lowest rounded-xl border border-outline-variant/20 shadow-sm overflow-hidden group">
-<div class="relative h-[300px] bg-surface-container overflow-hidden">
+<div class="min-w-[280px] md:min-w-0 flex-shrink-0 snap-center bg-surface-container-lowest rounded-xl border border-outline-variant/20 shadow-sm overflow-hidden group">
+<div class="relative h-[320px] bg-surface-container overflow-hidden">
 <img alt="Wide-Leg Trousers" class="w-full h-full object-cover object-top mix-blend-multiply group-hover:scale-105 transition-transform duration-500" data-alt="Product shot of charcoal grey wide-leg trousers draped elegantly on a mannequin leg form. Clean studio lighting, white background, emphasizing the fluid drape of the fabric. High-end fashion e-commerce style." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAC2vQiPbAaOzfLb9W8rHozJ4gBu9B8cisAPzWC8rBzB6wuSgdTJRSfEpsvGc9-5ZZepa3sVfKf0ZGgUcGtD2-MMdHqsfhEZVDP3P7SYniX3MbSoPxKblY7TEyyHnovLByZCi89dhw0bJz1G8NcxfXd5WbJ2dBRVGpkYJv5IbGPi-OQti5mKBNzlPk5gaZ8aiis9o8K2bBFrAkYTQj3fM4CdxJOBi53fzHOhzL06X7xbMrSFP8OHXgQS2yoHEo3fr56mzM4zCxxcy8"/>
-<button aria-label="Bookmark" class="absolute top-3 right-3 p-2 bg-surface/80 rounded-full text-on-surface-variant hover:text-primary backdrop-blur-sm transition-colors z-10">
+<button class="absolute top-3 right-3 p-2 bg-surface/80 rounded-full text-on-surface-variant hover:text-primary backdrop-blur-sm transition-colors z-10">
 <span class="material-symbols-outlined text-[20px]" data-icon="bookmark">bookmark</span>
 </button>
 </div>
@@ -376,10 +359,10 @@
 </div>
 </div>
 <!-- Item 3 -->
-<div class="min-w-[260px] flex-shrink-0 snap-center bg-surface-container-lowest rounded-xl border border-outline-variant/20 shadow-sm overflow-hidden group">
-<div class="relative h-[300px] bg-surface-container overflow-hidden">
+<div class="min-w-[280px] md:min-w-0 flex-shrink-0 snap-center bg-surface-container-lowest rounded-xl border border-outline-variant/20 shadow-sm overflow-hidden group">
+<div class="relative h-[320px] bg-surface-container overflow-hidden">
 <img alt="Gold Pendant" class="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-500" data-alt="Product shot of a minimalist gold pendant necklace resting on a warm beige marble surface. Macro photography, sharp focus on the jewelry, soft luxury aesthetic." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDcEcGQHHfryPlf-VATehGCyxcLhZLkV_FlziqcAn0JcmKPlgep8yua5S7EPCe29FCy0hBYGw6pmuwwYZB30xyQH7z3J0sRLCWxY3EZD5FV81NOUUgpyW7mi9ktzTh3tzptnYZx7e780DTPKAVnTWZzyCoFYJa_vfpM62kwpIOqlkvz-M1w09pFWYHI_uYAbPg5tJulvyGB_3G2kB3gwhNIbkU0aGMW7ka1WgcDngUHaHI3GkMxisgytDl7V3jNW2AUmhu0bPLlV7Q"/>
-<button aria-label="Bookmark" class="absolute top-3 right-3 p-2 bg-surface/80 rounded-full text-on-surface-variant hover:text-primary backdrop-blur-sm transition-colors z-10">
+<button class="absolute top-3 right-3 p-2 bg-surface/80 rounded-full text-on-surface-variant hover:text-primary backdrop-blur-sm transition-colors z-10">
 <span class="material-symbols-outlined text-[20px]" data-icon="bookmark">bookmark</span>
 </button>
 </div>
@@ -398,8 +381,9 @@
 </div>
 </section>
 </main>
-<!-- Bottom Nav Bar -->
-<nav class="app-shell safe-bottom fixed bottom-0 inset-x-0 z-50 rounded-t-3xl bg-surface/80 dark:bg-surface-container-highest/80 backdrop-blur-md border-t border-outline-variant/20 shadow-sm flex justify-around items-center h-20 px-4 transition-transform duration-300">
+<!-- Bottom Nav Bar (Mobile Only) -->
+<!-- Determined active state: "Stylist" because this is an AI style recommendation / Look of the Day screen -->
+<nav class="md:hidden fixed bottom-0 w-full z-50 rounded-t-full bg-surface/70 dark:bg-surface-container-highest/70 backdrop-blur-md border-t border-outline-variant/20 shadow-sm flex justify-around items-center h-20 pb-safe px-4 transition-transform duration-300">
 <!-- Discover (Inactive) -->
 <a class="flex flex-col items-center justify-center text-on-surface-variant/60 dark:text-on-surface-variant/60 hover:text-primary dark:hover:text-on-primary transition-colors active:scale-90 w-16 gap-1" href="#">
 <span class="material-symbols-outlined" data-icon="auto_awesome">auto_awesome</span>
@@ -410,8 +394,9 @@
 <span class="material-symbols-outlined" data-icon="checkroom">checkroom</span>
 <span class="font-label-sm text-label-sm">Wardrobe</span>
 </a>
-<!-- Stylist (Active) -->
+<!-- Stylist (Active - Style Recommendations) -->
 <a class="flex flex-col items-center justify-center text-primary dark:text-on-primary font-bold hover:text-primary dark:hover:text-on-primary transition-colors active:scale-90 w-16 gap-1 relative" href="#">
+<!-- Optional active indicator dot/glow for the minimalist vibe -->
 <div class="absolute -top-1 w-8 h-1 bg-primary rounded-full"></div>
 <span class="material-symbols-outlined" data-icon="smart_toy" data-weight="fill" style="font-variation-settings: 'FILL' 1;">smart_toy</span>
 <span class="font-label-sm text-label-sm">Stylist</span>
