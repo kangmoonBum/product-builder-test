@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>로또 번호 추첨</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --bg-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            --container-bg: #ffffff;
+            --container-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            --title-color: #333333;
+            --subtitle-color: #666666;
+            --result-bg: #f9f9f9;
+            --result-title-color: #666666;
+            --reset-bg: #e0e0e0;
+            --reset-bg-hover: #d0d0d0;
+            --reset-color: #333333;
+            --bonus-border: #dddddd;
+            --empty-color: #999999;
+            --toggle-bg: #e0e0e0;
+            --toggle-color: #333333;
+        }
+
+        [data-theme="dark"] {
+            --bg-gradient: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            --container-bg: #24243e;
+            --container-shadow: 0 20px 60px rgba(0, 0, 0, 0.6);
+            --title-color: #f0f0f0;
+            --subtitle-color: #a0a0b0;
+            --result-bg: #1e1e32;
+            --result-title-color: #b0b0c0;
+            --reset-bg: #3a3a52;
+            --reset-bg-hover: #4a4a66;
+            --reset-color: #f0f0f0;
+            --bonus-border: #3a3a52;
+            --empty-color: #7a7a8a;
+            --toggle-bg: #3a3a52;
+            --toggle-color: #f0f0f0;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background: var(--bg-gradient);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            transition: background 0.4s ease;
+        }
+
+        .container {
+            position: relative;
+            background: var(--container-bg);
+            border-radius: 20px;
+            box-shadow: var(--container-shadow);
+            padding: 40px;
+            max-width: 600px;
+            width: 100%;
+            transition: background 0.4s ease, box-shadow 0.4s ease;
+        }
+
+        .theme-toggle {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            width: 44px;
+            height: 44px;
+            padding: 0;
+            border-radius: 50%;
+            background: var(--toggle-bg);
+            color: var(--toggle-color);
+            font-size: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            line-height: 1;
+        }
+
+        .theme-toggle:hover {
+            transform: scale(1.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: var(--title-color);
+            margin-bottom: 10px;
+            font-size: 32px;
+            transition: color 0.4s ease;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: var(--subtitle-color);
+            margin-bottom: 30px;
+            font-size: 14px;
+            transition: color 0.4s ease;
+        }
+
+        .button-container {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+            justify-content: center;
+        }
+
+        button {
+            padding: 12px 30px;
+            font-size: 16px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+
+        .draw-btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 40px;
+            font-size: 18px;
+            flex: 1;
+            max-width: 300px;
+        }
+
+        .draw-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.4);
+        }
+
+        .draw-btn:active {
+            transform: translateY(0);
+        }
+
+        .reset-btn {
+            background: var(--reset-bg);
+            color: var(--reset-color);
+        }
+
+        .reset-btn:hover {
+            background: var(--reset-bg-hover);
+        }
+
+        .result-container {
+            background: var(--result-bg);
+            border-radius: 15px;
+            padding: 30px;
+            text-align: center;
+            transition: background 0.4s ease;
+        }
+
+        .result-title {
+            font-size: 18px;
+            color: var(--result-title-color);
+            margin-bottom: 15px;
+        }
+
+        .numbers-display {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .number-ball {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            color: white;
+            font-size: 18px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            animation: popIn 0.5s ease-out;
+        }
+
+        @keyframes popIn {
+            0% {
+                transform: scale(0);
+            }
+            50% {
+                transform: scale(1.2);
+            }
+            100% {
+                transform: scale(1);
+            }
+        }
+
+        .bonus-container {
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 2px solid var(--bonus-border);
+        }
+
+        .bonus-label {
+            font-size: 14px;
+            color: var(--subtitle-color);
+            margin-bottom: 10px;
+        }
+
+        .bonus-ball {
+            display: inline-block;
+        }
+
+        .empty-state {
+            color: var(--empty-color);
+            font-size: 16px;
+            padding: 40px 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <button class="theme-toggle" onclick="toggleTheme()" aria-label="테마 전환" title="다크/화이트 모드 전환">🌙</button>
+        <h1>🎰 로또 번호 추첨</h1>
+        <p class="subtitle">1부터 45까지의 숫자 중 당신의 행운을 뽑아보세요!</p>
+
+        <div class="button-container">
+            <button class="draw-btn" onclick="drawLotto()">번호 추첨</button>
+            <button class="reset-btn" onclick="resetLotto()">초기화</button>
+        </div>
+
+        <div class="result-container">
+            <div id="result" class="empty-state">추첨 버튼을 눌러 번호를 뽑아보세요.</div>
+        </div>
+    </div>
+
+    <script>
+        const colors = [
+            '#FBC400', // 1-10 노란색
+            '#69C8F0', // 11-20 파란색
+            '#FF7272', // 21-30 빨간색
+            '#AAAAAA', // 31-40 회색
+            '#B0D840'  // 41-45 초록색
+        ];
+
+        // 테마 전환 기능
+        function applyTheme(theme) {
+            if (theme === 'dark') {
+                document.documentElement.setAttribute('data-theme', 'dark');
+                document.querySelector('.theme-toggle').textContent = '☀️';
+            } else {
+                document.documentElement.removeAttribute('data-theme');
+                document.querySelector('.theme-toggle').textContent = '🌙';
+            }
+        }
+
+        function toggleTheme() {
+            const current = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+            const next = current === 'dark' ? 'light' : 'dark';
+            localStorage.setItem('theme', next);
+            applyTheme(next);
+        }
+
+        // 저장된 테마 또는 시스템 설정에 따라 초기 테마 적용
+        (function initTheme() {
+            const saved = localStorage.getItem('theme');
+            if (saved) {
+                applyTheme(saved);
+            } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                applyTheme('dark');
+            } else {
+                applyTheme('light');
+            }
+        })();
+
+        function getColorByNumber(num) {
+            if (num <= 10) return colors[0];
+            if (num <= 20) return colors[1];
+            if (num <= 30) return colors[2];
+            if (num <= 40) return colors[3];
+            return colors[4];
+        }
+
+        function drawLotto() {
+            // 1-45 범위의 숫자 배열 생성
+            const numbers = Array.from({ length: 45 }, (_, i) => i + 1);
+
+            // Fisher-Yates 셔플 알고리즘
+            for (let i = numbers.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [numbers[i], numbers[j]] = [numbers[j], numbers[i]];
+            }
+
+            // 앞의 6개를 당첨번호로, 7번째를 보너스로
+            const mainNumbers = numbers.slice(0, 6).sort((a, b) => a - b);
+            const bonusNumber = numbers[6];
+
+            // 결과 표시
+            displayResult(mainNumbers, bonusNumber);
+        }
+
+        function displayResult(mainNumbers, bonusNumber) {
+            let html = '<div class="result-title">🎯 당첨 번호</div>';
+            html += '<div class="numbers-display">';
+
+            // 메인 번호들
+            mainNumbers.forEach(num => {
+                const color = getColorByNumber(num);
+                html += `<div class="number-ball" style="background-color: ${color}; animation-delay: ${mainNumbers.indexOf(num) * 0.1}s;">${num}</div>`;
+            });
+
+            html += '</div>';
+
+            // 보너스 번호
+            html += '<div class="bonus-container">';
+            html += '<div class="bonus-label">✨ 보너스 번호</div>';
+            const bonusColor = getColorByNumber(bonusNumber);
+            html += `<div class="bonus-ball"><div class="number-ball" style="background-color: ${bonusColor}; width: 60px; height: 60px; font-size: 20px; animation-delay: 0.6s;">${bonusNumber}</div></div>`;
+            html += '</div>';
+
+            document.getElementById('result').innerHTML = html;
+        }
+
+        function resetLotto() {
+            document.getElementById('result').innerHTML = '<div class="empty-state">추첨 버튼을 눌러 번호를 뽑아보세요.</div>';
+        }
+    </script>
+</body>
+</html>
