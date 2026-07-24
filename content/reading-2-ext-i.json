@@ -1,0 +1,104 @@
+{
+"passages": [
+{
+"kind": "이메일",
+"title": "웨비나 발표 리허설 안내 메일",
+"passage": "From: Events Team\nTo: Webinar Presenters\nSubject: Rehearsal Schedule — 'Pricing in Uncertain Markets'\n\nDear presenters,\n\nOur public webinar on October 9 has 1,400 registrations, our largest audience this year. To make sure the session runs smoothly, we ask all four presenters to join a full rehearsal on October 6 at 3 p.m.\n\nThe rehearsal covers slide handovers between speakers, the audience poll timing, and the Q&A tool. Please use the same computer, camera, and network you will use on the day — half of last year's technical issues came from presenters switching equipment after rehearsal.\n\nSlides are due October 3 so our designer can apply the template and check fonts. The moderator will collect three backup questions from each presenter in case the audience Q&A starts slowly.\n\nA recording link goes to all registrants afterward, so avoid mentioning dates as 'today' during the talk.\n\nEvents Team",
+"questions": [
+{"q": "Why should presenters use the same equipment as on the day?", "type": "세부사항", "choices": ["Switching equipment caused past technical issues", "The template requires it", "For recording quality", "To save setup time"], "a": 0, "exKo": "작년 기술 문제의 절반이 리허설 후 장비 교체에서 발생했습니다."},
+{"q": "Why are backup questions collected?", "type": "세부사항", "choices": ["In case audience Q&A starts slowly", "To test the poll", "For the recording", "To fill the slides"], "a": 0, "exKo": "청중 질문이 더디게 올라올 경우를 대비한 예비 질문입니다."},
+{"q": "Why should presenters avoid saying 'today'?", "type": "추론", "choices": ["The recording will be watched later", "The webinar may be delayed", "It sounds unprofessional", "Time zones differ"], "a": 0, "exKo": "녹화본이 이후에 시청되므로 시점 표현을 피하라는 것입니다."}
+]
+},
+{
+"kind": "이메일",
+"title": "임대료 인상 협상 답신 메일",
+"passage": "From: Nadia Brandt, Brandt Property Group\nTo: Owen Marsh, Marsh & Field Accounting\nSubject: Re: Lease Renewal Terms — Suite 900\n\nDear Mr. Marsh,\n\nThank you for your counterproposal regarding the renewal of Suite 900. You are a valued ten-year tenant, and I want to find terms that work.\n\nOn the base rent, the proposed 9 percent increase reflects two years of building upgrades, but I can reduce it to 6 percent for a five-year term, or 7.5 percent for three years. On the service charge, I cannot move on the rate itself; however, I will cap annual service charge increases at 3 percent for the full term, which addresses the unpredictability you raised.\n\nI can also include the two storage units you currently rent separately at no additional cost — a saving of roughly $4,100 a year.\n\nIf these terms are acceptable, my office will send the revised lease within a week. I am available Thursday if you would like to discuss by phone.\n\nRegards,\nNadia Brandt",
+"questions": [
+{"q": "What does Ms. Brandt offer for a five-year term?", "type": "세부사항", "choices": ["A 6 percent rent increase instead of 9", "Free rent for a year", "No service charge", "A larger suite"], "a": 0, "exKo": "5년 계약 시 인상률을 9%에서 6%로 낮춰 주겠다고 제안합니다."},
+{"q": "How does she address the service charge concern?", "type": "세부사항", "choices": ["Capping annual increases at 3 percent", "Removing the charge", "Reducing the rate", "Freezing it for a year"], "a": 0, "exKo": "요율 자체는 못 바꾸지만 연간 인상률을 3%로 제한하기로 합니다."},
+{"q": "What extra concession is included?", "type": "세부사항", "choices": ["Two storage units at no cost", "Free parking", "New furniture", "A rent-free month"], "a": 0, "exKo": "별도로 빌리던 창고 2개를 무상 포함해 연 4,100달러를 아껴 줍니다."}
+]
+},
+{
+"kind": "공지",
+"title": "사내 방송 스튜디오 개방 공지",
+"passage": "CONTENT STUDIO — NOW BOOKABLE BY ALL TEAMS\n\nThe recording studio on floor 3, previously reserved for the marketing department, is now open to all teams for work-related recordings: training videos, customer webinars, podcast episodes, and internal announcements.\n\nThe studio includes two cameras, professional lighting, microphones, and a sound-treated booth. A staff technician is present Tuesday through Thursday and will handle equipment for you; on Mondays and Fridays, the studio is self-service and requires completion of a 30-minute orientation, offered twice monthly.\n\nBook through the room system under 'Studio-3F' in blocks of up to two hours. Raw footage is saved to your team drive within one day; simple editing can be requested from the media team at three days' notice per finished video minute... please plan accordingly for long projects.\n\nMedia Services",
+"questions": [
+{"q": "What changed about the studio?", "type": "주제·목적", "choices": ["All teams may now book it", "It closed for renovation", "It moved to floor 3", "It became paid"], "a": 0, "exKo": "마케팅 전용이던 스튜디오가 전 부서에 개방되었습니다."},
+{"q": "What is required for self-service days?", "type": "세부사항", "choices": ["A 30-minute orientation", "A technician booking", "Manager approval", "A deposit"], "a": 0, "exKo": "월·금 셀프 이용은 30분 오리엔테이션 이수가 필요합니다."},
+{"q": "When is a technician available?", "type": "세부사항", "choices": ["Tuesday through Thursday", "Every day", "Mondays and Fridays", "Weekends only"], "a": 0, "exKo": "화~목요일에는 기사가 상주하며 장비를 조작해 줍니다."}
+]
+},
+{
+"kind": "공지",
+"title": "품질 인증 심사 준비 공지",
+"passage": "ISO CERTIFICATION AUDIT — NOVEMBER 12-14\n\nExternal auditors will visit November 12-14 to renew our quality management certification, which several major customers require in their contracts. Auditors will tour production, review records, and interview randomly selected employees about everyday procedures.\n\nNo special performance is expected — auditors want to see normal work done the normal way. However, please ensure before November 10 that: work instructions at your station match the current version on the document system, calibration stickers on measuring tools are unexpired, and training records for any new tasks are signed.\n\nIf an auditor asks a question you cannot answer, saying 'I would check the procedure, here is where I find it' is a correct answer — guessing is not. Department heads will run 20-minute refreshers next week.\n\nLast renewal, auditors highlighted our corrective action tracking as best practice. Let's earn that again.\n\nQuality Management",
+"questions": [
+{"q": "Why does the certification matter?", "type": "세부사항", "choices": ["Major customers require it in contracts", "It reduces taxes", "It is legally mandatory", "It raises salaries"], "a": 0, "exKo": "주요 고객사들이 계약 조건으로 요구하는 인증입니다."},
+{"q": "What is the correct response to an unknown question?", "type": "세부사항", "choices": ["Saying where you would find the procedure", "Guessing confidently", "Calling a manager", "Staying silent"], "a": 0, "exKo": "추측하지 말고 절차를 어디서 확인하는지 답하는 것이 정답입니다."},
+{"q": "What was praised at the last renewal?", "type": "세부사항", "choices": ["Corrective action tracking", "Clean facilities", "Fast production", "New equipment"], "a": 0, "exKo": "시정 조치 추적 관리가 모범 사례로 꼽혔습니다."}
+]
+},
+{
+"kind": "광고",
+"title": "온라인 계약 서명 플랫폼 광고",
+"passage": "INKFLOW — CONTRACTS SIGNED, NOT STUCK\n\nDeals die waiting for signatures. InkFlow gets contracts signed 80 percent faster than paper, with legally binding e-signatures accepted in over 60 countries.\n\nSend documents from your browser or CRM; signers click a link — no account needed — and sign from any device. Automatic reminders nudge the unresponsive, sequential signing routes documents in the right order, and the audit trail records every view and signature with a timestamp.\n\nTemplates turn repeat contracts into two-minute tasks, and fields auto-fill from your customer records. Bank-level encryption protects every document, with storage compliant with major data regulations.\n\nFree for up to five documents monthly; business plans from $25 per user. Integrations with all major CRM and storage platforms included on every tier. Close faster at inkflow.app.",
+"questions": [
+{"q": "What do signers need to sign a document?", "type": "세부사항", "choices": ["Just the link — no account", "An InkFlow account", "A printed copy", "A CRM login"], "a": 0, "exKo": "계정 없이 링크만 열면 어느 기기에서나 서명할 수 있습니다."},
+{"q": "What does the audit trail record?", "type": "세부사항", "choices": ["Every view and signature with timestamps", "Only final signatures", "Payment records", "Email contents"], "a": 0, "exKo": "모든 열람과 서명이 타임스탬프와 함께 기록됩니다."},
+{"q": "What is included on every plan tier?", "type": "세부사항", "choices": ["CRM and storage integrations", "Unlimited documents", "A dedicated manager", "Legal review"], "a": 0, "exKo": "주요 CRM·스토리지 연동은 모든 요금제에 포함됩니다."}
+]
+},
+{
+"kind": "광고",
+"title": "공장 견학형 브랜드 팝업 광고",
+"passage": "SEE IT MADE — THE GLASSWORKS OPEN FACTORY\n\nFor three weekends only, Meridian Glassworks opens its doors to the public. Watch artisans shape molten glass into the tableware sold in our stores — then take a piece home at factory prices, up to 40 percent below retail.\n\nTours run hourly from 10 a.m. to 4 p.m., last 45 minutes, and end in the factory shop. Children eight and older are welcome with adults; safety glasses are provided and closed shoes are required. The 2 p.m. tours include a hands-on session where visitors press their own glass coaster to keep — these slots book out fastest.\n\nTickets are $12 online, $15 at the gate, free for factory outlet members. Every ticket includes a $10 shop voucher. Book at meridianglass.com/openfactory.",
+"questions": [
+{"q": "What is special about the 2 p.m. tours?", "type": "세부사항", "choices": ["Visitors press their own glass coaster", "They are free", "They last twice as long", "They include lunch"], "a": 0, "exKo": "2시 투어에는 유리 컵받침을 직접 만들어 가져가는 체험이 포함됩니다."},
+{"q": "What is required to join a tour?", "type": "세부사항", "choices": ["Closed shoes", "A reservation only at the gate", "Membership", "Long sleeves"], "a": 0, "exKo": "보안경은 제공되며 발이 덮이는 신발은 필수입니다."},
+{"q": "What does every ticket include?", "type": "세부사항", "choices": ["A $10 shop voucher", "A free coaster", "A glass set", "Parking"], "a": 0, "exKo": "모든 티켓에 10달러 상당의 매장 바우처가 포함됩니다."}
+]
+},
+{
+"kind": "기사",
+"title": "통근 패턴 변화와 상권 기사",
+"passage": "URBAN ECONOMY — Tuesday through Thursday has become the new rush hour week, transit data across five major cities show, with midweek ridership at 85 percent of pre-remote-work levels while Mondays and Fridays hover near 60 percent.\n\nThe shift is reshaping downtown businesses. Lunch spots report Tuesday-Wednesday queues but have cut Friday staffing by a third; several gyms moved group classes online on Mondays; and office-district hotels now market Thursday-to-Sunday leisure packages to fill rooms left empty by vanishing Friday business travel.\n\nCommercial landlords respond too: leases increasingly include 'activity clauses' with rent partly tied to badge-swipe counts, and some buildings lease Monday-Friday space to different tenants — a design firm weekdays, a weekend pop-up school on Saturdays.\n\nEconomists note the pattern has stabilized: \"Three-day physical weeks are not a transition — they are the destination,\" one report concludes.",
+"questions": [
+{"q": "What does transit data show?", "type": "주제·목적", "choices": ["Midweek ridership far exceeds Mondays and Fridays", "Ridership fell every day", "Weekend travel doubled", "Transit use recovered fully"], "a": 0, "exKo": "화~목 이용률은 85%인 반면 월·금은 60% 수준입니다."},
+{"q": "How have hotels responded?", "type": "세부사항", "choices": ["Marketing Thursday-to-Sunday leisure packages", "Closing on weekends", "Raising Friday prices", "Becoming offices"], "a": 0, "exKo": "사라진 금요일 출장 수요를 목~일 여가 패키지로 메우고 있습니다."},
+{"q": "What are 'activity clauses' in leases?", "type": "세부사항", "choices": ["Rent partly tied to badge-swipe counts", "Rules against weekend use", "Mandatory office days", "Cleaning schedules"], "a": 0, "exKo": "출입 기록 수에 임대료 일부를 연동하는 조항입니다."}
+]
+},
+{
+"kind": "기사",
+"title": "폐기 예정 식품 할인 앱 기사",
+"passage": "RETAIL INNOVATION — Supermarket chain Vartel has cut food waste 35 percent in pilot stores using an app that discounts items as their sell-by dates approach. Prices drop automatically — 30 percent three days before the date, 50 percent the day before — and shoppers see a live map of discounted shelves.\n\nThe chain feared the app would simply shift full-price sales to discounted ones, but basket analysis showed otherwise: discount hunters buy full-price items too, and 40 percent of app users were new or lapsed customers. Evening foot traffic, historically the quietest period, rose 12 percent.\n\nStaff time once spent applying discount stickers — up to two hours daily per store — now goes to restocking. Vartel rolls the system out chain-wide in the spring and is negotiating to donate items unsold at closing to food charities, completing what its sustainability chief calls \"a zero-waste sales floor.\"",
+"questions": [
+{"q": "How does the app reduce waste?", "type": "주제·목적", "choices": ["Automatically discounting items near sell-by dates", "Ordering less stock", "Freezing old items", "Removing date labels"], "a": 0, "exKo": "유통기한 임박 상품 가격을 자동으로 내려 판매합니다."},
+{"q": "What did basket analysis reveal?", "type": "세부사항", "choices": ["Discount shoppers also buy full-price items", "Sales fell overall", "Only regulars used the app", "Waste increased"], "a": 0, "exKo": "할인 고객도 정가 상품을 함께 사고, 이용자의 40%는 신규·복귀 고객이었습니다."},
+{"q": "What happened to sticker-application time?", "type": "세부사항", "choices": ["It now goes to restocking", "It doubled", "It moved to evenings", "It was outsourced"], "a": 0, "exKo": "하루 최대 2시간 걸리던 스티커 작업 시간이 재고 보충에 쓰입니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "신입 온보딩 첫 주 점검 문자",
+"passage": "Hana Cho (4:50 P.M.)\nFirst week check — how are our two new analysts settling in?\n\nRob Vance (4:53 P.M.)\nMina's flying. Finished the data training early and already shadowing client calls.\n\nHana Cho (4:54 P.M.)\nAnd Tomas?\n\nRob Vance (4:56 P.M.)\nStruggling a bit with the reporting tool — his last company used something very different. He's quiet about it, but his practice exercises took twice the usual time.\n\nHana Cho (4:58 P.M.)\nLet's get ahead of that. Can Mina pair with him on Monday's exercises? Peer help lands softer than a manager hovering.\n\nRob Vance (5:00 P.M.)\nGood idea. I'll also swap his Thursday session for the advanced tool workshop — the intro one clearly isn't the gap.\n\nHana Cho (5:01 P.M.)\nAgreed. And tell him directly that the first month is for learning, not proving. I'd rather he ask ten questions than hide one problem.\n\nRob Vance (5:02 P.M.)\nWill do at tomorrow's check-in.",
+"questions": [
+{"q": "What is Tomas's difficulty?", "type": "세부사항", "choices": ["The reporting tool differs from his old company's", "He misses deadlines", "He argues with clients", "He skips training"], "a": 0, "exKo": "이전 회사와 전혀 다른 리포팅 도구에 적응하지 못하고 있습니다."},
+{"q": "Why does Ms. Cho suggest pairing with Mina?", "type": "추론", "choices": ["Peer help feels less pressuring than manager oversight", "Mina needs practice too", "Managers are too busy", "It saves training costs"], "a": 0, "exKo": "동료의 도움이 관리자 감독보다 부담이 적기 때문입니다."},
+{"q": "What message should Tomas receive?", "type": "세부사항", "choices": ["The first month is for learning, not proving", "He must speed up", "He may fail probation", "He should study nights"], "a": 0, "exKo": "첫 달은 증명이 아니라 배움의 기간이니 질문을 숨기지 말라는 것입니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "전시 샘플 세관 서류 문자",
+"passage": "Igor Petrov (11:20 A.M.)\nThe demo units for the Singapore expo — regular export or ATA carnet?\n\nLena Fischer (11:24 A.M.)\nCarnet. They come back after the show, so the carnet avoids paying import duties twice.\n\nIgor Petrov (11:26 A.M.)\nRight. The carnet lists 12 units — but sales wants to leave 2 units with a distributor there as samples.\n\nLena Fischer (11:29 A.M.)\nThen those 2 can't travel on the carnet — everything listed must return or we pay penalties. Ship the distributor samples separately as a normal export with duties paid.\n\nIgor Petrov (11:31 A.M.)\nGot it. 10 on the carnet, 2 as regular export. Deadline for the carnet application?\n\nLena Fischer (11:33 A.M.)\nChamber of commerce needs 5 business days, and the show ships in 3 weeks — apply by Friday to be safe. Send me the final unit list with serial numbers today.\n\nIgor Petrov (11:34 A.M.)\nList coming within the hour.",
+"questions": [
+{"q": "Why use an ATA carnet for the demo units?", "type": "세부사항", "choices": ["It avoids paying import duties on returning goods", "It is faster than air freight", "It skips inspections", "It is free"], "a": 0, "exKo": "전시 후 돌아올 물품이라 이중 관세를 피할 수 있기 때문입니다."},
+{"q": "Why can't the two distributor samples go on the carnet?", "type": "세부사항", "choices": ["Carnet items must all return or penalties apply", "They are too heavy", "The distributor refused", "Serial numbers are missing"], "a": 0, "exKo": "카르네에 오른 물품은 전량 반입되어야 하며 아니면 벌금이 부과됩니다."},
+{"q": "What must Mr. Petrov send today?", "type": "세부사항", "choices": ["The final unit list with serial numbers", "The carnet fee", "The show schedule", "Distributor contracts"], "a": 0, "exKo": "일련번호가 포함된 최종 물품 목록을 오늘 보내야 합니다."}
+]
+}
+]
+}
