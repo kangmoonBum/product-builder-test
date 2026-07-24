@@ -1,0 +1,104 @@
+{
+"passages": [
+{
+"kind": "이메일",
+"title": "명함 주문 확인 메일",
+"passage": "From: Print Express\nTo: Laura Bell\nSubject: Order Confirmation #4471\n\nDear Ms. Bell,\n\nThank you for your order of 200 business cards. Your cards will be ready for pickup on Friday after 2 p.m. at our shop on Oak Street.\n\nIf you would like delivery to your office instead, reply to this email by Thursday noon. Delivery costs $4.\n\nBest regards,\nPrint Express Customer Service",
+"questions": [
+{"q": "What did Ms. Bell order?", "type": "세부사항", "choices": ["Business cards", "Posters", "Envelopes", "Name tags"], "a": 0, "exKo": "your order of 200 business cards에서 주문품이 명함임을 알 수 있습니다."},
+{"q": "When can the order be picked up?", "type": "세부사항", "choices": ["Friday after 2 p.m.", "Thursday at noon", "Friday morning", "Monday after 2 p.m."], "a": 0, "exKo": "ready for pickup on Friday after 2 p.m.이라고 안내합니다."},
+{"q": "What should Ms. Bell do to get delivery?", "type": "세부사항", "choices": ["Reply to the email by Thursday noon", "Call the shop on Friday", "Visit the shop on Oak Street", "Pay $4 at pickup"], "a": 0, "exKo": "배송을 원하면 목요일 정오까지 회신하라고 되어 있습니다."}
+]
+},
+{
+"kind": "이메일",
+"title": "신입사원 환영 점심 초대 메일",
+"passage": "From: Kevin Moore\nTo: Sales Team\nSubject: Welcome Lunch for Nina\n\nHi team,\n\nOur new team member, Nina Torres, starts on Monday. To welcome her, we will have lunch together at Bella Pasta at noon on Tuesday. The company will pay for the meal.\n\nPlease reply by Friday so I can reserve a table. Let me know if you have any food allergies.\n\nThanks,\nKevin",
+"questions": [
+{"q": "Why is the lunch being held?", "type": "주제·목적", "choices": ["To welcome a new team member", "To celebrate a sales record", "To say goodbye to Kevin", "To discuss a new project"], "a": 0, "exKo": "새 팀원 Nina를 환영하기 위한 점심 자리입니다."},
+{"q": "When will the lunch take place?", "type": "세부사항", "choices": ["Tuesday at noon", "Monday at noon", "Friday evening", "Tuesday evening"], "a": 0, "exKo": "at Bella Pasta at noon on Tuesday라고 명시되어 있습니다."},
+{"q": "Why should team members reply by Friday?", "type": "세부사항", "choices": ["So a table can be reserved", "So the menu can be printed", "So Nina can be introduced", "So the company can pay"], "a": 0, "exKo": "Please reply by Friday so I can reserve a table에서 이유를 알 수 있습니다."}
+]
+},
+{
+"kind": "공지",
+"title": "구내식당 메뉴 변경 공지",
+"passage": "CAFETERIA NOTICE\n\nStarting next week, the staff cafeteria will offer a new salad bar every day. The soup station will move next to the window, and a vegetarian main dish will be added to the daily menu.\n\nLunch hours stay the same: 11:30 a.m. to 1:30 p.m. Menu cards are posted at the entrance each morning.\n\nCafeteria Services",
+"questions": [
+{"q": "What is the notice mainly about?", "type": "주제·목적", "choices": ["Changes to the cafeteria menu", "New lunch hours", "A cafeteria closing", "A cooking contest"], "a": 0, "exKo": "샐러드바 신설 등 구내식당 메뉴 변경을 알리는 공지입니다."},
+{"q": "What will be added to the daily menu?", "type": "세부사항", "choices": ["A vegetarian main dish", "A dessert station", "A coffee machine", "A breakfast set"], "a": 0, "exKo": "a vegetarian main dish will be added라고 명시합니다."},
+{"q": "What is indicated about lunch hours?", "type": "세부사항", "choices": ["They will not change", "They will start earlier", "They will be shorter", "They will end at noon"], "a": 0, "exKo": "Lunch hours stay the same에서 시간 변경이 없음을 알 수 있습니다."}
+]
+},
+{
+"kind": "공지",
+"title": "사무실 재활용 규칙 공지",
+"passage": "RECYCLING REMINDER\n\nPlease use the correct bins in the break room. Blue bins are for paper only. Yellow bins are for plastic bottles and cans. Food waste goes in the green bin next to the sink.\n\nLast month, many bins were mixed, and the building charged us an extra cleaning fee. Let's keep our office clean and avoid extra costs.\n\nOffice Administration",
+"questions": [
+{"q": "What is the purpose of the notice?", "type": "주제·목적", "choices": ["To remind staff of recycling rules", "To announce new bins", "To introduce a cleaning company", "To change break room hours"], "a": 0, "exKo": "분리수거함을 올바르게 사용하자는 재활용 규칙 안내입니다."},
+{"q": "What are the yellow bins for?", "type": "세부사항", "choices": ["Plastic bottles and cans", "Paper only", "Food waste", "Glass bottles"], "a": 0, "exKo": "Yellow bins are for plastic bottles and cans라고 되어 있습니다."},
+{"q": "What happened last month?", "type": "세부사항", "choices": ["An extra cleaning fee was charged", "The green bin was removed", "The break room was closed", "New rules were introduced"], "a": 0, "exKo": "쓰레기가 섞여 건물 측이 추가 청소비를 청구했다고 설명합니다."}
+]
+},
+{
+"kind": "광고",
+"title": "피트니스 센터 아침 회원권 광고",
+"passage": "EARLY BIRD SPECIAL — FIT ZONE GYM\n\nJoin Fit Zone this month and pay only $25 per month for our morning membership. Use the gym any day from 6 a.m. to 11 a.m., including weekends.\n\nThe price includes group classes, lockers, and towels. Sign up at the front desk or on our website. Offer ends June 30.\n\nStart your day strong with Fit Zone!",
+"questions": [
+{"q": "What is being advertised?", "type": "주제·목적", "choices": ["A morning gym membership", "A new gym location", "Personal training lessons", "A weekend sports event"], "a": 0, "exKo": "월 25달러의 아침 전용 회원권을 홍보하는 광고입니다."},
+{"q": "What is included in the price?", "type": "세부사항", "choices": ["Group classes, lockers, and towels", "A personal trainer", "Free parking", "Protein drinks"], "a": 0, "exKo": "includes group classes, lockers, and towels라고 명시합니다."},
+{"q": "When does the offer end?", "type": "세부사항", "choices": ["June 30", "June 6", "At the end of the year", "This weekend"], "a": 0, "exKo": "Offer ends June 30에서 확인할 수 있습니다."}
+]
+},
+{
+"kind": "광고",
+"title": "이사 업체 봄 할인 광고",
+"passage": "MOVING THIS SPRING? CALL EASY MOVERS!\n\nBook your move in March or April and get 15% off our standard rate. Our friendly team packs, moves, and unpacks your boxes safely.\n\nWe offer free boxes for moves within the city. Get a free price quote by phone or on our website in under five minutes.\n\nEasy Movers — moving made simple since 2010.",
+"questions": [
+{"q": "What service is being advertised?", "type": "주제·목적", "choices": ["A moving company", "A box supplier", "A cleaning service", "A storage building"], "a": 0, "exKo": "이사 업체 Easy Movers의 봄 할인 광고입니다."},
+{"q": "How can customers get 15% off?", "type": "세부사항", "choices": ["By booking in March or April", "By paying in cash", "By moving within the city", "By packing their own boxes"], "a": 0, "exKo": "Book your move in March or April and get 15% off라고 안내합니다."},
+{"q": "What is offered for moves within the city?", "type": "세부사항", "choices": ["Free boxes", "Free unpacking", "A free truck", "Same-day service"], "a": 0, "exKo": "free boxes for moves within the city에서 확인됩니다."}
+]
+},
+{
+"kind": "기사",
+"title": "주말 농산물 시장 개장 기사",
+"passage": "OAKDALE — A farmers market will open in Central Park every Saturday starting May 3. About 30 local farms will sell fresh vegetables, fruit, and cheese from 8 a.m. to 1 p.m.\n\nCity officials hope the market will bring more visitors to downtown shops. Parking near the park will be free on market days. The market will run until the end of October.",
+"questions": [
+{"q": "What is the article about?", "type": "주제·목적", "choices": ["A new weekly farmers market", "A park construction project", "A downtown parking problem", "A cheese-making farm"], "a": 0, "exKo": "5월 3일부터 매주 토요일 열리는 농산물 시장 소식입니다."},
+{"q": "How many farms will take part?", "type": "세부사항", "choices": ["About 30", "About 13", "About 50", "About 8"], "a": 0, "exKo": "About 30 local farms will sell...에서 확인할 수 있습니다."},
+{"q": "What will be free on market days?", "type": "세부사항", "choices": ["Parking near the park", "Vegetables for children", "Bus rides downtown", "Entry tickets"], "a": 0, "exKo": "Parking near the park will be free on market days라고 명시합니다."}
+]
+},
+{
+"kind": "기사",
+"title": "사무용품점 배달 로봇 도입 기사",
+"passage": "MILLBROOK — Office supply store Deskmart began using two small delivery robots this week. The robots carry orders to offices within one kilometer of the store.\n\nCustomers order online, and the robot arrives in about 25 minutes. A code sent to the customer's phone opens the lid. Store manager Rita Gomez said the robots help during busy hours, and delivery staff now handle only larger orders.",
+"questions": [
+{"q": "What is the article mainly about?", "type": "주제·목적", "choices": ["A store using delivery robots", "A new phone application", "A robot factory opening", "A store moving downtown"], "a": 0, "exKo": "사무용품점이 배달 로봇 2대를 도입했다는 기사입니다."},
+{"q": "How do customers open the robot's lid?", "type": "세부사항", "choices": ["With a code sent to their phone", "With a store membership card", "By calling the store", "With a key from the driver"], "a": 0, "exKo": "A code sent to the customer's phone opens the lid에서 확인됩니다."},
+{"q": "What do delivery staff do now?", "type": "세부사항", "choices": ["Handle only larger orders", "Repair the robots", "Take online orders", "Work at the register"], "a": 0, "exKo": "delivery staff now handle only larger orders라고 설명합니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "우산 분실물 문의 문자",
+"passage": "Front Desk (10:05 A.M.)\nHello, this is the front desk. A blue umbrella was found in Meeting Room C. Is it yours?\n\nJake Woo (10:07 A.M.)\nYes! I was looking for it everywhere. Thank you!\n\nFront Desk (10:08 A.M.)\nGreat. We'll keep it at the desk. You can pick it up anytime today.\n\nJake Woo (10:09 A.M.)\nI'll come down at lunchtime. Thanks again!",
+"questions": [
+{"q": "Why did the front desk send the message?", "type": "주제·목적", "choices": ["To ask about a found umbrella", "To report a broken door", "To schedule a meeting", "To deliver a package"], "a": 0, "exKo": "회의실에서 발견된 파란 우산의 주인을 찾는 메시지입니다."},
+{"q": "Where was the umbrella found?", "type": "세부사항", "choices": ["In Meeting Room C", "At the front desk", "In the lobby", "In the elevator"], "a": 0, "exKo": "found in Meeting Room C에서 확인됩니다."},
+{"q": "When will Mr. Woo pick up the umbrella?", "type": "세부사항", "choices": ["At lunchtime", "Right away", "Tomorrow morning", "After work"], "a": 0, "exKo": "I'll come down at lunchtime이라고 답합니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "복사용지 재고 확인 문자",
+"passage": "Emma Ford (3:40 P.M.)\nHi Raj, do we have more copy paper? The cabinet on our floor is empty.\n\nRaj Patel (3:42 P.M.)\nThere should be some in the storage room on the 3rd floor. Shelf B.\n\nEmma Ford (3:45 P.M.)\nJust checked — only two boxes left.\n\nRaj Patel (3:46 P.M.)\nOkay, take one and I'll order more today. It usually arrives in two days.\n\nEmma Ford (3:47 P.M.)\nPerfect, thanks!",
+"questions": [
+{"q": "What is Ms. Ford looking for?", "type": "주제·목적", "choices": ["Copy paper", "A storage key", "Printer ink", "An empty cabinet"], "a": 0, "exKo": "복사용지가 떨어져 재고를 찾고 있습니다."},
+{"q": "How many boxes are left in the storage room?", "type": "세부사항", "choices": ["Two", "Three", "None", "Ten"], "a": 0, "exKo": "only two boxes left라고 보고합니다."},
+{"q": "What will Mr. Patel do today?", "type": "세부사항", "choices": ["Order more paper", "Move the cabinet", "Visit the 3rd floor", "Call the supplier to complain"], "a": 0, "exKo": "I'll order more today에서 확인됩니다."}
+]
+}
+]
+}

@@ -1,0 +1,104 @@
+{
+"passages": [
+{
+"kind": "이메일",
+"title": "사진 촬영 일정 안내 메일",
+"passage": "From: Marketing Team\nTo: All Staff\nSubject: Team Photo Day\n\nHello everyone,\n\nNew photos for the company website will be taken next Tuesday in the main lobby. Each team has a 15-minute time slot; the schedule is attached.\n\nPlease wear your company shirt if you have one. If you cannot come at your team's time, email me to join another group.\n\nThanks,\nMarketing Team",
+"questions": [
+{"q": "What will happen next Tuesday?", "type": "주제·목적", "choices": ["Team photos will be taken", "A new website will launch", "Company shirts will be handed out", "The lobby will be painted"], "a": 0, "exKo": "화요일에 회사 웹사이트용 단체 사진을 촬영한다는 안내입니다."},
+{"q": "How long is each team's time slot?", "type": "세부사항", "choices": ["15 minutes", "30 minutes", "1 hour", "5 minutes"], "a": 0, "exKo": "Each team has a 15-minute time slot이라고 명시합니다."},
+{"q": "What should staff do if they miss their team's time?", "type": "세부사항", "choices": ["Email to join another group", "Skip the photo", "Come next month", "Send their own photo"], "a": 0, "exKo": "email me to join another group이라고 안내합니다."}
+]
+},
+{
+"kind": "이메일",
+"title": "제품 반품 절차 안내 메일",
+"passage": "From: Home Basics Store\nTo: Fred Nolan\nSubject: How to Return Your Order\n\nDear Mr. Nolan,\n\nWe are sorry the desk lamp arrived with a broken switch. You do not need to send it back. Please recycle it locally.\n\nA replacement lamp will ship tomorrow and arrive within three days. We have also emailed you a $5 coupon for the trouble.\n\nKind regards,\nHome Basics Customer Care",
+"questions": [
+{"q": "What was wrong with the lamp?", "type": "세부사항", "choices": ["The switch was broken", "The color was wrong", "It never arrived", "It was too small"], "a": 0, "exKo": "arrived with a broken switch에서 스위치 불량임을 알 수 있습니다."},
+{"q": "What should Mr. Nolan do with the broken lamp?", "type": "세부사항", "choices": ["Recycle it locally", "Mail it back", "Bring it to the store", "Keep it for parts"], "a": 0, "exKo": "반송할 필요 없이 현지에서 재활용하라고 안내합니다."},
+{"q": "When will the replacement ship?", "type": "세부사항", "choices": ["Tomorrow", "Today", "In three days", "Next week"], "a": 0, "exKo": "A replacement lamp will ship tomorrow라고 명시되어 있습니다."}
+]
+},
+{
+"kind": "공지",
+"title": "회의실 예약 시스템 점검 공지",
+"passage": "SYSTEM MAINTENANCE NOTICE\n\nThe meeting room booking system will be offline this Sunday from 6 a.m. to noon for an update. Rooms cannot be booked or changed during this time.\n\nBookings made before Sunday are safe and will not be lost. For urgent bookings on Sunday morning, write your name on the paper sheet posted on each room's door.\n\nIT Department",
+"questions": [
+{"q": "What is happening on Sunday?", "type": "주제·목적", "choices": ["The booking system will be updated", "All meeting rooms will close", "A new system will be sold", "Rooms will be cleaned"], "a": 0, "exKo": "일요일 오전에 회의실 예약 시스템 업데이트가 진행됩니다."},
+{"q": "What is stated about existing bookings?", "type": "세부사항", "choices": ["They will not be lost", "They must be made again", "They will move to Monday", "They will be printed"], "a": 0, "exKo": "Bookings made before Sunday are safe and will not be lost라고 안내합니다."},
+{"q": "How can rooms be booked during the maintenance?", "type": "세부사항", "choices": ["By writing on the sheet on each door", "By calling IT", "By emailing a manager", "They cannot be booked at all"], "a": 0, "exKo": "각 회의실 문에 붙은 종이에 이름을 쓰라고 안내합니다."}
+]
+},
+{
+"kind": "공지",
+"title": "겨울 난방 온도 조정 공지",
+"passage": "HEATING NOTICE\n\nTo save energy this winter, office heating will be set to 21 degrees during work hours. Heating turns on at 7 a.m. and off at 8 p.m. on weekdays.\n\nMeeting rooms have their own controls; please turn heating off when you leave. Extra sweaters in team colors can be ordered from the supply office until Friday.\n\nBuilding Services",
+"questions": [
+{"q": "What is the purpose of the notice?", "type": "주제·목적", "choices": ["To explain winter heating settings", "To announce a building repair", "To sell winter clothes", "To change work hours"], "a": 0, "exKo": "에너지 절약을 위한 겨울 난방 운영 방침 안내입니다."},
+{"q": "What should people do when leaving a meeting room?", "type": "세부사항", "choices": ["Turn the heating off", "Close the windows", "Report the temperature", "Lock the door"], "a": 0, "exKo": "please turn heating off when you leave라고 요청합니다."},
+{"q": "What can be ordered until Friday?", "type": "세부사항", "choices": ["Sweaters in team colors", "Portable heaters", "Warm drinks", "Blankets"], "a": 0, "exKo": "Extra sweaters in team colors can be ordered ... until Friday에서 확인됩니다."}
+]
+},
+{
+"kind": "광고",
+"title": "안경점 무료 검사 광고",
+"passage": "CLEAR VIEW OPTICAL — SEE THE DIFFERENCE\n\nThis month only, get a free eye exam with any purchase of glasses. Choose from over 300 frames, with lenses ready in just one hour.\n\nOffice workers: ask about our blue-light lenses that reduce eye strain from screens. We are located on the ground floor of the Metro Mall, next to the bank.",
+"questions": [
+{"q": "What is offered this month?", "type": "주제·목적", "choices": ["A free eye exam with glasses purchase", "Free glasses for everyone", "A new bank branch", "Half-price frames"], "a": 0, "exKo": "이번 달 안경 구매 시 무료 시력 검사를 제공한다는 광고입니다."},
+{"q": "How long does it take to prepare lenses?", "type": "세부사항", "choices": ["One hour", "One day", "One week", "Three hours"], "a": 0, "exKo": "lenses ready in just one hour라고 안내합니다."},
+{"q": "What are blue-light lenses said to do?", "type": "세부사항", "choices": ["Reduce eye strain from screens", "Improve night driving", "Block sunlight", "Last longer"], "a": 0, "exKo": "reduce eye strain from screens에서 확인됩니다."}
+]
+},
+{
+"kind": "광고",
+"title": "호수 유람선 저녁 투어 광고",
+"passage": "SUNSET LAKE CRUISE — NOW BOOKING!\n\nEnjoy a two-hour evening cruise on Lake Marion. Boats leave the North Dock daily at 6:30 p.m., May through September.\n\nTickets are $18 for adults and $9 for children under 12. Groups of ten or more save 20%. Light snacks and drinks are sold on board. Book at the dock office or online.",
+"questions": [
+{"q": "What is being advertised?", "type": "주제·목적", "choices": ["An evening lake cruise", "A fishing trip", "A dockside restaurant", "A swimming lesson"], "a": 0, "exKo": "호수에서 즐기는 2시간짜리 저녁 유람선 투어 광고입니다."},
+{"q": "How much is a child's ticket?", "type": "세부사항", "choices": ["$9", "$18", "$12", "Free"], "a": 0, "exKo": "$9 for children under 12라고 명시되어 있습니다."},
+{"q": "Who receives a 20% discount?", "type": "세부사항", "choices": ["Groups of ten or more", "Online bookers", "Children under 12", "May visitors"], "a": 0, "exKo": "Groups of ten or more save 20%에서 확인됩니다."}
+]
+},
+{
+"kind": "기사",
+"title": "재활용 의류 수거함 설치 기사",
+"passage": "FAIRVIEW — The city placed 40 clothing donation boxes around town last month, and residents have already filled them twice. Donated clothes are cleaned and given to local charities or recycled into cleaning cloths.\n\n\"People want an easy way to give,\" said program manager Luis Vega. The city plans to add 20 more boxes near supermarkets, where most donations were collected.",
+"questions": [
+{"q": "What is the article about?", "type": "주제·목적", "choices": ["Clothing donation boxes in the city", "A new supermarket", "A cleaning company", "A charity concert"], "a": 0, "exKo": "시가 설치한 의류 기부함이 큰 호응을 얻고 있다는 기사입니다."},
+{"q": "What happens to donated clothes?", "type": "세부사항", "choices": ["They are cleaned and given to charities or recycled", "They are sold at markets", "They are stored for winter", "They are shipped abroad"], "a": 0, "exKo": "세탁 후 자선단체에 전달되거나 청소용 천으로 재활용됩니다."},
+{"q": "Where will new boxes be placed?", "type": "세부사항", "choices": ["Near supermarkets", "At schools", "In parks", "At the city hall"], "a": 0, "exKo": "기부가 가장 많았던 슈퍼마켓 근처에 20개를 추가할 계획입니다."}
+]
+},
+{
+"kind": "기사",
+"title": "야시장 시범 운영 기사",
+"passage": "HARBORTON — A night market will run every Friday in June on Water Street. About 40 food stands and craft sellers will open from 5 to 10 p.m.\n\nThe street will close to cars during market hours. Free shuttle buses will run from City Hall every 15 minutes. If the June trial goes well, the market may continue through August, officials said.",
+"questions": [
+{"q": "What is the article mainly about?", "type": "주제·목적", "choices": ["A trial night market in June", "A street repair project", "A new bus route", "A cooking competition"], "a": 0, "exKo": "6월 매주 금요일 시범 운영되는 야시장에 관한 기사입니다."},
+{"q": "How often will shuttle buses run?", "type": "세부사항", "choices": ["Every 15 minutes", "Every 30 minutes", "Every hour", "Twice a night"], "a": 0, "exKo": "Free shuttle buses will run ... every 15 minutes라고 명시합니다."},
+{"q": "What may happen if the trial goes well?", "type": "추론", "choices": ["The market may continue through August", "The street may close permanently", "More buses may be bought", "Prices may go down"], "a": 0, "exKo": "the market may continue through August라고 관계자가 밝혔습니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "명함 오타 확인 문자",
+"passage": "Print Shop (11:00 A.M.)\nHi Ms. Vargas, before we print your 500 business cards, please confirm: your title reads 'Snior Designer.' Is that correct?\n\nElena Vargas (11:05 A.M.)\nOh no, that's a typo! It should be 'Senior Designer.' Thank you for catching it.\n\nPrint Shop (11:06 A.M.)\nNo problem. We'll fix it and print this afternoon. Cards will be ready tomorrow at 10.\n\nElena Vargas (11:07 A.M.)\nWonderful. I'll pick them up tomorrow.",
+"questions": [
+{"q": "Why did the print shop message Ms. Vargas?", "type": "주제·목적", "choices": ["To check a possible typo", "To confirm her payment", "To delay her order", "To offer a discount"], "a": 0, "exKo": "인쇄 전에 직함 표기 오류를 확인하기 위한 연락입니다."},
+{"q": "What was wrong on the card?", "type": "세부사항", "choices": ["The job title was misspelled", "The phone number was wrong", "The name was missing", "The logo was old"], "a": 0, "exKo": "'Snior Designer'는 'Senior Designer'의 오타였습니다."},
+{"q": "When will the cards be ready?", "type": "세부사항", "choices": ["Tomorrow at 10", "This afternoon", "In 500 minutes", "Next week"], "a": 0, "exKo": "Cards will be ready tomorrow at 10이라고 안내합니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "야근 저녁 식사 문자",
+"passage": "Tara Singh (5:50 P.M.)\nTeam, we'll be here until about 9 tonight finishing the report. Dinner is on the company — pizza or Chinese?\n\nMark Cole (5:52 P.M.)\nPizza, please!\n\nJenny Wu (5:53 P.M.)\nPizza works for me too. Can we get one veggie?\n\nTara Singh (5:55 P.M.)\nSure. Ordering two large pizzas now — one veggie, one pepperoni. They'll arrive around 6:30.\n\nMark Cole (5:56 P.M.)\nGreat, thanks Tara!",
+"questions": [
+{"q": "Why is the team staying late?", "type": "세부사항", "choices": ["To finish a report", "To wait for pizza", "To attend a dinner", "To meet a client"], "a": 0, "exKo": "finishing the report에서 보고서 마무리 때문임을 알 수 있습니다."},
+{"q": "Who pays for dinner?", "type": "세부사항", "choices": ["The company", "Ms. Singh", "Each member", "Mr. Cole"], "a": 0, "exKo": "Dinner is on the company라고 명시되어 있습니다."},
+{"q": "What will Ms. Singh order?", "type": "세부사항", "choices": ["One veggie and one pepperoni pizza", "Two pepperoni pizzas", "Chinese food", "Sandwiches"], "a": 0, "exKo": "one veggie, one pepperoni 두 판을 주문한다고 말합니다."}
+]
+}
+]
+}

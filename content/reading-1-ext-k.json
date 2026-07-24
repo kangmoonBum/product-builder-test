@@ -1,0 +1,104 @@
+{
+"passages": [
+{
+"kind": "이메일",
+"title": "주문 배송 지연 사과 메일",
+"passage": "From: Cozy Home Store\nTo: Rita Vaughn\nSubject: About Your Order #8812\n\nDear Ms. Vaughn,\n\nWe are sorry to tell you that your bookshelf order will arrive three days later than planned, on April 9. Heavy snow closed our warehouse for two days.\n\nAs an apology, shipping is now free, and the fee you paid has been returned to your card. Track your order anytime with the link below.\n\nCozy Home Customer Care",
+"questions": [
+{"q": "Why is the order delayed?", "type": "세부사항", "choices": ["Heavy snow closed the warehouse", "The item sold out", "The address was wrong", "The truck broke down"], "a": 0, "exKo": "폭설로 창고가 이틀간 닫혀 배송이 늦어졌습니다."},
+{"q": "When will the order arrive?", "type": "세부사항", "choices": ["April 9", "April 3", "In two days", "April 12"], "a": 0, "exKo": "arrive three days later than planned, on April 9라고 명시합니다."},
+{"q": "What did the store do as an apology?", "type": "세부사항", "choices": ["Refunded the shipping fee", "Sent a gift", "Gave a bigger bookshelf", "Offered a coupon"], "a": 0, "exKo": "배송비를 무료로 하고 지불한 요금을 카드로 환불했습니다."}
+]
+},
+{
+"kind": "이메일",
+"title": "회의록 검토 요청 메일",
+"passage": "From: Peter Shaw\nTo: Project Team\nSubject: Minutes from Today's Meeting\n\nHi team,\n\nAttached are the minutes from today's planning meeting. Please read them and send me any corrections by Thursday noon.\n\nThe main decisions: the launch moves to September 5, and Maria will lead the test group. Our next meeting is Monday at 10 in Room 3.\n\nThanks,\nPeter",
+"questions": [
+{"q": "What are team members asked to do?", "type": "주제·목적", "choices": ["Check the minutes and send corrections", "Attend a meeting today", "Test a product", "Choose a launch date"], "a": 0, "exKo": "회의록을 읽고 목요일 정오까지 수정 사항을 보내 달라는 요청입니다."},
+{"q": "What was decided about the launch?", "type": "세부사항", "choices": ["It moves to September 5", "It was canceled", "It stays the same", "Maria will announce it"], "a": 0, "exKo": "the launch moves to September 5라고 명시합니다."},
+{"q": "When is the next meeting?", "type": "세부사항", "choices": ["Monday at 10", "Thursday at noon", "September 5", "Friday at 3"], "a": 0, "exKo": "next meeting is Monday at 10 in Room 3에서 확인됩니다."}
+]
+},
+{
+"kind": "공지",
+"title": "분실물 보관함 정리 공지",
+"passage": "LOST AND FOUND CLEAROUT\n\nThe lost and found box at the front desk is full. If you have lost gloves, umbrellas, cups, or badges this year, please check the box by Friday, March 28.\n\nUnclaimed items will be photographed and posted on the intranet for one week, then donated to charity. Valuable items such as phones are kept separately by security.\n\nFront Desk Team",
+"questions": [
+{"q": "What should people do by March 28?", "type": "주제·목적", "choices": ["Check the lost and found box", "Donate old items", "Take photos of items", "Report lost phones"], "a": 0, "exKo": "분실물 보관함이 가득 차 3월 28일까지 확인해 달라는 공지입니다."},
+{"q": "What happens to unclaimed items?", "type": "세부사항", "choices": ["They are donated to charity", "They are thrown away", "They are sold", "They are stored forever"], "a": 0, "exKo": "posted on the intranet for one week, then donated to charity라고 안내합니다."},
+{"q": "Who keeps valuable items?", "type": "세부사항", "choices": ["Security", "The front desk", "The charity", "Each team"], "a": 0, "exKo": "Valuable items such as phones are kept separately by security에서 확인됩니다."}
+]
+},
+{
+"kind": "공지",
+"title": "회의 없는 수요일 공지",
+"passage": "NO-MEETING WEDNESDAYS\n\nStarting next month, Wednesday mornings will be meeting-free across the company. No meetings may be scheduled between 9 a.m. and noon.\n\nThis quiet time is for focused work on your own tasks. Urgent issues can still be discussed, but please try messaging first. The change will be reviewed after three months based on your feedback.\n\nOperations Office",
+"questions": [
+{"q": "What is the new rule?", "type": "주제·목적", "choices": ["No meetings on Wednesday mornings", "No work on Wednesdays", "Meetings only at noon", "All meetings must be online"], "a": 0, "exKo": "수요일 오전을 회의 없는 집중 근무 시간으로 정한다는 공지입니다."},
+{"q": "What is the quiet time for?", "type": "세부사항", "choices": ["Focused work on one's own tasks", "Team lunches", "Training sessions", "Customer calls"], "a": 0, "exKo": "for focused work on your own tasks라고 설명합니다."},
+{"q": "When will the change be reviewed?", "type": "세부사항", "choices": ["After three months", "Next week", "After one year", "Every Wednesday"], "a": 0, "exKo": "reviewed after three months based on your feedback에서 확인됩니다."}
+]
+},
+{
+"kind": "광고",
+"title": "출근길 아침 세트 광고",
+"passage": "MORNING RUSH SET — BEAN & BAGEL\n\nGrab breakfast without slowing down! Our Morning Rush Set — coffee, a bagel, and fruit — is just $5.50 before 9 a.m. on weekdays.\n\nOrder on our app and your set will be waiting on the pickup shelf; no line, no waiting. Find us on the ground floor of the Union Building, beside the subway entrance.",
+"questions": [
+{"q": "What is the Morning Rush Set?", "type": "주제·목적", "choices": ["A breakfast set of coffee, a bagel, and fruit", "A subway pass", "A coffee machine", "A delivery service"], "a": 0, "exKo": "커피, 베이글, 과일로 구성된 아침 세트 광고입니다."},
+{"q": "When is the special price available?", "type": "세부사항", "choices": ["Before 9 a.m. on weekdays", "All day", "On weekends", "After 9 a.m."], "a": 0, "exKo": "just $5.50 before 9 a.m. on weekdays라고 명시합니다."},
+{"q": "What is the benefit of ordering on the app?", "type": "세부사항", "choices": ["No waiting in line", "A lower price", "Free delivery", "A bigger set"], "a": 0, "exKo": "앱으로 주문하면 픽업 선반에서 바로 가져갈 수 있어 줄을 서지 않아도 됩니다."}
+]
+},
+{
+"kind": "광고",
+"title": "명함 지갑 각인 서비스 광고",
+"passage": "PERSONALIZED CARD HOLDERS — GIFT SHOP LUNA\n\nLooking for a gift for a coworker? Our leather business card holders come in five colors, and we engrave a name or initials for free.\n\nEach holder is $19, or three for $50 — perfect for your whole team. Engraving takes one hour. Open daily 10 a.m. to 9 p.m. at Westfield Mall, second floor.",
+"questions": [
+{"q": "What product is advertised?", "type": "주제·목적", "choices": ["Leather business card holders", "Leather bags", "Name stamps", "Greeting cards"], "a": 0, "exKo": "이름을 새겨 주는 가죽 명함 지갑 광고입니다."},
+{"q": "What is free with each holder?", "type": "세부사항", "choices": ["Name or initial engraving", "Gift wrapping", "Delivery", "A second holder"], "a": 0, "exKo": "we engrave a name or initials for free라고 안내합니다."},
+{"q": "How much are three holders?", "type": "세부사항", "choices": ["$50", "$57", "$19", "$38"], "a": 0, "exKo": "three for $50라고 명시되어 있습니다."}
+]
+},
+{
+"kind": "기사",
+"title": "시청 앞 푸드트럭 구역 기사",
+"passage": "ASHFORD — A permanent food truck zone opened in the plaza in front of City Hall on Monday. Eight trucks will serve lunch on weekdays from 11 a.m. to 2 p.m.\n\nThe city chose the trucks from 60 applicants, changing the lineup every three months to keep the menu fresh. Tables and umbrellas are provided, and card payment is required at all trucks.",
+"questions": [
+{"q": "What opened in front of City Hall?", "type": "주제·목적", "choices": ["A food truck zone", "A new restaurant", "A farmers market", "A parking lot"], "a": 0, "exKo": "시청 앞 광장에 상설 푸드트럭 구역이 문을 열었다는 기사입니다."},
+{"q": "How often will the truck lineup change?", "type": "세부사항", "choices": ["Every three months", "Every week", "Every year", "Never"], "a": 0, "exKo": "changing the lineup every three months라고 명시합니다."},
+{"q": "What is required at all trucks?", "type": "세부사항", "choices": ["Card payment", "Reservations", "Cash payment", "City ID"], "a": 0, "exKo": "card payment is required at all trucks에서 확인됩니다."}
+]
+},
+{
+"kind": "기사",
+"title": "퇴근 후 목공 클래스 인기 기사",
+"passage": "MILLER CREEK — Evening woodworking classes at the Maker House studio are booked out two months ahead. Most students are office workers who want to build something with their hands after a day at a desk.\n\nBeginners make a small stool in four weekly sessions; the fee includes wood and tools. Owner Sofia Reyes plans to add morning weekend classes to shorten the waiting list.",
+"questions": [
+{"q": "What is popular at Maker House?", "type": "주제·목적", "choices": ["Evening woodworking classes", "Morning yoga", "A furniture sale", "A wood shop opening"], "a": 0, "exKo": "저녁 목공 클래스가 두 달치 예약이 찰 만큼 인기라는 기사입니다."},
+{"q": "What do beginners make?", "type": "세부사항", "choices": ["A small stool", "A desk", "A bookshelf", "A toolbox"], "a": 0, "exKo": "Beginners make a small stool in four weekly sessions라고 설명합니다."},
+{"q": "Why will morning weekend classes be added?", "type": "세부사항", "choices": ["To shorten the waiting list", "To raise prices", "To sell more wood", "To train teachers"], "a": 0, "exKo": "to shorten the waiting list에서 확인됩니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "정장 수선 완료 문자",
+"passage": "Stitch Tailor (12:20 P.M.)\nHello Mr. Grant, your navy suit is ready. The sleeves were shortened as requested.\n\nHarry Grant (12:35 P.M.)\nGreat, thank you. What time do you close today?\n\nStitch Tailor (12:36 P.M.)\nWe close at 7 P.M. The fee is $22, card or cash.\n\nHarry Grant (12:38 P.M.)\nI'll stop by around 6 after work. Could you press the jacket too?\n\nStitch Tailor (12:39 P.M.)\nOf course, no extra charge. See you at 6.",
+"questions": [
+{"q": "Why did the tailor message Mr. Grant?", "type": "주제·목적", "choices": ["His suit is ready for pickup", "His payment failed", "The shop is closing early", "His order was lost"], "a": 0, "exKo": "수선한 정장이 준비되었음을 알리는 메시지입니다."},
+{"q": "What was done to the suit?", "type": "세부사항", "choices": ["The sleeves were shortened", "The pants were widened", "Buttons were replaced", "It was dyed navy"], "a": 0, "exKo": "The sleeves were shortened as requested에서 확인됩니다."},
+{"q": "What will the tailor do for free?", "type": "세부사항", "choices": ["Press the jacket", "Shorten the pants", "Deliver the suit", "Clean the suit"], "a": 0, "exKo": "재킷 다림질을 추가 요금 없이 해 주겠다고 합니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "신입 환영 준비 문자",
+"passage": "Bella Ross (4:30 P.M.)\nHi Owen, our new designer starts Monday. Is her desk ready?\n\nOwen Fox (4:33 P.M.)\nAlmost. Monitor and chair are set. Her laptop arrives tomorrow.\n\nBella Ross (4:34 P.M.)\nGood. Don't forget the welcome kit — notebook, mug, and badge.\n\nOwen Fox (4:36 P.M.)\nAlready on the desk. Should I book a lunch table for the team on Monday?\n\nBella Ross (4:37 P.M.)\nYes, for eight people at noon. Thanks, Owen!",
+"questions": [
+{"q": "What are the two people preparing for?", "type": "주제·목적", "choices": ["A new designer starting Monday", "An office move", "A design contest", "A lunch menu"], "a": 0, "exKo": "월요일에 입사하는 신입 디자이너 맞이 준비를 하고 있습니다."},
+{"q": "What arrives tomorrow?", "type": "세부사항", "choices": ["The laptop", "The chair", "The monitor", "The welcome kit"], "a": 0, "exKo": "Her laptop arrives tomorrow에서 확인됩니다."},
+{"q": "What will Mr. Fox book?", "type": "세부사항", "choices": ["A lunch table for eight", "A meeting room", "A taxi", "A welcome cake"], "a": 0, "exKo": "book a lunch table ... for eight people at noon이라고 확인합니다."}
+]
+}
+]
+}

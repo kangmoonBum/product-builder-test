@@ -1,0 +1,104 @@
+{
+"passages": [
+{
+"kind": "이메일",
+"title": "교육 세션 자리 안내 메일",
+"passage": "From: Training Office\nTo: New Employees\nSubject: Computer Training on Friday\n\nDear all,\n\nYour computer training session will be held this Friday at 9:30 a.m. in Training Room 1. Please arrive ten minutes early to sign in.\n\nYou do not need to bring a laptop; computers are provided. The session lasts two hours, with a short break in the middle.\n\nSee you Friday,\nTraining Office",
+"questions": [
+{"q": "What is the email about?", "type": "주제·목적", "choices": ["A training session schedule", "A new computer purchase", "A room reservation", "A sign-in system"], "a": 0, "exKo": "금요일 오전 컴퓨터 교육 일정 안내 메일입니다."},
+{"q": "Why should attendees arrive early?", "type": "세부사항", "choices": ["To sign in", "To get a laptop", "To choose a seat", "To meet the trainer"], "a": 0, "exKo": "arrive ten minutes early to sign in이라고 안내합니다."},
+{"q": "What is stated about laptops?", "type": "세부사항", "choices": ["Attendees do not need to bring one", "Attendees must bring their own", "Laptops are for sale", "Laptops are not allowed"], "a": 0, "exKo": "You do not need to bring a laptop; computers are provided에서 확인됩니다."}
+]
+},
+{
+"kind": "이메일",
+"title": "정기 구독 갱신 안내 메일",
+"passage": "From: City Business Weekly\nTo: Grace Lin\nSubject: Your Subscription Ends Soon\n\nDear Ms. Lin,\n\nYour one-year subscription to City Business Weekly ends on October 31. Renew before that date and pay last year's price of $48 instead of the new price of $55.\n\nTo renew, click the button below or call us. Thank you for reading with us.\n\nCity Business Weekly Team",
+"questions": [
+{"q": "Why was this email sent?", "type": "주제·목적", "choices": ["To encourage a subscription renewal", "To announce a new magazine", "To confirm a payment", "To apologize for a delay"], "a": 0, "exKo": "구독이 곧 만료되니 갱신하라는 안내 메일입니다."},
+{"q": "How much will Ms. Lin pay if she renews early?", "type": "세부사항", "choices": ["$48", "$55", "$31", "$40"], "a": 0, "exKo": "만료 전에 갱신하면 작년 가격인 48달러가 적용됩니다."},
+{"q": "When does the subscription end?", "type": "세부사항", "choices": ["October 31", "October 1", "November 30", "December 31"], "a": 0, "exKo": "ends on October 31이라고 명시되어 있습니다."}
+]
+},
+{
+"kind": "공지",
+"title": "야간 도로 공사 공지",
+"passage": "ROAD WORK NOTICE\n\nPine Street between 5th and 7th Avenue will be repaved next week. Work will take place at night, from 10 p.m. to 6 a.m., Monday through Thursday.\n\nThe road will stay open during the day. Drivers should expect noise at night and use Cedar Street as a detour if needed. Bus stops on Pine Street will not move.\n\nCity Roads Department",
+"questions": [
+{"q": "What is the notice about?", "type": "주제·목적", "choices": ["Night road repaving work", "A new bus route", "A street closing permanently", "Daytime construction"], "a": 0, "exKo": "Pine Street 야간 재포장 공사를 알리는 공지입니다."},
+{"q": "When will the work be done?", "type": "세부사항", "choices": ["At night, Monday through Thursday", "During the day", "On the weekend", "All day every day"], "a": 0, "exKo": "from 10 p.m. to 6 a.m., Monday through Thursday라고 명시합니다."},
+{"q": "What is suggested as a detour?", "type": "세부사항", "choices": ["Cedar Street", "5th Avenue", "7th Avenue", "Pine Street"], "a": 0, "exKo": "use Cedar Street as a detour라고 안내합니다."}
+]
+},
+{
+"kind": "공지",
+"title": "우편물실 운영시간 변경 공지",
+"passage": "MAILROOM HOURS CHANGE\n\nBeginning May 1, the mailroom will be open from 8:30 a.m. to 5 p.m., closing one hour earlier than before. Outgoing mail must be dropped off by 4 p.m. to be sent the same day.\n\nPackages that arrive after closing will be kept at the security desk and can be picked up until 8 p.m.\n\nMailroom Staff",
+"questions": [
+{"q": "What is changing on May 1?", "type": "주제·목적", "choices": ["The mailroom's hours", "The mailroom's location", "The delivery company", "The package fee"], "a": 0, "exKo": "5월 1일부터 우편물실이 한 시간 일찍 닫는다는 공지입니다."},
+{"q": "By what time must same-day mail be dropped off?", "type": "세부사항", "choices": ["4 p.m.", "5 p.m.", "8 p.m.", "8:30 a.m."], "a": 0, "exKo": "dropped off by 4 p.m. to be sent the same day라고 명시합니다."},
+{"q": "Where are late packages kept?", "type": "세부사항", "choices": ["At the security desk", "In the mailroom", "At the front door", "In the lobby"], "a": 0, "exKo": "kept at the security desk에서 확인됩니다."}
+]
+},
+{
+"kind": "광고",
+"title": "온라인 문서 정리 강좌 광고",
+"passage": "GET ORGANIZED IN ONE WEEKEND!\n\nJoin our online course, \"Paperless Office Basics,\" and learn to organize your files in just four hours. Classes meet online Saturday and Sunday, 10 a.m. to noon.\n\nThe $39 fee includes a workbook and lifetime access to class videos. Space is limited to 25 students per session. Sign up at deskclear-course.com.",
+"questions": [
+{"q": "What is being advertised?", "type": "주제·목적", "choices": ["An online course about organizing files", "A paper recycling service", "A new office printer", "A video streaming site"], "a": 0, "exKo": "파일 정리를 배우는 온라인 강좌 광고입니다."},
+{"q": "What does the fee include?", "type": "세부사항", "choices": ["A workbook and lifetime video access", "A printer discount", "One-on-one coaching", "Office supplies"], "a": 0, "exKo": "includes a workbook and lifetime access to class videos라고 명시합니다."},
+{"q": "How many students can join each session?", "type": "세부사항", "choices": ["25", "39", "10", "4"], "a": 0, "exKo": "limited to 25 students per session에서 확인됩니다."}
+]
+},
+{
+"kind": "광고",
+"title": "회사 단체 도시락 광고",
+"passage": "LUNCHBOX EXPRESS — MEALS FOR YOUR MEETINGS\n\nFeeding a team? We deliver fresh lunch boxes to offices with just one day's notice. Choose from chicken, beef, fish, or vegetarian menus, starting at $9 per box.\n\nOrders of 20 boxes or more get free delivery and free drinks. We deliver weekdays between 11 a.m. and 1 p.m. Order online or by phone.",
+"questions": [
+{"q": "What does Lunchbox Express provide?", "type": "주제·목적", "choices": ["Lunch box delivery for offices", "Restaurant reservations", "Cooking classes", "Grocery delivery"], "a": 0, "exKo": "사무실로 도시락을 배달하는 서비스 광고입니다."},
+{"q": "How much notice does an order require?", "type": "세부사항", "choices": ["One day", "One week", "Two hours", "Three days"], "a": 0, "exKo": "with just one day's notice라고 안내합니다."},
+{"q": "What do orders of 20 or more boxes receive?", "type": "세부사항", "choices": ["Free delivery and free drinks", "A 20% discount", "Free dessert", "A free meeting room"], "a": 0, "exKo": "get free delivery and free drinks에서 확인됩니다."}
+]
+},
+{
+"kind": "기사",
+"title": "꽃집 온라인 주문 성장 기사",
+"passage": "WESTPORT — Local flower shop Petal Lane says online orders now make up half of its sales, up from 20 percent last year. Owner Judy Han started posting photos of daily bouquets on social media, and orders quickly grew.\n\nThe shop hired a part-time driver to handle deliveries. Han plans to launch a monthly flower subscription this fall for home and office customers.",
+"questions": [
+{"q": "What is the article mainly about?", "type": "주제·목적", "choices": ["A flower shop's growing online sales", "A new social media site", "A delivery company", "A fall festival"], "a": 0, "exKo": "꽃집의 온라인 주문이 크게 늘었다는 내용의 기사입니다."},
+{"q": "How did online orders start growing?", "type": "세부사항", "choices": ["The owner posted photos on social media", "The shop lowered its prices", "A new driver was hired", "A subscription was launched"], "a": 0, "exKo": "SNS에 매일 꽃다발 사진을 올리자 주문이 늘었다고 설명합니다."},
+{"q": "What does Ms. Han plan to do this fall?", "type": "세부사항", "choices": ["Launch a monthly flower subscription", "Open a second shop", "Hire a full-time driver", "Stop in-store sales"], "a": 0, "exKo": "launch a monthly flower subscription this fall이라고 밝혔습니다."}
+]
+},
+{
+"kind": "기사",
+"title": "공용 자전거 확대 기사",
+"passage": "NORTHVILLE — The city's bike-share program will double in size this summer, adding 200 bicycles and 15 new stations. The program began two years ago with 200 bikes.\n\nRides under 30 minutes are free with a monthly pass, which costs $12. City data shows most trips are between train stations and office areas on weekday mornings. New stations will focus on these busy routes.",
+"questions": [
+{"q": "What is the article about?", "type": "주제·목적", "choices": ["The expansion of a bike-share program", "A rise in bus fares", "A new train line", "A cycling race"], "a": 0, "exKo": "공용 자전거 프로그램이 올여름 두 배로 확대된다는 기사입니다."},
+{"q": "How much does a monthly pass cost?", "type": "세부사항", "choices": ["$12", "$30", "$15", "$20"], "a": 0, "exKo": "a monthly pass, which costs $12에서 확인됩니다."},
+{"q": "Where will new stations be placed?", "type": "세부사항", "choices": ["On busy routes between stations and offices", "In city parks", "Near schools", "At shopping malls"], "a": 0, "exKo": "출근 시간대 이용이 많은 노선에 새 정거장을 집중한다고 설명합니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "프로젝터 케이블 문의 문자",
+"passage": "Noah Kim (9:02 A.M.)\nHi Ivy, the projector in Room B has no cable for my laptop. Do you know where I can find one?\n\nIvy Chan (9:04 A.M.)\nThere are spare cables in the drawer under the printer, near my desk.\n\nNoah Kim (9:06 A.M.)\nFound one. Thanks! My presentation starts at 9:30.\n\nIvy Chan (9:07 A.M.)\nGood luck! Return it to the drawer when you're done, please.",
+"questions": [
+{"q": "What is Mr. Kim's problem?", "type": "주제·목적", "choices": ["He needs a cable for the projector", "The projector is broken", "Room B is locked", "His laptop won't start"], "a": 0, "exKo": "프로젝터에 연결할 케이블이 없어 찾고 있습니다."},
+{"q": "Where are the spare cables?", "type": "세부사항", "choices": ["In the drawer under the printer", "In Room B", "At the front desk", "In Ivy's bag"], "a": 0, "exKo": "in the drawer under the printer, near my desk라고 알려 줍니다."},
+{"q": "What does Ms. Chan ask Mr. Kim to do?", "type": "세부사항", "choices": ["Return the cable after use", "Buy a new cable", "Cancel his presentation", "Move to another room"], "a": 0, "exKo": "Return it to the drawer when you're done이라고 부탁합니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "병원 예약 변경 문자",
+"passage": "Dr. Reyes' Clinic (10:00 A.M.)\nHello, this is Dr. Reyes' Clinic. Your checkup on Wednesday must be moved because the doctor will attend a seminar. Would Thursday at 3 P.M. work?\n\nOwen Davis (10:12 A.M.)\nThursday works, but could we make it 5 P.M.? I finish work at 4:30.\n\nDr. Reyes' Clinic (10:15 A.M.)\nYes, 5 P.M. on Thursday is available. You are all set. Please arrive ten minutes early.\n\nOwen Davis (10:16 A.M.)\nThank you. See you then.",
+"questions": [
+{"q": "Why did the clinic contact Mr. Davis?", "type": "주제·목적", "choices": ["To reschedule his appointment", "To cancel his checkup", "To give test results", "To ask about payment"], "a": 0, "exKo": "의사의 세미나 참석으로 수요일 예약을 변경하려는 연락입니다."},
+{"q": "Why does Mr. Davis ask for 5 P.M.?", "type": "세부사항", "choices": ["He finishes work at 4:30", "The clinic closes at 4", "He has another appointment", "He prefers mornings"], "a": 0, "exKo": "I finish work at 4:30이라고 이유를 말합니다."},
+{"q": "What is Mr. Davis asked to do?", "type": "세부사항", "choices": ["Arrive ten minutes early", "Bring his test results", "Pay in advance", "Call back on Thursday"], "a": 0, "exKo": "Please arrive ten minutes early라고 요청합니다."}
+]
+}
+]
+}

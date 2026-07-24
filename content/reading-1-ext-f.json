@@ -1,0 +1,104 @@
+{
+"passages": [
+{
+"kind": "이메일",
+"title": "출입 카드 재발급 안내 메일",
+"passage": "From: Security Office\nTo: Tina Brooks\nSubject: Your New ID Card\n\nDear Ms. Brooks,\n\nYour replacement ID card is ready. Please pick it up at the security office on the first floor between 9 a.m. and 6 p.m.\n\nBring a photo ID, such as a driver's license. Your old card has been turned off and can no longer open doors. The replacement fee of $10 will be taken from this month's pay.\n\nSecurity Office",
+"questions": [
+{"q": "Why was this email sent?", "type": "주제·목적", "choices": ["To say a new ID card is ready", "To report a lost wallet", "To announce new security rules", "To schedule an interview"], "a": 0, "exKo": "재발급된 사원증을 찾아가라는 안내 메일입니다."},
+{"q": "What should Ms. Brooks bring?", "type": "세부사항", "choices": ["A photo ID", "Her old card", "$10 in cash", "A photograph"], "a": 0, "exKo": "Bring a photo ID, such as a driver's license라고 안내합니다."},
+{"q": "What is true about the old card?", "type": "세부사항", "choices": ["It no longer opens doors", "It still works this week", "It must be mailed back", "It can be kept as a spare"], "a": 0, "exKo": "Your old card has been turned off이라고 명시되어 있습니다."}
+]
+},
+{
+"kind": "이메일",
+"title": "고객 만족 설문 요청 메일",
+"passage": "From: River Airlines\nTo: Carl Owens\nSubject: How Was Your Flight?\n\nDear Mr. Owens,\n\nThank you for flying with us to Denver last week. We would love to hear about your trip.\n\nThe short survey below takes about three minutes. As a thank-you, everyone who completes it this month will be entered to win 10,000 travel miles.\n\nYour feedback helps us serve you better.\n\nRiver Airlines Customer Team",
+"questions": [
+{"q": "What is the purpose of the email?", "type": "주제·목적", "choices": ["To request survey feedback", "To confirm a flight booking", "To sell travel miles", "To apologize for a delay"], "a": 0, "exKo": "지난 항공편에 대한 설문 참여를 요청하는 메일입니다."},
+{"q": "How long does the survey take?", "type": "세부사항", "choices": ["About three minutes", "About ten minutes", "One hour", "One week"], "a": 0, "exKo": "takes about three minutes라고 안내합니다."},
+{"q": "What can survey takers win?", "type": "세부사항", "choices": ["10,000 travel miles", "A free flight to Denver", "A gift card", "A seat upgrade"], "a": 0, "exKo": "entered to win 10,000 travel miles에서 확인됩니다."}
+]
+},
+{
+"kind": "공지",
+"title": "탕비실 냉장고 정리 공지",
+"passage": "REFRIGERATOR CLEANING NOTICE\n\nThe break room refrigerator will be cleaned every Friday at 5 p.m. Any food without a name and date label will be thrown away at that time.\n\nLabels are available in the drawer next to the refrigerator. Please take home anything you want to keep before Friday evening.\n\nThank you for keeping our shared space fresh.\n\nOffice Management",
+"questions": [
+{"q": "What happens every Friday at 5 p.m.?", "type": "주제·목적", "choices": ["The refrigerator is cleaned", "Free food is offered", "The break room closes", "New labels arrive"], "a": 0, "exKo": "매주 금요일 5시에 냉장고를 정리한다는 공지입니다."},
+{"q": "Which food will be thrown away?", "type": "세부사항", "choices": ["Food without a name and date label", "All food in the refrigerator", "Food older than a month", "Drinks only"], "a": 0, "exKo": "이름과 날짜 라벨이 없는 음식은 폐기됩니다."},
+{"q": "Where can labels be found?", "type": "세부사항", "choices": ["In the drawer next to the refrigerator", "At the front desk", "In the supply room", "On the notice board"], "a": 0, "exKo": "in the drawer next to the refrigerator라고 안내합니다."}
+]
+},
+{
+"kind": "공지",
+"title": "연말 자선 모금 공지",
+"passage": "HOLIDAY CHARITY DRIVE\n\nFrom December 1 to 15, we are collecting new toys and books for children at the City Children's Home. Donation boxes are in the lobby and on each floor near the elevators.\n\nPlease donate only new, unwrapped items. The company will match every donation with a cash gift to the home. Last year we collected over 300 items — let's beat that record!\n\nVolunteer Committee",
+"questions": [
+{"q": "What is being collected?", "type": "세부사항", "choices": ["New toys and books", "Used clothes", "Canned food", "Cash only"], "a": 0, "exKo": "어린이집에 보낼 새 장난감과 책을 모으고 있습니다."},
+{"q": "What kind of items should be donated?", "type": "세부사항", "choices": ["New and unwrapped", "Wrapped as gifts", "Gently used", "Handmade"], "a": 0, "exKo": "only new, unwrapped items라고 명시합니다."},
+{"q": "What will the company do?", "type": "세부사항", "choices": ["Match donations with a cash gift", "Buy all the toys", "Deliver items by truck", "Host a party"], "a": 0, "exKo": "match every donation with a cash gift에서 확인됩니다."}
+]
+},
+{
+"kind": "광고",
+"title": "구두 수선점 광고",
+"passage": "HEEL & SOLE SHOE REPAIR\n\nDon't throw away your favorite shoes — repair them! We fix heels, soles, and zippers, usually while you wait.\n\nBusiness customers: drop off shoes before work and pick them up the same day. Most repairs cost between $8 and $25. Find us in the subway station under Grand Tower, open 7 a.m. to 8 p.m. weekdays.",
+"questions": [
+{"q": "What service is advertised?", "type": "주제·목적", "choices": ["Shoe repair", "Shoe sales", "A subway pass", "Key cutting"], "a": 0, "exKo": "굽·밑창·지퍼를 고치는 구두 수선점 광고입니다."},
+{"q": "What can business customers do?", "type": "세부사항", "choices": ["Drop off shoes before work and pick up the same day", "Get free repairs", "Order new shoes", "Book a home visit"], "a": 0, "exKo": "출근 전에 맡기고 당일 찾아갈 수 있다고 안내합니다."},
+{"q": "Where is the shop located?", "type": "세부사항", "choices": ["In the subway station under Grand Tower", "On the top floor of Grand Tower", "Next to a bus stop", "In a shopping mall"], "a": 0, "exKo": "in the subway station under Grand Tower라고 명시합니다."}
+]
+},
+{
+"kind": "광고",
+"title": "사무실 화분 관리 서비스 광고",
+"passage": "GREEN DESK — PLANTS FOR YOUR OFFICE\n\nStudies show plants make workplaces calmer and more pleasant. Green Desk delivers office plants and takes care of them for you.\n\nOur team visits every two weeks to water, trim, and replace any unhealthy plants at no extra cost. Plans start at $49 per month for five plants. Call today for a free office visit and quote.",
+"questions": [
+{"q": "What does Green Desk offer?", "type": "주제·목적", "choices": ["Office plant delivery and care", "Garden design for homes", "Flower bouquets", "Cleaning services"], "a": 0, "exKo": "사무실 화분을 배달하고 관리해 주는 서비스 광고입니다."},
+{"q": "How often does the team visit?", "type": "세부사항", "choices": ["Every two weeks", "Every day", "Once a month", "Twice a year"], "a": 0, "exKo": "visits every two weeks라고 안내합니다."},
+{"q": "What is replaced at no extra cost?", "type": "세부사항", "choices": ["Unhealthy plants", "Broken pots", "Old furniture", "Water filters"], "a": 0, "exKo": "replace any unhealthy plants at no extra cost에서 확인됩니다."}
+]
+},
+{
+"kind": "기사",
+"title": "청소년 코딩 교실 기사",
+"passage": "STONEBRIDGE — The public library began free coding classes for teenagers this month. Twenty students meet every Saturday morning to build simple games and websites.\n\nLocal software company ByteWorks lends laptops and sends two engineers as volunteer teachers. \"We hope some students will join our summer internship later,\" said engineer Maya Ross. The library plans an adult class next year.",
+"questions": [
+{"q": "What is the article about?", "type": "주제·목적", "choices": ["Free coding classes at a library", "A new software company", "A laptop sale", "A summer camp"], "a": 0, "exKo": "도서관이 시작한 청소년 무료 코딩 교실에 관한 기사입니다."},
+{"q": "What does ByteWorks provide?", "type": "세부사항", "choices": ["Laptops and volunteer teachers", "Money for books", "A new building", "Free software licenses"], "a": 0, "exKo": "lends laptops and sends two engineers as volunteer teachers라고 설명합니다."},
+{"q": "What is planned for next year?", "type": "세부사항", "choices": ["An adult class", "A game contest", "A new library", "Paid classes"], "a": 0, "exKo": "The library plans an adult class next year에서 확인됩니다."}
+]
+},
+{
+"kind": "기사",
+"title": "역 앞 무인 세탁소 개점 기사",
+"passage": "KENDALL — A 24-hour self-service laundry opened near Kendall Station last week. The shop has 16 washers and 12 dryers, and payment is by card or phone only.\n\nOwner Victor Shaw chose the location for commuters. \"People start a wash, catch their train, and pick up clothes on the way home,\" he said. A phone app tells customers when their machine finishes.",
+"questions": [
+{"q": "What recently opened near Kendall Station?", "type": "주제·목적", "choices": ["A 24-hour self-service laundry", "A train ticket office", "A phone repair shop", "A clothing store"], "a": 0, "exKo": "역 근처에 24시간 무인 세탁소가 문을 열었다는 기사입니다."},
+{"q": "How can customers pay?", "type": "세부사항", "choices": ["By card or phone only", "By cash only", "By monthly bill", "With tokens"], "a": 0, "exKo": "payment is by card or phone only라고 명시합니다."},
+{"q": "What does the phone app do?", "type": "세부사항", "choices": ["Tells customers when their machine finishes", "Orders detergent", "Books a machine", "Calls a taxi"], "a": 0, "exKo": "tells customers when their machine finishes에서 확인됩니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "방문객 주차 안내 문자",
+"passage": "Gate Security (9:40 A.M.)\nGood morning. A visitor named Mr. Fuller has arrived for you. He asks where to park.\n\nAmy Zhou (9:42 A.M.)\nPlease direct him to visitor spots 5 to 8, next to the main entrance.\n\nGate Security (9:43 A.M.)\nSpot 6 is free. I'll guide him there and give him a visitor pass.\n\nAmy Zhou (9:44 A.M.)\nThank you. I'll meet him in the lobby in five minutes.",
+"questions": [
+{"q": "Why did security message Ms. Zhou?", "type": "주제·목적", "choices": ["Her visitor needs parking directions", "Her car is parked wrongly", "The gate is closed", "A pass was lost"], "a": 0, "exKo": "방문객이 주차 위치를 물어 안내를 요청한 메시지입니다."},
+{"q": "Where will Mr. Fuller park?", "type": "세부사항", "choices": ["Spot 6", "Spot 5", "The main lot", "Behind the building"], "a": 0, "exKo": "Spot 6 is free. I'll guide him there라고 답합니다."},
+{"q": "What will Ms. Zhou do?", "type": "세부사항", "choices": ["Meet the visitor in the lobby", "Go to the gate", "Move her car", "Print a pass"], "a": 0, "exKo": "I'll meet him in the lobby in five minutes라고 말합니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "에어컨 고장 신고 문자",
+"passage": "Leo Marsh (2:05 P.M.)\nHi, Facilities? The air conditioner in Office 410 is blowing warm air. It's getting hot in here.\n\nFacilities Desk (2:08 P.M.)\nThanks for reporting. A technician is on the 4th floor now — he can stop by within 20 minutes.\n\nLeo Marsh (2:09 P.M.)\nGreat. Should we move to another room?\n\nFacilities Desk (2:10 P.M.)\nNot needed. It's usually a quick filter fix. Please keep the windows closed so he can test the cooling.",
+"questions": [
+{"q": "What problem does Mr. Marsh report?", "type": "주제·목적", "choices": ["The air conditioner blows warm air", "A window will not close", "The heater is too strong", "The office is too cold"], "a": 0, "exKo": "410호 에어컨에서 더운 바람이 나온다는 신고입니다."},
+{"q": "When can the technician arrive?", "type": "세부사항", "choices": ["Within 20 minutes", "Tomorrow morning", "In two hours", "After 4 p.m."], "a": 0, "exKo": "he can stop by within 20 minutes라고 안내합니다."},
+{"q": "What is Mr. Marsh asked to do?", "type": "세부사항", "choices": ["Keep the windows closed", "Move to another room", "Turn off the unit", "Open the door"], "a": 0, "exKo": "keep the windows closed so he can test the cooling이라고 요청합니다."}
+]
+}
+]
+}
