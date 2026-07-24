@@ -193,6 +193,9 @@
   .flash-ex { margin-top: 14px; font-size: 14px; color: var(--text-dim); line-height: 1.55; }
   .flash-ex b { color: var(--accent); }
   .flash-exko { margin-top: 6px; font-size: 12px; color: var(--text-dim); line-height: 1.5; }
+  .flash-rel { display: flex; flex-wrap: wrap; gap: 5px; justify-content: center; margin-top: 12px; max-width: 100%; }
+  .rel-chip { font-size: 11px; background: var(--surface-2); border-radius: 999px; padding: 3px 10px; color: var(--text-dim); }
+  .rel-chip b { color: var(--accent); font-weight: 700; margin-right: 4px; }
   .flash-hint { position: absolute; bottom: 13px; font-size: 12px; color: var(--text-dim); }
 
   .btn-row { display: flex; gap: 10px; margin-top: 16px; }
@@ -335,6 +338,7 @@
       <div class="stat"><div class="num" id="statLearned">0</div><div class="lbl">외운 단어</div></div>
       <div class="stat"><div class="num" id="statToday">0</div><div class="lbl">오늘 학습</div></div>
     </div>
+    <p class="small muted" id="totalItems" style="text-align:center; margin-top:8px;"></p>
 
     <div class="card prog-card" id="sectionProgress" style="display:none;">
       <h3>📊 현재 레벨 진행 상황</h3>
@@ -386,6 +390,7 @@
               <div class="flash-mean" id="fMean">뜻</div>
               <div class="flash-ex" id="fEx"></div>
               <div class="flash-exko" id="fExKo"></div>
+              <div class="flash-rel" id="fRel"></div>
               <div class="flash-hint">알았으면 아래 버튼을 눌러요</div>
             </div>
           </div>
@@ -693,6 +698,9 @@ function renderStats() {
   document.getElementById("statLearned").textContent =
     VOCAB.filter(v => (state.boxes[v.w] || 0) >= 3).length;
   document.getElementById("statToday").textContent = state.todayCount;
+  const relCount = VOCAB.reduce((n, v) => n + (v.rel ? v.rel.length : 0), 0);
+  document.getElementById("totalItems").textContent =
+    `📚 표제어 ${VOCAB.length.toLocaleString()}개 · 파생/동의/숙어 포함 학습 항목 ${(VOCAB.length + relCount).toLocaleString()}개 · 구문 ${GRAMMAR.length} · 듣기 ${LISTENING.length}`;
   const h = new Date().getHours();
   document.getElementById("greeting").textContent =
     h < 12 ? "좋은 아침! 오늘의 토익 한 입 🥐" :
@@ -785,8 +793,10 @@ function showCard() {
     document.getElementById("fPos").textContent = v.p;
     document.getElementById("fCat").textContent = v.cat;
     document.getElementById("fMean").textContent = v.m;
-    document.getElementById("fEx").innerHTML = v.ex;
-    document.getElementById("fExKo").textContent = v.exKo;
+    document.getElementById("fEx").innerHTML = v.ex || "";
+    document.getElementById("fExKo").textContent = v.exKo || "";
+    document.getElementById("fRel").innerHTML = (v.rel || []).map(r =>
+      `<span class="rel-chip"><b>${esc(r.k)}</b>${esc(r.w)} ${esc(r.m)}</span>`).join("");
   }, 120);
   document.getElementById("vocabProgress").style.width = (sessionIdx / sessionTotal * 100) + "%";
   document.getElementById("vocabCount").textContent = (sessionIdx + 1) + " / " + sessionTotal;

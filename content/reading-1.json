@@ -1,0 +1,28 @@
+{"passages": [
+{"kind":"이메일","title":"회의 일정 변경 안내",
+"passage":"From: Sarah Kim\nTo: All Staff\nSubject: Weekly Meeting\n\nDear team,\n\nPlease note that this week's staff meeting has been moved from Wednesday to Thursday at 10 a.m. because the projector in Room 302 is being repaired. The meeting will still be held in Room 302, and the repair will be finished by Wednesday evening.\n\nPlease bring your weekly reports as usual.\n\nThank you,\nSarah Kim\nOffice Manager",
+"questions":[
+{"q":"What is the main purpose of the email?","type":"주제·목적","choices":["To announce a schedule change","To request a new projector","To introduce a new employee","To cancel the weekly meeting"],"a":0,"exKo":"첫 문장에서 회의가 수요일에서 목요일로 옮겨졌다고 알리고 있으므로 일정 변경 공지가 목적입니다."},
+{"q":"Why was the meeting moved?","type":"세부사항","choices":["A projector is being repaired","The manager is on vacation","Room 302 is too small","A client visit was arranged"],"a":0,"exKo":"because the projector in Room 302 is being repaired 부분에서 프로젝터 수리가 이유임을 알 수 있습니다."},
+{"q":"What are employees asked to bring?","type":"세부사항","choices":["Their weekly reports","Their laptops","Their ID badges","Their lunch"],"a":0,"exKo":"마지막 부분의 Please bring your weekly reports as usual에서 확인할 수 있습니다."}
+]},
+{"kind":"공지","title":"엘리베이터 점검 안내",
+"passage":"NOTICE TO ALL TENANTS\n\nThe main elevator in Building A will be out of service on Saturday, May 14, from 9 a.m. to 5 p.m. for its annual safety inspection.\n\nDuring this time, please use the stairs or the service elevator located at the rear of the building. We apologize for any inconvenience.\n\nGreenfield Building Management",
+"questions":[
+{"q":"What is the notice mainly about?","type":"주제·목적","choices":["An elevator inspection","A new building opening","A parking rule change","A fire drill schedule"],"a":0,"exKo":"본문 첫 문장에서 연례 안전 점검(annual safety inspection)으로 엘리베이터가 운행 중단된다고 안내하고 있습니다."},
+{"q":"What are tenants advised to do on May 14?","type":"세부사항","choices":["Use the service elevator or stairs","Stay home all day","Park in a different lot","Call the management office"],"a":0,"exKo":"please use the stairs or the service elevator 부분에서 계단이나 화물용 엘리베이터를 이용하라고 안내합니다."}
+]},
+{"kind":"광고","title":"레스토랑 개업 할인 광고",
+"passage":"GRAND OPENING - BELLA KITCHEN\n\nVisit Bella Kitchen, the newest Italian restaurant on Maple Street!\n\nTo celebrate our opening, all pasta dishes are 20% off until June 30. We are open every day from 11 a.m. to 10 p.m.\n\nReservations are recommended for groups of six or more. Call 555-0134 or book online at bellakitchen.com.",
+"questions":[
+{"q":"What is being advertised?","type":"주제·목적","choices":["A new restaurant","A cooking class","A food delivery app","A grocery store sale"],"a":0,"exKo":"the newest Italian restaurant라는 표현에서 새로 문을 연 식당 광고임을 알 수 있습니다."},
+{"q":"How long is the discount available?","type":"세부사항","choices":["Until June 30","For one week","Until May 14","Every weekend"],"a":0,"exKo":"all pasta dishes are 20% off until June 30에서 6월 30일까지임을 확인할 수 있습니다."},
+{"q":"Who is advised to make a reservation?","type":"세부사항","choices":["Groups of six or more","All customers","Weekend visitors","First-time guests"],"a":0,"exKo":"Reservations are recommended for groups of six or more에서 6인 이상 단체에게 예약을 권장하고 있습니다."}
+]},
+{"kind":"문자메시지","title":"사무용품 주문 문자",
+"passage":"Mina Lee: Hi Tom, do we have any printer paper left in the storage room?\nTom Carter: Let me check. ... Only two boxes.\nMina Lee: That won't last the week. Could you order five more boxes?\nTom Carter: Sure. Should I use the same supplier as last time?\nMina Lee: Yes, they were the cheapest. Please ask them to deliver by Friday.\nTom Carter: Will do. I'll send you the order confirmation.",
+"questions":[
+{"q":"What problem does Ms. Lee mention?","type":"세부사항","choices":["Printer paper is running low","The printer is broken","A delivery was lost","The storage room is locked"],"a":0,"exKo":"용지가 두 박스밖에 없어 이번 주를 버티지 못한다(That won't last the week)는 내용에서 용지 부족이 문제임을 알 수 있습니다."},
+{"q":"What will Mr. Carter most likely do next?","type":"추론","choices":["Place an order with the supplier","Repair the printer","Visit the storage room again","Call a different company"],"a":0,"exKo":"다섯 박스를 주문해 달라는 요청에 Sure라고 답하고 주문 확인서를 보내겠다고 했으므로, 다음 행동은 주문임을 추론할 수 있습니다."}
+]}
+]}
