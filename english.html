@@ -700,7 +700,7 @@ function renderStats() {
   document.getElementById("statToday").textContent = state.todayCount;
   const relCount = VOCAB.reduce((n, v) => n + (v.rel ? v.rel.length : 0), 0);
   document.getElementById("totalItems").textContent =
-    `📚 표제어 ${VOCAB.length.toLocaleString()}개 · 파생/동의/숙어 포함 학습 항목 ${(VOCAB.length + relCount).toLocaleString()}개 · 구문 ${GRAMMAR.length} · 듣기 ${LISTENING.length}`;
+    `📚 표제어 ${VOCAB.length.toLocaleString()}개 · 파생/동의/숙어 포함 학습 항목 ${(VOCAB.length + relCount).toLocaleString()}개 · 구문 ${GRAMMAR.length.toLocaleString()} · 독해 ${READING.length}지문 ${READING.reduce((s, r) => s + r.questions.length, 0).toLocaleString()}문항 · 듣기 ${LISTENING.length}`;
   const h = new Date().getHours();
   document.getElementById("greeting").textContent =
     h < 12 ? "좋은 아침! 오늘의 토익 한 입 🥐" :
