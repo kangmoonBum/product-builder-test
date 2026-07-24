@@ -1,0 +1,104 @@
+{
+"passages": [
+{
+"kind": "이메일",
+"title": "인쇄 계약 갱신 협상 메일",
+"passage": "From: Olivia Reyes, Procurement\nTo: Ben Carter, Apex Print Services\nSubject: Contract Renewal — Volume Discount Request\n\nDear Mr. Carter,\n\nOur printing contract expires on March 31, and we would like to discuss renewal terms. Over the past year our monthly volume has grown from 20,000 to 34,000 pages, yet our per-page rate has remained at the original level.\n\nGiven this growth, we request a revised rate of $0.04 per page, down from $0.05, for a two-year term. We would also like next-day delivery included for orders placed before 2 p.m., which we currently pay extra for.\n\nIf these terms are agreeable, we are prepared to sign before the end of the month. Could we schedule a call this week? I am available Wednesday and Thursday afternoons.\n\nBest regards,\nOlivia Reyes",
+"questions": [
+{"q": "Why does Ms. Reyes believe a discount is justified?", "type": "주제·목적", "choices": ["Monthly volume has grown significantly", "Competitors offer lower rates", "Print quality has declined", "The contract is new"], "a": 0, "exKo": "월 인쇄량이 2만 장에서 3만 4천 장으로 늘었기 때문입니다."},
+{"q": "What does Ms. Reyes want included in the new contract?", "type": "세부사항", "choices": ["Next-day delivery for early orders", "Free color printing", "A shorter term", "Weekend service"], "a": 0, "exKo": "현재 추가 요금을 내는 익일 배송을 포함해 달라고 요청합니다."},
+{"q": "What is Ms. Reyes prepared to do?", "type": "세부사항", "choices": ["Sign before the end of the month", "Switch to another vendor", "Reduce order volume", "Pay in advance"], "a": 0, "exKo": "조건이 맞으면 이달 안에 계약할 준비가 되어 있다고 밝힙니다."}
+]
+},
+{
+"kind": "이메일",
+"title": "제품 리콜 대응 안내 메일",
+"passage": "From: Quality Assurance, Lumen Electronics\nTo: All Retail Partners\nSubject: Voluntary Recall — Desk Lamp Model DL-30\n\nDear Partner,\n\nWe are voluntarily recalling desk lamp model DL-30 manufactured between January and April, after finding that a faulty switch may overheat in rare cases. No injuries have been reported, but customer safety is our priority.\n\nPlease remove remaining DL-30 units from shelves immediately and return them using the prepaid labels we will send this week. Full credit will be applied to your account within 14 days of receipt.\n\nCustomers who bought the lamp should be directed to our recall page, where they can choose a refund or a free replacement with the new DL-31 model. A press statement will be released Thursday; until then, please refer media inquiries to our communications office.\n\nQuality Assurance Team",
+"questions": [
+{"q": "Why is the lamp being recalled?", "type": "세부사항", "choices": ["A faulty switch may overheat", "The bulbs burn out early", "Labels are incorrect", "Customers were injured"], "a": 0, "exKo": "결함 있는 스위치가 드물게 과열될 수 있어 자발적 리콜을 실시합니다."},
+{"q": "What will retailers receive within 14 days of returning units?", "type": "세부사항", "choices": ["Full credit to their account", "Replacement lamps", "A discount coupon", "A press statement"], "a": 0, "exKo": "반품 수령 후 14일 이내 전액 크레딧이 지급됩니다."},
+{"q": "What choice do customers have?", "type": "세부사항", "choices": ["A refund or a free DL-31 replacement", "A repair or a coupon", "Store credit only", "An upgrade for a fee"], "a": 0, "exKo": "환불 또는 신형 DL-31 무상 교체 중 선택할 수 있습니다."}
+]
+},
+{
+"kind": "공지",
+"title": "사내 제안 제도 개편 공지",
+"passage": "EMPLOYEE IDEA PROGRAM — NEW PROCESS\n\nOur suggestion box is going digital. From April, ideas for improving products, processes, or the workplace should be submitted through the Idea Hub on the intranet, where colleagues can comment and vote.\n\nEach quarter, a review panel of rotating members from every department will shortlist the five most-voted ideas. Authors present their proposals in a 10-minute pitch, and at least one idea per quarter receives a budget and a project team.\n\nLast year's paper-based program produced 46 suggestions; 9 were implemented, saving an estimated $120,000. We believe open voting will surface even better ideas. Submissions are anonymous until the shortlist stage, so please focus comments on the idea, not the author.\n\nInnovation Office",
+"questions": [
+{"q": "What is changing about the suggestion program?", "type": "주제·목적", "choices": ["Ideas move to a digital platform with voting", "Suggestions are no longer accepted", "Only managers may submit", "Rewards are being removed"], "a": 0, "exKo": "종이 제안함 대신 투표 기능이 있는 사내 디지털 플랫폼으로 바뀝니다."},
+{"q": "What happens to the five most-voted ideas?", "type": "세부사항", "choices": ["Authors pitch them to a panel", "They are implemented at once", "They receive $120,000", "They are published outside"], "a": 0, "exKo": "상위 5개 아이디어 제안자가 10분 발표를 합니다."},
+{"q": "Until when are submissions anonymous?", "type": "세부사항", "choices": ["Until the shortlist stage", "Forever", "Until voting opens", "Until implementation"], "a": 0, "exKo": "최종 후보 선정 단계까지 익명이 유지됩니다."}
+]
+},
+{
+"kind": "공지",
+"title": "데이터 보안 교육 의무화 공지",
+"passage": "MANDATORY DATA SECURITY TRAINING\n\nFollowing recent phishing attempts against our industry, all employees must complete the online data security course by November 15. The course takes about 50 minutes and can be paused and resumed at any time.\n\nTopics include recognizing suspicious emails, safe file sharing, and what to do if you click a harmful link. A short quiz at the end requires a score of 80 percent; the quiz may be retaken as needed.\n\nEmployees who have not completed the course by the deadline will have external email access suspended until they finish. Department heads receive weekly completion reports. New hires will take the course during their first week from now on.\n\nInformation Security Office",
+"questions": [
+{"q": "Why is the training being required now?", "type": "세부사항", "choices": ["Recent phishing attempts against the industry", "A new law was passed", "An employee request", "A system upgrade"], "a": 0, "exKo": "업계를 겨냥한 최근 피싱 시도 때문에 교육이 의무화되었습니다."},
+{"q": "What happens if the course is not finished by the deadline?", "type": "세부사항", "choices": ["External email access is suspended", "Pay is reduced", "A meeting with HR is required", "The quiz score is lowered"], "a": 0, "exKo": "기한 내 미이수 시 외부 이메일 접근이 정지됩니다."},
+{"q": "What is stated about the quiz?", "type": "세부사항", "choices": ["It may be retaken as needed", "It allows only one attempt", "It takes 50 minutes", "It is optional"], "a": 0, "exKo": "the quiz may be retaken as needed라고 명시되어 있습니다."}
+]
+},
+{
+"kind": "광고",
+"title": "화상회의 장비 패키지 광고",
+"passage": "MEETPOD — TURN ANY ROOM INTO A CONFERENCE ROOM\n\nHybrid meetings shouldn't mean half your team can't hear. The MeetPod bundle — a 4K wide-angle camera, echo-canceling speakerphone, and wall-mounted touch panel — installs in under an hour and works with every major meeting platform.\n\nThe camera automatically frames whoever is speaking, and the touch panel starts your scheduled meeting with one tap. No dedicated IT staff needed: firmware updates install themselves overnight.\n\nBundles start at $899 per room, with volume pricing for five rooms or more. Order this month and receive a free five-year warranty upgrade, twice the standard coverage. See a live demo at meetpod.com/demo.",
+"questions": [
+{"q": "What does the camera do automatically?", "type": "세부사항", "choices": ["Frames whoever is speaking", "Records every meeting", "Counts attendees", "Adjusts the room lights"], "a": 0, "exKo": "말하는 사람을 자동으로 화면에 잡아 줍니다."},
+{"q": "Why is no dedicated IT staff needed?", "type": "세부사항", "choices": ["Updates install themselves overnight", "The vendor visits weekly", "The device has no software", "Meetings run offline"], "a": 0, "exKo": "펌웨어가 밤사이 자동 업데이트되기 때문입니다."},
+{"q": "What is the benefit of ordering this month?", "type": "세부사항", "choices": ["A free five-year warranty upgrade", "Free installation", "A second camera", "A price discount"], "a": 0, "exKo": "표준의 두 배인 5년 보증 업그레이드를 무료로 제공합니다."}
+]
+},
+{
+"kind": "광고",
+"title": "비즈니스 영어 코칭 광고",
+"passage": "SPEAK BOARDROOM ENGLISH — COACHWISE LANGUAGE LAB\n\nYour team closes deals in English — shouldn't their English close deals too? CoachWise pairs each learner with a dedicated coach for twice-weekly 30-minute video sessions built around real work situations: negotiations, presentations, and email writing.\n\nBefore starting, every learner takes a skills assessment, and progress is measured monthly against clear goals. HR receives quarterly reports showing attendance and level gains across the team.\n\nPrograms run in 12-week cycles at $480 per learner, with a 15 percent discount for groups of ten. Companies renew at a rate of 92 percent — we think that says more than any ad. Book a consultation at coachwise.co.",
+"questions": [
+{"q": "What is a feature of the CoachWise program?", "type": "세부사항", "choices": ["Sessions built around real work situations", "Self-study videos only", "Daily group classes", "A one-year minimum contract"], "a": 0, "exKo": "협상·발표·이메일 등 실제 업무 상황 중심의 수업입니다."},
+{"q": "What does HR receive?", "type": "세부사항", "choices": ["Quarterly attendance and progress reports", "Session recordings", "Individual test answers", "Coaching credentials"], "a": 0, "exKo": "출석률과 실력 향상을 담은 분기 보고서를 받습니다."},
+{"q": "What does the 92 percent figure refer to?", "type": "세부사항", "choices": ["The rate at which companies renew", "The average test score", "The discount ceiling", "Learner attendance"], "a": 0, "exKo": "기업 고객의 재계약률이 92%라는 의미입니다."}
+]
+},
+{
+"kind": "기사",
+"title": "중견기업 사내 어린이집 개원 기사",
+"passage": "TELFORD — Software firm Brightpath opened an on-site childcare center for 45 children this month, becoming the first mid-sized employer in the county to do so. The center occupies the ground floor of the headquarters and is run by a licensed childcare operator.\n\nEmployees pay about 60 percent of market rates, with the company covering the rest. A waiting list formed within days of the announcement, and HR reports job applications rose 30 percent since the plan became public last year.\n\nChief executive Mara Linden said the decision followed exit interviews showing childcare costs were a leading reason employees left. \"Keeping one experienced engineer costs less than this center's annual subsidy,\" she noted. Two neighboring companies have asked to buy remaining spots for their own staff, which Brightpath is considering.",
+"questions": [
+{"q": "What did Brightpath open?", "type": "주제·목적", "choices": ["An on-site childcare center", "A software school", "A new headquarters", "A hiring office"], "a": 0, "exKo": "본사 1층에 사내 어린이집을 개원했다는 기사입니다."},
+{"q": "What did exit interviews reveal?", "type": "세부사항", "choices": ["Childcare costs were a leading reason for leaving", "Salaries were too low", "Commutes were too long", "Managers lacked training"], "a": 0, "exKo": "보육 비용이 퇴사의 주요 원인으로 나타났습니다."},
+{"q": "What are neighboring companies interested in?", "type": "세부사항", "choices": ["Buying remaining childcare spots", "Merging with Brightpath", "Hiring its engineers", "Copying its software"], "a": 0, "exKo": "남는 자리를 자사 직원용으로 구매하겠다고 요청했습니다."}
+]
+},
+{
+"kind": "기사",
+"title": "온라인 리뷰 신뢰도 조사 기사",
+"passage": "NATIONAL — Six in ten shoppers say they trust online reviews less than they did three years ago, according to a survey of 2,400 consumers released Tuesday by the Retail Research Institute. The leading reasons were suspected fake reviews and ratings inflated by free-product programs.\n\nYet reviews still matter: 78 percent of respondents read them before purchases over $100, and detailed reviews with photos were rated far more convincing than star ratings alone.\n\nThe institute advises retailers to label verified purchases clearly and to display negative reviews honestly. \"A product page with nothing below five stars actually lowers trust,\" said lead researcher Owen Blake. Several marketplaces said they would expand review verification in response to the findings.",
+"questions": [
+{"q": "What is the main finding of the survey?", "type": "주제·목적", "choices": ["Trust in online reviews has declined", "Shoppers no longer read reviews", "Star ratings are most convincing", "Reviews increase sales"], "a": 0, "exKo": "소비자 10명 중 6명이 3년 전보다 리뷰를 덜 신뢰한다는 조사 결과입니다."},
+{"q": "What kind of reviews were most convincing?", "type": "세부사항", "choices": ["Detailed reviews with photos", "Five-star ratings", "Short reviews", "Anonymous reviews"], "a": 0, "exKo": "사진이 포함된 상세 리뷰가 별점만 있는 것보다 설득력이 높았습니다."},
+{"q": "What does Mr. Blake imply about all-five-star pages?", "type": "추론", "choices": ["They make shoppers suspicious", "They boost sales", "They attract fake reviews", "They are illegal"], "a": 0, "exKo": "5점짜리 리뷰만 있는 페이지는 오히려 신뢰를 떨어뜨린다고 말합니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "재고 부족 대응 논의 문자",
+"passage": "Hugo Blanc (11:02 A.M.)\nSara, the warehouse says we're down to 120 units of the travel mug. The influencer video pushed orders way past forecast.\n\nSara Dietrich (11:05 A.M.)\nHow long will 120 last at the current pace?\n\nHugo Blanc (11:06 A.M.)\nAbout two days. The factory needs three weeks for a new batch.\n\nSara Dietrich (11:09 A.M.)\nOkay. Switch the product page to pre-order today so we don't oversell. Offer free shipping for the wait.\n\nHugo Blanc (11:11 A.M.)\nWill do. Should we air-freight part of the batch? It adds $2 per unit but cuts two weeks.\n\nSara Dietrich (11:13 A.M.)\nYes, air-freight 2,000 units. Margin takes a small hit, but canceled orders would cost us more in the long run.",
+"questions": [
+{"q": "Why is stock running out?", "type": "세부사항", "choices": ["An influencer video drove unexpected orders", "The factory shut down", "A shipment was lost", "Prices were cut"], "a": 0, "exKo": "인플루언서 영상으로 주문이 예측치를 크게 넘어섰기 때문입니다."},
+{"q": "What will happen to the product page?", "type": "세부사항", "choices": ["It will switch to pre-order", "It will be taken down", "Prices will rise", "It will show a waitlist"], "a": 0, "exKo": "과잉 판매를 막기 위해 오늘 예약 판매로 전환합니다."},
+{"q": "Why does Ms. Dietrich approve air freight despite the cost?", "type": "추론", "choices": ["Canceled orders would cost more long-term", "Shipping is free this month", "The factory pays the fee", "Margins are already high"], "a": 0, "exKo": "취소 주문이 장기적으로 더 큰 손해라고 판단했기 때문입니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "사무실 이전 준비 점검 문자",
+"passage": "Pia Novak (3:15 P.M.)\nMove update: internet at the new office goes live Thursday. Movers come Saturday 8 A.M.\n\nJon Berg (3:18 P.M.)\nGreat. Server rack too, or is IT handling that separately?\n\nPia Novak (3:19 P.M.)\nIT moves the servers Friday night so systems are up before the furniture arrives.\n\nJon Berg (3:22 P.M.)\nSmart. What about the old key cards?\n\nPia Novak (3:24 P.M.)\nCollect them Friday at the exit — new cards are handed out Monday morning in the new lobby, with a floor map and desk assignment.\n\nJon Berg (3:25 P.M.)\nI'll remind my team. Anything still open?\n\nPia Novak (3:27 P.M.)\nJust the parking permits — the building manager promised them by Wednesday. I'll chase it tomorrow.",
+"questions": [
+{"q": "When will the servers be moved?", "type": "세부사항", "choices": ["Friday night", "Saturday 8 A.M.", "Thursday", "Monday morning"], "a": 0, "exKo": "가구가 도착하기 전에 시스템이 가동되도록 금요일 밤에 서버를 옮깁니다."},
+{"q": "What happens Monday morning?", "type": "세부사항", "choices": ["New key cards are handed out", "The movers arrive", "Internet goes live", "Old cards are collected"], "a": 0, "exKo": "월요일 아침 새 로비에서 새 카드와 좌석 배치도를 나눠 줍니다."},
+{"q": "What issue is still unresolved?", "type": "세부사항", "choices": ["The parking permits", "The internet setup", "The server move", "The desk assignments"], "a": 0, "exKo": "주차 허가증만 아직 해결되지 않아 내일 확인하기로 합니다."}
+]
+}
+]
+}

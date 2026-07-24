@@ -1,0 +1,104 @@
+{
+"passages": [
+{
+"kind": "이메일",
+"title": "공급업체 가격 인상 통보 메일",
+"passage": "From: Hartley Paper Supply\nTo: Purchasing Department, Vexa Office Solutions\nSubject: Price Adjustment Effective September 1\n\nDear Valued Customer,\n\nDue to rising pulp and transportation costs, we must raise prices on our recycled paper lines by 6 percent, effective September 1. Prices for all other products remain unchanged through the end of the year.\n\nOrders placed before August 25 will be billed at current prices, even if delivery occurs after September 1. We encourage you to place your fall orders early to take advantage of this window.\n\nWe value our ten-year partnership and have enclosed a revised price list. Please contact your account manager, Dana Fields, with any questions.\n\nSincerely,\nMarcus Webb\nSales Director, Hartley Paper Supply",
+"questions": [
+{"q": "What is the main purpose of the email?", "type": "주제·목적", "choices": ["To announce a price increase", "To introduce a new account manager", "To end a partnership", "To advertise a new paper line"], "a": 0, "exKo": "9월 1일부터 재생지 제품 가격을 6% 인상한다는 통보가 핵심입니다."},
+{"q": "How can customers avoid the higher prices this fall?", "type": "세부사항", "choices": ["By ordering before August 25", "By paying in advance", "By switching products", "By contacting Dana Fields"], "a": 0, "exKo": "8월 25일 이전 주문은 배송이 늦어도 기존 가격이 적용됩니다."},
+{"q": "What is suggested about Vexa Office Solutions?", "type": "추론", "choices": ["It has been a customer for about ten years", "It is a new customer", "It manufactures paper", "It is located overseas"], "a": 0, "exKo": "We value our ten-year partnership에서 10년간 거래해 왔음을 추론할 수 있습니다."}
+]
+},
+{
+"kind": "이메일",
+"title": "컨퍼런스 발표자 초청 메일",
+"passage": "From: Elena Ruiz, Program Chair\nTo: Dr. Samuel Osei\nSubject: Invitation to Speak at LogiCon 2026\n\nDear Dr. Osei,\n\nOn behalf of the organizing committee, I am pleased to invite you to speak at LogiCon 2026, the region's largest logistics conference, held March 12-14 at the Meridian Convention Center.\n\nYour recent article on warehouse automation drew strong interest from our members, and we would be delighted if you could present a 40-minute session on that topic, followed by 10 minutes of questions.\n\nWe cover speakers' travel, two nights' accommodation, and provide an honorarium. Could you let us know your availability by November 30? Once you confirm, our coordinator will contact you regarding scheduling and equipment needs.\n\nWarm regards,\nElena Ruiz",
+"questions": [
+{"q": "Why is Ms. Ruiz writing to Dr. Osei?", "type": "주제·목적", "choices": ["To invite him to speak at a conference", "To request a copy of his article", "To offer him a job", "To sell conference tickets"], "a": 0, "exKo": "물류 컨퍼런스 LogiCon 2026의 연사로 초청하는 메일입니다."},
+{"q": "Why was Dr. Osei chosen?", "type": "세부사항", "choices": ["His article attracted members' interest", "He lives near the venue", "He spoke last year", "He is on the committee"], "a": 0, "exKo": "창고 자동화에 관한 그의 최근 기고가 회원들의 관심을 끌었기 때문입니다."},
+{"q": "What will happen after Dr. Osei confirms?", "type": "세부사항", "choices": ["A coordinator will contact him", "Tickets will go on sale", "His article will be published", "The honorarium will be paid"], "a": 0, "exKo": "확정하면 코디네이터가 일정과 장비 관련해 연락한다고 안내합니다."}
+]
+},
+{
+"kind": "공지",
+"title": "사무실 좌석 재배치 공지",
+"passage": "NOTICE: OFFICE SEATING REORGANIZATION\n\nTo bring project teams closer together, seating on floors 6 and 7 will be reorganized over the weekend of October 18-19. Moving crews will relocate desks, monitors, and labeled boxes; employees should pack personal items into the boxes provided by Thursday evening.\n\nThe new seating chart is posted on the intranet under 'Workplace.' Please check your assigned desk number before Monday. Phone extensions will move with you automatically, but printers will be reassigned — your nearest printer will appear in the print menu as 'Floor6-A' or 'Floor7-B.'\n\nAnyone with heavy equipment or special requirements should contact Facilities by Wednesday. We expect everything to be ready by 8 a.m. Monday.\n\nFacilities Management",
+"questions": [
+{"q": "Why is the seating being reorganized?", "type": "주제·목적", "choices": ["To bring project teams closer together", "To make room for new hires", "To replace old desks", "To reduce office space"], "a": 0, "exKo": "프로젝트 팀들을 가까이 배치하기 위한 재배치입니다."},
+{"q": "What must employees do by Thursday evening?", "type": "세부사항", "choices": ["Pack personal items into boxes", "Move their own desks", "Update their extensions", "Choose a new seat"], "a": 0, "exKo": "제공된 상자에 개인 물품을 목요일 저녁까지 담아 두어야 합니다."},
+{"q": "What will change for employees?", "type": "세부사항", "choices": ["Their assigned printers", "Their phone extensions", "Their monitors", "Their team members"], "a": 0, "exKo": "내선번호는 자동으로 이동하지만 프린터는 재배정된다고 안내합니다."}
+]
+},
+{
+"kind": "공지",
+"title": "경비 정산 마감 강화 공지",
+"passage": "REMINDER: EXPENSE REPORT DEADLINES\n\nStarting with the November cycle, expense reports must be submitted within 30 days of the expense date. Reports submitted later will require written approval from a department director, and reports older than 90 days will not be reimbursed.\n\nThis change follows an audit recommendation and brings us in line with industry practice. To make submission easier, the finance team has enabled receipt scanning in the mobile app — photograph your receipt, and the amount and vendor are filled in automatically.\n\nA 20-minute online tutorial is available on the finance portal. Questions may be directed to expenses@corvia.com. Thank you for helping us close our books faster each month.\n\nFinance Department",
+"questions": [
+{"q": "What is the new rule for expense reports?", "type": "주제·목적", "choices": ["They must be submitted within 30 days", "They must be approved by finance", "They must be on paper", "They are limited to $90"], "a": 0, "exKo": "지출일로부터 30일 이내 제출이 의무화된다는 공지입니다."},
+{"q": "What happens to reports older than 90 days?", "type": "세부사항", "choices": ["They will not be reimbursed", "They need director approval", "They go to audit", "They are paid at half value"], "a": 0, "exKo": "90일이 지난 보고서는 환급되지 않습니다."},
+{"q": "What does the new app feature do?", "type": "세부사항", "choices": ["Fills in amount and vendor from a receipt photo", "Approves reports automatically", "Sends reminders daily", "Translates receipts"], "a": 0, "exKo": "영수증을 촬영하면 금액과 업체명이 자동 입력됩니다."}
+]
+},
+{
+"kind": "광고",
+"title": "기업용 회계 소프트웨어 광고",
+"passage": "LEDGERLY — ACCOUNTING SOFTWARE THAT GROWS WITH YOU\n\nStill closing your books in spreadsheets? Ledgerly automates invoicing, expense tracking, and tax reports for small and mid-sized businesses.\n\nConnect your bank accounts and watch transactions sort themselves into categories, with accuracy that improves the more you use it. Monthly reports arrive in your inbox before your morning coffee.\n\nPlans start at $29 per month, and switching is painless — our team imports your existing data free of charge, usually within two business days. Try every feature free for 30 days; no card required.\n\nJoin over 40,000 businesses that closed last quarter on time. Visit ledgerly.com to start today.",
+"questions": [
+{"q": "Who is the software designed for?", "type": "세부사항", "choices": ["Small and mid-sized businesses", "Large corporations", "Individual taxpayers", "Banks"], "a": 0, "exKo": "for small and mid-sized businesses라고 명시되어 있습니다."},
+{"q": "What does the Ledgerly team do for free?", "type": "세부사항", "choices": ["Import existing data", "File tax reports", "Provide a bookkeeper", "Design invoices"], "a": 0, "exKo": "imports your existing data free of charge라고 안내합니다."},
+{"q": "What is indicated about the free trial?", "type": "세부사항", "choices": ["No card is required", "It lasts two weeks", "It includes limited features", "It requires a call"], "a": 0, "exKo": "Try every feature free for 30 days; no card required에서 확인됩니다."}
+]
+},
+{
+"kind": "광고",
+"title": "물류 창고 임대 광고",
+"passage": "WAREHOUSE SPACE AVAILABLE — GATEWAY LOGISTICS PARK\n\nGateway Logistics Park has three units available from January, ranging from 500 to 2,000 square meters. Located just off Highway 9, the park is 15 minutes from the container port and 20 minutes from the airport.\n\nEvery unit includes loading docks, 10-meter ceilings, and 24-hour security with camera monitoring. Cold-storage conversion is available in Unit B for food and pharmaceutical tenants.\n\nFlexible leases start at 12 months, with discounts for terms of three years or longer. Current tenants include two national retailers and a medical distributor. Schedule a site visit at gatewaypark.com or call 555-0177.",
+"questions": [
+{"q": "What is being advertised?", "type": "주제·목적", "choices": ["Warehouse units for lease", "A container port", "A security company", "A retail store"], "a": 0, "exKo": "물류 단지의 창고 공간 임대를 홍보하는 광고입니다."},
+{"q": "What is special about Unit B?", "type": "세부사항", "choices": ["It can be converted to cold storage", "It is the largest unit", "It has no lease minimum", "It faces the highway"], "a": 0, "exKo": "Unit B는 식품·제약 입주사를 위한 냉장 개조가 가능합니다."},
+{"q": "Who receives discounts?", "type": "세부사항", "choices": ["Tenants signing three years or longer", "Food companies", "First three applicants", "Airport businesses"], "a": 0, "exKo": "discounts for terms of three years or longer에서 확인됩니다."}
+]
+},
+{
+"kind": "기사",
+"title": "지역 공항 직항 노선 신설 기사",
+"passage": "CRESTON — Creston Regional Airport will gain its first international route in June, when Skyway Air begins four weekly flights to Osaka. Airport officials estimate the route will bring 30,000 additional passengers in its first year.\n\nThe announcement follows two years of negotiations and a runway extension completed last fall. Local tourism businesses welcomed the news; hotel bookings from Japan already rose 12 percent after the announcement, according to the city tourism board.\n\n\"This connects our manufacturers directly to their Asian partners,\" said airport director Lena Craft. The airport will add customs staff and open a currency exchange counter before the first flight. A second international route, to Taipei, is under discussion for next year.",
+"questions": [
+{"q": "What is the article mainly about?", "type": "주제·목적", "choices": ["A new international flight route", "A runway construction project", "A tourism campaign", "An airline merger"], "a": 0, "exKo": "지역 공항 최초의 국제선(오사카 직항) 신설 소식입니다."},
+{"q": "What happened after the announcement?", "type": "세부사항", "choices": ["Hotel bookings from Japan rose 12 percent", "Ticket prices dropped", "Customs staff were cut", "Flights to Taipei began"], "a": 0, "exKo": "발표 후 일본발 호텔 예약이 12% 증가했다고 보도합니다."},
+{"q": "What will the airport do before the first flight?", "type": "세부사항", "choices": ["Add customs staff and a currency counter", "Extend the runway", "Lower parking fees", "Build a new terminal"], "a": 0, "exKo": "add customs staff and open a currency exchange counter라고 명시합니다."}
+]
+},
+{
+"kind": "기사",
+"title": "프랜차이즈 무인 매장 확대 기사",
+"passage": "NORWICH — Convenience chain DayMart will convert 50 of its stores to hybrid operation by December, keeping staff on duty during the day and switching to self-service at night. Customers enter after 11 p.m. by scanning a payment card at the door.\n\nThe company tested the model in eight stores this spring. Night sales rose 9 percent, and no increase in theft was recorded, which executives attributed to camera coverage and card-based entry.\n\nStore employees will not lose hours, the company said; night staff will move to busier day shifts or to the new delivery operation. The retail workers' union said it would monitor the change and asked for quarterly staffing reports.",
+"questions": [
+{"q": "What is DayMart planning?", "type": "주제·목적", "choices": ["Converting stores to hybrid staffed/self-service operation", "Closing 50 stores", "Opening delivery-only stores", "Raising night prices"], "a": 0, "exKo": "주간 유인·야간 무인 하이브리드 매장 전환 계획 기사입니다."},
+{"q": "How do customers enter at night?", "type": "세부사항", "choices": ["By scanning a payment card at the door", "With a membership app", "Through a staffed entrance", "With a code from a receipt"], "a": 0, "exKo": "scanning a payment card at the door라고 설명합니다."},
+{"q": "What did the union request?", "type": "세부사항", "choices": ["Quarterly staffing reports", "Higher night wages", "A halt to the plan", "More cameras"], "a": 0, "exKo": "asked for quarterly staffing reports에서 확인됩니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "전시회 부스 자재 배송 확인 문자",
+"passage": "Grace Song (2:10 P.M.)\nHi Deniz, quick check — did the booth panels for the trade show ship today?\n\nDeniz Aydin (2:14 P.M.)\nThe panels and counter shipped this morning. Tracking says delivery to the convention center Thursday by noon.\n\nGrace Song (2:15 P.M.)\nGreat. What about the banner? The printer said there was an ink issue.\n\nDeniz Aydin (2:18 P.M.)\nThey reprinted it — it ships tomorrow with overnight delivery, so it still arrives Thursday.\n\nGrace Song (2:19 P.M.)\nPerfect. I land Wednesday night, so I'll be on site Thursday at 9 to receive everything.\n\nDeniz Aydin (2:20 P.M.)\nI'll forward you both tracking numbers. Good luck with the setup!",
+"questions": [
+{"q": "What are the writers mainly discussing?", "type": "주제·목적", "choices": ["Shipments for a trade show booth", "A printing business deal", "Flight arrangements", "A convention schedule"], "a": 0, "exKo": "전시회 부스 자재 배송 상황을 확인하는 대화입니다."},
+{"q": "Why was the banner delayed?", "type": "세부사항", "choices": ["There was an ink issue", "It was lost in shipping", "The design changed", "The printer closed"], "a": 0, "exKo": "The printer said there was an ink issue에서 확인됩니다."},
+{"q": "What will Ms. Song do Thursday at 9?", "type": "세부사항", "choices": ["Receive the shipments on site", "Board her flight", "Print the banner", "Call the courier"], "a": 0, "exKo": "I'll be on site Thursday at 9 to receive everything이라고 말합니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "채용 면접관 일정 조율 문자",
+"passage": "Nadia Osman (9:20 A.M.)\nMorning! Can you join the final interviews for the analyst role? We need a second interviewer.\n\nCarlos Vega (9:24 A.M.)\nHappy to. When are they?\n\nNadia Osman (9:25 A.M.)\nThree candidates: Tuesday 2-5 P.M., 50 minutes each. HR sent the resumes yesterday.\n\nCarlos Vega (9:28 A.M.)\nTuesday I have a client demo until 2:30. Could I take the last two slots only?\n\nNadia Osman (9:30 A.M.)\nThat works — I'll ask Priya to cover the first one with me. Please score each candidate in the HR portal within 24 hours after the interview.\n\nCarlos Vega (9:31 A.M.)\nUnderstood. I'll review the resumes tonight.",
+"questions": [
+{"q": "What does Ms. Osman ask Mr. Vega to do?", "type": "주제·목적", "choices": ["Serve as a second interviewer", "Reschedule a client demo", "Write a job posting", "Send resumes to HR"], "a": 0, "exKo": "애널리스트 최종 면접의 두 번째 면접관을 부탁하고 있습니다."},
+{"q": "Why can't Mr. Vega attend the first interview?", "type": "세부사항", "choices": ["He has a client demo until 2:30", "He is on vacation", "He has not read the resumes", "He is interviewing elsewhere"], "a": 0, "exKo": "화요일 2시 30분까지 고객 데모가 있어 첫 면접에 못 들어갑니다."},
+{"q": "What must interviewers do within 24 hours?", "type": "세부사항", "choices": ["Score candidates in the HR portal", "Email the candidates", "Meet with Priya", "Choose a finalist"], "a": 0, "exKo": "면접 후 24시간 내에 HR 포털에 점수를 입력해야 합니다."}
+]
+}
+]
+}

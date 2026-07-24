@@ -1,0 +1,104 @@
+{
+"passages": [
+{
+"kind": "이메일",
+"title": "세미나 환불 규정 문의 답변 메일",
+"passage": "From: Registration Desk, FutureWork Summit\nTo: Priya Raman\nSubject: Re: Refund Question\n\nDear Ms. Raman,\n\nThank you for your message. Cancellations made more than 30 days before the summit receive a full refund minus a $25 processing fee. Between 30 and 7 days, we refund 50 percent. Within 7 days of the event, tickets are non-refundable but fully transferable.\n\nSince your summit date is six weeks away, you qualify for the full refund option. However, you may prefer our free date change: your ticket can be moved to the autumn session in the same city at no cost, and your workshop selections carry over.\n\nPlease reply with 'refund' or 'transfer to autumn' and we will process it within three business days.\n\nKind regards,\nRegistration Desk",
+"questions": [
+{"q": "What refund does Ms. Raman qualify for?", "type": "세부사항", "choices": ["A full refund minus a $25 fee", "A 50 percent refund", "No refund", "Store credit"], "a": 0, "exKo": "행사가 6주 남아 있어 수수료 25달러를 제외한 전액 환불 대상입니다."},
+{"q": "What happens with tickets canceled within 7 days of the event?", "type": "세부사항", "choices": ["They can be transferred but not refunded", "They are fully refunded", "They lose all value", "They become half price"], "a": 0, "exKo": "행사 7일 이내에는 환불은 안 되지만 양도는 가능합니다."},
+{"q": "What is one advantage of the date change option?", "type": "세부사항", "choices": ["Workshop selections carry over", "It includes a discount", "It adds a free workshop", "It upgrades the seat"], "a": 0, "exKo": "가을 세션으로 옮겨도 선택한 워크숍이 그대로 유지됩니다."}
+]
+},
+{
+"kind": "이메일",
+"title": "협력사 감사 방문 일정 메일",
+"passage": "From: Vendor Management, Corestone Retail\nTo: Ella Fontaine, Managing Director, Silverleaf Textiles\nSubject: Annual Supplier Audit — Proposed Dates\n\nDear Ms. Fontaine,\n\nAs part of our annual supplier program, we would like to conduct the on-site audit of your production facility during the week of October 6. The visit takes one full day and covers quality control records, working conditions, and delivery performance.\n\nPlease propose two possible dates that week. Our two auditors will need a meeting room, access to the production floor, and interviews with three staff members of your choosing from different shifts.\n\nSuppliers who complete the audit with a score above 85 receive priority consideration for next year's seasonal orders. Last year your facility scored 82, with delivery documentation noted as the main improvement area.\n\nBest regards,\nVendor Management Team",
+"questions": [
+{"q": "What is the purpose of the visit?", "type": "주제·목적", "choices": ["An annual supplier audit", "A sales negotiation", "A factory purchase", "A staff training session"], "a": 0, "exKo": "연례 협력사 현장 감사를 위한 일정 조율 메일입니다."},
+{"q": "What benefit comes with a score above 85?", "type": "세부사항", "choices": ["Priority for next year's seasonal orders", "A cash bonus", "A longer contract", "Fewer future audits"], "a": 0, "exKo": "85점 초과 시 내년 시즌 주문에서 우선 고려됩니다."},
+{"q": "What was Silverleaf's main improvement area last year?", "type": "세부사항", "choices": ["Delivery documentation", "Working conditions", "Product quality", "Staff turnover"], "a": 0, "exKo": "작년 82점이었고 배송 서류가 주요 개선 과제로 지적되었습니다."}
+]
+},
+{
+"kind": "공지",
+"title": "건물 옥상 휴게 공간 개방 공지",
+"passage": "ROOFTOP TERRACE NOW OPEN\n\nThe renovated rooftop terrace on the 12th floor is now open to all building tenants on weekdays from 8 a.m. to 8 p.m. The space offers seating for 60, shaded tables, and Wi-Fi coverage matching office speeds.\n\nThe terrace may be reserved for team events after 4 p.m. through the building portal, up to two weeks ahead; unreserved times are first come, first served. Food is welcome, but glass containers are not permitted. Two enclosed meeting pods near the garden can be booked in 30-minute blocks.\n\nIn case of strong wind or storms, the terrace closes automatically and reservations are moved to the ground-floor lounge. Please dispose of waste in the sorting bins by the exit.\n\nBuilding Services",
+"questions": [
+{"q": "How can teams secure the terrace for events?", "type": "세부사항", "choices": ["Reserve through the building portal", "Email building security", "Sign up at the terrace", "Call the ground-floor lounge"], "a": 0, "exKo": "오후 4시 이후 행사는 건물 포털에서 최대 2주 전에 예약합니다."},
+{"q": "What is NOT allowed on the terrace?", "type": "세부사항", "choices": ["Glass containers", "Food", "Team events", "Wi-Fi use"], "a": 0, "exKo": "음식은 되지만 유리 용기는 반입 금지입니다."},
+{"q": "What happens during strong wind?", "type": "세부사항", "choices": ["The terrace closes and reservations move indoors", "Events continue with caution", "Only pods stay open", "Staff hand out covers"], "a": 0, "exKo": "자동 폐쇄되고 예약은 1층 라운지로 옮겨집니다."}
+]
+},
+{
+"kind": "공지",
+"title": "법인카드 사용 지침 개정 공지",
+"passage": "CORPORATE CARD POLICY REVISION\n\nThe corporate card policy has been revised effective immediately. Key changes:\n\n1. Meal limits rise from $40 to $55 per person for client entertainment; receipts must list attendees.\n2. Ride-hailing services may now be charged directly to the card for business trips, replacing the reimbursement process.\n3. Subscriptions and software purchases now require pre-approval through the procurement portal, regardless of amount — several duplicate tools were discovered last quarter.\n4. Personal use, even if repaid later, remains prohibited and is flagged automatically.\n\nCards of employees with three or more policy violations in a year will be suspended for six months. The full policy and a one-page summary are on the finance intranet page.\n\nFinance Operations",
+"questions": [
+{"q": "What change applies to software purchases?", "type": "세부사항", "choices": ["They require pre-approval regardless of amount", "They are banned", "They have a $55 limit", "They need receipts with attendees"], "a": 0, "exKo": "금액과 무관하게 구매 포털 사전 승인이 필요해졌습니다."},
+{"q": "Why was the software rule introduced?", "type": "세부사항", "choices": ["Duplicate tools were discovered", "Costs rose sharply", "A vendor complained", "An audit failed"], "a": 0, "exKo": "지난 분기에 중복 구독 도구들이 발견되었기 때문입니다."},
+{"q": "What happens after three violations in a year?", "type": "세부사항", "choices": ["The card is suspended for six months", "The employee is dismissed", "A fine is charged", "Limits are lowered"], "a": 0, "exKo": "연 3회 이상 위반 시 법인카드가 6개월 정지됩니다."}
+]
+},
+{
+"kind": "광고",
+"title": "산업용 라벨 프린터 광고",
+"passage": "TAGMASTER PRO — LABELS THAT KEEP UP WITH YOUR LINE\n\nWhen your conveyor moves 200 boxes an hour, a jammed label printer stops everything. The TagMaster Pro prints and applies 250 shipping labels per hour with a jam rate under 0.1 percent, verified by independent testing.\n\nIts sealed print head handles dusty warehouse air, and the quick-swap roll system lets any worker reload in under 30 seconds — no tools, no training. TagMaster connects to all major warehouse management systems out of the box.\n\nEvery unit includes on-site installation and a two-year service plan with 24-hour response. Ask about our trade-in program: working printers of any brand earn up to $400 off. Request a quote at tagmasterpro.com.",
+"questions": [
+{"q": "What key problem does the ad focus on?", "type": "주제·목적", "choices": ["Printer jams stopping the line", "High label costs", "Slow conveyor belts", "Training new workers"], "a": 0, "exKo": "라벨 프린터 걸림이 라인 전체를 멈추는 문제를 내세웁니다."},
+{"q": "What does the quick-swap system allow?", "type": "세부사항", "choices": ["Reloading in under 30 seconds without tools", "Printing two label sizes", "Remote monitoring", "Automatic reordering"], "a": 0, "exKo": "누구나 도구 없이 30초 안에 라벨 롤을 교체할 수 있습니다."},
+{"q": "How can buyers earn up to $400 off?", "type": "세부사항", "choices": ["By trading in a working printer", "By ordering five units", "By paying upfront", "By writing a review"], "a": 0, "exKo": "브랜드 무관 작동하는 프린터를 보상 판매하면 할인받습니다."}
+]
+},
+{
+"kind": "광고",
+"title": "출장자 전용 숙박 멤버십 광고",
+"passage": "STAYFREQUENT — HOTELS FOR PEOPLE WHO LIVE ON THE ROAD\n\nBooking a different hotel every week? StayFrequent membership gives business travelers guaranteed rates at 900 partner hotels in 60 cities — always at or below the best public price, or we refund double the difference.\n\nMembers check in with the app, skip the front desk, and keep preferences — floor, pillow type, late checkout — applied automatically at every partner property. Monthly statements organize stays by project code, ready for your expense system.\n\nMembership is $99 a year and pays for itself in about three stays. Companies enrolling five or more travelers get an account dashboard and quarterly rate reviews. Start a 60-day trial at stayfrequent.com.",
+"questions": [
+{"q": "What guarantee does StayFrequent make on price?", "type": "세부사항", "choices": ["Double the difference refunded if beaten", "Always 50 percent off", "Free cancellation", "Fixed rates for a year"], "a": 0, "exKo": "최저 공개가보다 비싸면 차액의 두 배를 환불합니다."},
+{"q": "What follows members to every partner hotel?", "type": "세부사항", "choices": ["Their room preferences", "Their luggage", "Their expense reports", "Their project codes"], "a": 0, "exKo": "층수, 베개 종류 등 선호 사항이 자동 적용됩니다."},
+{"q": "What do companies with five or more travelers receive?", "type": "세부사항", "choices": ["A dashboard and quarterly rate reviews", "Free memberships", "Airport transfers", "A dedicated hotel floor"], "a": 0, "exKo": "계정 대시보드와 분기별 요금 검토를 제공받습니다."}
+]
+},
+{
+"kind": "기사",
+"title": "지방 도시 콜센터 유치 기사",
+"passage": "MARLOW — Insurance group Fenwick will open a 300-seat customer service center in Marlow next spring, the city's largest single hiring announcement in a decade. The company chose Marlow over two larger cities, citing lower office costs and the university's language programs.\n\nThe city council approved a five-year property tax reduction, and the university will design a customer-communication certificate course aligned with Fenwick's training. Hiring begins in January, with pay starting 8 percent above the regional average for similar roles.\n\nLocal businesses expect knock-on benefits: a developer has already announced plans to convert a vacant department store nearby into apartments. \"Three hundred paychecks change a downtown,\" said chamber of commerce head Rita Vaughan.",
+"questions": [
+{"q": "Why did Fenwick choose Marlow?", "type": "세부사항", "choices": ["Lower office costs and university language programs", "The biggest tax cut offered", "Its city center apartments", "Existing insurance offices"], "a": 0, "exKo": "낮은 사무실 비용과 대학의 어학 과정을 이유로 들었습니다."},
+{"q": "What will the university do?", "type": "세부사항", "choices": ["Design a certificate course aligned with Fenwick's training", "Rent space to Fenwick", "Fund the tax reduction", "Hire Fenwick staff"], "a": 0, "exKo": "회사 교육과 연계된 고객 커뮤니케이션 수료 과정을 개설합니다."},
+{"q": "What does Ms. Vaughan's comment suggest?", "type": "추론", "choices": ["The jobs will revitalize the downtown economy", "Wages are too low", "The store will reopen", "Taxes will rise"], "a": 0, "exKo": "300명의 급여가 도심 상권에 활력을 준다는 기대를 나타냅니다."}
+]
+},
+{
+"kind": "기사",
+"title": "사무기기 구독 전환 트렌드 기사",
+"passage": "BUSINESS DESK — A growing number of small firms are renting office equipment by subscription instead of buying it, according to a report from market tracker OfficeData. Subscriptions for printers, coffee machines, and even standing desks rose 45 percent last year.\n\nProviders bundle maintenance and replacement into the monthly fee, which appeals to firms without facilities staff. Accountants also note that subscription costs are fully deductible in the year paid, simplifying bookkeeping compared with depreciating owned equipment.\n\nThe report cautions that long subscriptions can exceed purchase prices within three years, and advises firms to compare total costs before signing. Even so, providers expect growth to continue as more firms prioritize predictable monthly spending over ownership.",
+"questions": [
+{"q": "What trend does the report describe?", "type": "주제·목적", "choices": ["Renting office equipment by subscription", "Buying cheaper equipment", "Sharing offices", "Hiring facilities staff"], "a": 0, "exKo": "사무기기를 구매 대신 구독으로 이용하는 흐름을 다룹니다."},
+{"q": "Why do subscriptions appeal to firms without facilities staff?", "type": "세부사항", "choices": ["Maintenance and replacement are bundled in", "Equipment is newer", "Contracts are shorter", "Delivery is free"], "a": 0, "exKo": "유지보수와 교체가 월 요금에 포함되어 있기 때문입니다."},
+{"q": "What warning does the report give?", "type": "세부사항", "choices": ["Long subscriptions can cost more than buying", "Equipment quality is lower", "Contracts cannot be canceled", "Deductions may be denied"], "a": 0, "exKo": "3년 이상 구독하면 구매 가격을 넘을 수 있다고 경고합니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "고객 데모 준비 점검 문자",
+"passage": "Ken Sato (8:50 A.M.)\nDemo day! The Meridian team arrives at 10:30. Conference room is booked, right?\n\nAlma Reyes (8:52 A.M.)\nBooked 10-12, screens tested last night. One thing: their CTO wants the data upload demo with THEIR sample file, not ours.\n\nKen Sato (8:54 A.M.)\nRisky without testing. When can we get the file?\n\nAlma Reyes (8:55 A.M.)\nTheir analyst just emailed it. I'm running it through the importer now.\n\nKen Sato (9:10 A.M.)\nResult?\n\nAlma Reyes (9:12 A.M.)\nTwo date columns failed, but I fixed the format mapping. Import runs clean now — 40 seconds for 200,000 rows.\n\nKen Sato (9:13 A.M.)\nExcellent. Lead with that number — it's four times faster than their current tool.",
+"questions": [
+{"q": "What did the client's CTO request?", "type": "세부사항", "choices": ["A demo using the client's own sample file", "An earlier meeting time", "A bigger conference room", "A price quote"], "a": 0, "exKo": "자사 샘플 파일로 업로드 데모를 해 달라고 요청했습니다."},
+{"q": "What problem did Ms. Reyes find and fix?", "type": "세부사항", "choices": ["Two date columns failed to import", "The screens were broken", "The file never arrived", "The room was double-booked"], "a": 0, "exKo": "날짜 열 두 개의 형식 오류를 매핑 수정으로 해결했습니다."},
+{"q": "Why does Mr. Sato want to lead with the import time?", "type": "추론", "choices": ["It is much faster than the client's current tool", "It is the only working feature", "The CTO requested it", "It hides other weaknesses"], "a": 0, "exKo": "기존 도구보다 4배 빠르다는 점이 강력한 세일즈 포인트이기 때문입니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "야간 시스템 점검 일정 문자",
+"passage": "Rita Kohl (5:20 P.M.)\nHeads-up: the payment system maintenance moved from Sunday to Saturday night, 11 P.M. to 3 A.M.\n\nDev Anand (5:23 P.M.)\nWhy the change?\n\nRita Kohl (5:24 P.M.)\nThe bank's gateway team had a conflict. Saturday was the only slot both sides could staff.\n\nDev Anand (5:26 P.M.)\nOnline orders will queue during the window, right? Not fail?\n\nRita Kohl (5:28 P.M.)\nCorrect — orders queue and process automatically after 3 A.M. Customers see a banner about delayed confirmation emails.\n\nDev Anand (5:29 P.M.)\nGood. I'll update the store notice and tell customer service to expect Sunday-morning questions.\n\nRita Kohl (5:30 P.M.)\nPerfect. I'll send the all-clear when testing finishes, hopefully by 3:30.",
+"questions": [
+{"q": "Why was the maintenance moved to Saturday?", "type": "세부사항", "choices": ["The bank's team had a scheduling conflict", "Sunday traffic is higher", "Staff requested it", "Testing failed on Sunday"], "a": 0, "exKo": "은행 게이트웨이 팀 일정과 겹쳐 토요일로 옮겼습니다."},
+{"q": "What happens to orders during the window?", "type": "세부사항", "choices": ["They queue and process after 3 A.M.", "They fail with an error", "They are canceled", "They are charged twice"], "a": 0, "exKo": "주문은 대기열에 쌓였다가 3시 이후 자동 처리됩니다."},
+{"q": "What will Mr. Anand tell customer service?", "type": "세부사항", "choices": ["To expect questions Sunday morning", "To work Saturday night", "To stop taking orders", "To email all customers"], "a": 0, "exKo": "일요일 아침 문의가 있을 것이라고 미리 알리겠다고 합니다."}
+]
+}
+]
+}

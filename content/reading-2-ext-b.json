@@ -1,0 +1,104 @@
+{
+"passages": [
+{
+"kind": "이메일",
+"title": "고객 불만 처리 결과 안내 메일",
+"passage": "From: Rowan Furniture Customer Relations\nTo: Michelle Tan\nSubject: Resolution of Your Complaint (Case 2291)\n\nDear Ms. Tan,\n\nThank you for your patience while we investigated the scratches on the conference table delivered to your office on May 2. Our review of the delivery photos confirmed the damage occurred during transport, not at your site.\n\nWe will replace the tabletop free of charge. Our installer will contact you within two business days to arrange a convenient time; installation takes about an hour and can be done outside office hours at no extra cost.\n\nIn addition, we have credited 10 percent of your order value to your account for the inconvenience. This credit applies automatically to your next purchase.\n\nSincerely,\nJoel Barnes\nCustomer Relations Manager",
+"questions": [
+{"q": "What did the investigation confirm?", "type": "세부사항", "choices": ["The damage happened during transport", "The customer caused the damage", "The table was the wrong model", "The photos were missing"], "a": 0, "exKo": "배송 사진 검토 결과 운송 중 손상으로 확인되었습니다."},
+{"q": "What will happen within two business days?", "type": "세부사항", "choices": ["The installer will contact Ms. Tan", "The table will be replaced", "The credit will expire", "A new table will be delivered"], "a": 0, "exKo": "설치 기사가 이틀 내에 연락해 일정을 잡는다고 안내합니다."},
+{"q": "What compensation was given?", "type": "세부사항", "choices": ["A 10 percent credit on the account", "A full refund", "A free chair", "Free delivery for a year"], "a": 0, "exKo": "주문 금액의 10%를 계정 크레딧으로 제공했습니다."}
+]
+},
+{
+"kind": "이메일",
+"title": "사내 멘토링 프로그램 모집 메일",
+"passage": "From: Talent Development\nTo: All Employees\nSubject: Mentoring Program — Applications Open\n\nDear colleagues,\n\nApplications are now open for the spring mentoring program, which pairs employees with senior colleagues from a different department for six months. Pairs meet twice a month, and topics range from career planning to presentation skills.\n\nLast year, 85 percent of participants said the program helped them take on new responsibilities, and several moved into cross-departmental roles.\n\nTo apply, complete the short form on the HR portal by January 20, listing your goals and preferred meeting style. Matches will be announced February 3, followed by a kickoff lunch for all pairs. Both mentors and mentees earn eight hours of training credit.\n\nTalent Development Team",
+"questions": [
+{"q": "What is a feature of the mentoring program?", "type": "세부사항", "choices": ["Mentors come from a different department", "It lasts one year", "Pairs meet weekly", "Only managers may join"], "a": 0, "exKo": "다른 부서의 선배 직원과 6개월간 짝을 이루는 프로그램입니다."},
+{"q": "What did most participants report last year?", "type": "세부사항", "choices": ["The program helped them take on new responsibilities", "They received raises", "They changed companies", "They became mentors"], "a": 0, "exKo": "85%가 새로운 업무를 맡는 데 도움이 되었다고 답했습니다."},
+{"q": "What happens on February 3?", "type": "세부사항", "choices": ["Matches will be announced", "Applications close", "The kickoff lunch is held", "Training credit is granted"], "a": 0, "exKo": "Matches will be announced February 3라고 명시되어 있습니다."}
+]
+},
+{
+"kind": "공지",
+"title": "출입 보안 절차 강화 공지",
+"passage": "SECURITY PROCEDURE UPDATE\n\nEffective August 1, all visitors must be registered in the visitor system at least two hours before arrival. Walk-in visitors will be asked to wait in the lobby while their host is contacted, which may take up to 20 minutes during busy periods.\n\nVisitors will receive a QR code by email; scanning it at the gate prints a badge valid for one day. Badges must be worn visibly at all times, and visitors must be accompanied by their host beyond the lobby.\n\nContractors working longer than one week should apply for a temporary staff pass through their sponsoring department instead. Deliveries are not affected and continue through the loading dock as usual.\n\nCorporate Security",
+"questions": [
+{"q": "What must hosts do for visitors?", "type": "세부사항", "choices": ["Register them at least two hours before arrival", "Meet them at the gate", "Pay a visitor fee", "Provide a photo"], "a": 0, "exKo": "방문 2시간 전까지 방문객 시스템에 등록해야 합니다."},
+{"q": "What does scanning the QR code do?", "type": "세부사항", "choices": ["Prints a one-day badge", "Opens all doors", "Calls the host", "Registers a car"], "a": 0, "exKo": "게이트에서 QR 코드를 스캔하면 1일용 출입증이 발급됩니다."},
+{"q": "Who should apply for a temporary staff pass?", "type": "세부사항", "choices": ["Contractors working longer than a week", "All visitors", "Delivery drivers", "New employees"], "a": 0, "exKo": "1주일 이상 근무하는 협력업체 직원은 임시 직원 패스를 신청해야 합니다."}
+]
+},
+{
+"kind": "공지",
+"title": "하계 유연근무 시행 공지",
+"passage": "SUMMER FLEX HOURS\n\nFrom June 1 through August 31, employees may start work any time between 7 and 10 a.m., completing the standard eight hours plus lunch. Core hours, when everyone must be available for meetings, are 10 a.m. to 3 p.m.\n\nTeams that serve customers directly should coordinate schedules so that coverage is maintained from 8 a.m. to 6 p.m.; team leads will post rotas by May 25. Employees wishing to work from home on Fridays may do so with manager approval, up to twice a month.\n\nPlease record your chosen start time in the scheduling system by May 28. The arrangement will be reviewed in September before any decision about extending it year-round.\n\nHuman Resources",
+"questions": [
+{"q": "What are the core hours?", "type": "세부사항", "choices": ["10 a.m. to 3 p.m.", "7 to 10 a.m.", "8 a.m. to 6 p.m.", "9 a.m. to 5 p.m."], "a": 0, "exKo": "전원이 회의에 참여 가능해야 하는 핵심 시간은 10시~15시입니다."},
+{"q": "How often may employees work from home on Fridays?", "type": "세부사항", "choices": ["Up to twice a month", "Every Friday", "Once a quarter", "Unlimited with approval"], "a": 0, "exKo": "관리자 승인 하에 월 2회까지 금요일 재택이 가능합니다."},
+{"q": "What will happen in September?", "type": "세부사항", "choices": ["The arrangement will be reviewed", "Flex hours become permanent", "New rotas are posted", "Core hours change"], "a": 0, "exKo": "연중 확대 여부 결정 전에 9월에 제도를 검토합니다."}
+]
+},
+{
+"kind": "광고",
+"title": "법인 차량 렌탈 프로그램 광고",
+"passage": "DRIVEPOOL FOR BUSINESS — YOUR FLEET, WITHOUT THE FLEET\n\nWhy buy company cars that sit idle most of the week? DrivePool gives your team access to vehicles parked at 200 locations citywide, billed by the hour.\n\nEmployees unlock cars with the DrivePool app; fuel, insurance, and maintenance are all included in the rate. Administrators set monthly limits per employee and receive a single itemized invoice — no more collecting fuel receipts.\n\nCompanies using DrivePool report cutting vehicle costs by an average of 35 percent in the first year. Sign up before March 31 and your team's first 500 kilometers are free. Book a demo at drivepool.biz/business.",
+"questions": [
+{"q": "What problem does DrivePool claim to solve?", "type": "주제·목적", "choices": ["Company cars sitting idle", "Expensive parking", "Slow deliveries", "Employee commuting"], "a": 0, "exKo": "일주일 대부분 놀고 있는 법인 차량 문제를 시간제 공유로 해결한다는 광고입니다."},
+{"q": "What is included in the hourly rate?", "type": "세부사항", "choices": ["Fuel, insurance, and maintenance", "A personal driver", "Airport pickup", "Monthly washing"], "a": 0, "exKo": "fuel, insurance, and maintenance are all included라고 명시합니다."},
+{"q": "What do companies get for signing up before March 31?", "type": "세부사항", "choices": ["500 free kilometers", "A free month", "35 percent off", "A free demo car"], "a": 0, "exKo": "your team's first 500 kilometers are free에서 확인됩니다."}
+]
+},
+{
+"kind": "광고",
+"title": "직원 복지 플랫폼 광고",
+"passage": "PERKWELL — BENEFITS YOUR TEAM WILL ACTUALLY USE\n\nGym passes nobody uses? Meal cards that expire? PerkWell replaces one-size-fits-all benefits with a monthly points budget each employee spends as they choose — fitness, childcare, courses, transit, or wellness apps.\n\nOur dashboard shows anonymized usage trends so HR can see which benefits matter, and unused points roll over for up to three months. Setup takes under a week, and PerkWell connects to all major payroll systems.\n\nCompanies with 50 to 500 employees can claim a free benefits audit this quarter. See why employee satisfaction scores rise an average of 18 points after switching. Request pricing at perkwell.io.",
+"questions": [
+{"q": "How does PerkWell differ from traditional benefits?", "type": "주제·목적", "choices": ["Employees choose how to spend a points budget", "It offers only gym passes", "It pays cash bonuses", "It replaces payroll systems"], "a": 0, "exKo": "획일적 복지 대신 직원이 포인트를 자유롭게 쓰는 방식입니다."},
+{"q": "What happens to unused points?", "type": "세부사항", "choices": ["They roll over for up to three months", "They expire monthly", "They convert to cash", "They go to charity"], "a": 0, "exKo": "unused points roll over for up to three months라고 안내합니다."},
+{"q": "Who can claim a free benefits audit?", "type": "세부사항", "choices": ["Companies with 50 to 500 employees", "Any company", "Companies with under 50 staff", "HR consultants"], "a": 0, "exKo": "50~500인 기업이 이번 분기 무료 복지 진단을 받을 수 있습니다."}
+]
+},
+{
+"kind": "기사",
+"title": "제조사 재활용 소재 전환 기사",
+"passage": "HALVERTON — Appliance maker Nordic Home announced that 60 percent of the plastic in its vacuum cleaners now comes from recycled sources, up from 25 percent two years ago. The company aims for 80 percent by 2028.\n\nReaching the target required redesigning several parts, because recycled plastic behaves differently under heat. The engineering team tested 40 material blends before finding combinations that met durability standards.\n\nThe shift has not raised retail prices, executives said, because recycled material costs fell as suppliers scaled up. Industry analysts note that appliance buyers increasingly check environmental labels, and two competitors have announced similar targets since Nordic Home's first report.",
+"questions": [
+{"q": "What did Nordic Home announce?", "type": "주제·목적", "choices": ["Most vacuum plastic now comes from recycled sources", "A new vacuum model", "A price increase", "A factory closure"], "a": 0, "exKo": "청소기 플라스틱의 60%를 재활용 소재로 전환했다는 발표입니다."},
+{"q": "Why did parts need redesigning?", "type": "세부사항", "choices": ["Recycled plastic behaves differently under heat", "Customers wanted new colors", "Old parts were too heavy", "Regulations changed"], "a": 0, "exKo": "재활용 플라스틱은 열에 다르게 반응하기 때문입니다."},
+{"q": "Why have retail prices stayed the same?", "type": "세부사항", "choices": ["Recycled material costs fell", "The company cut wages", "Production moved abroad", "Sales volumes doubled"], "a": 0, "exKo": "공급업체 확대로 재활용 소재 가격이 하락했기 때문입니다."}
+]
+},
+{
+"kind": "기사",
+"title": "도심 소형 물류 허브 기사",
+"passage": "EASTBRIDGE — Delivery company Parcelo opened three 'micro-hubs' in converted parking garages downtown, from which couriers complete final deliveries by cargo bicycle. The hubs receive vans overnight, when traffic is light, and bikes handle daytime deliveries within two kilometers.\n\nThe city supported the project by discounting the garage leases, hoping to cut delivery van traffic, which has grown 40 percent in five years. Early data show vans entering the center during business hours fell 15 percent on Parcelo routes.\n\nRival firms are watching closely. \"If the numbers hold through winter, this becomes the standard model,\" said logistics professor Ida Wallen. Parcelo plans two more hubs by summer.",
+"questions": [
+{"q": "What is a micro-hub in this article?", "type": "세부사항", "choices": ["A garage-based station for bike deliveries", "A small delivery van", "A downtown store", "An overnight parking lot"], "a": 0, "exKo": "주차장을 개조해 자전거 배송 거점으로 쓰는 시설입니다."},
+{"q": "How did the city support the project?", "type": "세부사항", "choices": ["By discounting the garage leases", "By buying cargo bikes", "By banning vans", "By hiring couriers"], "a": 0, "exKo": "차고 임대료를 할인해 프로젝트를 지원했습니다."},
+{"q": "What does Professor Wallen suggest?", "type": "추론", "choices": ["The model may become an industry standard", "The project will fail in winter", "Vans are more efficient", "Parcelo should stop expanding"], "a": 0, "exKo": "겨울까지 수치가 유지되면 표준 모델이 될 것이라고 전망합니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "월간 보고서 데이터 검증 문자",
+"passage": "Tom Iwata (10:05 A.M.)\nHi Sara, the June sales figure in your report shows 12 percent growth, but the dashboard says 8. Which is right?\n\nSara Kim (10:12 A.M.)\nGood catch. The dashboard excludes the wholesale channel — my number includes it. I'll add a note explaining the difference.\n\nTom Iwata (10:14 A.M.)\nMakes sense. The board asked us to report both separately from now on, actually.\n\nSara Kim (10:16 A.M.)\nThen I'll split the chart into retail and wholesale lines. Can you send me the dashboard export so the retail numbers match exactly?\n\nTom Iwata (10:17 A.M.)\nSending now. Deadline is still Thursday noon, right?\n\nSara Kim (10:18 A.M.)\nYes. With the split chart, we should be done Wednesday.",
+"questions": [
+{"q": "Why do the two growth figures differ?", "type": "세부사항", "choices": ["One includes the wholesale channel", "One uses last year's data", "The dashboard has an error", "The report is outdated"], "a": 0, "exKo": "대시보드는 도매 채널을 제외하지만 보고서 수치는 포함하기 때문입니다."},
+{"q": "What did the board request?", "type": "세부사항", "choices": ["Reporting retail and wholesale separately", "A new dashboard", "An earlier deadline", "Monthly meetings"], "a": 0, "exKo": "이사회가 소매와 도매를 분리해 보고하라고 요청했습니다."},
+{"q": "When does Ms. Kim expect to finish?", "type": "세부사항", "choices": ["Wednesday", "Thursday noon", "Friday", "Today"], "a": 0, "exKo": "we should be done Wednesday라고 예상합니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "출장 경비 한도 문의 문자",
+"passage": "Liam Ford (4:40 P.M.)\nHi Yuki, quick question before I book — the Chicago hotel is $189 a night. Our limit is $170, right?\n\nYuki Tanaka (4:44 P.M.)\nFor Chicago it's actually $200 — big cities have a higher cap. Check table 2 of the travel policy.\n\nLiam Ford (4:45 P.M.)\nOh, I was looking at the standard rate. So I'm fine to book?\n\nYuki Tanaka (4:47 P.M.)\nYes, just attach the conference agenda when you file the expense. Trips over three nights also need pre-approval from your director.\n\nLiam Ford (4:48 P.M.)\nIt's two nights, so no approval needed. Booking now — thanks!\n\nYuki Tanaka (4:49 P.M.)\nHave a good trip!",
+"questions": [
+{"q": "What was Mr. Ford's misunderstanding?", "type": "세부사항", "choices": ["He looked at the standard rate instead of the big-city cap", "He booked the wrong city", "He missed the approval deadline", "He used last year's policy"], "a": 0, "exKo": "대도시에 적용되는 상향 한도($200)가 아닌 표준 한도를 보고 있었습니다."},
+{"q": "What must be attached to the expense filing?", "type": "세부사항", "choices": ["The conference agenda", "The hotel receipt only", "A director's memo", "A flight ticket"], "a": 0, "exKo": "경비 청구 시 콘퍼런스 일정표를 첨부해야 합니다."},
+{"q": "Why does Mr. Ford NOT need pre-approval?", "type": "추론", "choices": ["His trip is only two nights", "He is a director", "The hotel is cheap", "He booked early"], "a": 0, "exKo": "3박 초과 출장만 사전 승인이 필요한데 2박이기 때문입니다."}
+]
+}
+]
+}
