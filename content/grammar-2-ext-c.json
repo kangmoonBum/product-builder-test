@@ -1,0 +1,797 @@
+{
+"items": [
+{
+"q": "The revised handbook is ___ clearer than the old one.",
+"type": "품사",
+"choices": [
+"notice",
+"noticeable",
+"noticeably",
+"noticed"
+],
+"a": 2,
+"transKo": "개정된 안내서는 예전 것보다 눈에 띄게 더 명확하다.",
+"exKo": "비교급 clearer를 수식하는 부사 noticeably가 정답입니다."
+},
+{
+"q": "Applicants should describe their ___ achievements briefly.",
+"type": "품사",
+"choices": [
+"profession",
+"professional",
+"professionally",
+"professions"
+],
+"a": 1,
+"transKo": "지원자들은 자신의 직업적 성취를 간략히 기술해야 한다.",
+"exKo": "명사 achievements를 수식하는 형용사 professional이 정답입니다."
+},
+{
+"q": "The two branches operate ___ of each other.",
+"type": "품사",
+"choices": [
+"independent",
+"independently",
+"independence",
+"depending"
+],
+"a": 1,
+"transKo": "두 지점은 서로 독립적으로 운영된다.",
+"exKo": "동사 operate를 수식하는 부사 independently가 정답입니다. independently of는 빈출 결합입니다."
+},
+{
+"q": "Please note the ___ date printed on the carton.",
+"type": "품사",
+"choices": [
+"expire",
+"expired",
+"expiration",
+"expiring of"
+],
+"a": 2,
+"transKo": "상자에 인쇄된 유효 기한을 확인해 주세요.",
+"exKo": "date와 결합하는 복합 명사 expiration date(유효 기한)가 정답입니다."
+},
+{
+"q": "The venue is ___ located near two subway lines.",
+"type": "품사",
+"choices": [
+"convenience",
+"convenient",
+"conveniently",
+"convene"
+],
+"a": 2,
+"transKo": "그 행사장은 지하철 두 개 노선 근처의 편리한 곳에 있다.",
+"exKo": "과거분사 located를 수식하는 부사 conveniently가 정답입니다."
+},
+{
+"q": "Staff morale rose after the ___ of flexible hours.",
+"type": "품사",
+"choices": [
+"introduce",
+"introduction",
+"introduced",
+"introductory"
+],
+"a": 1,
+"transKo": "탄력 근무제 도입 후 직원 사기가 올랐다.",
+"exKo": "관사 the와 of 사이의 명사 자리이므로 introduction이 정답입니다."
+},
+{
+"q": "The proposal seems ___ given our current budget.",
+"type": "품사",
+"choices": [
+"reason",
+"reasonable",
+"reasonably",
+"reasoning"
+],
+"a": 1,
+"transKo": "현재 예산을 고려하면 그 제안은 합리적으로 보인다.",
+"exKo": "seem + 형용사(~해 보이다) 구조이므로 reasonable이 정답입니다."
+},
+{
+"q": "The clinic treats walk-in patients ___ quickly.",
+"type": "품사",
+"choices": [
+"surprising",
+"surprised",
+"surprisingly",
+"surprise"
+],
+"a": 2,
+"transKo": "그 병원은 예약 없이 온 환자들을 놀랄 만큼 빨리 진료한다.",
+"exKo": "부사 quickly를 수식하는 부사 surprisingly가 정답입니다."
+},
+{
+"q": "Managers value her ___ to meet tight deadlines.",
+"type": "품사",
+"choices": [
+"able",
+"ably",
+"ability",
+"abled"
+],
+"a": 2,
+"transKo": "관리자들은 촉박한 마감을 지키는 그녀의 능력을 높이 평가한다.",
+"exKo": "소유격 her 뒤의 명사 자리이므로 ability가 정답입니다."
+},
+{
+"q": "The design was praised for its ___ layout.",
+"type": "품사",
+"choices": [
+"innovate",
+"innovative",
+"innovatively",
+"innovation"
+],
+"a": 1,
+"transKo": "그 디자인은 혁신적인 배치로 호평을 받았다.",
+"exKo": "명사 layout을 수식하는 형용사 innovative가 정답입니다."
+},
+{
+"q": "Sales figures are reported ___ to the head office.",
+"type": "품사",
+"choices": [
+"month",
+"monthly",
+"months",
+"monthful"
+],
+"a": 1,
+"transKo": "판매 수치는 매달 본사에 보고된다.",
+"exKo": "동사를 수식하는 부사 monthly(매달)가 정답입니다."
+},
+{
+"q": "The lecture offered a ___ overview of trade law.",
+"type": "품사",
+"choices": [
+"use",
+"useful",
+"usefully",
+"usefulness"
+],
+"a": 1,
+"transKo": "그 강연은 무역법에 대한 유용한 개관을 제공했다.",
+"exKo": "명사 overview를 수식하는 형용사 useful이 정답입니다."
+},
+{
+"q": "The chef ___ prepares the tasting menu himself.",
+"type": "품사",
+"choices": [
+"person",
+"personal",
+"personally",
+"personality"
+],
+"a": 2,
+"transKo": "셰프는 시식 메뉴를 직접 준비한다.",
+"exKo": "동사 prepares를 수식하는 부사 personally(직접)가 정답입니다."
+},
+{
+"q": "The panel discussed the ___ of remote onboarding.",
+"type": "품사",
+"choices": [
+"effective",
+"effectively",
+"effectiveness",
+"effect on"
+],
+"a": 2,
+"transKo": "패널은 원격 신입 교육의 효과에 대해 논의했다.",
+"exKo": "관사 the와 of 사이의 명사 자리이므로 effectiveness가 정답입니다."
+},
+{
+"q": "The updated route is ___ shorter for delivery vans.",
+"type": "품사",
+"choices": [
+"significant",
+"significantly",
+"significance",
+"signify"
+],
+"a": 1,
+"transKo": "변경된 경로는 배송 차량에 훨씬 더 짧다.",
+"exKo": "비교급 shorter를 수식하는 부사 significantly가 정답입니다."
+},
+{
+"q": "The results ___ to shareholders once the audit ends.",
+"type": "시제·형태",
+"choices": [
+"release",
+"will be released",
+"have released",
+"releasing"
+],
+"a": 1,
+"transKo": "감사가 끝나면 결과가 주주들에게 공개될 것이다.",
+"exKo": "결과는 공개되는 대상이므로 미래 수동태 will be released가 정답입니다."
+},
+{
+"q": "Mr. Okafor ___ two branches before he became director.",
+"type": "시제·형태",
+"choices": [
+"manages",
+"had managed",
+"will manage",
+"managing"
+],
+"a": 1,
+"transKo": "오카포르 씨는 이사가 되기 전에 두 개 지점을 관리했었다.",
+"exKo": "과거(이사가 됨)보다 앞선 경력이므로 과거완료 had managed가 정답입니다."
+},
+{
+"q": "The team practiced ___ the demo before the expo.",
+"type": "시제·형태",
+"choices": [
+"give",
+"to give",
+"giving",
+"given"
+],
+"a": 2,
+"transKo": "팀은 박람회 전에 시연 연습을 했다.",
+"exKo": "practice는 동명사를 목적어로 취하므로 giving이 정답입니다."
+},
+{
+"q": "A number of complaints ___ since the redesign launched.",
+"type": "시제·형태",
+"choices": [
+"has been filed",
+"have been filed",
+"files",
+"was filed"
+],
+"a": 1,
+"transKo": "리디자인 출시 이후 많은 불만이 접수되었다.",
+"exKo": "A number of + 복수명사는 복수 취급하며 since와 함께 현재완료 수동태 have been filed가 정답입니다."
+},
+{
+"q": "The venue ___ decorated when the caterers arrived.",
+"type": "시제·형태",
+"choices": [
+"is being",
+"was being",
+"has been being",
+"will being"
+],
+"a": 1,
+"transKo": "케이터링 업체가 도착했을 때 행사장은 장식되고 있는 중이었다.",
+"exKo": "과거 시점에 진행 중인 수동 상황이므로 과거진행 수동태 was being decorated가 정답입니다."
+},
+{
+"q": "Once the invoice ___ , the goods will be dispatched.",
+"type": "시제·형태",
+"choices": [
+"pays",
+"is paid",
+"will pay",
+"paying"
+],
+"a": 1,
+"transKo": "송장 대금이 지불되면 상품이 발송될 것이다.",
+"exKo": "시간 부사절에서는 현재시제를 쓰며 송장은 지불되는 대상이므로 수동태 is paid가 정답입니다."
+},
+{
+"q": "The trainees finished ___ the safety module today.",
+"type": "시제·형태",
+"choices": [
+"review",
+"to review",
+"reviewing",
+"reviewed"
+],
+"a": 2,
+"transKo": "교육생들은 오늘 안전 교육 과정 검토를 마쳤다.",
+"exKo": "finish는 동명사를 목적어로 취하므로 reviewing이 정답입니다."
+},
+{
+"q": "The store ___ loyal customers a preview sale every fall.",
+"type": "시제·형태",
+"choices": [
+"offer",
+"offers",
+"offering",
+"is offered"
+],
+"a": 1,
+"transKo": "그 매장은 매년 가을 단골 고객에게 사전 세일을 제공한다.",
+"exKo": "반복되는 일의 현재시제이며 주어가 단수이므로 offers가 정답입니다."
+},
+{
+"q": "Had the flight left on time, we ___ the ceremony.",
+"type": "시제·형태",
+"choices": [
+"attended",
+"would have attended",
+"will attend",
+"have attended"
+],
+"a": 1,
+"transKo": "항공편이 제때 출발했더라면 우리는 기념식에 참석했을 것이다.",
+"exKo": "가정법 과거완료 도치 구문이므로 주절에는 would have p.p.가 옵니다."
+},
+{
+"q": "The company denied ___ the safety report.",
+"type": "시제·형태",
+"choices": [
+"falsify",
+"to falsify",
+"falsifying",
+"falsified"
+],
+"a": 2,
+"transKo": "그 회사는 안전 보고서를 조작했다는 것을 부인했다.",
+"exKo": "deny는 동명사를 목적어로 취하므로 falsifying이 정답입니다."
+},
+{
+"q": "___ the budget review, no new purchases may be made.",
+"type": "전치사·접속사",
+"choices": [
+"During",
+"While",
+"When",
+"Since"
+],
+"a": 0,
+"transKo": "예산 심사 기간에는 신규 구매를 할 수 없다.",
+"exKo": "뒤에 명사구가 오므로 전치사 During이 정답입니다."
+},
+{
+"q": "The elevator inspection was rescheduled ___ next Thursday.",
+"type": "전치사·접속사",
+"choices": [
+"for",
+"by",
+"until to",
+"in"
+],
+"a": 0,
+"transKo": "엘리베이터 점검이 다음 주 목요일로 다시 잡혔다.",
+"exKo": "be rescheduled for + 시점(~로 일정이 변경되다)이 정답입니다."
+},
+{
+"q": "Not only the price ___ the quality impressed the buyers.",
+"type": "전치사·접속사",
+"choices": [
+"but also",
+"and",
+"or else",
+"as well"
+],
+"a": 0,
+"transKo": "가격뿐 아니라 품질도 구매자들에게 깊은 인상을 주었다.",
+"exKo": "not only A but also B 상관접속사 구문이므로 but also가 정답입니다."
+},
+{
+"q": "___ of a fire alarm, use the nearest stairwell.",
+"type": "전치사·접속사",
+"choices": [
+"In case",
+"Because",
+"Provided",
+"Although"
+],
+"a": 0,
+"transKo": "화재 경보가 울릴 경우 가장 가까운 계단을 이용하세요.",
+"exKo": "뒤의 of와 결합하는 In case of(~의 경우)가 정답입니다."
+},
+{
+"q": "The samples arrived ___ schedule despite the port strike.",
+"type": "전치사·접속사",
+"choices": [
+"ahead of",
+"in front",
+"prior",
+"forward of"
+],
+"a": 0,
+"transKo": "항만 파업에도 불구하고 샘플은 예정보다 일찍 도착했다.",
+"exKo": "ahead of schedule(예정보다 일찍)이 빈출 표현입니다."
+},
+{
+"q": "Refunds take five days ___ the payment method.",
+"type": "전치사·접속사",
+"choices": [
+"depending on",
+"depended",
+"dependently",
+"to depend on"
+],
+"a": 0,
+"transKo": "환불은 결제 수단에 따라 5일이 걸린다.",
+"exKo": "depending on(~에 따라)이 정답입니다."
+},
+{
+"q": "___ the renovation is finished, the annex will stay closed.",
+"type": "전치사·접속사",
+"choices": [
+"Until",
+"By",
+"Within",
+"Onto"
+],
+"a": 0,
+"transKo": "보수 공사가 끝날 때까지 별관은 폐쇄된다.",
+"exKo": "뒤에 절이 오고 '~할 때까지'의 의미인 접속사 Until이 정답입니다."
+},
+{
+"q": "The seminar fee includes lunch ___ course materials.",
+"type": "전치사·접속사",
+"choices": [
+"as well as",
+"so that",
+"even though",
+"whereas"
+],
+"a": 0,
+"transKo": "세미나 참가비에는 점심과 교재가 포함된다.",
+"exKo": "A as well as B(A뿐 아니라 B도) 구문이 정답입니다."
+},
+{
+"q": "___ whether to expand, the board requested market data.",
+"type": "전치사·접속사",
+"choices": [
+"Before deciding",
+"While decide",
+"Since decided",
+"Once decides"
+],
+"a": 0,
+"transKo": "확장 여부를 결정하기 전에 이사회는 시장 자료를 요청했다.",
+"exKo": "전치사 Before + 동명사 deciding 구조가 올바릅니다."
+},
+{
+"q": "The road will be closed ___ further notice.",
+"type": "전치사·접속사",
+"choices": [
+"until",
+"by",
+"within",
+"among"
+],
+"a": 0,
+"transKo": "추후 공지가 있을 때까지 도로가 폐쇄됩니다.",
+"exKo": "until further notice(추후 공지까지)는 최빈출 표현입니다."
+},
+{
+"q": "The buyer asked us to ___ the delivery to Friday.",
+"type": "어휘",
+"choices": [
+"move up",
+"move in",
+"move over",
+"move away"
+],
+"a": 0,
+"transKo": "구매자는 배송을 금요일로 앞당겨 달라고 요청했다.",
+"exKo": "일정을 앞당기다는 move up입니다."
+},
+{
+"q": "The panel will ___ questions after the keynote.",
+"type": "어휘",
+"choices": [
+"take",
+"catch",
+"grab",
+"hold on"
+],
+"a": 0,
+"transKo": "패널은 기조연설 후 질문을 받을 것이다.",
+"exKo": "take questions(질문을 받다)가 자연스럽습니다."
+},
+{
+"q": "The new packaging will help the brand ___ out on shelves.",
+"type": "어휘",
+"choices": [
+"stand",
+"stick up",
+"rise",
+"jump on"
+],
+"a": 0,
+"transKo": "새 포장은 브랜드가 매대에서 돋보이는 데 도움이 될 것이다.",
+"exKo": "stand out(돋보이다)이 정답입니다."
+},
+{
+"q": "Please ___ the meeting minutes to all attendees.",
+"type": "어휘",
+"choices": [
+"distribute",
+"contribute",
+"attribute",
+"tribute"
+],
+"a": 0,
+"transKo": "회의록을 모든 참석자에게 배포해 주세요.",
+"exKo": "배포하다는 distribute입니다. 유사 철자 함정 문제입니다."
+},
+{
+"q": "The bakery had to ___ its prices due to flour costs.",
+"type": "어휘",
+"choices": [
+"raise",
+"rise",
+"arise",
+"arouse"
+],
+"a": 0,
+"transKo": "밀가루 값 때문에 그 빵집은 가격을 올려야 했다.",
+"exKo": "목적어(prices)를 취하는 타동사 raise가 정답입니다. rise는 자동사입니다."
+},
+{
+"q": "We must ___ the contract terms before the deadline.",
+"type": "어휘",
+"choices": [
+"settle",
+"sit",
+"seat",
+"set down"
+],
+"a": 0,
+"transKo": "마감 전에 계약 조건을 확정해야 한다.",
+"exKo": "합의를 매듭짓다는 settle입니다."
+},
+{
+"q": "The airline ___ passengers with hotel vouchers overnight.",
+"type": "어휘",
+"choices": [
+"provided",
+"gave to",
+"supplied to",
+"offered to"
+],
+"a": 0,
+"transKo": "항공사는 밤사이 승객들에게 호텔 숙박권을 제공했다.",
+"exKo": "provide A with B(A에게 B를 제공하다) 구문이 정답입니다."
+},
+{
+"q": "The report ___ a steady rise in online bookings.",
+"type": "어휘",
+"choices": [
+"indicates",
+"points",
+"signals to",
+"gestures"
+],
+"a": 0,
+"transKo": "보고서는 온라인 예약의 꾸준한 증가를 보여 준다.",
+"exKo": "자료가 '~을 나타내다'는 indicate입니다."
+},
+{
+"q": "The committee agreed to ___ the fee for students.",
+"type": "어휘",
+"choices": [
+"waive",
+"wave",
+"weave",
+"waver"
+],
+"a": 0,
+"transKo": "위원회는 학생들의 요금을 면제해 주기로 합의했다.",
+"exKo": "요금을 면제하다는 waive입니다. 유사 철자 함정 문제입니다."
+},
+{
+"q": "The factory ___ strict quality checks at every stage.",
+"type": "어휘",
+"choices": [
+"performs",
+"acts",
+"plays",
+"behaves"
+],
+"a": 0,
+"transKo": "그 공장은 모든 단계에서 엄격한 품질 검사를 실시한다.",
+"exKo": "perform checks(검사를 수행하다)가 자연스럽습니다."
+},
+{
+"q": "The memo asks staff to ___ energy use in the office.",
+"type": "어휘",
+"choices": [
+"cut down on",
+"cut off",
+"cut out of",
+"cut into"
+],
+"a": 0,
+"transKo": "그 회람은 직원들에게 사무실 에너지 사용을 줄이라고 요청한다.",
+"exKo": "cut down on(~을 줄이다)이 정답입니다."
+},
+{
+"q": "Ms. Devi will ___ the vacant regional post next quarter.",
+"type": "어휘",
+"choices": [
+"fill",
+"stuff",
+"load",
+"pour on"
+],
+"a": 0,
+"transKo": "데비 씨가 다음 분기에 공석인 지역 담당 자리를 채울 것이다.",
+"exKo": "fill a post(자리를 채우다)가 자연스럽습니다."
+},
+{
+"q": "The app lets users ___ payments between accounts.",
+"type": "어휘",
+"choices": [
+"transfer",
+"transport",
+"transmit on",
+"translate"
+],
+"a": 0,
+"transKo": "그 앱은 계좌 간 송금을 할 수 있게 해 준다.",
+"exKo": "돈을 이체하다는 transfer입니다."
+},
+{
+"q": "The board voted to ___ with the expansion plan.",
+"type": "어휘",
+"choices": [
+"proceed",
+"precede",
+"process on",
+"progress to"
+],
+"a": 0,
+"transKo": "이사회는 확장 계획을 진행하기로 표결했다.",
+"exKo": "proceed with(~을 진행하다)가 정답입니다. precede(~에 앞서다)와의 혼동 함정입니다."
+},
+{
+"q": "Poor weather may ___ the outdoor filming schedule.",
+"type": "어휘",
+"choices": [
+"affect",
+"effect",
+"infect",
+"defect"
+],
+"a": 0,
+"transKo": "악천후가 야외 촬영 일정에 영향을 줄 수 있다.",
+"exKo": "영향을 미치다는 동사 affect입니다. effect는 주로 명사입니다."
+},
+{
+"q": "Please ___ us of any address changes promptly.",
+"type": "어휘",
+"choices": [
+"advise",
+"advice",
+"advertise",
+"devise"
+],
+"a": 0,
+"transKo": "주소 변경이 있으면 즉시 알려 주세요.",
+"exKo": "통지하다는 동사 advise입니다. advice는 명사입니다."
+},
+{
+"q": "The two departments will ___ their annual budgets.",
+"type": "어휘",
+"choices": [
+"merge",
+"emerge",
+"immerse",
+"submerge"
+],
+"a": 0,
+"transKo": "두 부서는 연간 예산을 통합할 것이다.",
+"exKo": "합치다는 merge입니다. 유사 철자 함정 문제입니다."
+},
+{
+"q": "The store ___ a strict no-refund policy on sale items.",
+"type": "어휘",
+"choices": [
+"maintains",
+"remains",
+"contains",
+"sustains on"
+],
+"a": 0,
+"transKo": "그 매장은 세일 상품에 엄격한 환불 불가 정책을 유지한다.",
+"exKo": "정책을 유지하다는 maintain입니다."
+},
+{
+"q": "Interest in the webinar ___ all expectations.",
+"type": "어휘",
+"choices": [
+"exceeded",
+"preceded",
+"proceeded",
+"conceded"
+],
+"a": 0,
+"transKo": "웨비나에 대한 관심은 모든 예상을 뛰어넘었다.",
+"exKo": "뛰어넘다는 exceed입니다. 유사 철자 함정 문제입니다."
+},
+{
+"q": "Drivers must ___ to the posted speed limits.",
+"type": "어휘",
+"choices": [
+"adhere",
+"cohere",
+"inhere",
+"adore"
+],
+"a": 0,
+"transKo": "운전자들은 게시된 제한 속도를 준수해야 한다.",
+"exKo": "adhere to(~을 준수하다)가 정답입니다."
+},
+{
+"q": "The hotel will ___ early check-in upon request.",
+"type": "어휘",
+"choices": [
+"grant",
+"donate",
+"award to",
+"fund"
+],
+"a": 0,
+"transKo": "호텔은 요청 시 얼리 체크인을 허용해 드립니다.",
+"exKo": "요청을 들어주다는 grant입니다."
+},
+{
+"q": "The recall notice ___ to all registered owners.",
+"type": "어휘",
+"choices": [
+"applies",
+"fits",
+"suits",
+"matches to"
+],
+"a": 0,
+"transKo": "리콜 공지는 등록된 모든 소유자에게 적용된다.",
+"exKo": "apply to(~에 적용되다)가 정답입니다."
+},
+{
+"q": "We ___ candidates to apply before the end of March.",
+"type": "어휘",
+"choices": [
+"encourage",
+"cheer",
+"celebrate",
+"support on"
+],
+"a": 0,
+"transKo": "3월 말 전에 지원할 것을 권장합니다.",
+"exKo": "encourage A to do(A가 ~하도록 권장하다)가 정답입니다."
+},
+{
+"q": "The design team will ___ three logo options tomorrow.",
+"type": "어휘",
+"choices": [
+"present",
+"gift",
+"donate on",
+"attend"
+],
+"a": 0,
+"transKo": "디자인팀은 내일 세 가지 로고 시안을 발표할 것이다.",
+"exKo": "발표하다·제시하다는 present입니다."
+},
+{
+"q": "The updated app can ___ receipts automatically.",
+"type": "어휘",
+"choices": [
+"generate",
+"generate to",
+"degenerate",
+"generalize"
+],
+"a": 0,
+"transKo": "업데이트된 앱은 영수증을 자동으로 생성할 수 있다.",
+"exKo": "생성하다는 generate입니다."
+},
+{
+"q": "The branch will ___ operations during the holiday week.",
+"type": "어휘",
+"choices": [
+"suspend",
+"expend",
+"append",
+"impend"
+],
+"a": 0,
+"transKo": "지점은 연휴 주간에 운영을 일시 중단할 것이다.",
+"exKo": "일시 중단하다는 suspend입니다. 유사 철자 함정 문제입니다."
+}
+]
+}
