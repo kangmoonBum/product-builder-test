@@ -1,0 +1,524 @@
+{
+ "items": [
+  {
+   "q": "Rarely ___ the audit committee convened twice in a single week, but the restatement left no alternative.",
+   "type": "시제·형태",
+   "choices": [
+    "has",
+    "have",
+    "having",
+    "to have"
+   ],
+   "a": 0,
+   "transKo": "감사위원회가 한 주에 두 번 소집되는 일은 드물지만, 재무제표 재작성 때문에 달리 방법이 없었습니다.",
+   "exKo": "부정어 Rarely가 문두에 오면 주어와 조동사가 도치됩니다. 단수 주어 the audit committee에 맞춰 has가 정답입니다."
+  },
+  {
+   "q": "___ the escrow account been funded on time, the property transfer would have closed last quarter.",
+   "type": "시제·형태",
+   "choices": [
+    "Had",
+    "If",
+    "Should",
+    "Were"
+   ],
+   "a": 0,
+   "transKo": "에스크로 계좌에 제때 자금이 입금되었더라면 부동산 이전은 지난 분기에 마무리되었을 것입니다.",
+   "exKo": "가정법 과거완료에서 If가 생략되면 Had가 문두로 도치됩니다. Had the account been funded 형태입니다."
+  },
+  {
+   "q": "The arbitration panel insisted that the licensing fee ___ recalculated using the revised royalty base.",
+   "type": "시제·형태",
+   "choices": [
+    "be",
+    "is",
+    "was",
+    "has been"
+   ],
+   "a": 0,
+   "transKo": "중재 패널은 개정된 로열티 산정 기준으로 라이선스 수수료를 재산정할 것을 강력히 요구했습니다.",
+   "exKo": "insist처럼 요구·주장을 나타내는 동사의 that절에는 동사원형(should 생략)을 씁니다."
+  },
+  {
+   "q": "Only after the underwriters signed off ___ to publish the preliminary prospectus.",
+   "type": "시제·형태",
+   "choices": [
+    "were we able",
+    "we were able",
+    "we could",
+    "being able"
+   ],
+   "a": 0,
+   "transKo": "주간사들이 승인한 후에야 우리는 예비 투자설명서를 공표할 수 있었습니다.",
+   "exKo": "Only after 부사절이 문두에 오면 주절은 도치됩니다. were we able 어순이 정답입니다."
+  },
+  {
+   "q": "Scarcely had the recall notice gone out ___ regulators requested the full defect log.",
+   "type": "전치사·접속사",
+   "choices": [
+    "when",
+    "than",
+    "that",
+    "while"
+   ],
+   "a": 0,
+   "transKo": "리콜 통지가 나가자마자 규제 당국이 전체 결함 기록을 요청했습니다.",
+   "exKo": "Scarcely had A when B는 'A하자마자 B했다'는 구문입니다. than은 No sooner와 짝을 이룹니다."
+  },
+  {
+   "q": "___ for the bridge loan from our parent company, the subsidiary would have breached its debt covenants.",
+   "type": "전치사·접속사",
+   "choices": [
+    "But",
+    "Except",
+    "Unless",
+    "Save"
+   ],
+   "a": 0,
+   "transKo": "모회사의 브리지론이 없었다면 그 자회사는 부채 약정을 위반했을 것입니다.",
+   "exKo": "But for는 '~이 없었다면'이라는 가정법 관용 표현입니다."
+  },
+  {
+   "q": "The indemnification clause remains enforceable ___ the master agreement itself is terminated for convenience.",
+   "type": "전치사·접속사",
+   "choices": [
+    "even if",
+    "despite",
+    "in case of",
+    "owing to"
+   ],
+   "a": 0,
+   "transKo": "기본 계약이 임의 해지되더라도 면책 조항은 계속 유효합니다.",
+   "exKo": "뒤에 절이 오므로 접속사가 필요합니다. even if는 '설령 ~하더라도'입니다. despite와 in case of는 전치사(구)입니다."
+  },
+  {
+   "q": "___ receipt of the signed term sheet, counsel will circulate the definitive purchase agreement.",
+   "type": "전치사·접속사",
+   "choices": [
+    "Upon",
+    "While",
+    "As soon",
+    "Once"
+   ],
+   "a": 0,
+   "transKo": "서명된 텀시트를 수령하는 즉시 법무팀이 최종 매매계약서를 회람할 예정입니다.",
+   "exKo": "Upon + 명사는 '~하는 즉시'입니다. While과 Once는 절을 이끄는 접속사이고 As soon은 as가 빠져 불완전합니다."
+  },
+  {
+   "q": "The tribunal ruled that the non-compete covenant was too broad to be ___ in its original form.",
+   "type": "품사",
+   "choices": [
+    "enforceable",
+    "enforceably",
+    "enforcement",
+    "enforcing"
+   ],
+   "a": 0,
+   "transKo": "재판부는 경업금지 약정이 원래 형태로는 집행하기에 너무 광범위하다고 판결했습니다.",
+   "exKo": "be동사 뒤 보어 자리이므로 형용사 enforceable이 정답입니다."
+  },
+  {
+   "q": "Pending ___ of the antitrust review, both parties must operate as independent competitors.",
+   "type": "품사",
+   "choices": [
+    "completion",
+    "complete",
+    "completed",
+    "completely"
+   ],
+   "a": 0,
+   "transKo": "반독점 심사가 완료될 때까지 양측은 독립된 경쟁사로 운영되어야 합니다.",
+   "exKo": "전치사 Pending 뒤이자 of 앞이므로 명사 completion이 와야 합니다."
+  },
+  {
+   "q": "The reinsurer's exposure is ___ capped at the aggregate limit stated in the treaty.",
+   "type": "품사",
+   "choices": [
+    "contractually",
+    "contractual",
+    "contract",
+    "contracted"
+   ],
+   "a": 0,
+   "transKo": "재보험사의 익스포저는 계약상 특약에 명시된 총 한도로 제한됩니다.",
+   "exKo": "동사 is capped를 수식하는 자리이므로 부사 contractually가 정답입니다."
+  },
+  {
+   "q": "Management deemed the impairment charge ___ given the persistent decline in the unit's cash flows.",
+   "type": "품사",
+   "choices": [
+    "unavoidable",
+    "unavoidably",
+    "avoidance",
+    "avoiding"
+   ],
+   "a": 0,
+   "transKo": "경영진은 해당 사업부 현금흐름의 지속적 감소를 고려할 때 손상차손 인식이 불가피하다고 판단했습니다.",
+   "exKo": "deem + 목적어 + 형용사 구조의 목적격 보어 자리이므로 unavoidable이 정답입니다."
+  },
+  {
+   "q": "So ___ was the response to the flash sale that the fulfillment center added a third shift.",
+   "type": "품사",
+   "choices": [
+    "overwhelming",
+    "overwhelmingly",
+    "overwhelm",
+    "overwhelmed"
+   ],
+   "a": 0,
+   "transKo": "반짝 세일에 대한 반응이 너무나 압도적이어서 물류센터는 3교대 근무를 추가했습니다.",
+   "exKo": "So + 형용사 + be동사 + 주어 도치 구문입니다. 보어 자리이므로 형용사 overwhelming이 정답입니다."
+  },
+  {
+   "q": "The prospectus must disclose all ___ risks, including pending litigation and currency exposure.",
+   "type": "품사",
+   "choices": [
+    "material",
+    "materially",
+    "materiality",
+    "materialize"
+   ],
+   "a": 0,
+   "transKo": "투자설명서에는 계류 중인 소송과 환위험을 포함한 모든 중대한 위험을 공시해야 합니다.",
+   "exKo": "명사 risks를 수식하는 형용사 자리입니다. material은 '중대한'이라는 뜻의 형용사로도 쓰입니다."
+  },
+  {
+   "q": "Neither the trustee nor the bondholders ___ entitled to accelerate repayment before a formal default notice.",
+   "type": "시제·형태",
+   "choices": [
+    "are",
+    "is",
+    "was",
+    "be"
+   ],
+   "a": 0,
+   "transKo": "수탁자도 채권자들도 공식 채무불이행 통지 이전에는 조기상환을 청구할 권리가 없습니다.",
+   "exKo": "Neither A nor B는 B에 동사를 일치시킵니다. 복수 bondholders에 맞춰 are가 정답입니다."
+  },
+  {
+   "q": "By the time the patent expires, the generic version ___ regulatory approval in most major markets.",
+   "type": "시제·형태",
+   "choices": [
+    "will have obtained",
+    "will obtain",
+    "has obtained",
+    "obtains"
+   ],
+   "a": 0,
+   "transKo": "특허가 만료될 무렵이면 제네릭 제품은 대부분의 주요 시장에서 허가를 획득해 있을 것입니다.",
+   "exKo": "By the time + 현재시제 절과 함께 미래 특정 시점까지의 완료를 나타내므로 미래완료 will have obtained가 정답입니다."
+  },
+  {
+   "q": "The covenant requires that leverage ___ below four times EBITDA at each quarterly test date.",
+   "type": "시제·형태",
+   "choices": [
+    "remain",
+    "remains",
+    "remained",
+    "remaining"
+   ],
+   "a": 0,
+   "transKo": "약정 조항은 매 분기 측정일에 레버리지가 EBITDA의 4배 미만으로 유지될 것을 요구합니다.",
+   "exKo": "require의 that절에는 동사원형을 씁니다. remain이 정답입니다."
+  },
+  {
+   "q": "Little ___ that the anonymous bidder was a consortium led by our former chairman.",
+   "type": "시제·형태",
+   "choices": [
+    "did the board suspect",
+    "the board suspected",
+    "the board did suspect",
+    "suspected the board"
+   ],
+   "a": 0,
+   "transKo": "익명 입찰자가 전임 회장이 이끄는 컨소시엄일 줄은 이사회가 전혀 짐작하지 못했습니다.",
+   "exKo": "부정어 Little이 문두에 오면 조동사 도치가 일어납니다. did the board suspect 어순이 정답입니다."
+  },
+  {
+   "q": "Had it not been for the currency hedge, the translation loss ___ our entire operating margin.",
+   "type": "시제·형태",
+   "choices": [
+    "would have erased",
+    "would erase",
+    "had erased",
+    "will have erased"
+   ],
+   "a": 0,
+   "transKo": "환헤지가 없었다면 환산손실이 영업이익률 전체를 잠식했을 것입니다.",
+   "exKo": "Had it not been for는 가정법 과거완료이므로 주절은 would have p.p.가 됩니다."
+  },
+  {
+   "q": "The joint venture will proceed ___ that each partner contributes intellectual property of comparable value.",
+   "type": "전치사·접속사",
+   "choices": [
+    "provided",
+    "providing of",
+    "in provision",
+    "unless"
+   ],
+   "a": 0,
+   "transKo": "각 파트너가 상응하는 가치의 지식재산을 출자한다는 조건 하에 합작사업이 진행됩니다.",
+   "exKo": "provided that은 '~라는 조건으로'라는 접속사 표현입니다. unless는 의미가 반대가 됩니다."
+  },
+  {
+   "q": "___ its aging fleet, the carrier posted the industry's best on-time arrival record.",
+   "type": "전치사·접속사",
+   "choices": [
+    "Notwithstanding",
+    "Although",
+    "Even though",
+    "Whereas"
+   ],
+   "a": 0,
+   "transKo": "노후 기단에도 불구하고 그 항공사는 업계 최고의 정시 도착률을 기록했습니다.",
+   "exKo": "뒤에 명사구가 오므로 전치사가 필요합니다. Notwithstanding은 '~에도 불구하고'라는 전치사입니다. 나머지는 접속사입니다."
+  },
+  {
+   "q": "All travel above business class requires CFO approval, ___ stipulated in the revised expense policy.",
+   "type": "전치사·접속사",
+   "choices": [
+    "as",
+    "so",
+    "such",
+    "like as"
+   ],
+   "a": 0,
+   "transKo": "개정된 경비 규정에 명시된 바와 같이 비즈니스석을 초과하는 모든 출장은 CFO 승인이 필요합니다.",
+   "exKo": "as stipulated in은 '~에 명시된 대로'라는 관용 표현입니다."
+  },
+  {
+   "q": "The tender offer will lapse ___ acceptances representing ninety percent of shares are received by Friday.",
+   "type": "전치사·접속사",
+   "choices": [
+    "unless",
+    "in case",
+    "so that",
+    "now that"
+   ],
+   "a": 0,
+   "transKo": "금요일까지 지분 90퍼센트에 해당하는 응모가 접수되지 않으면 공개매수는 실효됩니다.",
+   "exKo": "'~하지 않는 한'이라는 부정 조건이 필요하므로 unless가 정답입니다."
+  },
+  {
+   "q": "Royalty payments accrue monthly, ___ actual remittance occurs on a quarterly basis.",
+   "type": "전치사·접속사",
+   "choices": [
+    "whereas",
+    "despite",
+    "during",
+    "owing to"
+   ],
+   "a": 0,
+   "transKo": "로열티는 매월 발생하는 반면 실제 송금은 분기 단위로 이루어집니다.",
+   "exKo": "두 절을 대조하는 접속사 자리입니다. whereas는 '~인 반면'입니다. 나머지는 전치사(구)입니다."
+  },
+  {
+   "q": "The special dividend was declared ___ lieu of the share buyback originally announced in March.",
+   "type": "전치사·접속사",
+   "choices": [
+    "in",
+    "on",
+    "at",
+    "by"
+   ],
+   "a": 0,
+   "transKo": "특별배당은 3월에 발표되었던 자사주 매입을 대신하여 선언되었습니다.",
+   "exKo": "in lieu of는 '~ 대신에'라는 관용 전치사구입니다."
+  },
+  {
+   "q": "Candidates for the treasury role must demonstrate ___ with cross-border cash pooling structures.",
+   "type": "어휘",
+   "choices": [
+    "familiarity",
+    "similarity",
+    "publicity",
+    "formality"
+   ],
+   "a": 0,
+   "transKo": "자금부 직책 지원자는 국가 간 캐시풀링 구조에 대한 숙련도를 입증해야 합니다.",
+   "exKo": "familiarity with는 '~에 대한 정통함'입니다. 문맥상 업무 지식을 뜻하는 familiarity가 정답입니다."
+  },
+  {
+   "q": "The settlement remains strictly ___ ; neither party may discuss its terms with the press.",
+   "type": "어휘",
+   "choices": [
+    "confidential",
+    "confident",
+    "confidence",
+    "confiding"
+   ],
+   "a": 0,
+   "transKo": "합의 내용은 엄격히 기밀이며 어느 쪽도 언론에 조건을 언급할 수 없습니다.",
+   "exKo": "'기밀의'는 confidential입니다. confident는 '자신 있는'이라는 뜻으로 철자가 유사한 오답입니다."
+  },
+  {
+   "q": "Auditors flagged a ___ weakness in the controls governing revenue recognition for bundled contracts.",
+   "type": "어휘",
+   "choices": [
+    "material",
+    "mutual",
+    "marginal",
+    "momentary"
+   ],
+   "a": 0,
+   "transKo": "감사인들은 번들 계약 수익인식 통제에서 중대한 취약점을 지적했습니다.",
+   "exKo": "회계 감사에서 material weakness는 '중대한 취약점'을 뜻하는 정형 표현입니다."
+  },
+  {
+   "q": "The board voted to ___ the underperforming logistics arm and return the proceeds to shareholders.",
+   "type": "어휘",
+   "choices": [
+    "divest",
+    "invest",
+    "devise",
+    "derive"
+   ],
+   "a": 0,
+   "transKo": "이사회는 실적이 부진한 물류 부문을 매각하고 그 대금을 주주에게 환원하기로 의결했습니다.",
+   "exKo": "divest는 '(사업부를) 매각하다'입니다. invest(투자하다)와 혼동하기 쉬운 반의 개념입니다."
+  },
+  {
+   "q": "Please ___ from forwarding the draft valuation outside the deal team until markets close.",
+   "type": "어휘",
+   "choices": [
+    "refrain",
+    "restrain",
+    "retain",
+    "remain"
+   ],
+   "a": 0,
+   "transKo": "장 마감 전까지는 밸류에이션 초안을 딜팀 외부로 전달하는 것을 삼가 주시기 바랍니다.",
+   "exKo": "refrain from -ing은 '~을 삼가다'입니다. restrain은 타동사로 목적어가 필요합니다."
+  },
+  {
+   "q": "The new tariff schedule will ___ effect on the first day of the next fiscal year.",
+   "type": "어휘",
+   "choices": [
+    "take",
+    "make",
+    "do",
+    "put"
+   ],
+   "a": 0,
+   "transKo": "새 관세율표는 다음 회계연도 첫날부터 발효됩니다.",
+   "exKo": "take effect는 '발효되다, 시행되다'라는 콜로케이션입니다."
+  },
+  {
+   "q": "Counsel advised us to seek an injunction to ___ the former executive from soliciting our key accounts.",
+   "type": "어휘",
+   "choices": [
+    "bar",
+    "ban on",
+    "forbid to",
+    "block of"
+   ],
+   "a": 0,
+   "transKo": "법률 자문은 전직 임원이 우리 주요 고객을 빼가지 못하도록 금지 명령을 청구하라고 조언했습니다.",
+   "exKo": "bar A from -ing은 'A가 ~하지 못하게 막다'입니다. 나머지는 전치사 결합이 잘못되었습니다."
+  },
+  {
+   "q": "Once the merger closes, the two loyalty programs will be ___ into a single points platform.",
+   "type": "어휘",
+   "choices": [
+    "consolidated",
+    "condensed",
+    "convened",
+    "conceded"
+   ],
+   "a": 0,
+   "transKo": "합병이 완료되면 두 로열티 프로그램은 단일 포인트 플랫폼으로 통합됩니다.",
+   "exKo": "consolidate는 '통합하다'입니다. convene(소집하다), concede(인정하다)와 구분해야 합니다."
+  },
+  {
+   "q": "The escrow agent may not release the funds without the ___ written consent of both signatories.",
+   "type": "어휘",
+   "choices": [
+    "prior",
+    "previously",
+    "priority",
+    "primary"
+   ],
+   "a": 0,
+   "transKo": "에스크로 대리인은 양측 서명권자의 사전 서면 동의 없이 자금을 지급할 수 없습니다.",
+   "exKo": "prior written consent는 '사전 서면 동의'라는 계약서 정형 표현입니다. prior가 형용사로 명사를 수식합니다."
+  },
+  {
+   "q": "Demand for battery-grade lithium is projected to ___ supply by a wide margin through the decade.",
+   "type": "어휘",
+   "choices": [
+    "outstrip",
+    "outfit",
+    "outline",
+    "outlast"
+   ],
+   "a": 0,
+   "transKo": "배터리용 리튬 수요는 향후 10년간 공급을 큰 폭으로 웃돌 것으로 전망됩니다.",
+   "exKo": "outstrip은 '(수요가 공급을) 앞지르다'입니다. outlast는 '더 오래가다'로 문맥에 맞지 않습니다."
+  },
+  {
+   "q": "The consultant's fee is ___ upon successful completion of the cost-reduction milestones.",
+   "type": "어휘",
+   "choices": [
+    "contingent",
+    "continent",
+    "content",
+    "contiguous"
+   ],
+   "a": 0,
+   "transKo": "컨설턴트 보수는 원가절감 마일스톤의 성공적 달성을 조건으로 합니다.",
+   "exKo": "contingent upon은 '~을 조건으로 하는'입니다. continent(대륙)는 철자 유사 오답입니다."
+  },
+  {
+   "q": "Seldom ___ a downgrade and a ratings watch announced on the same trading day.",
+   "type": "시제·형태",
+   "choices": [
+    "are",
+    "is",
+    "be",
+    "being"
+   ],
+   "a": 0,
+   "transKo": "신용등급 하향과 등급 감시 대상 지정이 같은 거래일에 발표되는 일은 드뭅니다.",
+   "exKo": "부정어 Seldom 문두 도치 구문입니다. 주어가 a downgrade and a ratings watch로 복수이므로 are가 정답입니다."
+  },
+  {
+   "q": "___ the warehouse lease to expire without renewal, distribution costs would rise sharply.",
+   "type": "시제·형태",
+   "choices": [
+    "Were",
+    "Should have",
+    "Had been",
+    "If"
+   ],
+   "a": 0,
+   "transKo": "만에 하나 창고 임대차가 갱신 없이 만료된다면 물류비가 급등할 것입니다.",
+   "exKo": "가정법 미래·현재의 도치로 Were + 주어 + to부정사 구문입니다. Were the lease to expire가 됩니다."
+  },
+  {
+   "q": "Not until the forensic review concluded ___ the extent of the procurement fraud.",
+   "type": "시제·형태",
+   "choices": [
+    "did we grasp",
+    "we grasped",
+    "we did grasp",
+    "grasped we"
+   ],
+   "a": 0,
+   "transKo": "포렌식 조사가 끝나고 나서야 우리는 구매 부정의 규모를 파악했습니다.",
+   "exKo": "Not until 구문이 문두에 오면 주절이 도치됩니다. did we grasp 어순이 정답입니다."
+  },
+  {
+   "q": "The chairman spoke ___ of the retiring auditor's three decades of uncompromising independence.",
+   "type": "품사",
+   "choices": [
+    "admiringly",
+    "admiring",
+    "admiration",
+    "admired"
+   ],
+   "a": 0,
+   "transKo": "회장은 은퇴하는 감사인의 30년에 걸친 타협 없는 독립성을 존경을 담아 언급했습니다.",
+   "exKo": "동사 spoke를 수식하는 자리이므로 부사 admiringly가 정답입니다."
+  }
+ ]
+}
