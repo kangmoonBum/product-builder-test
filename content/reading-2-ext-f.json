@@ -1,0 +1,104 @@
+{
+"passages": [
+{
+"kind": "이메일",
+"title": "품질 불량률 개선 보고 메일",
+"passage": "From: Won-jin Seo, Plant Manager\nTo: Operations Leadership\nSubject: Q3 Defect Rate — Below 1 Percent for the First Time\n\nDear all,\n\nI am pleased to report that the assembly line defect rate fell to 0.8 percent in the third quarter, down from 2.1 percent a year ago and below our 1 percent target for the first time.\n\nThree changes drove the improvement. First, the camera inspection added in March now catches surface flaws before final assembly. Second, rotating workers between stations every two hours reduced repetitive-task errors in the afternoon shift. Third, our two main component suppliers agreed to pre-ship samples for testing, cutting incoming defects by half.\n\nWarranty claims should decline over the next two quarters as newer units reach customers. I propose we share this approach with the Hanover plant, where defect rates remain near 2 percent. My team can host their engineers for a week in November.\n\nBest regards,\nWon-jin Seo",
+"questions": [
+{"q": "What milestone does the email report?", "type": "주제·목적", "choices": ["The defect rate fell below the 1 percent target", "The plant doubled production", "Warranty claims ended", "A new supplier was signed"], "a": 0, "exKo": "불량률이 0.8%로 처음으로 1% 목표를 하회했다는 보고입니다."},
+{"q": "How did worker rotation help?", "type": "세부사항", "choices": ["It reduced repetitive-task errors", "It sped up assembly", "It cut training costs", "It shortened shifts"], "a": 0, "exKo": "2시간마다 작업대를 바꿔 반복 작업 오류를 줄였습니다."},
+{"q": "What does Mr. Seo propose?", "type": "세부사항", "choices": ["Hosting Hanover engineers to share the approach", "Buying more cameras", "Changing suppliers", "Raising the target"], "a": 0, "exKo": "불량률이 높은 Hanover 공장 엔지니어들을 초청해 노하우를 공유하자고 제안합니다."}
+]
+},
+{
+"kind": "이메일",
+"title": "잡지 광고 게재 제안 메일",
+"passage": "From: Ad Sales, Trade & Freight Monthly\nTo: Marketing Director, Corvus Shipping\nSubject: Feature Issue on Port Automation — Advertising Opportunity\n\nDear Director,\n\nOur April issue will feature a 12-page special report on port automation, a topic your company helped shape with last year's terminal project. We expect this issue to reach 40 percent more readers than usual, as it will be distributed at the Global Ports Expo in addition to our 28,000 subscribers.\n\nWe are offering three placements: a full page opposite the report's opening ($4,800), a half page within the report ($2,900), and a sponsored case study written with our editorial team (2 pages, $7,500, limited to two sponsors).\n\nThe case study option includes a video version for our website and social channels. Booking closes March 5, and materials are due March 15. May I call this week to discuss which format fits your goals?\n\nBest regards,\nHelen Cho, Advertising Manager",
+"questions": [
+{"q": "Why will the April issue reach more readers?", "type": "세부사항", "choices": ["It will also be distributed at an expo", "Subscriptions doubled", "It is free that month", "It goes to airports"], "a": 0, "exKo": "정기 구독자 외에 Global Ports Expo에서도 배포되기 때문입니다."},
+{"q": "What is special about the case study option?", "type": "세부사항", "choices": ["It includes a video version and is limited to two sponsors", "It is the cheapest option", "It runs every month", "It excludes editorial help"], "a": 0, "exKo": "웹·소셜용 영상이 포함되며 두 개 업체로 한정됩니다."},
+{"q": "When are advertising materials due?", "type": "세부사항", "choices": ["March 15", "March 5", "April 1", "This week"], "a": 0, "exKo": "materials are due March 15라고 명시되어 있습니다."}
+]
+},
+{
+"kind": "공지",
+"title": "겸직 신고 제도 안내 공지",
+"passage": "OUTSIDE WORK DISCLOSURE — POLICY REMINDER\n\nEmployees may hold outside jobs or run side businesses, provided they disclose them through the ethics portal and the activity meets three conditions: it must not compete with our business, must not use company time, equipment, or information, and must not interfere with job performance.\n\nDisclosures are reviewed within ten business days, and approval is valid for one year. Renewals take five minutes if nothing has changed. Common approved examples include weekend teaching, family shops, and creative work; requests involving clients, suppliers, or competitors are generally declined.\n\nLast year, 96 percent of disclosures were approved as submitted. Failing to disclose, however, is treated as a serious policy violation even if the work itself would have been approved. If you are unsure whether an activity counts, submit it anyway — the review costs nothing.\n\nEthics Office",
+"questions": [
+{"q": "What must employees do about outside work?", "type": "주제·목적", "choices": ["Disclose it through the ethics portal", "Get customer approval", "Quit within a year", "Report it to HR monthly"], "a": 0, "exKo": "겸직은 윤리 포털을 통해 신고해야 합니다."},
+{"q": "Which requests are generally declined?", "type": "세부사항", "choices": ["Those involving clients, suppliers, or competitors", "Weekend teaching", "Family shops", "Creative work"], "a": 0, "exKo": "고객사·공급사·경쟁사와 관련된 활동은 대체로 승인되지 않습니다."},
+{"q": "What is emphasized about failing to disclose?", "type": "세부사항", "choices": ["It is serious even if the work was approvable", "It leads to a warning only", "It is rarely checked", "It delays renewals"], "a": 0, "exKo": "승인 가능했던 일이라도 신고하지 않으면 중대한 위반으로 처리됩니다."}
+]
+},
+{
+"kind": "공지",
+"title": "우수 고객 응대 사례 포상 공지",
+"passage": "SERVICE STAR AWARDS — NOMINATIONS OPEN\n\nNominations are open for this quarter's Service Star Awards, recognizing colleagues who turned a difficult customer situation into a success story. Anyone may nominate anyone, including themselves; managers' approval is not required.\n\nA nomination needs three things: what the customer needed, what the colleague did beyond standard procedure, and the result — ideally with numbers or a customer quote. The panel selects five winners, each receiving two extra vacation days and a feature in the company newsletter.\n\nPast winners include a technician who drove a replacement part to a hospital on a Sunday, and a billing agent whose plain-language letter template cut repeat complaints by 40 percent and was adopted company-wide.\n\nSubmit by the 20th on the recognition portal. Winners are announced at the town hall on the 28th.\n\nCustomer Experience Team",
+"questions": [
+{"q": "What do nominations need to include?", "type": "세부사항", "choices": ["The need, the action beyond procedure, and the result", "A manager's signature", "A customer's contact details", "A video recording"], "a": 0, "exKo": "고객의 요구, 표준 절차를 넘어선 행동, 결과 세 가지가 필요합니다."},
+{"q": "What do winners receive?", "type": "세부사항", "choices": ["Two extra vacation days and a newsletter feature", "A cash bonus", "A promotion", "A trophy and dinner"], "a": 0, "exKo": "휴가 2일과 사보 소개가 부상입니다."},
+{"q": "What did the billing agent's template achieve?", "type": "세부사항", "choices": ["It cut repeat complaints by 40 percent", "It won a design prize", "It reduced billing errors", "It shortened calls"], "a": 0, "exKo": "쉬운 언어로 쓴 안내문이 반복 불만을 40% 줄여 전사에 도입되었습니다."}
+]
+},
+{
+"kind": "광고",
+"title": "다국어 번역 구독 서비스 광고",
+"passage": "LINGOBRIDGE — YOUR DOCUMENTS, EVERY LANGUAGE, EVERY TIME\n\nExpanding abroad shouldn't mean waiting a week for a translated contract. LingoBridge combines professional translators with smart technology to deliver business documents in 30 languages — contracts in 48 hours, marketing copy in 24, emails in 4.\n\nEvery translation is reviewed by a second linguist, and your company glossary keeps product names and terms consistent across every document. Legal and technical texts are matched to translators with field experience.\n\nSubscriptions start at $199 a month for 20,000 words, sharable across your whole team, with unused words rolling over one month. Rush delivery, certified translations, and website localization are available as add-ons. Try your first 2,000 words free at lingobridge.com.",
+"questions": [
+{"q": "How fast are contracts translated?", "type": "세부사항", "choices": ["In 48 hours", "In 4 hours", "In 24 hours", "In one week"], "a": 0, "exKo": "계약서는 48시간 내 번역됩니다."},
+{"q": "What keeps terminology consistent?", "type": "세부사항", "choices": ["A company glossary", "A single translator", "Monthly reviews", "Client feedback"], "a": 0, "exKo": "회사 용어집이 제품명과 용어를 일관되게 유지합니다."},
+{"q": "What happens to unused words?", "type": "세부사항", "choices": ["They roll over one month", "They expire immediately", "They convert to credits", "They are refunded"], "a": 0, "exKo": "unused words rolling over one month라고 안내합니다."}
+]
+},
+{
+"kind": "광고",
+"title": "산업 안전화 신제품 광고",
+"passage": "STRIDEGUARD X2 — SAFETY BOOTS BUILT FOR 12-HOUR SHIFTS\n\nSteel toes shouldn't mean sore feet. The new StrideGuard X2 pairs a composite safety toe — 40 percent lighter than steel — with cushioning developed for marathon shoes, because warehouse workers walk up to 15 kilometers a shift.\n\nThe slip-tested sole grips wet concrete and oil-coated floors, and the breathable liner keeps feet dry through summer shifts. Electrical hazard protection comes standard, and the X2 meets all major international safety certifications.\n\nCompanies ordering 50 pairs or more get free on-site fitting days and a 12-month wear guarantee — if any pair wears out within a year of normal use, we replace it free. Request trial pairs for your safety committee at strideguard.com/business.",
+"questions": [
+{"q": "Why does the ad mention marathon shoes?", "type": "세부사항", "choices": ["The cushioning comes from running shoe development", "The boots are for runners", "A marathon sponsor makes them", "They weigh the same"], "a": 0, "exKo": "하루 15km를 걷는 작업자를 위해 마라톤화 쿠션 기술을 적용했습니다."},
+{"q": "What is the composite toe's advantage over steel?", "type": "세부사항", "choices": ["It is 40 percent lighter", "It is cheaper", "It is warmer", "It looks better"], "a": 0, "exKo": "복합 소재 토캡은 강철보다 40% 가볍습니다."},
+{"q": "What does the 12-month guarantee cover?", "type": "세부사항", "choices": ["Free replacement if boots wear out in a year", "Refunds for any reason", "Free repairs forever", "Insurance against injury"], "a": 0, "exKo": "정상 사용 중 1년 내 마모되면 무상 교체합니다."}
+]
+},
+{
+"kind": "기사",
+"title": "심야 버스 노선 부활 기사",
+"passage": "GRANVILLE — Night bus service returns to Granville next month after a six-year absence, with two routes running hourly between midnight and 5 a.m. The city council approved the service after a coalition of hospitals, hotels, and logistics firms documented that 4,000 residents work overnight shifts with no transit option.\n\nEmployers are sharing the cost: twelve companies will buy discounted monthly passes in bulk for night-shift staff, covering about a third of operating expenses. The transit authority projects the routes will break even within two years if ridership follows survey estimates.\n\nDrivers for the night routes volunteered from the day roster, attracted by a 15 percent shift premium. Service begins the first Monday of next month; real-time tracking will be available in the city transit app from day one.",
+"questions": [
+{"q": "Why was night bus service approved?", "type": "세부사항", "choices": ["Thousands of night workers had no transit option", "Fuel prices dropped", "A new mayor promised it", "Tourists requested it"], "a": 0, "exKo": "야간 근무자 4천 명에게 대중교통이 없다는 자료가 근거가 되었습니다."},
+{"q": "How are employers contributing?", "type": "세부사항", "choices": ["Buying discounted passes in bulk for staff", "Paying drivers directly", "Donating buses", "Building bus stops"], "a": 0, "exKo": "12개 기업이 직원용 할인 정기권을 대량 구매해 비용 3분의 1을 부담합니다."},
+{"q": "Why did drivers volunteer for night routes?", "type": "세부사항", "choices": ["A 15 percent shift premium", "Shorter hours", "Newer buses", "Guaranteed promotion"], "a": 0, "exKo": "15% 야간 수당이 유인이 되었습니다."}
+]
+},
+{
+"kind": "기사",
+"title": "포장재 절감 실험 기사",
+"passage": "COMMERCE WATCH — Online grocer FreshCrate cut packaging waste 30 percent in a six-month trial by asking customers a single question at checkout: \"Reuse your last delivery box?\" Customers who agreed left their empty crate out for the driver, who exchanged it for the full one.\n\nAbout 60 percent of customers opted in, higher than the 35 percent the company projected. Crates survive an average of nine round trips before recycling. The company saves an estimated $0.42 per delivery, part of which funds a small discount for participating customers.\n\nThe trial exposed challenges: crates returned dirty must be washed, adding a depot step, and apartment customers participate at half the rate of house dwellers because storing crates is harder. FreshCrate will expand the program to all delivery zones in March and is testing a folding crate for small orders.",
+"questions": [
+{"q": "How did FreshCrate cut packaging waste?", "type": "주제·목적", "choices": ["By exchanging reusable delivery crates", "By using thinner boxes", "By charging for packaging", "By ending deliveries"], "a": 0, "exKo": "빈 상자를 회수해 재사용하는 방식으로 포장 폐기물을 30% 줄였습니다."},
+{"q": "How did actual participation compare with projections?", "type": "세부사항", "choices": ["It was much higher than projected", "It matched projections", "It was slightly lower", "It was half the projection"], "a": 0, "exKo": "예상 35%를 크게 웃도는 60%가 참여했습니다."},
+{"q": "Why do apartment customers participate less?", "type": "세부사항", "choices": ["Storing crates is harder for them", "They order smaller amounts", "Drivers skip apartments", "They pay higher fees"], "a": 0, "exKo": "아파트에서는 상자 보관이 어려워 참여율이 절반에 그칩니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "워크숍 강사 섭외 문자",
+"passage": "Julie Winter (10:15 A.M.)\nOur negotiation workshop trainer just canceled for the 22nd — family emergency. We have 30 people registered.\n\nOscar Lund (10:18 A.M.)\nOuch. Options?\n\nJulie Winter (10:19 A.M.)\nThree: postpone to next month, find a replacement trainer, or run it internally — Dana from Sales taught this at her old company.\n\nOscar Lund (10:22 A.M.)\nPostponing kills momentum, and outside trainers need weeks of lead time. What's your read on Dana?\n\nJulie Winter (10:24 A.M.)\nShe's excellent, and she offered — but she'd want to cut the roleplay section she hasn't run before, making it a half-day.\n\nOscar Lund (10:26 A.M.)\nA strong half-day beats a canceled full day. Book Dana, refund the difference in the course fee, and schedule the roleplay as a follow-up when the original trainer recovers.\n\nJulie Winter (10:27 A.M.)\nOn it. I'll email attendees the change today.",
+"questions": [
+{"q": "What problem are they solving?", "type": "주제·목적", "choices": ["A workshop trainer canceled", "Low registration numbers", "A double-booked room", "A budget cut"], "a": 0, "exKo": "협상 워크숍 강사가 취소되어 대응 방안을 논의 중입니다."},
+{"q": "Why is Dana's version shorter?", "type": "세부사항", "choices": ["She would cut the roleplay section", "She is only free half the day", "The room is booked", "Attendees requested it"], "a": 0, "exKo": "진행해 본 적 없는 롤플레이 파트를 빼서 반일 과정이 됩니다."},
+{"q": "What is decided about the roleplay section?", "type": "세부사항", "choices": ["It becomes a follow-up session later", "It is dropped permanently", "Dana will learn it", "It moves online"], "a": 0, "exKo": "원래 강사가 회복하면 후속 세션으로 진행하기로 합니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "물류 통관 지연 대응 문자",
+"passage": "Marco Silva (6:05 A.M.)\nCustoms flagged our container in Rotterdam — random inspection. Adds 3-5 days.\n\nIna Berg (6:40 A.M.)\nThat's the spring collection for the Berlin stores. Launch is in 8 days.\n\nMarco Silva (6:42 A.M.)\nRight. If inspection takes 3 days we're fine. If 5, we miss the window by a day.\n\nIna Berg (6:45 A.M.)\nCan we split the risk? Air-freight the display samples and bestseller sizes now, let the container follow.\n\nMarco Silva (6:48 A.M.)\nSmart. About 800 units by air covers launch weekend. Costs $3,400 extra.\n\nIna Berg (6:50 A.M.)\nApproved — launch weekend drives a third of season sales. Also alert the Berlin store managers so they plan the stockroom for two deliveries.\n\nMarco Silva (6:51 A.M.)\nBooking the air shipment now. I'll send both tracking links by noon.",
+"questions": [
+{"q": "What caused the delay?", "type": "세부사항", "choices": ["A random customs inspection", "A port strike", "Bad weather", "A booking error"], "a": 0, "exKo": "로테르담 세관의 무작위 검사에 걸려 3~5일 지연됩니다."},
+{"q": "What solution do they choose?", "type": "세부사항", "choices": ["Air-freighting key items while the container follows", "Delaying the launch", "Canceling the order", "Switching ports"], "a": 0, "exKo": "진열 샘플과 인기 사이즈만 항공으로 먼저 보내기로 합니다."},
+{"q": "Why does Ms. Berg approve the extra cost?", "type": "추론", "choices": ["Launch weekend drives a third of season sales", "The budget is unlimited", "Insurance covers it", "Air freight is usually cheap"], "a": 0, "exKo": "출시 주말 매출이 시즌의 3분의 1이라 지연 손실이 더 크기 때문입니다."}
+]
+}
+]
+}

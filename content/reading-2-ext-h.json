@@ -1,0 +1,104 @@
+{
+"passages": [
+{
+"kind": "이메일",
+"title": "지점 통합 고객 안내 메일",
+"passage": "From: Meridian Bank\nTo: Business Account Holders, Elm Street Branch\nSubject: Your Branch Is Merging with Center Plaza\n\nDear Customer,\n\nOn August 15, the Elm Street branch will merge with our Center Plaza location, 800 meters away. Your account numbers, cards, and online banking remain unchanged — no action is required.\n\nCenter Plaza offers longer hours (weekdays to 6 p.m., Saturdays to 1 p.m.), six teller windows, and a dedicated business banking desk with two advisors. Safe deposit box holders at Elm Street will receive a separate letter about transferring boxes, with appointments available through September.\n\nThe Elm Street ATM lobby stays open around the clock even after the merger. To welcome you, business customers visiting Center Plaza before September 30 can meet an advisor without an appointment and receive a free account review.\n\nMeridian Bank Customer Service",
+"questions": [
+{"q": "What must customers do about their accounts?", "type": "세부사항", "choices": ["Nothing — accounts remain unchanged", "Get new cards", "Re-register online banking", "Visit before August 15"], "a": 0, "exKo": "계좌번호·카드·온라인뱅킹 모두 그대로라 조치가 필요 없습니다."},
+{"q": "Who will receive a separate letter?", "type": "세부사항", "choices": ["Safe deposit box holders", "All business customers", "Advisors", "ATM users"], "a": 0, "exKo": "대여금고 이용 고객에게는 이관 안내문이 별도 발송됩니다."},
+{"q": "What stays open after the merger?", "type": "세부사항", "choices": ["The Elm Street ATM lobby", "The teller windows", "The business desk", "The whole branch"], "a": 0, "exKo": "Elm Street의 ATM 로비는 통합 후에도 24시간 운영됩니다."}
+]
+},
+{
+"kind": "이메일",
+"title": "공동 마케팅 제휴 제안 메일",
+"passage": "From: Partnerships, TrailKit Outdoor Gear\nTo: Marketing Team, Summit Coffee Roasters\nSubject: Partnership Proposal — Campers Love Coffee\n\nHello Summit team,\n\nOur customer survey found that 71 percent of TrailKit buyers brew coffee outdoors, and your brand came up repeatedly as a favorite. We would like to propose a three-month partnership for the spring camping season.\n\nThe idea: a co-branded 'Sunrise Kit' — our folding stove bundled with your travel-size beans — sold on both our web stores, with profits split by contribution cost. Each brand promotes the kit to its own audience; we reach 200,000 newsletter readers, and we understand your social following is similarly engaged.\n\nNeither side pays the other; we both gain access to a matched audience. If the kit sells 3,000 units, we would discuss a year-round line. Could we set up a call next week? I have attached mockups and a draft cost split.\n\nJordan Avery, Partnerships Lead",
+"questions": [
+{"q": "What is proposed?", "type": "주제·목적", "choices": ["A co-branded product bundle", "A company merger", "An ad purchase", "A supplier contract"], "a": 0, "exKo": "스토브와 원두를 묶은 공동 브랜드 키트 판매 제휴 제안입니다."},
+{"q": "How would profits be divided?", "type": "세부사항", "choices": ["Split by contribution cost", "Equally", "By sales channel", "TrailKit keeps most"], "a": 0, "exKo": "각 사의 기여 원가에 따라 이익을 나눕니다."},
+{"q": "What would trigger discussing a year-round line?", "type": "세부사항", "choices": ["Selling 3,000 kits", "A successful call", "Newsletter growth", "A new stove model"], "a": 0, "exKo": "키트가 3,000개 팔리면 상시 라인업 논의를 시작합니다."}
+]
+},
+{
+"kind": "공지",
+"title": "임직원 주식 매수 프로그램 공지",
+"passage": "EMPLOYEE SHARE PURCHASE PLAN — ENROLLMENT WINDOW\n\nEnrollment for the next six-month cycle of the share purchase plan opens Monday and closes on the 15th. Through the plan, you may set aside 1 to 10 percent of salary, and shares are purchased at a 15 percent discount to the lower of the cycle's starting or ending market price.\n\nContributions are deducted after tax each pay period and held until the purchase date at cycle end. You may reduce your rate or withdraw entirely once per cycle; withdrawn contributions are returned in full with the next payroll.\n\nShares must be held at least one year before selling, a period during which dividends are paid normally. Enrollment continues automatically between cycles unless you change it. The plan guide, tax notes for each country, and a savings calculator are on the benefits portal.\n\nTotal participation reached 64 percent of eligible staff last cycle, the highest to date.\n\nBenefits Administration",
+"questions": [
+{"q": "How is the purchase price set?", "type": "세부사항", "choices": ["15 percent below the lower of start or end price", "At the average price", "At the closing price", "By the board"], "a": 0, "exKo": "기간 시작가와 종료가 중 낮은 쪽에서 15% 할인된 가격입니다."},
+{"q": "What happens to withdrawn contributions?", "type": "세부사항", "choices": ["Returned in full with the next payroll", "Held until cycle end", "Converted to shares", "Partially refunded"], "a": 0, "exKo": "중도 철회 시 다음 급여일에 전액 반환됩니다."},
+{"q": "How long must purchased shares be held?", "type": "세부사항", "choices": ["At least one year", "Six months", "Until retirement", "No minimum"], "a": 0, "exKo": "매수 후 최소 1년간 보유해야 매도할 수 있습니다."}
+]
+},
+{
+"kind": "공지",
+"title": "협력업체 등록 갱신 절차 공지",
+"passage": "SUPPLIER REGISTRATION RENEWAL — ACTION REQUIRED\n\nAll suppliers must renew their registration in the procurement system by December 1 to remain eligible for orders next year. Renewal takes about 20 minutes if your documents are current.\n\nRequired uploads: business license, tax compliance certificate issued within 90 days, insurance certificate meeting the coverage levels in Annex B, and bank details on company letterhead. Suppliers of safety-related goods must additionally upload current product certifications.\n\nNew this year, the system checks document expiry dates automatically and emails reminders 30 days before anything lapses — no more surprise ineligibility. Suppliers who miss the December 1 deadline enter a re-approval queue that averages six weeks, during which no new purchase orders can be issued.\n\nQuestions go to supplier-desk@procurement portal, response within two business days.\n\nProcurement Operations",
+"questions": [
+{"q": "What is the consequence of missing the deadline?", "type": "세부사항", "choices": ["A six-week re-approval queue with no new orders", "A small fine", "Permanent removal", "Nothing serious"], "a": 0, "exKo": "재승인 대기 약 6주 동안 신규 발주를 받을 수 없습니다."},
+{"q": "How recent must the tax certificate be?", "type": "세부사항", "choices": ["Issued within 90 days", "Within one year", "Within 30 days", "Any date"], "a": 0, "exKo": "90일 이내 발급된 납세증명서가 필요합니다."},
+{"q": "What does the new system feature do?", "type": "세부사항", "choices": ["Emails reminders before documents expire", "Approves suppliers instantly", "Translates documents", "Issues purchase orders"], "a": 0, "exKo": "만료 30일 전에 자동 알림 메일을 보내 줍니다."}
+]
+},
+{
+"kind": "광고",
+"title": "탕비실 스낵 정기배송 광고",
+"passage": "SNACKLOOP — THE BREAK ROOM THAT RESTOCKS ITSELF\n\nAn empty snack shelf empties the room. SnackLoop delivers a curated mix of snacks, drinks, and coffee to your office weekly — and adjusts every delivery based on what your team actually eats.\n\nOur smart shelf weighs stock levels and reorders automatically, so favorites never run out and slow movers rotate out. Choose themes like healthy, local, or international, and set a monthly budget the system never exceeds. Allergy-friendly items are labeled and stocked separately.\n\nPlans from $149 a month for teams up to 20, with no delivery fees and free shelf hardware on annual plans. Companies report the snack corner becoming the new meeting spot — collaboration you can taste. Start a two-week free trial at snackloop.com.",
+"questions": [
+{"q": "How does SnackLoop adjust deliveries?", "type": "세부사항", "choices": ["Based on what the team actually consumes", "By season", "By staff votes", "Randomly"], "a": 0, "exKo": "실제 소비 데이터를 바탕으로 매주 구성을 조정합니다."},
+{"q": "What does the smart shelf do?", "type": "세부사항", "choices": ["Weighs stock and reorders automatically", "Cools drinks", "Charges employees", "Displays ads"], "a": 0, "exKo": "재고 무게를 감지해 자동으로 재주문합니다."},
+{"q": "What is included with annual plans?", "type": "세부사항", "choices": ["Free shelf hardware", "Extra snacks", "A coffee machine", "Weekend delivery"], "a": 0, "exKo": "연간 플랜에는 스마트 선반 하드웨어가 무료 제공됩니다."}
+]
+},
+{
+"kind": "광고",
+"title": "경영진 미디어 트레이닝 광고",
+"passage": "CAMERA-READY — MEDIA TRAINING FOR EXECUTIVES\n\nOne awkward interview clip can outlive years of good work. Camera-Ready prepares executives for press interviews, earnings calls, and crisis statements through realistic practice, not theory.\n\nOur one-day intensive puts you in front of real cameras with former journalists asking the questions your industry actually faces — including the ones you hope nobody asks. Every answer is reviewed on playback with a coach, and you leave with personal techniques for bridging to your message under pressure.\n\nSessions are strictly confidential and limited to four participants. Available at our studio or your office; a half-day crisis simulation for leadership teams can be added. Executives from over 300 companies have trained with us. Enquire at cameraready.co — discretion guaranteed.",
+"questions": [
+{"q": "What makes the training realistic?", "type": "세부사항", "choices": ["Real cameras and former journalists asking hard questions", "Textbook study", "Online quizzes", "Watching news clips"], "a": 0, "exKo": "실제 카메라 앞에서 전직 기자들이 곤란한 질문까지 던집니다."},
+{"q": "How are answers improved?", "type": "세부사항", "choices": ["Playback review with a coach", "Written feedback later", "Peer voting", "Self-study guides"], "a": 0, "exKo": "녹화를 다시 보며 코치와 함께 검토합니다."},
+{"q": "What is stated about session size?", "type": "세부사항", "choices": ["Limited to four participants", "Unlimited", "One-on-one only", "Up to 300 people"], "a": 0, "exKo": "세션당 최대 4명으로 제한되어 기밀이 보장됩니다."}
+]
+},
+{
+"kind": "기사",
+"title": "사무지구 점심 구독 서비스 기사",
+"passage": "FINCH DISTRICT — Lunch subscription startup MidDay has signed up 6,000 office workers in the financial district within a year of launching. Members pay $99 monthly for ten lunch credits usable at 45 partner restaurants, ordering ahead through an app and skipping lines at dedicated pickup shelves.\n\nRestaurants accept a lower margin per meal in exchange for predictable volume on slow weekdays; several report that Tuesday sales, once their weakest, now match Fridays. MidDay's data also helps partners plan: restaurants see demand forecasts three days ahead, cutting food waste by an average of 18 percent.\n\nRivals have noticed — two delivery platforms launched similar passes last quarter. MidDay's founder argues the pickup model wins in dense districts: \"At lunch, a five-minute walk beats a thirty-minute wait for a courier.\" The company expands to two more districts in the fall.",
+"questions": [
+{"q": "How does the MidDay service work?", "type": "주제·목적", "choices": ["Monthly credits for pickup lunches at partner restaurants", "Office lunch delivery by courier", "A restaurant discount card", "Corporate cafeterias"], "a": 0, "exKo": "월 구독 크레딧으로 제휴 식당에서 픽업하는 방식입니다."},
+{"q": "Why do restaurants accept lower margins?", "type": "세부사항", "choices": ["Predictable volume on slow weekdays", "Free advertising", "Higher prices elsewhere", "Shorter menus"], "a": 0, "exKo": "한산한 요일의 예측 가능한 물량을 얻기 때문입니다."},
+{"q": "What advantage does the founder claim over delivery?", "type": "세부사항", "choices": ["A short walk beats waiting for a courier", "Cheaper meals", "Better food quality", "Bigger portions"], "a": 0, "exKo": "밀집 지역에서는 5분 도보 픽업이 30분 배달 대기보다 낫다고 주장합니다."}
+]
+},
+{
+"kind": "기사",
+"title": "고령 직원 재고용 제도 확산 기사",
+"passage": "LABOR DESK — Facing shortages of experienced technicians, manufacturers are increasingly rehiring their own retirees on flexible contracts. A survey of 300 industrial firms found 44 percent now run formal 'returnship' programs, double the share of three years ago.\n\nTypical arrangements involve two or three days a week, often centered on mentoring younger staff and handling complex maintenance that shorter-tenured workers have not yet mastered. Pay is prorated from the retiree's final salary, and most programs cap total hours to protect pension arrangements.\n\nFirms report two main benefits: critical knowledge stays in the building, and training time for juniors shortens measurably — one engine plant credits retiree mentors with cutting certification time for new welders from 14 months to 9. Unions, initially wary, have largely supported the schemes since hours limits were standardized.",
+"questions": [
+{"q": "What trend does the article describe?", "type": "주제·목적", "choices": ["Rehiring retirees on flexible contracts", "Early retirement offers", "Replacing workers with robots", "Longer work weeks"], "a": 0, "exKo": "숙련 인력 부족으로 퇴직자를 유연 계약으로 재고용하는 흐름입니다."},
+{"q": "What do returning retirees typically do?", "type": "세부사항", "choices": ["Mentor younger staff and complex maintenance", "Full-time production", "Management roles", "Sales visits"], "a": 0, "exKo": "주 2~3일 근무하며 멘토링과 고난도 정비를 맡습니다."},
+{"q": "What result did the engine plant report?", "type": "세부사항", "choices": ["Welder certification time fell from 14 to 9 months", "Production doubled", "Retirees stayed full-time", "Wages rose"], "a": 0, "exKo": "용접공 인증 기간이 14개월에서 9개월로 단축되었습니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "웹사이트 접속 급증 대응 문자",
+"passage": "Tim Novak (8:55 P.M.)\nOur brand just got mentioned on a national TV show. Site traffic is 20x normal and climbing.\n\nAda Osei (8:57 P.M.)\nOn it. Auto-scaling kicked in — pages are loading, but checkout is slowing. Response times tripled in the last five minutes.\n\nTim Novak (8:58 P.M.)\nWhat's the bottleneck?\n\nAda Osei (9:00 P.M.)\nThe inventory check on each order. I can switch it to the cached count — tiny oversell risk on low-stock items, but checkout gets fast again.\n\nTim Novak (9:01 P.M.)\nHow many items are low-stock right now?\n\nAda Osei (9:02 P.M.)\nEleven products under 20 units. I can hide those from the storefront during the spike as a safety net.\n\nTim Novak (9:03 P.M.)\nDo both. Better to hide eleven products than lose a thousand carts.\n\nAda Osei (9:05 P.M.)\nDone. Checkout under a second again. I'll restore the low-stock items and normal checks once traffic settles.",
+"questions": [
+{"q": "What caused the traffic spike?", "type": "세부사항", "choices": ["A mention on a national TV show", "A price cut", "An email campaign", "A holiday sale"], "a": 0, "exKo": "전국 방송에서 브랜드가 언급되어 트래픽이 20배로 뛰었습니다."},
+{"q": "What was slowing checkout?", "type": "세부사항", "choices": ["The inventory check on each order", "The payment provider", "Image loading", "Login failures"], "a": 0, "exKo": "주문마다 실행되는 재고 확인이 병목이었습니다."},
+{"q": "What trade-off does the chosen fix accept?", "type": "추론", "choices": ["A small oversell risk on low-stock items", "Slower page loads", "Losing analytics data", "Higher server costs"], "a": 0, "exKo": "캐시된 재고 수치를 쓰면 소량 재고 상품의 초과 판매 위험이 약간 생깁니다."}
+]
+},
+{
+"kind": "문자메시지",
+"title": "해외 바이어 공장 견학 준비 문자",
+"passage": "Sofia Ricci (2:00 P.M.)\nThe Nagoya buyers confirmed for Thursday — four people, arriving 10 A.M., interpreter included on their side.\n\nDan Kovac (2:03 P.M.)\nGreat. Standard tour route, or the extended one with the R&D lab?\n\nSofia Ricci (2:05 P.M.)\nExtended — they specifically asked about our coating process. Legal cleared the lab visit as long as photos are limited to the marked zones.\n\nDan Kovac (2:07 P.M.)\nI'll brief the lab team and post the photo-zone signs in Japanese too. Lunch after?\n\nSofia Ricci (2:09 P.M.)\nYes, the private dining room. One guest is vegetarian — menu already adjusted. And they'd like the quality certificates in English before they leave.\n\nDan Kovac (2:11 P.M.)\nI'll have printed copies plus a USB. Should we prepare unit pricing too?\n\nSofia Ricci (2:12 P.M.)\nNot yet — this visit is technical evaluation only. Pricing comes if they shortlist us next month.\n\nDan Kovac (2:13 P.M.)\nUnderstood. I'll send you the final schedule tonight.",
+"questions": [
+{"q": "Why was the extended tour chosen?", "type": "세부사항", "choices": ["The buyers asked about the coating process", "It is standard for foreigners", "The lab requested it", "The standard route is closed"], "a": 0, "exKo": "바이어가 코팅 공정에 특별히 관심을 보였기 때문입니다."},
+{"q": "What condition did legal set for the lab visit?", "type": "세부사항", "choices": ["Photos only in marked zones", "No interpreters", "A signed contract", "No notes"], "a": 0, "exKo": "지정 구역에서만 촬영을 허용하는 조건입니다."},
+{"q": "Why is pricing not being prepared?", "type": "추론", "choices": ["The visit is a technical evaluation only", "Prices are secret", "The buyers set prices", "Legal forbids it"], "a": 0, "exKo": "이번 방문은 기술 평가 단계이고 가격 협상은 쇼트리스트 이후입니다."}
+]
+}
+]
+}
