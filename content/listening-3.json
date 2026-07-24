@@ -1,17 +1,444 @@
-{"items": [
-{"qType":"When","q":"When can we expect the auditors' final report?","choices":["They're still waiting on documents from accounting.","In the main conference room.","It was thoroughly audited."],"a":0,"exKo":"시점 질문에 '아직 회계팀 서류를 기다리는 중'이라는 간접 응답으로 지연 상황을 알리는 것이 정답입니다. (C)는 audit 파생어 반복 함정입니다."},
-{"qType":"Where","q":"Where did you file the signed vendor agreements?","choices":["Dana reorganized the archive last week, so ask her.","We should sign more vendors.","In about two weeks."],"a":0,"exKo":"위치를 직접 답하는 대신 '다나가 정리했으니 그녀에게 물어보라'는 우회 응답이 정답입니다. 고득점 단계의 전형적인 간접 응답 유형입니다."},
-{"qType":"Who","q":"Who should I contact about revising the licensing terms?","choices":["That would fall under legal's responsibility.","The license expires in May.","Yes, the terms were revised."],"a":0,"exKo":"담당자를 묻는 질문에 '법무팀 소관'이라는 부서 단위 응답이 정답입니다. (C)는 의문사 의문문에 Yes로 답한 오답입니다."},
-{"qType":"What","q":"What made the board reject the acquisition proposal?","choices":["The valuation was considered far too optimistic.","At the shareholders' meeting.","No, it was approved."],"a":0,"exKo":"거절 사유를 묻고 있으므로 '기업 가치 평가가 지나치게 낙관적이었다'는 이유 응답이 정답입니다. (C)는 질문의 전제(거절됨)와 모순됩니다."},
-{"qType":"What","q":"What's holding up the product certification?","choices":["One safety test still has to be redone.","It's held on the fifth floor.","The products are selling well."],"a":0,"exKo":"지연 원인을 묻는 What's holding up에 '안전 시험 하나를 다시 해야 한다'는 응답이 정답입니다. (B)는 hold의 다른 의미를 이용한 함정입니다."},
-{"qType":"Why","q":"Why was the merger announcement postponed?","choices":["Regulators asked for additional filings.","By the end of the fiscal year.","It merged with another firm."],"a":0,"exKo":"연기 사유를 묻고 있으므로 '규제 당국이 추가 서류를 요구했다'가 정답입니다. (C)는 merger 파생어 반복 함정입니다."},
-{"qType":"How","q":"How are we going to cover the shortfall in this quarter's budget?","choices":["The directors are meeting on that this afternoon.","It's about ten percent short.","Yes, we covered it in the report."],"a":0,"exKo":"해결 방법을 묻는 질문에 '오늘 오후 이사들이 그 문제로 회의한다'는 간접 응답이 정답입니다. 아직 답이 정해지지 않았음을 시사합니다."},
-{"qType":"일반의문문","q":"Has the translation agency confirmed the contract deadline?","choices":["Their reply should be in my inbox by noon.","It was translated into six languages.","At the agency's headquarters."],"a":0,"exKo":"확인 여부를 묻는 질문에 '정오까지 회신이 올 것'이라는 간접 응답이 정답입니다. 아직 확인 전임을 우회적으로 알려줍니다."},
-{"qType":"일반의문문","q":"Could you take over the client briefing while I'm at the trade show?","choices":["As long as I get the background materials first.","The show starts at ten.","He briefed us yesterday."],"a":0,"exKo":"업무 인수 요청에 '자료를 먼저 받는 조건이라면'이라는 조건부 수락이 정답입니다. (B)는 trade show 연상 함정입니다."},
-{"qType":"일반의문문","q":"Wasn't the catering supposed to arrive an hour ago?","choices":["Their van broke down on the highway.","Fifty guests have confirmed.","Yes, the food was delicious."],"a":0,"exKo":"부정의문문으로 지연을 지적하는 말에 지연 사유(차량 고장)로 답하는 것이 자연스럽습니다. (C)는 아직 도착하지 않은 상황과 모순됩니다."},
-{"qType":"일반의문문","q":"Would you rather present the findings yourself or have me do it?","choices":["You know the data better than I do.","The findings were quite surprising.","In the quarterly presentation."],"a":0,"exKo":"선택의문문에 '네가 데이터를 더 잘 아니 네가 하라'는 우회적 선택 응답이 정답입니다. 둘 중 하나를 고르는 대신 이유로 답하는 고난도 유형입니다."},
-{"qType":"평서문","q":"The printer on the third floor is out of order again.","choices":["I'll call the technician right away.","Three copies, please.","No, it's on the fourth floor."],"a":0,"exKo":"고장 소식에 수리 기사를 부르겠다는 응답이 자연스럽습니다. (B)는 printer-copies 연상 함정입니다."},
-{"qType":"평서문","q":"I heard headquarters is freezing all hiring until January.","choices":["Then we'll have to redistribute the workload.","The freezer needs repairs.","Two new positions were posted."],"a":0,"exKo":"채용 동결 소식에 '그럼 업무를 재분배해야겠다'는 대응 응답이 정답입니다. (B)는 freeze-freezer 유사 발음 함정, (C)는 동결 상황과 모순됩니다."},
-{"qType":"평서문","q":"The keynote speaker just canceled for Thursday's conference.","choices":["Let's see if Dr. Okafor is available instead.","The keynote was inspiring.","Around three hundred attendees."],"a":0,"exKo":"연사 취소 소식에 대체 연사를 찾자는 해결 응답이 정답입니다. (B)는 아직 열리지 않은 행사에 대한 감상으로 모순됩니다."},
-{"qType":"평서문","q":"Our biggest competitor just cut their subscription price by twenty percent.","choices":["We should analyze how it affects our renewals.","I'd like to subscribe, please.","Twenty percent of employees agreed."],"a":0,"exKo":"경쟁사 가격 인하 소식에 '재계약에 미칠 영향을 분석하자'는 전략적 대응이 정답입니다. (C)는 twenty percent를 반복한 숫자 함정입니다."}
-]}
+{
+"items": [
+{
+"qType": "When",
+"q": "When can we expect the auditors' final report?",
+"choices": [
+"They're still waiting on documents from accounting.",
+"In the main conference room.",
+"It was thoroughly audited."
+],
+"a": 0,
+"exKo": "시점 질문에 '아직 회계팀 서류를 기다리는 중'이라는 간접 응답으로 지연 상황을 알리는 것이 정답입니다. (C)는 audit 파생어 반복 함정입니다."
+},
+{
+"qType": "Where",
+"q": "Where did you file the signed vendor agreements?",
+"choices": [
+"Dana reorganized the archive last week, so ask her.",
+"We should sign more vendors.",
+"In about two weeks."
+],
+"a": 0,
+"exKo": "위치를 직접 답하는 대신 '다나가 정리했으니 그녀에게 물어보라'는 우회 응답이 정답입니다. 고득점 단계의 전형적인 간접 응답 유형입니다."
+},
+{
+"qType": "Who",
+"q": "Who should I contact about revising the licensing terms?",
+"choices": [
+"That would fall under legal's responsibility.",
+"The license expires in May.",
+"Yes, the terms were revised."
+],
+"a": 0,
+"exKo": "담당자를 묻는 질문에 '법무팀 소관'이라는 부서 단위 응답이 정답입니다. (C)는 의문사 의문문에 Yes로 답한 오답입니다."
+},
+{
+"qType": "What",
+"q": "What made the board reject the acquisition proposal?",
+"choices": [
+"The valuation was considered far too optimistic.",
+"At the shareholders' meeting.",
+"No, it was approved."
+],
+"a": 0,
+"exKo": "거절 사유를 묻고 있으므로 '기업 가치 평가가 지나치게 낙관적이었다'는 이유 응답이 정답입니다. (C)는 질문의 전제(거절됨)와 모순됩니다."
+},
+{
+"qType": "What",
+"q": "What's holding up the product certification?",
+"choices": [
+"One safety test still has to be redone.",
+"It's held on the fifth floor.",
+"The products are selling well."
+],
+"a": 0,
+"exKo": "지연 원인을 묻는 What's holding up에 '안전 시험 하나를 다시 해야 한다'는 응답이 정답입니다. (B)는 hold의 다른 의미를 이용한 함정입니다."
+},
+{
+"qType": "Why",
+"q": "Why was the merger announcement postponed?",
+"choices": [
+"Regulators asked for additional filings.",
+"By the end of the fiscal year.",
+"It merged with another firm."
+],
+"a": 0,
+"exKo": "연기 사유를 묻고 있으므로 '규제 당국이 추가 서류를 요구했다'가 정답입니다. (C)는 merger 파생어 반복 함정입니다."
+},
+{
+"qType": "How",
+"q": "How are we going to cover the shortfall in this quarter's budget?",
+"choices": [
+"The directors are meeting on that this afternoon.",
+"It's about ten percent short.",
+"Yes, we covered it in the report."
+],
+"a": 0,
+"exKo": "해결 방법을 묻는 질문에 '오늘 오후 이사들이 그 문제로 회의한다'는 간접 응답이 정답입니다. 아직 답이 정해지지 않았음을 시사합니다."
+},
+{
+"qType": "일반의문문",
+"q": "Has the translation agency confirmed the contract deadline?",
+"choices": [
+"Their reply should be in my inbox by noon.",
+"It was translated into six languages.",
+"At the agency's headquarters."
+],
+"a": 0,
+"exKo": "확인 여부를 묻는 질문에 '정오까지 회신이 올 것'이라는 간접 응답이 정답입니다. 아직 확인 전임을 우회적으로 알려줍니다."
+},
+{
+"qType": "일반의문문",
+"q": "Could you take over the client briefing while I'm at the trade show?",
+"choices": [
+"As long as I get the background materials first.",
+"The show starts at ten.",
+"He briefed us yesterday."
+],
+"a": 0,
+"exKo": "업무 인수 요청에 '자료를 먼저 받는 조건이라면'이라는 조건부 수락이 정답입니다. (B)는 trade show 연상 함정입니다."
+},
+{
+"qType": "일반의문문",
+"q": "Wasn't the catering supposed to arrive an hour ago?",
+"choices": [
+"Their van broke down on the highway.",
+"Fifty guests have confirmed.",
+"Yes, the food was delicious."
+],
+"a": 0,
+"exKo": "부정의문문으로 지연을 지적하는 말에 지연 사유(차량 고장)로 답하는 것이 자연스럽습니다. (C)는 아직 도착하지 않은 상황과 모순됩니다."
+},
+{
+"qType": "일반의문문",
+"q": "Would you rather present the findings yourself or have me do it?",
+"choices": [
+"You know the data better than I do.",
+"The findings were quite surprising.",
+"In the quarterly presentation."
+],
+"a": 0,
+"exKo": "선택의문문에 '네가 데이터를 더 잘 아니 네가 하라'는 우회적 선택 응답이 정답입니다. 둘 중 하나를 고르는 대신 이유로 답하는 고난도 유형입니다."
+},
+{
+"qType": "평서문",
+"q": "The printer on the third floor is out of order again.",
+"choices": [
+"I'll call the technician right away.",
+"Three copies, please.",
+"No, it's on the fourth floor."
+],
+"a": 0,
+"exKo": "고장 소식에 수리 기사를 부르겠다는 응답이 자연스럽습니다. (B)는 printer-copies 연상 함정입니다."
+},
+{
+"qType": "평서문",
+"q": "I heard headquarters is freezing all hiring until January.",
+"choices": [
+"Then we'll have to redistribute the workload.",
+"The freezer needs repairs.",
+"Two new positions were posted."
+],
+"a": 0,
+"exKo": "채용 동결 소식에 '그럼 업무를 재분배해야겠다'는 대응 응답이 정답입니다. (B)는 freeze-freezer 유사 발음 함정, (C)는 동결 상황과 모순됩니다."
+},
+{
+"qType": "평서문",
+"q": "The keynote speaker just canceled for Thursday's conference.",
+"choices": [
+"Let's see if Dr. Okafor is available instead.",
+"The keynote was inspiring.",
+"Around three hundred attendees."
+],
+"a": 0,
+"exKo": "연사 취소 소식에 대체 연사를 찾자는 해결 응답이 정답입니다. (B)는 아직 열리지 않은 행사에 대한 감상으로 모순됩니다."
+},
+{
+"qType": "평서문",
+"q": "Our biggest competitor just cut their subscription price by twenty percent.",
+"choices": [
+"We should analyze how it affects our renewals.",
+"I'd like to subscribe, please.",
+"Twenty percent of employees agreed."
+],
+"a": 0,
+"exKo": "경쟁사 가격 인하 소식에 '재계약에 미칠 영향을 분석하자'는 전략적 대응이 정답입니다. (C)는 twenty percent를 반복한 숫자 함정입니다."
+},
+{
+"qType": "When",
+"q": "When will the arbitration ruling be announced?",
+"choices": [
+"The panel hasn't set a date yet.",
+"In the arbitrator's office.",
+"Both parties attended."
+],
+"a": 0,
+"exKo": "발표 시점을 묻는 질문에 '아직 날짜가 정해지지 않았다'는 간접 응답이 정답입니다."
+},
+{
+"qType": "When",
+"q": "When do you plan to roll out the loyalty program?",
+"choices": [
+"That depends on the app developers.",
+"For repeat customers.",
+"Up to fifteen percent off."
+],
+"a": 0,
+"exKo": "출시 시점을 묻는 질문에 '개발팀에 달려 있다'는 조건부 응답이 정답입니다."
+},
+{
+"qType": "Where",
+"q": "Where are we holding the shareholders' meeting this year?",
+"choices": [
+"The venue committee meets tomorrow to decide.",
+"Roughly eight hundred attendees.",
+"The proxy voting deadline."
+],
+"a": 0,
+"exKo": "장소를 묻는 질문에 '내일 위원회가 결정한다'는 간접 응답(미정)이 정답입니다."
+},
+{
+"qType": "Where",
+"q": "Where did the discrepancy in the ledger come from?",
+"choices": [
+"A shipment was recorded twice in March.",
+"Nearly three thousand dollars.",
+"Our external auditor."
+],
+"a": 0,
+"exKo": "불일치의 출처를 묻는 질문에 원인(3월 중복 기록)으로 답한 (A)가 정답입니다."
+},
+{
+"qType": "Who",
+"q": "Who will take over the Hendricks account after Ms. Cole retires?",
+"choices": [
+"Management is still weighing candidates.",
+"A twenty-year client.",
+"Her farewell party is Friday."
+],
+"a": 0,
+"exKo": "후임자를 묻는 질문에 '아직 검토 중'이라는 간접 응답이 정답입니다."
+},
+{
+"qType": "Who",
+"q": "Who authorized the changes to the floor plan?",
+"choices": [
+"They came directly from the design director.",
+"Two extra workstations.",
+"By the end of the month."
+],
+"a": 0,
+"exKo": "승인자를 묻는 질문에 출처(디자인 총괄)로 답한 (A)가 정답입니다."
+},
+{
+"qType": "What",
+"q": "What's holding up the environmental permit?",
+"choices": [
+"The city requested an additional impact study.",
+"Near the riverfront site.",
+"A five-year validity."
+],
+"a": 0,
+"exKo": "지연 원인을 묻는 What's holding up에 추가 조사 요구라는 원인 응답이 정답입니다."
+},
+{
+"qType": "What",
+"q": "What would it take to move up the delivery date?",
+"choices": [
+"We'd have to pay for weekend shifts.",
+"A fleet of six trucks.",
+"The loading dock closes at five."
+],
+"a": 0,
+"exKo": "조건을 묻는 질문에 '주말 근무 수당을 부담해야 한다'는 조건 응답이 정답입니다."
+},
+{
+"qType": "What",
+"q": "What did the focus group think of the new packaging?",
+"choices": [
+"The color scheme tested poorly.",
+"Recyclable materials.",
+"Twelve participants."
+],
+"a": 0,
+"exKo": "평가를 묻는 질문에 결과(색상 반응이 나빴다)로 답한 (A)가 정답입니다."
+},
+{
+"qType": "Why",
+"q": "Why did we lose the Templeton bid?",
+"choices": [
+"A competitor undercut us by ten percent.",
+"A three-year maintenance contract.",
+"The proposal was forty pages."
+],
+"a": 0,
+"exKo": "패배 원인을 묻는 질문에 '경쟁사가 10% 싸게 냈다'는 이유가 정답입니다."
+},
+{
+"qType": "Why",
+"q": "Why hasn't the branch manager position been filled?",
+"choices": [
+"Two finalists turned down our offer.",
+"A corner office and a company car.",
+"Since early spring."
+],
+"a": 0,
+"exKo": "공석 이유를 묻는 질문에 '최종 후보 두 명이 제안을 거절했다'가 정답입니다."
+},
+{
+"qType": "How",
+"q": "How are we going to absorb the increase in raw material costs?",
+"choices": [
+"We're renegotiating with two of our suppliers.",
+"Mostly steel and copper.",
+"About eight percent higher."
+],
+"a": 0,
+"exKo": "대처 방법을 묻는 질문에 '공급사와 재협상 중'이라는 해결 응답이 정답입니다."
+},
+{
+"qType": "How",
+"q": "How did the prototype hold up in the durability tests?",
+"choices": [
+"It exceeded the industry benchmark.",
+"In the testing facility.",
+"A carbon-fiber frame."
+],
+"a": 0,
+"exKo": "시험 결과를 묻는 질문에 '업계 기준을 초과했다'는 결과 응답이 정답입니다."
+},
+{
+"qType": "How",
+"q": "How flexible is the vendor on the payment terms?",
+"choices": [
+"They'll extend to sixty days for bulk orders.",
+"By bank transfer.",
+"An itemized invoice."
+],
+"a": 0,
+"exKo": "유연성 정도를 묻는 질문에 구체적 조건(대량 주문 시 60일 연장)으로 답한 (A)가 정답입니다."
+},
+{
+"qType": "일반의문문",
+"q": "Weren't the auditors supposed to finish by today?",
+"choices": [
+"They found something that needs a closer look.",
+"An annual audit.",
+"In the finance department."
+],
+"a": 0,
+"exKo": "오늘까지 끝나기로 하지 않았냐는 질문에 지연 사유(추가 검토 사항 발견)로 답한 간접 응답이 정답입니다."
+},
+{
+"qType": "일반의문문",
+"q": "Has legal signed off on the advertising claims?",
+"choices": [
+"They flagged two phrases for revision.",
+"A thirty-second commercial.",
+"During prime time."
+],
+"a": 0,
+"exKo": "승인 여부를 묻는 질문에 '두 문구에 수정 지적을 했다'는 간접적 No 응답이 정답입니다."
+},
+{
+"qType": "일반의문문",
+"q": "Could we sublease the unused floor to offset costs?",
+"choices": [
+"The lease may not permit that.",
+"On the eighth floor.",
+"About forty workstations."
+],
+"a": 0,
+"exKo": "제안에 대해 '임대 계약상 불가능할 수 있다'는 우려 응답이 정답입니다."
+},
+{
+"qType": "일반의문문",
+"q": "Do you think the board will approve the expansion?",
+"choices": [
+"The financials make a strong case.",
+"Into two new markets.",
+"At the quarterly meeting."
+],
+"a": 0,
+"exKo": "승인 전망을 묻는 질문에 '재무 자료가 설득력 있다'는 낙관적 간접 응답이 정답입니다."
+},
+{
+"qType": "일반의문문",
+"q": "Would it be better to settle or go to trial?",
+"choices": [
+"Our counsel is leaning toward a settlement.",
+"In the district court.",
+"A breach of contract claim."
+],
+"a": 0,
+"exKo": "선택의문문에 변호인단의 의견(합의 쪽)으로 답한 응답이 정답입니다."
+},
+{
+"qType": "평서문",
+"q": "The exchange rate has moved against us since we signed the deal.",
+"choices": [
+"We should consider hedging future contracts.",
+"In three currencies.",
+"The bank closes at four."
+],
+"a": 0,
+"exKo": "환율 악화 언급에 헤지 전략을 제안하는 대응이 정답입니다."
+},
+{
+"qType": "평서문",
+"q": "Turnover in the call center has doubled this year.",
+"choices": [
+"An exit survey might tell us why.",
+"About sixty agents.",
+"Headsets and dual monitors."
+],
+"a": 0,
+"exKo": "이직률 상승 언급에 원인 파악 방법(퇴직 설문)을 제안하는 응답이 정답입니다."
+},
+{
+"qType": "평서문",
+"q": "The regulator just tightened the emissions standards again.",
+"choices": [
+"Our new filters should already meet them.",
+"A public hearing.",
+"Since the last election."
+],
+"a": 0,
+"exKo": "규제 강화 소식에 '신형 필터로 이미 충족한다'는 대응 응답이 정답입니다."
+},
+{
+"qType": "평서문",
+"q": "Our biggest supplier is rumored to be filing for bankruptcy.",
+"choices": [
+"We'd better line up an alternative source.",
+"A family-owned business.",
+"Since nineteen ninety."
+],
+"a": 0,
+"exKo": "공급사 파산 소문에 대체 공급처 확보를 제안하는 응답이 정답입니다."
+},
+{
+"qType": "평서문",
+"q": "The venture capital firm wants a larger equity stake.",
+"choices": [
+"That could dilute the founders' control.",
+"A Series B round.",
+"In the term sheet."
+],
+"a": 0,
+"exKo": "지분 요구 언급에 그 영향(창업자 지배력 희석)을 짚는 응답이 정답입니다."
+},
+{
+"qType": "평서문",
+"q": "Attendance at the flagship store has dipped for three straight months.",
+"choices": [
+"The road construction outside may be to blame.",
+"Open seven days a week.",
+"On the main shopping street."
+],
+"a": 0,
+"exKo": "방문객 감소 언급에 가능한 원인(도로 공사)을 짚는 응답이 정답입니다."
+}
+]
+}

@@ -1,17 +1,444 @@
-{"items": [
-{"qType":"When","q":"When will the new intern start working?","choices":["Not until the paperwork is finalized.","In the marketing department.","She graduated last year."],"a":0,"exKo":"시점을 묻는 질문에 '서류 작업이 끝나야 시작한다'는 간접 응답이 정답입니다. 정확한 날짜 대신 조건으로 답하는 중급 유형입니다."},
-{"qType":"When","q":"When is the deadline for the grant application?","choices":["Let me check the announcement again.","About five thousand dollars.","To fund the research project."],"a":0,"exKo":"모른다는 의미로 '공고문을 다시 확인해 보겠다'는 우회 응답이 정답입니다. (B)는 금액, (C)는 목적 응답으로 질문과 맞지 않습니다."},
-{"qType":"Where","q":"Where can I find the training materials?","choices":["They were uploaded to the shared drive.","Every Wednesday morning.","By the end of this week."],"a":0,"exKo":"자료의 위치를 묻고 있으므로 공유 드라이브에 업로드되었다는 응답이 정답입니다. 나머지는 모두 시간 관련 응답입니다."},
-{"qType":"Where","q":"Where is the quarterly review being held this time?","choices":["The venue hasn't been decided yet.","Last quarter's numbers were strong.","Twice a year, usually."],"a":0,"exKo":"장소를 묻는 질문에 '아직 정해지지 않았다'는 간접 응답이 정답입니다. (B)는 quarterly 연상 함정입니다."},
-{"qType":"Who","q":"Who's going to cover Maria's shift on Saturday?","choices":["I can, if no one else volunteers.","At the front desk.","She works very hard."],"a":0,"exKo":"대신 근무할 사람을 묻고 있으므로 조건부 수락(I can, if...)이 정답입니다. (C)는 Maria에 대한 평가로 질문과 무관합니다."},
-{"qType":"Who","q":"Who approved this purchase order?","choices":["It must have been Mr. Reyes.","Three new laptops.","Because we needed them urgently."],"a":0,"exKo":"승인자를 묻고 있으므로 추측 표현(must have been)으로 사람을 답한 (A)가 정답입니다. (B)는 품목, (C)는 이유 응답입니다."},
-{"qType":"What","q":"What should we do about the broken projector?","choices":["Let's rent one for tomorrow's meeting.","A ten-page presentation.","Yes, it was projected to grow."],"a":0,"exKo":"해결책을 묻는 질문에 '내일 회의용으로 하나 빌리자'는 제안이 정답입니다. (C)는 projector-projected 유사 발음 함정입니다."},
-{"qType":"What","q":"What's the fastest way to get approval for overtime?","choices":["Talk to your supervisor directly.","About ten extra hours.","It opens at eight."],"a":0,"exKo":"방법을 묻고 있으므로 상사에게 직접 말하라는 응답이 정답입니다. (B)는 overtime에서 연상되는 시간 함정입니다."},
-{"qType":"Why","q":"Why hasn't the shipment arrived yet?","choices":["There was a strike at the port.","Fifty boxes in total.","To the downtown warehouse."],"a":0,"exKo":"지연 이유를 묻고 있으므로 항구 파업이 있었다는 응답이 정답입니다. (B)는 수량, (C)는 목적지 응답입니다."},
-{"qType":"Why","q":"Why don't we move the launch date to September?","choices":["Marketing might not agree to that.","It was launched successfully.","At the product demonstration."],"a":0,"exKo":"Why don't we~는 제안 표현입니다. 제안에 대한 우려(마케팅팀이 동의하지 않을 수 있다)를 표한 응답이 정답입니다. 이유를 묻는 Why와 혼동하지 않도록 주의하세요."},
-{"qType":"How","q":"How did the client react to our proposal?","choices":["Better than we expected.","By registered mail.","Three revisions so far."],"a":0,"exKo":"반응을 묻고 있으므로 '기대보다 좋았다'가 정답입니다. (B)는 전달 방법으로, How의 다른 쓰임을 이용한 함정입니다."},
-{"qType":"일반의문문","q":"Have you finished reviewing the budget proposal?","choices":["I'm still on the first section.","It costs fifty dollars.","At the bank on Main Street."],"a":0,"exKo":"완료 여부를 묻는 질문에 '아직 첫 부분을 보고 있다'는 간접적인 No 응답이 정답입니다. (B)는 budget에서 연상되는 금액 함정입니다."},
-{"qType":"일반의문문","q":"Are you attending the trade fair in Busan next month?","choices":["It depends on my project schedule.","Yes, the fare was expensive.","Booth number twelve."],"a":0,"exKo":"참석 여부에 대해 '일정에 달려 있다'는 조건부 응답이 정답입니다. (B)는 fair-fare 유사 발음 함정입니다."},
-{"qType":"평서문","q":"The air conditioning in the meeting room isn't working again.","choices":["I'll call the maintenance office right away.","Yes, the meeting went well.","It seats twenty people."],"a":0,"exKo":"고장을 알리는 평서문에는 조치를 취하겠다는 응답이 자연스럽습니다. (B)는 meeting을 반복한 연상 함정입니다."},
-{"qType":"평서문","q":"We're running low on ink cartridges for the printer.","choices":["I'll add them to this week's order.","The document printed clearly.","No, it's a color printer."],"a":0,"exKo":"소모품 부족을 알리는 말에 '이번 주 주문에 추가하겠다'는 해결 응답이 정답입니다. (B), (C)는 printer 연상 함정입니다."}
-]}
+{
+"items": [
+{
+"qType": "When",
+"q": "When will the new intern start working?",
+"choices": [
+"Not until the paperwork is finalized.",
+"In the marketing department.",
+"She graduated last year."
+],
+"a": 0,
+"exKo": "시점을 묻는 질문에 '서류 작업이 끝나야 시작한다'는 간접 응답이 정답입니다. 정확한 날짜 대신 조건으로 답하는 중급 유형입니다."
+},
+{
+"qType": "When",
+"q": "When is the deadline for the grant application?",
+"choices": [
+"Let me check the announcement again.",
+"About five thousand dollars.",
+"To fund the research project."
+],
+"a": 0,
+"exKo": "모른다는 의미로 '공고문을 다시 확인해 보겠다'는 우회 응답이 정답입니다. (B)는 금액, (C)는 목적 응답으로 질문과 맞지 않습니다."
+},
+{
+"qType": "Where",
+"q": "Where can I find the training materials?",
+"choices": [
+"They were uploaded to the shared drive.",
+"Every Wednesday morning.",
+"By the end of this week."
+],
+"a": 0,
+"exKo": "자료의 위치를 묻고 있으므로 공유 드라이브에 업로드되었다는 응답이 정답입니다. 나머지는 모두 시간 관련 응답입니다."
+},
+{
+"qType": "Where",
+"q": "Where is the quarterly review being held this time?",
+"choices": [
+"The venue hasn't been decided yet.",
+"Last quarter's numbers were strong.",
+"Twice a year, usually."
+],
+"a": 0,
+"exKo": "장소를 묻는 질문에 '아직 정해지지 않았다'는 간접 응답이 정답입니다. (B)는 quarterly 연상 함정입니다."
+},
+{
+"qType": "Who",
+"q": "Who's going to cover Maria's shift on Saturday?",
+"choices": [
+"I can, if no one else volunteers.",
+"At the front desk.",
+"She works very hard."
+],
+"a": 0,
+"exKo": "대신 근무할 사람을 묻고 있으므로 조건부 수락(I can, if...)이 정답입니다. (C)는 Maria에 대한 평가로 질문과 무관합니다."
+},
+{
+"qType": "Who",
+"q": "Who approved this purchase order?",
+"choices": [
+"It must have been Mr. Reyes.",
+"Three new laptops.",
+"Because we needed them urgently."
+],
+"a": 0,
+"exKo": "승인자를 묻고 있으므로 추측 표현(must have been)으로 사람을 답한 (A)가 정답입니다. (B)는 품목, (C)는 이유 응답입니다."
+},
+{
+"qType": "What",
+"q": "What should we do about the broken projector?",
+"choices": [
+"Let's rent one for tomorrow's meeting.",
+"A ten-page presentation.",
+"Yes, it was projected to grow."
+],
+"a": 0,
+"exKo": "해결책을 묻는 질문에 '내일 회의용으로 하나 빌리자'는 제안이 정답입니다. (C)는 projector-projected 유사 발음 함정입니다."
+},
+{
+"qType": "What",
+"q": "What's the fastest way to get approval for overtime?",
+"choices": [
+"Talk to your supervisor directly.",
+"About ten extra hours.",
+"It opens at eight."
+],
+"a": 0,
+"exKo": "방법을 묻고 있으므로 상사에게 직접 말하라는 응답이 정답입니다. (B)는 overtime에서 연상되는 시간 함정입니다."
+},
+{
+"qType": "Why",
+"q": "Why hasn't the shipment arrived yet?",
+"choices": [
+"There was a strike at the port.",
+"Fifty boxes in total.",
+"To the downtown warehouse."
+],
+"a": 0,
+"exKo": "지연 이유를 묻고 있으므로 항구 파업이 있었다는 응답이 정답입니다. (B)는 수량, (C)는 목적지 응답입니다."
+},
+{
+"qType": "Why",
+"q": "Why don't we move the launch date to September?",
+"choices": [
+"Marketing might not agree to that.",
+"It was launched successfully.",
+"At the product demonstration."
+],
+"a": 0,
+"exKo": "Why don't we~는 제안 표현입니다. 제안에 대한 우려(마케팅팀이 동의하지 않을 수 있다)를 표한 응답이 정답입니다. 이유를 묻는 Why와 혼동하지 않도록 주의하세요."
+},
+{
+"qType": "How",
+"q": "How did the client react to our proposal?",
+"choices": [
+"Better than we expected.",
+"By registered mail.",
+"Three revisions so far."
+],
+"a": 0,
+"exKo": "반응을 묻고 있으므로 '기대보다 좋았다'가 정답입니다. (B)는 전달 방법으로, How의 다른 쓰임을 이용한 함정입니다."
+},
+{
+"qType": "일반의문문",
+"q": "Have you finished reviewing the budget proposal?",
+"choices": [
+"I'm still on the first section.",
+"It costs fifty dollars.",
+"At the bank on Main Street."
+],
+"a": 0,
+"exKo": "완료 여부를 묻는 질문에 '아직 첫 부분을 보고 있다'는 간접적인 No 응답이 정답입니다. (B)는 budget에서 연상되는 금액 함정입니다."
+},
+{
+"qType": "일반의문문",
+"q": "Are you attending the trade fair in Busan next month?",
+"choices": [
+"It depends on my project schedule.",
+"Yes, the fare was expensive.",
+"Booth number twelve."
+],
+"a": 0,
+"exKo": "참석 여부에 대해 '일정에 달려 있다'는 조건부 응답이 정답입니다. (B)는 fair-fare 유사 발음 함정입니다."
+},
+{
+"qType": "평서문",
+"q": "The air conditioning in the meeting room isn't working again.",
+"choices": [
+"I'll call the maintenance office right away.",
+"Yes, the meeting went well.",
+"It seats twenty people."
+],
+"a": 0,
+"exKo": "고장을 알리는 평서문에는 조치를 취하겠다는 응답이 자연스럽습니다. (B)는 meeting을 반복한 연상 함정입니다."
+},
+{
+"qType": "평서문",
+"q": "We're running low on ink cartridges for the printer.",
+"choices": [
+"I'll add them to this week's order.",
+"The document printed clearly.",
+"No, it's a color printer."
+],
+"a": 0,
+"exKo": "소모품 부족을 알리는 말에 '이번 주 주문에 추가하겠다'는 해결 응답이 정답입니다. (B), (C)는 printer 연상 함정입니다."
+},
+{
+"qType": "When",
+"q": "When can we expect the revised contract?",
+"choices": [
+"Legal is still reviewing it.",
+"With the new clauses.",
+"At the law firm."
+],
+"a": 0,
+"exKo": "시점 질문에 '법무팀이 아직 검토 중'이라는 간접 응답이 정답입니다."
+},
+{
+"qType": "When",
+"q": "When does your store restock the popular items?",
+"choices": [
+"Deliveries usually come on Mondays.",
+"On the top shelf.",
+"They sell out quickly."
+],
+"a": 0,
+"exKo": "재입고 시점을 묻는 질문에 배송 요일로 답한 (A)가 정답입니다. (C)는 상황 설명일 뿐 시점이 아닙니다."
+},
+{
+"qType": "When",
+"q": "When are you presenting the sales figures?",
+"choices": [
+"My slot was moved to Thursday.",
+"In the quarterly report.",
+"Better than expected."
+],
+"a": 0,
+"exKo": "발표 시점을 묻는 질문에 '목요일로 옮겨졌다'는 응답이 정답입니다."
+},
+{
+"qType": "Where",
+"q": "Where should we hold the year-end reception?",
+"choices": [
+"The rooftop hall has a nice view.",
+"About a hundred people.",
+"In early December."
+],
+"a": 0,
+"exKo": "장소를 묻는 질문에 장소를 제안하는 응답이 정답입니다."
+},
+{
+"qType": "Where",
+"q": "Where did these product samples come from?",
+"choices": [
+"Our new supplier in Vietnam.",
+"Last Wednesday.",
+"Free of charge."
+],
+"a": 0,
+"exKo": "출처를 묻고 있으므로 공급업체 응답이 정답입니다."
+},
+{
+"qType": "Where",
+"q": "Where can I charge my laptop around here?",
+"choices": [
+"There are outlets by the window seats.",
+"For about an hour.",
+"It's fully charged."
+],
+"a": 0,
+"exKo": "충전 장소를 묻는 질문에 콘센트 위치로 답한 (A)가 정답입니다. (C)는 charge 반복 함정입니다."
+},
+{
+"qType": "Who",
+"q": "Who's responsible for updating the website?",
+"choices": [
+"That would be the IT team.",
+"Every other week.",
+"The new homepage design."
+],
+"a": 0,
+"exKo": "담당자를 묻는 질문에 부서로 답한 (A)가 정답입니다."
+},
+{
+"qType": "Who",
+"q": "Who approved the overtime request?",
+"choices": [
+"It's still waiting for a signature.",
+"Ten extra hours.",
+"For the inventory count."
+],
+"a": 0,
+"exKo": "승인자를 묻는 질문에 '아직 서명 대기 중'이라는 간접 응답(아직 승인 안 됨)이 정답입니다."
+},
+{
+"qType": "Who",
+"q": "Who can show the new intern around the office?",
+"choices": [
+"I have some time after lunch.",
+"Two weeks of training.",
+"On the third floor."
+],
+"a": 0,
+"exKo": "안내할 사람을 찾는 질문에 자원하는 응답이 정답입니다."
+},
+{
+"qType": "What",
+"q": "What did the inspector say about the kitchen?",
+"choices": [
+"Everything passed except one refrigerator.",
+"At the health department.",
+"Twice a year."
+],
+"a": 0,
+"exKo": "점검 결과를 묻는 질문에 결과를 전하는 응답이 정답입니다."
+},
+{
+"qType": "What",
+"q": "What's the best way to reach the head office?",
+"choices": [
+"Email usually gets the fastest reply.",
+"On the tenth floor.",
+"Since the reorganization."
+],
+"a": 0,
+"exKo": "연락 방법을 묻는 질문에 이메일이 빠르다는 응답이 정답입니다."
+},
+{
+"qType": "What",
+"q": "What happened to the vending machine in the lobby?",
+"choices": [
+"It was removed during the renovation.",
+"Coffee and snacks.",
+"Exact change only."
+],
+"a": 0,
+"exKo": "자판기에 무슨 일이 있었는지 묻는 질문에 '보수 공사 때 치워졌다'가 정답입니다. (B), (C)는 연상 함정입니다."
+},
+{
+"qType": "Why",
+"q": "Why was the product launch pushed back?",
+"choices": [
+"The packaging design isn't finalized.",
+"In the main showroom.",
+"Nearly two hundred units."
+],
+"a": 0,
+"exKo": "연기 이유를 묻는 질문에 포장 디자인 미확정이라는 이유가 정답입니다."
+},
+{
+"qType": "Why",
+"q": "Why don't we offer free samples at the trade show?",
+"choices": [
+"That's a great way to draw visitors.",
+"At Booth 12.",
+"Twice a day."
+],
+"a": 0,
+"exKo": "Why don't we~는 제안 표현이므로 제안에 동의하는 응답이 정답입니다."
+},
+{
+"qType": "Why",
+"q": "Why is the quarterly report taking so long?",
+"choices": [
+"We're still waiting for data from two branches.",
+"Every three months.",
+"About forty pages."
+],
+"a": 0,
+"exKo": "지연 이유를 묻는 질문에 지점 데이터 대기 중이라는 이유가 정답입니다."
+},
+{
+"qType": "How",
+"q": "How did the interview with the candidate go?",
+"choices": [
+"She exceeded our expectations.",
+"At two o'clock.",
+"The corner office."
+],
+"a": 0,
+"exKo": "면접 결과를 묻는 질문에 평가로 답한 (A)가 정답입니다."
+},
+{
+"qType": "How",
+"q": "How should we handle the duplicate orders?",
+"choices": [
+"Let's contact each customer to confirm.",
+"Nearly thirty of them.",
+"From the online store."
+],
+"a": 0,
+"exKo": "처리 방법을 묻는 질문에 해결책을 제시하는 응답이 정답입니다."
+},
+{
+"qType": "How",
+"q": "How often is the machinery serviced?",
+"choices": [
+"Every six months, according to the manual.",
+"By certified technicians.",
+"It takes half a day."
+],
+"a": 0,
+"exKo": "How often은 빈도를 묻는 표현이므로 '6개월마다'가 정답입니다."
+},
+{
+"qType": "일반의문문",
+"q": "Has the client signed off on the final design?",
+"choices": [
+"They asked for one more revision.",
+"A minimalist style.",
+"Our senior designer."
+],
+"a": 0,
+"exKo": "승인 여부를 묻는 질문에 '수정을 한 번 더 요청했다'는 간접적인 No 응답이 정답입니다."
+},
+{
+"qType": "일반의문문",
+"q": "Do we have enough chairs for tomorrow's seminar?",
+"choices": [
+"I'll borrow extras from the second floor.",
+"About ninety minutes.",
+"A guest speaker."
+],
+"a": 0,
+"exKo": "의자가 충분한지 묻는 질문에 '더 빌려 오겠다'는 응답(부족함을 암시)이 정답입니다."
+},
+{
+"qType": "일반의문문",
+"q": "Could you cover the front desk during my lunch break?",
+"choices": [
+"Sure, just show me the phone system first.",
+"At the Italian place.",
+"An hour at most."
+],
+"a": 0,
+"exKo": "업무 부탁에 조건부 수락 응답이 정답입니다."
+},
+{
+"qType": "평서문",
+"q": "The projector in Room B keeps flickering.",
+"choices": [
+"Try the spare one in the cabinet.",
+"A ten-slide presentation.",
+"Yes, Room B is bigger."
+],
+"a": 0,
+"exKo": "프로젝터 문제 제기에 예비 프로젝터를 써 보라는 해결 응답이 정답입니다."
+},
+{
+"qType": "평서문",
+"q": "Our booth got twice as many visitors as last year.",
+"choices": [
+"The new location really paid off.",
+"Near the main entrance.",
+"Registration is free."
+],
+"a": 0,
+"exKo": "방문객이 늘었다는 소식에 그 원인(위치 효과)을 짚는 응답이 자연스럽습니다."
+},
+{
+"qType": "평서문",
+"q": "I still haven't received my expense reimbursement.",
+"choices": [
+"Payments were delayed by the system upgrade.",
+"About two hundred dollars.",
+"Keep the receipts."
+],
+"a": 0,
+"exKo": "환급 지연 항의에 지연 사유를 설명하는 응답이 정답입니다."
+},
+{
+"qType": "평서문",
+"q": "The new coffee machine is much faster than the old one.",
+"choices": [
+"And the coffee tastes better, too.",
+"Two sugars, please.",
+"In the break room."
+],
+"a": 0,
+"exKo": "긍정적 평가에 동조하며 덧붙이는 응답이 자연스럽습니다."
+}
+]
+}
