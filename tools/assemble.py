@@ -93,10 +93,15 @@ if missing_carry: err(f"carryover words missing: {missing_carry}")
 # ---- grammar ----
 G_TYPES = {"품사", "시제·형태", "전치사·접속사", "어휘"}
 grammar = []
+seen_gq = set()
 for lv in (1, 2, 3):
-    data = load(os.path.join(CONTENT, f"grammar-{lv}.json"))["items"]
-    print(f"grammar lv{lv}: {len(data)} items")
-    if STRICT and len(data) != 60: err(f"grammar-{lv}: expected 60, got {len(data)}")
+    files = [os.path.join(CONTENT, f"grammar-{lv}.json")] + \
+            sorted(glob.glob(os.path.join(CONTENT, f"grammar-{lv}-ext-*.json")))
+    data = []
+    for path in files:
+        data.extend(load(path)["items"])
+    print(f"grammar lv{lv}: {len(data)} items ({len(files)} files)")
+    if STRICT and len(data) < 330: err(f"grammar-{lv}: {len(data)} < 330")
     counts = {}
     for i, g in enumerate(data):
         where = f"grammar-{lv}[{i}]"
@@ -107,6 +112,9 @@ for lv in (1, 2, 3):
         if not (0 <= g["a"] <= 3): err(f"{where}: a out of range")
         if len(set(g["choices"])) != 4: err(f"{where}: duplicate choices")
         no_html(g["q"], where + ".q")
+        qkey = g["q"].strip().lower()
+        if qkey in seen_gq: err(f"{where}: duplicate sentence: {g['q'][:50]!r}")
+        seen_gq.add(qkey)
         for c in g["choices"]: no_html(c, where + ".choice")
         no_html(g["transKo"], where); no_html(g["exKo"], where)
         grammar.append({"id": f"g{lv}{i+1:02d}", "lv": lv, "type": g["type"], "q": g["q"],
@@ -117,12 +125,21 @@ for lv in (1, 2, 3):
 R_KINDS = {"이메일", "공지", "광고", "기사", "문자메시지"}
 Q_TYPES = {"주제·목적", "세부사항", "추론", "동의어"}
 reading = []
+seen_rt = set()
 for lv in (1, 2, 3):
-    data = load(os.path.join(CONTENT, f"reading-{lv}.json"))["passages"]
-    print(f"reading lv{lv}: {len(data)} passages")
+    files = [os.path.join(CONTENT, f"reading-{lv}.json")] + \
+            sorted(glob.glob(os.path.join(CONTENT, f"reading-{lv}-ext-*.json")))
+    data = []
+    for path in files:
+        data.extend(load(path)["passages"])
+    print(f"reading lv{lv}: {len(data)} passages ({len(files)} files)")
+    if STRICT and len(data) < 110: err(f"reading-{lv}: {len(data)} < 110 passages")
     for i, r in enumerate(data):
         where = f"reading-{lv}[{i}]"
         if r["kind"] not in R_KINDS: err(f"{where}: bad kind")
+        tkey = r["title"].strip()
+        if tkey in seen_rt: err(f"{where}: duplicate title: {tkey!r}")
+        seen_rt.add(tkey)
         no_html(r["passage"], where + ".passage")
         if not (2 <= len(r["questions"]) <= 3): err(f"{where}: question count")
         qs = []
@@ -142,9 +159,13 @@ for lv in (1, 2, 3):
 L_TYPES = {"Who", "What", "When", "Where", "Why", "How", "일반의문문", "평서문"}
 listening = []
 for lv in (1, 2, 3):
-    data = load(os.path.join(CONTENT, f"listening-{lv}.json"))["items"]
-    print(f"listening lv{lv}: {len(data)} items")
-    if STRICT and len(data) != 40: err(f"listening-{lv}: expected 40, got {len(data)}")
+    files = [os.path.join(CONTENT, f"listening-{lv}.json")] + \
+            sorted(glob.glob(os.path.join(CONTENT, f"listening-{lv}-ext-*.json")))
+    data = []
+    for path in files:
+        data.extend(load(path)["items"])
+    print(f"listening lv{lv}: {len(data)} items ({len(files)} files)")
+    if STRICT and len(data) < 40: err(f"listening-{lv}: {len(data)} < 40")
     for i, l in enumerate(data):
         where = f"listening-{lv}[{i}]"
         if l["qType"] not in L_TYPES: err(f"{where}: bad qType")
