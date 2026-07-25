@@ -994,7 +994,9 @@
      "k": "숙어",
      "m": "종합적 접근"
     }
-   ]
+   ],
+   "ex": "The review takes a <b>holistic</b> view of store performance.",
+   "exKo": "그 평가는 매장 성과를 종합적인 관점에서 봅니다."
   },
   {
    "w": "hone",
@@ -1007,7 +1009,9 @@
      "k": "숙어",
      "m": "기술을 연마하다"
     }
-   ]
+   ],
+   "ex": "The workshop helps managers <b>hone</b> their coaching skills.",
+   "exKo": "그 워크숍은 관리자들이 코칭 기술을 연마하도록 돕습니다."
   },
   {
    "w": "illegible",
@@ -1020,13 +1024,17 @@
      "k": "반의",
      "m": "읽기 쉬운"
     }
-   ]
+   ],
+   "ex": "The faxed signature was <b>illegible</b>.",
+   "exKo": "팩스로 온 서명은 읽기 어려웠습니다."
   },
   {
    "w": "immaculate",
    "p": "형용사",
    "m": "티끌 하나 없는, 완벽한",
-   "cat": "시설·사무"
+   "cat": "시설·사무",
+   "ex": "The showroom is kept <b>immaculate</b> at all times.",
+   "exKo": "쇼룸은 항상 티끌 하나 없이 유지됩니다."
   },
   {
    "w": "impair",
@@ -1039,7 +1047,9 @@
      "k": "파생",
      "m": "손상된"
     }
-   ]
+   ],
+   "ex": "A poor network can <b>impair</b> video call quality.",
+   "exKo": "불안정한 네트워크는 화상 통화 품질을 손상시킬 수 있습니다."
   },
   {
    "w": "impartial",
@@ -1052,7 +1062,9 @@
      "k": "파생",
      "m": "공정하게"
     }
-   ]
+   ],
+   "ex": "An <b>impartial</b> mediator reviewed both claims.",
+   "exKo": "공정한 중재인이 양측 주장을 검토했습니다."
   },
   {
    "w": "impede",
@@ -1065,7 +1077,9 @@
      "k": "파생",
      "m": "장애(물)"
     }
-   ]
+   ],
+   "ex": "Customs backlogs <b>impede</b> cross-border shipments.",
+   "exKo": "세관 적체가 국경 간 배송을 지연시킵니다."
   },
   {
    "w": "impending",
@@ -1078,7 +1092,9 @@
      "k": "숙어",
      "m": "임박한 합병"
     }
-   ]
+   ],
+   "ex": "Staff were briefed on the <b>impending</b> system switch.",
+   "exKo": "직원들은 임박한 시스템 전환에 대해 브리핑을 받았습니다."
   },
   {
    "w": "implication",
@@ -1091,7 +1107,9 @@
      "k": "숙어",
      "m": "법적 영향"
     }
-   ]
+   ],
+   "ex": "The tax ruling has <b>implications</b> for all exporters.",
+   "exKo": "그 세무 판결은 모든 수출업체에 영향을 미칩니다."
   },
   {
    "w": "implicit",
@@ -1104,7 +1122,9 @@
      "k": "파생",
      "m": "암묵적으로"
     }
-   ]
+   ],
+   "ex": "There was an <b>implicit</b> agreement to renew annually.",
+   "exKo": "매년 갱신한다는 암묵적인 합의가 있었습니다."
   },
   {
    "w": "inadvertently",
@@ -1117,7 +1137,9 @@
      "k": "파생",
      "m": "의도치 않은"
     }
-   ]
+   ],
+   "ex": "The clerk <b>inadvertently</b> shipped the wrong batch.",
+   "exKo": "직원이 실수로 다른 로트를 발송했습니다."
   },
   {
    "w": "inaugurate",
@@ -1130,13 +1152,17 @@
      "k": "파생",
      "m": "취임(식), 개관"
     }
-   ]
+   ],
+   "ex": "The mayor will <b>inaugurate</b> the convention center.",
+   "exKo": "시장이 컨벤션 센터 개관식을 열 예정입니다."
   },
   {
    "w": "incapacitate",
    "p": "동사",
    "m": "무력화하다",
-   "cat": "시설·사무"
+   "cat": "시설·사무",
+   "ex": "A power surge <b>incapacitated</b> the main server.",
+   "exKo": "과전류가 메인 서버를 무력화했습니다."
   },
   {
    "w": "inception",
@@ -1149,19 +1175,25 @@
      "k": "숙어",
      "m": "발족 이래로"
     }
-   ]
+   ],
+   "ex": "The fund has grown tenfold since its <b>inception</b>.",
+   "exKo": "그 펀드는 출범 이후 열 배 성장했습니다."
   },
   {
    "w": "incessant",
    "p": "형용사",
    "m": "끊임없는",
-   "cat": "시설·사무"
+   "cat": "시설·사무",
+   "ex": "<b>Incessant</b> drilling noise disturbed the office all week.",
+   "exKo": "끊임없는 드릴 소음이 한 주 내내 사무실을 방해했습니다."
   },
   {
    "w": "incidence",
    "p": "명사",
    "m": "발생(률)",
-   "cat": "시설·사무"
+   "cat": "시설·사무",
+   "ex": "Better lighting lowered the <b>incidence</b> of picking errors.",
+   "exKo": "조명 개선으로 피킹 오류 발생률이 낮아졌습니다."
   },
   {
    "w": "inclusive",
@@ -1174,7 +1206,9 @@
      "k": "파생",
      "m": "모든 것이 포함된"
     }
-   ]
+   ],
+   "ex": "The quoted rate is <b>inclusive</b> of tax and service.",
+   "exKo": "제시된 요금에는 세금과 봉사료가 포함되어 있습니다."
   },
   {
    "w": "incremental",
@@ -1187,19 +1221,25 @@
      "k": "파생",
      "m": "증가(분)"
     }
-   ]
+   ],
+   "ex": "We prefer <b>incremental</b> upgrades over a full rebuild.",
+   "exKo": "우리는 전면 재구축보다 점진적 업그레이드를 선호합니다."
   },
   {
    "w": "indemnity",
    "p": "명사",
    "m": "배상, 보장",
-   "cat": "계약·법무"
+   "cat": "계약·법무",
+   "ex": "The contract includes an <b>indemnity</b> clause for damages.",
+   "exKo": "계약에는 손해 배상 조항이 포함되어 있습니다."
   },
   {
    "w": "indigenous",
    "p": "형용사",
    "m": "토착의, 고유의",
-   "cat": "출장·여행"
+   "cat": "출장·여행",
+   "ex": "The menu features <b>indigenous</b> herbs from the region.",
+   "exKo": "메뉴에는 그 지역 토착 허브가 사용됩니다."
   },
   {
    "w": "induce",
@@ -1212,25 +1252,33 @@
      "k": "파생",
      "m": "유인책"
     }
-   ]
+   ],
+   "ex": "Cash rebates <b>induce</b> customers to upgrade early.",
+   "exKo": "현금 환급은 고객의 조기 기기 변경을 유도합니다."
   },
   {
    "w": "industrious",
    "p": "형용사",
    "m": "근면한",
-   "cat": "채용·인사"
+   "cat": "채용·인사",
+   "ex": "The <b>industrious</b> crew finished two days early.",
+   "exKo": "근면한 작업반이 이틀 일찍 마쳤습니다."
   },
   {
    "w": "inept",
    "p": "형용사",
    "m": "서투른",
-   "cat": "채용·인사"
+   "cat": "채용·인사",
+   "ex": "The rollout failed due to <b>inept</b> planning.",
+   "exKo": "서투른 계획 때문에 출시가 실패했습니다."
   },
   {
    "w": "inertia",
    "p": "명사",
    "m": "타성, 관성",
-   "cat": "회의"
+   "cat": "회의",
+   "ex": "Organizational <b>inertia</b> slowed the digital shift.",
+   "exKo": "조직의 타성이 디지털 전환을 늦췄습니다."
   },
   {
    "w": "infringe",
@@ -1248,7 +1296,9 @@
      "k": "숙어",
      "m": "~을 침해하다"
     }
-   ]
+   ],
+   "ex": "The copied design <b>infringes</b> on our patent.",
+   "exKo": "그 모방 디자인은 우리 특허를 침해합니다."
   },
   {
    "w": "ingenious",
@@ -1261,7 +1311,9 @@
      "k": "파생",
      "m": "독창성"
     }
-   ]
+   ],
+   "ex": "An <b>ingenious</b> folding design halved shipping costs.",
+   "exKo": "기발한 접이식 설계가 배송비를 절반으로 줄였습니다."
   },
   {
    "w": "inherent",
@@ -1274,25 +1326,33 @@
      "k": "파생",
      "m": "본질적으로"
     }
-   ]
+   ],
+   "ex": "Currency risk is <b>inherent</b> in overseas contracts.",
+   "exKo": "환위험은 해외 계약에 내재되어 있습니다."
   },
   {
    "w": "inhibit",
    "p": "동사",
    "m": "억제하다",
-   "cat": "시설·사무"
+   "cat": "시설·사무",
+   "ex": "High fees <b>inhibit</b> small sellers from joining.",
+   "exKo": "높은 수수료는 소규모 판매자의 참여를 억제합니다."
   },
   {
    "w": "innate",
    "p": "형용사",
    "m": "타고난",
-   "cat": "채용·인사"
+   "cat": "채용·인사",
+   "ex": "She has an <b>innate</b> talent for negotiation.",
+   "exKo": "그녀는 타고난 협상 재능이 있습니다."
   },
   {
    "w": "inquisitive",
    "p": "형용사",
    "m": "호기심 많은",
-   "cat": "채용·인사"
+   "cat": "채용·인사",
+   "ex": "<b>Inquisitive</b> trainees tend to learn fastest.",
+   "exKo": "호기심 많은 수습생이 가장 빨리 배우는 경향이 있습니다."
   },
   {
    "w": "insolvent",
@@ -1305,7 +1365,9 @@
      "k": "파생",
      "m": "지급 불능"
     }
-   ]
+   ],
+   "ex": "The chain was declared <b>insolvent</b> last quarter.",
+   "exKo": "그 체인은 지난 분기에 지급 불능 판정을 받았습니다."
   },
   {
    "w": "instrumental",
@@ -1318,7 +1380,9 @@
      "k": "숙어",
      "m": "~에 중요한 역할을 하다"
     }
-   ]
+   ],
+   "ex": "Her lobbying was <b>instrumental</b> in winning the bid.",
+   "exKo": "그녀의 설득 활동이 입찰 수주에 결정적 역할을 했습니다."
   },
   {
    "w": "intangible",
@@ -1336,7 +1400,9 @@
      "k": "반의",
      "m": "유형의"
     }
-   ]
+   ],
+   "ex": "Brand trust is an <b>intangible</b> but real asset.",
+   "exKo": "브랜드 신뢰는 무형이지만 실질적인 자산입니다."
   },
   {
    "w": "intricate",
@@ -1349,7 +1415,9 @@
      "k": "파생",
      "m": "정교하게"
     }
-   ]
+   ],
+   "ex": "The watch contains hundreds of <b>intricate</b> parts.",
+   "exKo": "그 시계에는 수백 개의 정교한 부품이 들어 있습니다."
   },
   {
    "w": "intrigue",
@@ -1362,7 +1430,9 @@
      "k": "파생",
      "m": "아주 흥미로운"
     }
-   ]
+   ],
+   "ex": "The teaser campaign <b>intrigued</b> potential buyers.",
+   "exKo": "티저 캠페인이 잠재 구매자들의 흥미를 끌었습니다."
   },
   {
    "w": "intuitive",
@@ -1375,7 +1445,9 @@
      "k": "숙어",
      "m": "직관적인 인터페이스"
     }
-   ]
+   ],
+   "ex": "The app's <b>intuitive</b> layout needs no manual.",
+   "exKo": "그 앱의 직관적인 화면은 설명서가 필요 없습니다."
   },
   {
    "w": "inundate",
@@ -1388,19 +1460,25 @@
      "k": "숙어",
      "m": "~이 쇄도하다"
     }
-   ]
+   ],
+   "ex": "Support was <b>inundated</b> with calls after the outage.",
+   "exKo": "장애 후 지원팀에 전화가 쇄도했습니다."
   },
   {
    "w": "invariably",
    "p": "부사",
    "m": "변함없이, 언제나",
-   "cat": "시설·사무"
+   "cat": "시설·사무",
+   "ex": "The morning express is <b>invariably</b> full.",
+   "exKo": "아침 급행은 언제나 만석입니다."
   },
   {
    "w": "irrevocable",
    "p": "형용사",
    "m": "취소할 수 없는",
-   "cat": "계약·법무"
+   "cat": "계약·법무",
+   "ex": "The transfer becomes <b>irrevocable</b> once confirmed.",
+   "exKo": "이체는 확정되면 취소할 수 없습니다."
   },
   {
    "w": "itemized",
@@ -1413,7 +1491,9 @@
      "k": "숙어",
      "m": "항목별 청구서"
     }
-   ]
+   ],
+   "ex": "Please provide an <b>itemized</b> invoice for the audit.",
+   "exKo": "감사를 위해 항목별 청구서를 제출해 주세요."
   }
  ]
 }
