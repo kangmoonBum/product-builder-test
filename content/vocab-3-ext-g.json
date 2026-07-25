@@ -1013,7 +1013,9 @@
      "k": "숙어",
      "m": "향수를 불러일으키다"
     }
-   ]
+   ],
+   "ex": "The retro packaging <b>evokes</b> the brand's early days.",
+   "exKo": "복고풍 포장은 브랜드 초창기를 떠올리게 합니다."
   },
   {
    "w": "excavate",
@@ -1026,13 +1028,17 @@
      "k": "파생",
      "m": "발굴"
     }
-   ]
+   ],
+   "ex": "Crews <b>excavated</b> the site for the new parking garage.",
+   "exKo": "작업반이 새 주차장 건설을 위해 부지를 팠습니다."
   },
   {
    "w": "faze",
    "p": "동사",
    "m": "동요시키다",
-   "cat": "채용·인사"
+   "cat": "채용·인사",
+   "ex": "Tough questions never seem to <b>faze</b> her.",
+   "exKo": "어려운 질문도 그녀를 동요시키지 못하는 듯합니다."
   },
   {
    "w": "fickle",
@@ -1045,7 +1051,9 @@
      "k": "숙어",
      "m": "변덕스러운 소비자"
     }
-   ]
+   ],
+   "ex": "Fashion retail depends on <b>fickle</b> consumer tastes.",
+   "exKo": "패션 소매업은 변덕스러운 소비자 취향에 좌우됩니다."
   },
   {
    "w": "figuratively",
@@ -1058,19 +1066,25 @@
      "k": "반의",
      "m": "문자 그대로"
     }
-   ]
+   ],
+   "ex": "The launch was, <b>figuratively</b> speaking, a rocket ride.",
+   "exKo": "그 출시는 비유적으로 말하면 로켓 발사 같았습니다."
   },
   {
    "w": "finesse",
    "p": "명사",
    "m": "기교, 수완",
-   "cat": "채용·인사"
+   "cat": "채용·인사",
+   "ex": "She handled the refund dispute with great <b>finesse</b>.",
+   "exKo": "그녀는 환불 분쟁을 뛰어난 수완으로 처리했습니다."
   },
   {
    "w": "flimsy",
    "p": "형용사",
    "m": "조잡한, 얄팍한",
-   "cat": "배송·주문"
+   "cat": "배송·주문",
+   "ex": "Customers complained about the <b>flimsy</b> packaging.",
+   "exKo": "고객들은 조잡한 포장에 대해 불만을 제기했습니다."
   },
   {
    "w": "footprint",
@@ -1083,19 +1097,25 @@
      "k": "숙어",
      "m": "탄소 발자국"
     }
-   ]
+   ],
+   "ex": "The firm aims to shrink its carbon <b>footprint</b>.",
+   "exKo": "그 회사는 탄소 발자국을 줄이는 것을 목표로 합니다."
   },
   {
    "w": "forestall",
    "p": "동사",
    "m": "미연에 방지하다",
-   "cat": "계약·법무"
+   "cat": "계약·법무",
+   "ex": "Extra stock was ordered to <b>forestall</b> shortages.",
+   "exKo": "품절을 미연에 방지하려고 재고를 추가 주문했습니다."
   },
   {
    "w": "franchisor",
    "p": "명사",
    "m": "가맹 본부",
-   "cat": "계약·법무"
+   "cat": "계약·법무",
+   "ex": "The <b>franchisor</b> provides training and marketing support.",
+   "exKo": "가맹 본부는 교육과 마케팅 지원을 제공합니다."
   },
   {
    "w": "fraught",
@@ -1108,7 +1128,9 @@
      "k": "숙어",
      "m": "위험투성이인"
     }
-   ]
+   ],
+   "ex": "The negotiation was <b>fraught</b> with legal risks.",
+   "exKo": "그 협상은 법적 위험투성이였습니다."
   },
   {
    "w": "frenzy",
@@ -1121,13 +1143,17 @@
      "k": "숙어",
      "m": "구매 열풍"
     }
-   ]
+   ],
+   "ex": "The limited drop sparked a buying <b>frenzy</b>.",
+   "exKo": "한정판 출시가 구매 열풍을 일으켰습니다."
   },
   {
    "w": "gargantuan",
    "p": "형용사",
    "m": "거대한",
-   "cat": "재무·회계"
+   "cat": "재무·회계",
+   "ex": "Moving the plant is a <b>gargantuan</b> undertaking.",
+   "exKo": "공장 이전은 거대한 작업입니다."
   },
   {
    "w": "glean",
@@ -1140,7 +1166,9 @@
      "k": "숙어",
      "m": "통찰을 얻다"
     }
-   ]
+   ],
+   "ex": "We <b>glean</b> insights from thousands of reviews.",
+   "exKo": "수천 건의 리뷰에서 통찰을 수집합니다."
   },
   {
    "w": "grapple",
@@ -1153,19 +1181,25 @@
      "k": "숙어",
      "m": "~와 씨름하다"
     }
-   ]
+   ],
+   "ex": "Retailers <b>grapple</b> with rising delivery costs.",
+   "exKo": "소매업체들은 상승하는 배송비와 씨름하고 있습니다."
   },
   {
    "w": "gratuitous",
    "p": "형용사",
    "m": "불필요한, 무료의",
-   "cat": "마케팅"
+   "cat": "마케팅",
+   "ex": "The report avoids <b>gratuitous</b> technical detail.",
+   "exKo": "그 보고서는 불필요한 기술적 세부 사항을 피합니다."
   },
   {
    "w": "gravitas",
    "p": "명사",
    "m": "무게감, 진지함",
-   "cat": "채용·인사"
+   "cat": "채용·인사",
+   "ex": "The veteran chair lends <b>gravitas</b> to the panel.",
+   "exKo": "베테랑 의장이 패널에 무게감을 더합니다."
   },
   {
    "w": "grueling",
@@ -1178,13 +1212,17 @@
      "k": "숙어",
      "m": "살인적인 일정"
     }
-   ]
+   ],
+   "ex": "The audit season involves <b>grueling</b> overtime.",
+   "exKo": "감사 시즌에는 녹초가 되는 야근이 이어집니다."
   },
   {
    "w": "hardy",
    "p": "형용사",
    "m": "강인한, 튼튼한",
-   "cat": "배송·주문"
+   "cat": "배송·주문",
+   "ex": "The <b>hardy</b> crates survive rough sea transport.",
+   "exKo": "그 튼튼한 상자들은 거친 해상 운송을 견딥니다."
   },
   {
    "w": "harness",
@@ -1197,7 +1235,9 @@
      "k": "숙어",
      "m": "기술을 활용하다"
     }
-   ]
+   ],
+   "ex": "The mill <b>harnesses</b> river power for its machines.",
+   "exKo": "그 공장은 기계 가동에 강물의 힘을 활용합니다."
   },
   {
    "w": "hasty",
@@ -1215,7 +1255,9 @@
      "k": "파생",
      "m": "서두르다, 앞당기다"
     }
-   ]
+   ],
+   "ex": "A <b>hasty</b> decision now could cost us the contract.",
+   "exKo": "지금의 성급한 결정은 계약을 잃게 할 수 있습니다."
   },
   {
    "w": "hedge",
@@ -1228,7 +1270,9 @@
      "k": "숙어",
      "m": "인플레이션에 대비하다"
     }
-   ]
+   ],
+   "ex": "The importer <b>hedges</b> against currency swings.",
+   "exKo": "그 수입업체는 환율 변동 위험을 분산합니다."
   }
  ]
 }

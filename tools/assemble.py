@@ -56,6 +56,8 @@ for lv in (1, 2, 3):
             if w in seen_w: err(f"{where}: duplicate word (also in {seen_w[w]})")
             seen_w[w] = name
             entry = {"w": w, "p": v["p"], "m": v["m"], "lv": lv, "cat": v["cat"]}
+            if STRICT and not (v.get("ex") and v.get("exKo")):
+                err(f"{where}: missing ex/exKo (모든 표제어는 예문 필수)")
             if v.get("ex") or v.get("exKo"):
                 if not (v.get("ex") and v.get("exKo")):
                     err(f"{where}: ex/exKo must both be present")
