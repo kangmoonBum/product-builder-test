@@ -1681,7 +1681,9 @@
      "k": "파생",
      "m": "면세의"
     }
-   ]
+   ],
+   "ex": "Answering customer calls is an important <b>duty</b> in this role.",
+   "exKo": "고객 전화 응대는 이 직무에서 중요한 임무입니다."
   },
   {
    "w": "electricity",
