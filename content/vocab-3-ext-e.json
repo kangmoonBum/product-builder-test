@@ -1370,37 +1370,49 @@
      "k": "숙어",
      "m": "이야기를 꺼내다"
     }
-   ]
+   ],
+   "ex": "She waited for the right moment to <b>broach</b> the salary topic.",
+   "exKo": "그녀는 급여 이야기를 꺼낼 적절한 순간을 기다렸습니다."
   },
   {
    "w": "culpability",
    "p": "명사",
    "m": "유책성",
-   "cat": "계약·법무"
+   "cat": "계약·법무",
+   "ex": "The inquiry will determine each party's <b>culpability</b>.",
+   "exKo": "조사를 통해 각 당사자의 유책성이 가려질 것입니다."
   },
   {
    "w": "emanate",
    "p": "동사",
    "m": "나오다, 발산하다",
-   "cat": "시설·사무"
+   "cat": "시설·사무",
+   "ex": "A faint odor <b>emanated</b> from the storage room.",
+   "exKo": "창고에서 희미한 냄새가 새어 나왔습니다."
   },
   {
    "w": "engender",
    "p": "동사",
    "m": "불러일으키다",
-   "cat": "마케팅"
+   "cat": "마케팅",
+   "ex": "Transparent pricing <b>engenders</b> customer trust.",
+   "exKo": "투명한 가격 정책은 고객 신뢰를 불러일으킵니다."
   },
   {
    "w": "extrapolate",
    "p": "동사",
    "m": "추론하다, 외삽하다",
-   "cat": "재무·회계"
+   "cat": "재무·회계",
+   "ex": "We <b>extrapolate</b> annual demand from quarterly data.",
+   "exKo": "분기 데이터에서 연간 수요를 추론합니다."
   },
   {
    "w": "fathom",
    "p": "동사",
    "m": "헤아리다, 가늠하다",
-   "cat": "회의"
+   "cat": "회의",
+   "ex": "It is hard to <b>fathom</b> the scale of the backlog.",
+   "exKo": "밀린 물량의 규모는 가늠하기 어렵습니다."
   },
   {
    "w": "gravitate",
@@ -1413,7 +1425,9 @@
      "k": "숙어",
      "m": "~로 몰리다"
     }
-   ]
+   ],
+   "ex": "Young buyers <b>gravitate</b> toward eco-friendly brands.",
+   "exKo": "젊은 구매자들은 친환경 브랜드에 끌립니다."
   },
   {
    "w": "iterate",
@@ -1426,7 +1440,9 @@
      "k": "파생",
      "m": "반복, 버전"
     }
-   ]
+   ],
+   "ex": "The design team <b>iterates</b> on the prototype weekly.",
+   "exKo": "디자인팀은 매주 시제품을 반복 개선합니다."
   }
  ]
 }
