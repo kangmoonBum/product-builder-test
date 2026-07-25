@@ -1286,7 +1286,9 @@
      "k": "파생",
      "m": "확실하게"
     }
-   ]
+   ],
+   "ex": "The brand is famous for the <b>reliability</b> of its engines.",
+   "exKo": "그 브랜드는 엔진의 신뢰성으로 유명합니다."
   },
   {
    "w": "relieve",
@@ -1304,7 +1306,9 @@
      "k": "파생",
      "m": "안도, 완화"
     }
-   ]
+   ],
+   "ex": "Two new hires will <b>relieve</b> the team's workload.",
+   "exKo": "신입 두 명이 팀의 업무 부담을 덜어 줄 것입니다."
   },
   {
    "w": "remainder",
@@ -1317,7 +1321,9 @@
      "k": "숙어",
      "m": "~의 나머지"
     }
-   ]
+   ],
+   "ex": "Pay half now and the <b>remainder</b> on delivery.",
+   "exKo": "절반은 지금, 나머지는 배송 시 결제하시면 됩니다."
   },
   {
    "w": "remit",
@@ -1330,13 +1336,17 @@
      "k": "숙어",
      "m": "대금을 송금하다"
     }
-   ]
+   ],
+   "ex": "Please <b>remit</b> the payment to the account below.",
+   "exKo": "아래 계좌로 대금을 송금해 주세요."
   },
   {
    "w": "remodeling",
    "p": "명사",
    "m": "개조 (공사)",
-   "cat": "시설·사무"
+   "cat": "시설·사무",
+   "ex": "The lobby <b>remodeling</b> will finish in June.",
+   "exKo": "로비 개조 공사는 6월에 끝납니다."
   },
   {
    "w": "remote",
@@ -1354,7 +1364,9 @@
      "k": "파생",
      "m": "원격으로"
     }
-   ]
+   ],
+   "ex": "The company allows <b>remote</b> work two days a week.",
+   "exKo": "그 회사는 주 2일 원격 근무를 허용합니다."
   },
   {
    "w": "renewal",
@@ -1367,25 +1379,33 @@
      "k": "숙어",
      "m": "계약 갱신"
     }
-   ]
+   ],
+   "ex": "Your contract <b>renewal</b> is due next month.",
+   "exKo": "계약 갱신 기한이 다음 달입니다."
   },
   {
    "w": "repave",
    "p": "동사",
    "m": "(도로를) 재포장하다",
-   "cat": "시설·사무"
+   "cat": "시설·사무",
+   "ex": "Crews will <b>repave</b> the parking lot this weekend.",
+   "exKo": "작업반이 이번 주말 주차장을 재포장할 예정입니다."
   },
   {
    "w": "replicate",
    "p": "동사",
    "m": "복제하다, 재현하다",
-   "cat": "시설·사무"
+   "cat": "시설·사무",
+   "ex": "Other branches hope to <b>replicate</b> the store's success.",
+   "exKo": "다른 지점들은 그 매장의 성공을 재현하고자 합니다."
   },
   {
    "w": "resign from",
    "p": "숙어",
    "m": "~에서 사임하다",
-   "cat": "채용·인사"
+   "cat": "채용·인사",
+   "ex": "He decided to <b>resign from</b> the board this year.",
+   "exKo": "그는 올해 이사회에서 사임하기로 했습니다."
   },
   {
    "w": "resort",
@@ -1398,7 +1418,9 @@
      "k": "숙어",
      "m": "최후의 수단으로"
     }
-   ]
+   ],
+   "ex": "The beach <b>resort</b> is fully booked for August.",
+   "exKo": "그 해변 리조트는 8월 예약이 꽉 찼습니다."
   },
   {
    "w": "respondent",
@@ -1411,13 +1433,17 @@
      "k": "숙어",
      "m": "설문 응답자"
     }
-   ]
+   ],
+   "ex": "Most survey <b>respondents</b> preferred the new logo.",
+   "exKo": "설문 응답자 대부분이 새 로고를 선호했습니다."
   },
   {
    "w": "restructuring",
    "p": "명사",
    "m": "구조 조정",
-   "cat": "채용·인사"
+   "cat": "채용·인사",
+   "ex": "The <b>restructuring</b> merged two departments into one.",
+   "exKo": "구조 조정으로 두 부서가 하나로 합쳐졌습니다."
   },
   {
    "w": "retrieve",
@@ -1430,19 +1456,25 @@
      "k": "파생",
      "m": "회수, 검색"
     }
-   ]
+   ],
+   "ex": "You can <b>retrieve</b> deleted files from the backup.",
+   "exKo": "백업에서 삭제된 파일을 되찾을 수 있습니다."
   },
   {
    "w": "revenue growth",
    "p": "명사",
    "m": "매출 성장",
-   "cat": "재무·회계"
+   "cat": "재무·회계",
+   "ex": "The app drove strong <b>revenue growth</b> last year.",
+   "exKo": "그 앱이 작년 강한 매출 성장을 이끌었습니다."
   },
   {
    "w": "rigid",
    "p": "형용사",
    "m": "엄격한, 융통성 없는",
-   "cat": "계약·법무"
+   "cat": "계약·법무",
+   "ex": "The old policy was too <b>rigid</b> for remote teams.",
+   "exKo": "옛 정책은 원격 팀에게 너무 융통성이 없었습니다."
   },
   {
    "w": "rotate",
@@ -1460,19 +1492,25 @@
      "k": "숙어",
      "m": "교대로"
     }
-   ]
+   ],
+   "ex": "Staff <b>rotate</b> weekend duty every month.",
+   "exKo": "직원들은 매달 주말 근무를 교대로 맡습니다."
   },
   {
    "w": "roster",
    "p": "명사",
    "m": "근무자 명단",
-   "cat": "채용·인사"
+   "cat": "채용·인사",
+   "ex": "The duty <b>roster</b> is posted every Friday.",
+   "exKo": "근무자 명단은 매주 금요일에 게시됩니다."
   },
   {
    "w": "runway",
    "p": "명사",
    "m": "활주로",
-   "cat": "출장·여행"
+   "cat": "출장·여행",
+   "ex": "The plane waited on the <b>runway</b> for clearance.",
+   "exKo": "비행기는 활주로에서 이륙 허가를 기다렸습니다."
   }
  ]
 }
