@@ -1,119 +1,1787 @@
-{"words": [
-{"w":"fill","p":"동사","m":"채우다","cat":"시설·사무","rel":[{"w":"fill out","k":"숙어","m":"(양식을) 작성하다"},{"w":"fill in for","k":"숙어","m":"~를 대신하다"}]},
-{"w":"film","p":"명사","m":"영화","cat":"마케팅","rel":[{"w":"movie","k":"동의","m":"영화"}]},
-{"w":"fitness","p":"명사","m":"운동, 건강 관리","cat":"시설·사무","rel":[{"w":"fitness center","k":"숙어","m":"헬스장"}]},
-{"w":"flower","p":"명사","m":"꽃","cat":"시설·사무","rel":[{"w":"florist","k":"파생","m":"꽃집 (주인)"}]},
-{"w":"fold","p":"동사","m":"접다","cat":"시설·사무","rel":[{"w":"folder","k":"파생","m":"폴더, 서류철"}]},
-{"w":"food","p":"명사","m":"음식","cat":"출장·여행","rel":[{"w":"food supplier","k":"숙어","m":"식자재 공급업체"}]},
-{"w":"foreign","p":"형용사","m":"외국의","cat":"출장·여행","rel":[{"w":"foreigner","k":"파생","m":"외국인"}]},
-{"w":"fountain","p":"명사","m":"분수","cat":"시설·사무","rel":[{"w":"drinking fountain","k":"숙어","m":"식수대"}]},
-{"w":"fruit","p":"명사","m":"과일","cat":"배송·주문"},
-{"w":"fuel","p":"명사","m":"연료","cat":"출장·여행","rel":[{"w":"refuel","k":"파생","m":"연료를 보급하다"}]},
-{"w":"garage","p":"명사","m":"차고, 주차장","cat":"시설·사무"},
-{"w":"garden","p":"명사","m":"정원","cat":"시설·사무","rel":[{"w":"gardening","k":"파생","m":"원예"},{"w":"gardener","k":"파생","m":"정원사"}]},
-{"w":"gate","p":"명사","m":"탑승구, 출입문","cat":"출장·여행","rel":[{"w":"boarding gate","k":"숙어","m":"탑승구"}]},
-{"w":"grocery","p":"명사","m":"식료품(점)","cat":"마케팅","rel":[{"w":"grocery store","k":"숙어","m":"식료품점"}]},
-{"w":"ground","p":"명사","m":"땅, 지면","cat":"시설·사무","rel":[{"w":"ground floor","k":"숙어","m":"1층"}]},
-{"w":"group","p":"명사","m":"단체, 그룹","cat":"출장·여행","rel":[{"w":"group rate","k":"숙어","m":"단체 요금"}]},
-{"w":"grow","p":"동사","m":"성장하다, 증가하다","cat":"마케팅","rel":[{"w":"growth","k":"파생","m":"성장"},{"w":"growing","k":"파생","m":"증가하는"}]},
-{"w":"hall","p":"명사","m":"홀, 회관","cat":"시설·사무","rel":[{"w":"hallway","k":"파생","m":"복도"}]},
-{"w":"hallmark","p":"명사","m":"특징, 품질 보증 마크","cat":"마케팅"},
-{"w":"handle","p":"동사","m":"다루다, 처리하다","cat":"시설·사무","rel":[{"w":"deal with","k":"동의","m":"처리하다"}]},
-{"w":"hang","p":"동사","m":"걸다","cat":"시설·사무","rel":[{"w":"hang up","k":"숙어","m":"전화를 끊다"}]},
-{"w":"heat","p":"명사","m":"열, 난방","cat":"시설·사무","rel":[{"w":"heating","k":"파생","m":"난방 (장치)"},{"w":"heater","k":"파생","m":"난방기"}]},
-{"w":"heavy","p":"형용사","m":"무거운, 심한","cat":"배송·주문","rel":[{"w":"heavy traffic","k":"숙어","m":"교통 체증"},{"w":"heavily","k":"파생","m":"심하게"}]},
-{"w":"highway","p":"명사","m":"고속도로","cat":"출장·여행","rel":[{"w":"expressway","k":"동의","m":"고속도로"}]},
-{"w":"history","p":"명사","m":"역사, 이력","cat":"채용·인사","rel":[{"w":"work history","k":"숙어","m":"경력 사항"}]},
-{"w":"hospital","p":"명사","m":"병원","cat":"시설·사무","rel":[{"w":"clinic","k":"동의","m":"의원, 진료소"}]},
-{"w":"host","p":"동사","m":"주최하다","cat":"회의","rel":[{"w":"host a conference","k":"숙어","m":"회의를 주최하다"}]},
-{"w":"hotel","p":"명사","m":"호텔","cat":"출장·여행","rel":[{"w":"inn","k":"동의","m":"여관, 소규모 호텔"}]},
-{"w":"idea","p":"명사","m":"생각, 아이디어","cat":"회의","rel":[{"w":"come up with an idea","k":"숙어","m":"아이디어를 떠올리다"}]},
-{"w":"identification","p":"명사","m":"신분증, 신원 확인","cat":"시설·사무","rel":[{"w":"ID badge","k":"숙어","m":"사원증"},{"w":"identify","k":"파생","m":"확인하다, 식별하다"}]},
-{"w":"include","p":"동사","m":"포함하다","cat":"재무·회계","rel":[{"w":"including","k":"파생","m":"~을 포함하여"},{"w":"exclude","k":"반의","m":"제외하다"}]},
-{"w":"increase","p":"동사","m":"증가하다, 늘리다","cat":"재무·회계","rel":[{"w":"increasingly","k":"파생","m":"점점 더"},{"w":"decrease","k":"반의","m":"감소하다"}]},
-{"w":"indoor","p":"형용사","m":"실내의","cat":"시설·사무","rel":[{"w":"outdoor","k":"반의","m":"야외의"}]},
-{"w":"industry","p":"명사","m":"산업, 업계","cat":"마케팅","rel":[{"w":"industrial","k":"파생","m":"산업의"}]},
-{"w":"instead","p":"부사","m":"대신에","cat":"회의","rel":[{"w":"instead of","k":"숙어","m":"~ 대신에"}]},
-{"w":"instruction","p":"명사","m":"설명(서), 지시","cat":"시설·사무","rel":[{"w":"instruct","k":"파생","m":"지시하다"},{"w":"instructor","k":"파생","m":"강사"}]},
-{"w":"interest","p":"명사","m":"관심, 이자","cat":"재무·회계","rel":[{"w":"interested in","k":"숙어","m":"~에 관심 있는"},{"w":"interest rate","k":"숙어","m":"금리"}]},
-{"w":"international","p":"형용사","m":"국제적인","cat":"출장·여행","rel":[{"w":"internationally","k":"파생","m":"국제적으로"},{"w":"domestic","k":"반의","m":"국내의"}]},
-{"w":"internet","p":"명사","m":"인터넷","cat":"시설·사무","rel":[{"w":"online","k":"동의","m":"온라인의"}]},
-{"w":"intern","p":"명사","m":"인턴, 수습사원","cat":"채용·인사","rel":[{"w":"internship","k":"파생","m":"인턴십"}]},
-{"w":"island","p":"명사","m":"섬","cat":"출장·여행"},
-{"w":"jacket","p":"명사","m":"재킷, 상의","cat":"마케팅"},
-{"w":"kitchen","p":"명사","m":"주방","cat":"시설·사무","rel":[{"w":"kitchen appliance","k":"숙어","m":"주방 가전"}]},
-{"w":"label","p":"명사","m":"라벨, 상표","cat":"배송·주문","rel":[{"w":"shipping label","k":"숙어","m":"배송 라벨"}]},
-{"w":"ladder","p":"명사","m":"사다리","cat":"시설·사무"},
-{"w":"land","p":"동사","m":"착륙하다","cat":"출장·여행","rel":[{"w":"landing","k":"파생","m":"착륙"},{"w":"take off","k":"반의","m":"이륙하다"}]},
-{"w":"lane","p":"명사","m":"차선, 좁은 길","cat":"출장·여행","rel":[{"w":"bike lane","k":"숙어","m":"자전거 도로"}]},
-{"w":"laptop","p":"명사","m":"노트북 컴퓨터","cat":"시설·사무"},
-{"w":"laundry","p":"명사","m":"세탁(물)","cat":"시설·사무","rel":[{"w":"laundry service","k":"숙어","m":"세탁 서비스"}]},
-{"w":"lawyer","p":"명사","m":"변호사","cat":"계약·법무","rel":[{"w":"attorney","k":"동의","m":"변호사"},{"w":"law firm","k":"숙어","m":"법률 사무소"}]},
-{"w":"lecture","p":"명사","m":"강연, 강의","cat":"회의","rel":[{"w":"lecturer","k":"파생","m":"강연자"}]},
-{"w":"level","p":"명사","m":"수준, 층","cat":"시설·사무"},
-{"w":"library","p":"명사","m":"도서관","cat":"시설·사무","rel":[{"w":"librarian","k":"파생","m":"사서"}]},
-{"w":"light","p":"명사","m":"조명, 빛","cat":"시설·사무","rel":[{"w":"lighting","k":"파생","m":"조명 (설비)"},{"w":"turn off the lights","k":"숙어","m":"불을 끄다"}]},
-{"w":"limit","p":"명사","m":"제한, 한도","cat":"계약·법무","rel":[{"w":"limited","k":"파생","m":"제한된, 한정된"},{"w":"speed limit","k":"숙어","m":"제한 속도"}]},
-{"w":"line","p":"명사","m":"줄, (제품) 라인","cat":"마케팅","rel":[{"w":"stand in line","k":"숙어","m":"줄을 서다"},{"w":"product line","k":"숙어","m":"제품군"}]},
-{"w":"lobby","p":"명사","m":"로비","cat":"시설·사무"},
-{"w":"local","p":"형용사","m":"지역의, 현지의","cat":"마케팅","rel":[{"w":"locally","k":"파생","m":"지역에서"},{"w":"local resident","k":"숙어","m":"지역 주민"}]},
-{"w":"low","p":"형용사","m":"낮은","cat":"재무·회계","rel":[{"w":"lower","k":"파생","m":"낮추다"},{"w":"high","k":"반의","m":"높은"}]},
-{"w":"magazine","p":"명사","m":"잡지","cat":"마케팅","rel":[{"w":"periodical","k":"동의","m":"정기 간행물"}]},
-{"w":"medicine","p":"명사","m":"약, 의학","cat":"시설·사무","rel":[{"w":"medical","k":"파생","m":"의료의"},{"w":"medication","k":"동의","m":"약물"}]},
-{"w":"member","p":"명사","m":"회원, 구성원","cat":"마케팅","rel":[{"w":"membership fee","k":"숙어","m":"회비"}]},
-{"w":"mention","p":"동사","m":"언급하다","cat":"회의","rel":[{"w":"as mentioned above","k":"숙어","m":"위에서 언급했듯이"}]},
-{"w":"merchandise","p":"명사","m":"상품","cat":"마케팅","rel":[{"w":"merchant","k":"파생","m":"상인"}]},
-{"w":"midnight","p":"명사","m":"자정","cat":"시설·사무"},
-{"w":"mile","p":"명사","m":"마일 (거리 단위)","cat":"출장·여행","rel":[{"w":"mileage","k":"파생","m":"주행 거리, 마일리지"}]},
-{"w":"minute","p":"명사","m":"분, (복수) 회의록","cat":"회의","rel":[{"w":"take minutes","k":"숙어","m":"회의록을 작성하다"}]},
-{"w":"miss","p":"동사","m":"놓치다","cat":"출장·여행","rel":[{"w":"missing","k":"파생","m":"분실된, 빠진"}]},
-{"w":"mobile","p":"형용사","m":"이동식의, 모바일의","cat":"시설·사무","rel":[{"w":"mobile phone","k":"숙어","m":"휴대전화"}]},
-{"w":"model","p":"명사","m":"모델, 기종","cat":"마케팅","rel":[{"w":"latest model","k":"숙어","m":"최신 기종"}]},
-{"w":"moment","p":"명사","m":"잠깐, 순간","cat":"시설·사무","rel":[{"w":"at the moment","k":"숙어","m":"지금은"},{"w":"in a moment","k":"숙어","m":"곧"}]},
-{"w":"money","p":"명사","m":"돈","cat":"재무·회계","rel":[{"w":"make money","k":"숙어","m":"돈을 벌다"}]},
-{"w":"month","p":"명사","m":"달, 월","cat":"재무·회계","rel":[{"w":"monthly","k":"파생","m":"월간의, 매달의"}]},
-{"w":"morning","p":"명사","m":"아침","cat":"시설·사무"},
-{"w":"museum","p":"명사","m":"박물관","cat":"출장·여행","rel":[{"w":"gallery","k":"동의","m":"미술관"},{"w":"exhibit","k":"동의","m":"전시(품)"}]},
-{"w":"music","p":"명사","m":"음악","cat":"마케팅","rel":[{"w":"musician","k":"파생","m":"음악가"},{"w":"musical instrument","k":"숙어","m":"악기"}]},
-{"w":"nature","p":"명사","m":"자연","cat":"출장·여행","rel":[{"w":"natural","k":"파생","m":"자연의, 천연의"}]},
-{"w":"neighborhood","p":"명사","m":"동네, 인근","cat":"시설·사무","rel":[{"w":"neighbor","k":"파생","m":"이웃"},{"w":"neighboring","k":"파생","m":"인접한"}]},
-{"w":"newspaper","p":"명사","m":"신문","cat":"마케팅","rel":[{"w":"the press","k":"동의","m":"언론"}]},
-{"w":"night","p":"명사","m":"밤","cat":"출장·여행","rel":[{"w":"overnight","k":"파생","m":"하룻밤 사이에, 야간의"}]},
-{"w":"nurse","p":"명사","m":"간호사","cat":"채용·인사","rel":[{"w":"nursing","k":"파생","m":"간호"}]},
-{"w":"okay","p":"형용사","m":"괜찮은","cat":"시설·사무"},
-{"w":"once","p":"부사","m":"한 번, 한때","cat":"회의","rel":[{"w":"at once","k":"숙어","m":"즉시"},{"w":"once a week","k":"숙어","m":"일주일에 한 번"}]},
-{"w":"organize","p":"동사","m":"준비하다, 정리하다","cat":"회의","rel":[{"w":"organizer","k":"파생","m":"주최자"},{"w":"organization","k":"파생","m":"조직, 단체"}]},
-{"w":"outside","p":"부사","m":"밖에(서)","cat":"시설·사무","rel":[{"w":"inside","k":"반의","m":"안에(서)"}]},
-{"w":"oven","p":"명사","m":"오븐","cat":"시설·사무"},
-{"w":"overtime","p":"명사","m":"초과 근무, 야근","cat":"채용·인사","rel":[{"w":"work overtime","k":"숙어","m":"야근하다"}]},
-{"w":"page","p":"명사","m":"페이지, 쪽","cat":"시설·사무"},
-{"w":"paint","p":"동사","m":"페인트를 칠하다, 그리다","cat":"시설·사무","rel":[{"w":"painting","k":"파생","m":"그림"},{"w":"painter","k":"파생","m":"화가, 도장공"}]},
-{"w":"pair","p":"명사","m":"한 쌍, 켤레","cat":"마케팅","rel":[{"w":"a pair of","k":"숙어","m":"한 쌍의"}]},
-{"w":"pants","p":"명사","m":"바지","cat":"마케팅","rel":[{"w":"trousers","k":"동의","m":"바지"}]},
-{"w":"parcel","p":"명사","m":"소포","cat":"배송·주문","rel":[{"w":"package","k":"동의","m":"소포"}]},
-{"w":"pass","p":"동사","m":"통과하다, 건네다","cat":"시설·사무","rel":[{"w":"pass out","k":"숙어","m":"나눠 주다"},{"w":"passcode","k":"파생","m":"비밀번호"}]},
-{"w":"path","p":"명사","m":"길, 통로","cat":"출장·여행","rel":[{"w":"walking path","k":"숙어","m":"산책로"}]},
-{"w":"patient","p":"명사","m":"환자","cat":"시설·사무","rel":[{"w":"patiently","k":"파생","m":"참을성 있게"}]},
-{"w":"pharmacy","p":"명사","m":"약국","cat":"시설·사무","rel":[{"w":"pharmacist","k":"파생","m":"약사"},{"w":"drugstore","k":"동의","m":"약국"}]},
-{"w":"picture","p":"명사","m":"사진, 그림","cat":"마케팅","rel":[{"w":"take a picture","k":"숙어","m":"사진을 찍다"}]},
-{"w":"piece","p":"명사","m":"조각, 한 개","cat":"시설·사무","rel":[{"w":"a piece of","k":"숙어","m":"하나의"}]},
-{"w":"plate","p":"명사","m":"접시","cat":"출장·여행"},
-{"w":"platform","p":"명사","m":"승강장, 플랫폼","cat":"출장·여행"},
-{"w":"pleasure","p":"명사","m":"기쁨","cat":"시설·사무","rel":[{"w":"pleasant","k":"파생","m":"쾌적한, 즐거운"},{"w":"with pleasure","k":"숙어","m":"기꺼이"}]},
-{"w":"plumber","p":"명사","m":"배관공","cat":"시설·사무","rel":[{"w":"plumbing","k":"파생","m":"배관 (설비)"}]},
-{"w":"pocket","p":"명사","m":"주머니","cat":"마케팅"},
-{"w":"point","p":"명사","m":"요점, 점수","cat":"회의","rel":[{"w":"point out","k":"숙어","m":"지적하다"},{"w":"main point","k":"숙어","m":"요점"}]},
-{"w":"police","p":"명사","m":"경찰","cat":"시설·사무","rel":[{"w":"police station","k":"숙어","m":"경찰서"}]},
-{"w":"pool","p":"명사","m":"수영장","cat":"시설·사무","rel":[{"w":"swimming pool","k":"숙어","m":"수영장"}]},
-{"w":"post","p":"동사","m":"게시하다, 발송하다","cat":"시설·사무","rel":[{"w":"post office","k":"숙어","m":"우체국"},{"w":"posting","k":"파생","m":"게시(물), 공고"}]},
-{"w":"pot","p":"명사","m":"냄비, 화분","cat":"시설·사무"},
-{"w":"pour","p":"동사","m":"붓다, 따르다","cat":"시설·사무"},
-{"w":"practice","p":"명사","m":"연습, 관행","cat":"시설·사무","rel":[{"w":"best practice","k":"숙어","m":"모범 사례"}]},
-{"w":"prefer","p":"동사","m":"선호하다","cat":"마케팅","rel":[{"w":"preference","k":"파생","m":"선호(도)"},{"w":"preferred","k":"파생","m":"선호되는"}]},
-{"w":"pretty","p":"부사","m":"꽤, 상당히","cat":"시설·사무","rel":[{"w":"quite","k":"동의","m":"꽤"}]},
-{"w":"produce","p":"동사","m":"생산하다","cat":"배송·주문","rel":[{"w":"producer","k":"파생","m":"생산자"},{"w":"production","k":"파생","m":"생산"},{"w":"productive","k":"파생","m":"생산적인"}]},
-{"w":"professor","p":"명사","m":"교수","cat":"채용·인사"},
-{"w":"program","p":"명사","m":"프로그램","cat":"마케팅","rel":[{"w":"loyalty program","k":"숙어","m":"고객 보상 프로그램"}]},
-{"w":"promise","p":"동사","m":"약속하다","cat":"시설·사무","rel":[{"w":"promising","k":"파생","m":"유망한"}]},
-{"w":"proud","p":"형용사","m":"자랑스러운","cat":"시설·사무","rel":[{"w":"be proud to","k":"숙어","m":"~하게 되어 자랑스럽다"}]}
-]}
+{
+ "words": [
+  {
+   "w": "fill",
+   "p": "동사",
+   "m": "채우다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "fill out",
+     "k": "숙어",
+     "m": "(양식을) 작성하다"
+    },
+    {
+     "w": "fill in for",
+     "k": "숙어",
+     "m": "~를 대신하다"
+    }
+   ],
+   "ex": "Please <b>fill</b> the paper tray before using the copy machine.",
+   "exKo": "복사기를 사용하기 전에 용지함을 채워 주세요."
+  },
+  {
+   "w": "film",
+   "p": "명사",
+   "m": "영화",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "movie",
+     "k": "동의",
+     "m": "영화"
+    }
+   ],
+   "ex": "The marketing team made a short <b>film</b> about our new product.",
+   "exKo": "마케팅 팀은 신제품에 관한 짧은 영화를 제작했습니다."
+  },
+  {
+   "w": "fitness",
+   "p": "명사",
+   "m": "운동, 건강 관리",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "fitness center",
+     "k": "숙어",
+     "m": "헬스장"
+    }
+   ],
+   "ex": "The office building has a <b>fitness</b> center for all employees.",
+   "exKo": "사무실 건물에는 전 직원을 위한 운동 시설이 있습니다."
+  },
+  {
+   "w": "flower",
+   "p": "명사",
+   "m": "꽃",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "florist",
+     "k": "파생",
+     "m": "꽃집 (주인)"
+    }
+   ],
+   "ex": "Fresh <b>flowers</b> are placed in the lobby every Monday morning.",
+   "exKo": "매주 월요일 아침 로비에 신선한 꽃이 놓입니다."
+  },
+  {
+   "w": "fold",
+   "p": "동사",
+   "m": "접다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "folder",
+     "k": "파생",
+     "m": "폴더, 서류철"
+    }
+   ],
+   "ex": "Please <b>fold</b> the letters before putting them in the envelopes.",
+   "exKo": "편지를 봉투에 넣기 전에 접어 주세요."
+  },
+  {
+   "w": "food",
+   "p": "명사",
+   "m": "음식",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "food supplier",
+     "k": "숙어",
+     "m": "식자재 공급업체"
+    }
+   ],
+   "ex": "The <b>food</b> at the hotel restaurant was excellent during our stay.",
+   "exKo": "저희가 머무는 동안 호텔 식당의 음식이 훌륭했습니다."
+  },
+  {
+   "w": "foreign",
+   "p": "형용사",
+   "m": "외국의",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "foreigner",
+     "k": "파생",
+     "m": "외국인"
+    }
+   ],
+   "ex": "Mr. Park often travels to <b>foreign</b> countries for business meetings.",
+   "exKo": "박 씨는 비즈니스 회의를 위해 외국 국가들로 자주 출장을 갑니다."
+  },
+  {
+   "w": "fountain",
+   "p": "명사",
+   "m": "분수",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "drinking fountain",
+     "k": "숙어",
+     "m": "식수대"
+    }
+   ],
+   "ex": "There is a large <b>fountain</b> in front of the office building.",
+   "exKo": "사무실 건물 앞에 큰 분수가 있습니다."
+  },
+  {
+   "w": "fruit",
+   "p": "명사",
+   "m": "과일",
+   "cat": "배송·주문",
+   "ex": "The store receives fresh <b>fruit</b> from the supplier every morning.",
+   "exKo": "그 가게는 매일 아침 공급업체로부터 신선한 과일을 받습니다."
+  },
+  {
+   "w": "fuel",
+   "p": "명사",
+   "m": "연료",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "refuel",
+     "k": "파생",
+     "m": "연료를 보급하다"
+    }
+   ],
+   "ex": "We stopped at a gas station to buy <b>fuel</b> for the long drive.",
+   "exKo": "장거리 운전을 위해 주유소에 들러 연료를 구입했습니다."
+  },
+  {
+   "w": "garage",
+   "p": "명사",
+   "m": "차고, 주차장",
+   "cat": "시설·사무",
+   "ex": "Visitors can park their cars in the <b>garage</b> next to our building.",
+   "exKo": "방문객들은 저희 건물 옆 주차장에 차를 주차할 수 있습니다."
+  },
+  {
+   "w": "garden",
+   "p": "명사",
+   "m": "정원",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "gardening",
+     "k": "파생",
+     "m": "원예"
+    },
+    {
+     "w": "gardener",
+     "k": "파생",
+     "m": "정원사"
+    }
+   ],
+   "ex": "Employees often eat lunch in the <b>garden</b> behind the office.",
+   "exKo": "직원들은 종종 사무실 뒤 정원에서 점심을 먹습니다."
+  },
+  {
+   "w": "gate",
+   "p": "명사",
+   "m": "탑승구, 출입문",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "boarding gate",
+     "k": "숙어",
+     "m": "탑승구"
+    }
+   ],
+   "ex": "Passengers for Flight 302 should go to <b>gate</b> seven now.",
+   "exKo": "302편 승객들은 지금 7번 탑승구로 가셔야 합니다."
+  },
+  {
+   "w": "grocery",
+   "p": "명사",
+   "m": "식료품(점)",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "grocery store",
+     "k": "숙어",
+     "m": "식료품점"
+    }
+   ],
+   "ex": "The new <b>grocery</b> store downtown offers big discounts this week.",
+   "exKo": "시내에 새로 생긴 식료품점이 이번 주에 큰 할인을 제공합니다."
+  },
+  {
+   "w": "ground",
+   "p": "명사",
+   "m": "땅, 지면",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "ground floor",
+     "k": "숙어",
+     "m": "1층"
+    }
+   ],
+   "ex": "Workers are planting trees in the <b>ground</b> near the main entrance.",
+   "exKo": "작업자들이 정문 근처 땅에 나무를 심고 있습니다."
+  },
+  {
+   "w": "group",
+   "p": "명사",
+   "m": "단체, 그룹",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "group rate",
+     "k": "숙어",
+     "m": "단체 요금"
+    }
+   ],
+   "ex": "A <b>group</b> of ten employees will attend the conference in Chicago.",
+   "exKo": "직원 10명으로 구성된 단체가 시카고에서 열리는 컨퍼런스에 참석할 예정입니다."
+  },
+  {
+   "w": "grow",
+   "p": "동사",
+   "m": "성장하다, 증가하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "growth",
+     "k": "파생",
+     "m": "성장"
+    },
+    {
+     "w": "growing",
+     "k": "파생",
+     "m": "증가하는"
+    }
+   ]
+  },
+  {
+   "w": "hall",
+   "p": "명사",
+   "m": "홀, 회관",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "hallway",
+     "k": "파생",
+     "m": "복도"
+    }
+   ],
+   "ex": "The awards ceremony will take place in the main <b>hall</b>.",
+   "exKo": "시상식은 본관 홀에서 열릴 예정입니다."
+  },
+  {
+   "w": "hallmark",
+   "p": "명사",
+   "m": "특징, 품질 보증 마크",
+   "cat": "마케팅",
+   "ex": "Excellent customer service is a <b>hallmark</b> of our brand.",
+   "exKo": "훌륭한 고객 서비스는 저희 브랜드의 특징입니다."
+  },
+  {
+   "w": "handle",
+   "p": "동사",
+   "m": "다루다, 처리하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "deal with",
+     "k": "동의",
+     "m": "처리하다"
+    }
+   ],
+   "ex": "The front desk staff <b>handles</b> all visitor questions and requests.",
+   "exKo": "안내 데스크 직원이 모든 방문객의 질문과 요청을 처리합니다."
+  },
+  {
+   "w": "hang",
+   "p": "동사",
+   "m": "걸다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "hang up",
+     "k": "숙어",
+     "m": "전화를 끊다"
+    }
+   ],
+   "ex": "Please <b>hang</b> your coat on the rack near the door.",
+   "exKo": "문 근처 옷걸이에 코트를 걸어 주세요."
+  },
+  {
+   "w": "heat",
+   "p": "명사",
+   "m": "열, 난방",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "heating",
+     "k": "파생",
+     "m": "난방 (장치)"
+    },
+    {
+     "w": "heater",
+     "k": "파생",
+     "m": "난방기"
+    }
+   ],
+   "ex": "The <b>heat</b> in the office will be turned on next Monday.",
+   "exKo": "다음 주 월요일에 사무실 난방이 켜질 예정입니다."
+  },
+  {
+   "w": "heavy",
+   "p": "형용사",
+   "m": "무거운, 심한",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "heavy traffic",
+     "k": "숙어",
+     "m": "교통 체증"
+    },
+    {
+     "w": "heavily",
+     "k": "파생",
+     "m": "심하게"
+    }
+   ],
+   "ex": "The box was too <b>heavy</b> for one person to carry.",
+   "exKo": "그 상자는 한 사람이 옮기기에는 너무 무거웠습니다."
+  },
+  {
+   "w": "highway",
+   "p": "명사",
+   "m": "고속도로",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "expressway",
+     "k": "동의",
+     "m": "고속도로"
+    }
+   ],
+   "ex": "We took the <b>highway</b> to reach the client's office faster.",
+   "exKo": "고객 사무실에 더 빨리 도착하기 위해 고속도로를 이용했습니다."
+  },
+  {
+   "w": "history",
+   "p": "명사",
+   "m": "역사, 이력",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "work history",
+     "k": "숙어",
+     "m": "경력 사항"
+    }
+   ],
+   "ex": "Please describe your work <b>history</b> on the application form.",
+   "exKo": "지원서에 근무 이력을 기재해 주세요."
+  },
+  {
+   "w": "hospital",
+   "p": "명사",
+   "m": "병원",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "clinic",
+     "k": "동의",
+     "m": "의원, 진료소"
+    }
+   ],
+   "ex": "The new <b>hospital</b> is a five-minute walk from our office building.",
+   "exKo": "새 병원은 저희 사무실 건물에서 걸어서 5분 거리에 있습니다."
+  },
+  {
+   "w": "host",
+   "p": "동사",
+   "m": "주최하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "host a conference",
+     "k": "숙어",
+     "m": "회의를 주최하다"
+    }
+   ],
+   "ex": "Our company will <b>host</b> an international conference in September.",
+   "exKo": "저희 회사는 9월에 국제 컨퍼런스를 주최할 예정입니다."
+  },
+  {
+   "w": "hotel",
+   "p": "명사",
+   "m": "호텔",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "inn",
+     "k": "동의",
+     "m": "여관, 소규모 호텔"
+    }
+   ],
+   "ex": "The <b>hotel</b> is near the airport, so it is good for business travelers.",
+   "exKo": "그 호텔은 공항 근처에 있어서 출장객들에게 좋습니다."
+  },
+  {
+   "w": "idea",
+   "p": "명사",
+   "m": "생각, 아이디어",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "come up with an idea",
+     "k": "숙어",
+     "m": "아이디어를 떠올리다"
+    }
+   ],
+   "ex": "She shared a great <b>idea</b> at the marketing meeting yesterday.",
+   "exKo": "그녀는 어제 마케팅 회의에서 훌륭한 아이디어를 공유했습니다."
+  },
+  {
+   "w": "identification",
+   "p": "명사",
+   "m": "신분증, 신원 확인",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "ID badge",
+     "k": "숙어",
+     "m": "사원증"
+    },
+    {
+     "w": "identify",
+     "k": "파생",
+     "m": "확인하다, 식별하다"
+    }
+   ],
+   "ex": "Please show your <b>identification</b> at the front desk before entering.",
+   "exKo": "입장하기 전에 안내 데스크에서 신분증을 제시해 주세요."
+  },
+  {
+   "w": "include",
+   "p": "동사",
+   "m": "포함하다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "including",
+     "k": "파생",
+     "m": "~을 포함하여"
+    },
+    {
+     "w": "exclude",
+     "k": "반의",
+     "m": "제외하다"
+    }
+   ],
+   "ex": "The total price <b>includes</b> tax and delivery charges.",
+   "exKo": "총 가격에는 세금과 배송비가 포함되어 있습니다."
+  },
+  {
+   "w": "increase",
+   "p": "동사",
+   "m": "증가하다, 늘리다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "increasingly",
+     "k": "파생",
+     "m": "점점 더"
+    },
+    {
+     "w": "decrease",
+     "k": "반의",
+     "m": "감소하다"
+    }
+   ],
+   "ex": "The company plans to <b>increase</b> its budget for training next year.",
+   "exKo": "그 회사는 내년에 교육 예산을 늘릴 계획입니다."
+  },
+  {
+   "w": "indoor",
+   "p": "형용사",
+   "m": "실내의",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "outdoor",
+     "k": "반의",
+     "m": "야외의"
+    }
+   ],
+   "ex": "The building has an <b>indoor</b> parking area for employees.",
+   "exKo": "그 건물에는 직원용 실내 주차 공간이 있습니다."
+  },
+  {
+   "w": "industry",
+   "p": "명사",
+   "m": "산업, 업계",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "industrial",
+     "k": "파생",
+     "m": "산업의"
+    }
+   ],
+   "ex": "Our company is a leader in the software <b>industry</b>.",
+   "exKo": "저희 회사는 소프트웨어 업계의 선두 주자입니다."
+  },
+  {
+   "w": "instead",
+   "p": "부사",
+   "m": "대신에",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "instead of",
+     "k": "숙어",
+     "m": "~ 대신에"
+    }
+   ],
+   "ex": "The meeting will be held on Friday <b>instead</b> of Thursday.",
+   "exKo": "회의는 목요일 대신 금요일에 열릴 예정입니다."
+  },
+  {
+   "w": "instruction",
+   "p": "명사",
+   "m": "설명(서), 지시",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "instruct",
+     "k": "파생",
+     "m": "지시하다"
+    },
+    {
+     "w": "instructor",
+     "k": "파생",
+     "m": "강사"
+    }
+   ],
+   "ex": "Please read the <b>instructions</b> before using the new copy machine.",
+   "exKo": "새 복사기를 사용하기 전에 설명서를 읽어 주세요."
+  },
+  {
+   "w": "interest",
+   "p": "명사",
+   "m": "관심, 이자",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "interested in",
+     "k": "숙어",
+     "m": "~에 관심 있는"
+    },
+    {
+     "w": "interest rate",
+     "k": "숙어",
+     "m": "금리"
+    }
+   ],
+   "ex": "The bank pays three percent <b>interest</b> on this savings account.",
+   "exKo": "그 은행은 이 예금 계좌에 3퍼센트의 이자를 지급합니다."
+  },
+  {
+   "w": "international",
+   "p": "형용사",
+   "m": "국제적인",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "internationally",
+     "k": "파생",
+     "m": "국제적으로"
+    },
+    {
+     "w": "domestic",
+     "k": "반의",
+     "m": "국내의"
+    }
+   ],
+   "ex": "She often takes <b>international</b> flights for her business trips.",
+   "exKo": "그녀는 출장을 위해 국제선 항공편을 자주 이용합니다."
+  },
+  {
+   "w": "internet",
+   "p": "명사",
+   "m": "인터넷",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "online",
+     "k": "동의",
+     "m": "온라인의"
+    }
+   ],
+   "ex": "The <b>internet</b> in the office will be down for repairs this afternoon.",
+   "exKo": "오늘 오후 사무실 인터넷이 수리로 인해 중단됩니다."
+  },
+  {
+   "w": "intern",
+   "p": "명사",
+   "m": "인턴, 수습사원",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "internship",
+     "k": "파생",
+     "m": "인턴십"
+    }
+   ],
+   "ex": "Our new <b>intern</b> will start working in the sales department next Monday.",
+   "exKo": "새로 온 인턴이 다음 주 월요일부터 영업부에서 근무를 시작합니다."
+  },
+  {
+   "w": "island",
+   "p": "명사",
+   "m": "섬",
+   "cat": "출장·여행",
+   "ex": "The company retreat will be held on a small <b>island</b> near the coast.",
+   "exKo": "회사 워크숍은 해안 근처의 작은 섬에서 열립니다."
+  },
+  {
+   "w": "jacket",
+   "p": "명사",
+   "m": "재킷, 상의",
+   "cat": "마케팅",
+   "ex": "This new <b>jacket</b> is our best-selling item this winter season.",
+   "exKo": "이 새 재킷은 올겨울 저희의 가장 잘 팔리는 상품입니다."
+  },
+  {
+   "w": "kitchen",
+   "p": "명사",
+   "m": "주방",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "kitchen appliance",
+     "k": "숙어",
+     "m": "주방 가전"
+    }
+   ],
+   "ex": "Please keep the office <b>kitchen</b> clean after using it.",
+   "exKo": "사용 후에는 사무실 주방을 깨끗하게 유지해 주세요."
+  },
+  {
+   "w": "label",
+   "p": "명사",
+   "m": "라벨, 상표",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "shipping label",
+     "k": "숙어",
+     "m": "배송 라벨"
+    }
+   ],
+   "ex": "Check the shipping <b>label</b> before you send the package.",
+   "exKo": "소포를 보내기 전에 배송 라벨을 확인하세요."
+  },
+  {
+   "w": "ladder",
+   "p": "명사",
+   "m": "사다리",
+   "cat": "시설·사무",
+   "ex": "A worker is climbing a <b>ladder</b> to fix the ceiling light.",
+   "exKo": "작업자가 천장 조명을 고치기 위해 사다리를 오르고 있습니다."
+  },
+  {
+   "w": "land",
+   "p": "동사",
+   "m": "착륙하다",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "landing",
+     "k": "파생",
+     "m": "착륙"
+    },
+    {
+     "w": "take off",
+     "k": "반의",
+     "m": "이륙하다"
+    }
+   ],
+   "ex": "Our flight will <b>land</b> in Chicago at three in the afternoon.",
+   "exKo": "저희 항공편은 오후 3시에 시카고에 착륙합니다."
+  },
+  {
+   "w": "lane",
+   "p": "명사",
+   "m": "차선, 좁은 길",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "bike lane",
+     "k": "숙어",
+     "m": "자전거 도로"
+    }
+   ],
+   "ex": "The right <b>lane</b> is closed because of road construction today.",
+   "exKo": "오늘 도로 공사로 인해 오른쪽 차선이 폐쇄되어 있습니다."
+  },
+  {
+   "w": "laptop",
+   "p": "명사",
+   "m": "노트북 컴퓨터",
+   "cat": "시설·사무",
+   "ex": "Please bring your <b>laptop</b> to the training session tomorrow morning.",
+   "exKo": "내일 아침 교육 세션에 노트북 컴퓨터를 가져오세요."
+  },
+  {
+   "w": "laundry",
+   "p": "명사",
+   "m": "세탁(물)",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "laundry service",
+     "k": "숙어",
+     "m": "세탁 서비스"
+    }
+   ],
+   "ex": "The hotel offers a free <b>laundry</b> service for all guests.",
+   "exKo": "호텔은 모든 투숙객에게 무료 세탁 서비스를 제공합니다."
+  },
+  {
+   "w": "lawyer",
+   "p": "명사",
+   "m": "변호사",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "attorney",
+     "k": "동의",
+     "m": "변호사"
+    },
+    {
+     "w": "law firm",
+     "k": "숙어",
+     "m": "법률 사무소"
+    }
+   ],
+   "ex": "Our <b>lawyer</b> will review the contract before we sign it.",
+   "exKo": "서명하기 전에 저희 변호사가 계약서를 검토할 것입니다."
+  },
+  {
+   "w": "lecture",
+   "p": "명사",
+   "m": "강연, 강의",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "lecturer",
+     "k": "파생",
+     "m": "강연자"
+    }
+   ],
+   "ex": "Dr. Kim will give a <b>lecture</b> on marketing at the conference.",
+   "exKo": "김 박사님이 콘퍼런스에서 마케팅에 관한 강연을 하실 예정입니다."
+  },
+  {
+   "w": "level",
+   "p": "명사",
+   "m": "수준, 층",
+   "cat": "시설·사무",
+   "ex": "The meeting room is on the second <b>level</b> of the building.",
+   "exKo": "회의실은 건물 2층에 있습니다."
+  },
+  {
+   "w": "library",
+   "p": "명사",
+   "m": "도서관",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "librarian",
+     "k": "파생",
+     "m": "사서"
+    }
+   ],
+   "ex": "The company <b>library</b> is open to all employees during work hours.",
+   "exKo": "회사 도서관은 근무 시간 동안 모든 직원에게 개방됩니다."
+  },
+  {
+   "w": "light",
+   "p": "명사",
+   "m": "조명, 빛",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "lighting",
+     "k": "파생",
+     "m": "조명 (설비)"
+    },
+    {
+     "w": "turn off the lights",
+     "k": "숙어",
+     "m": "불을 끄다"
+    }
+   ],
+   "ex": "Please turn off the <b>light</b> when you leave the office.",
+   "exKo": "사무실을 나갈 때 조명을 꺼 주세요."
+  },
+  {
+   "w": "limit",
+   "p": "명사",
+   "m": "제한, 한도",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "limited",
+     "k": "파생",
+     "m": "제한된, 한정된"
+    },
+    {
+     "w": "speed limit",
+     "k": "숙어",
+     "m": "제한 속도"
+    }
+   ],
+   "ex": "The contract sets a <b>limit</b> on the number of working hours.",
+   "exKo": "계약서는 근무 시간에 대한 제한을 정하고 있습니다."
+  },
+  {
+   "w": "line",
+   "p": "명사",
+   "m": "줄, (제품) 라인",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "stand in line",
+     "k": "숙어",
+     "m": "줄을 서다"
+    },
+    {
+     "w": "product line",
+     "k": "숙어",
+     "m": "제품군"
+    }
+   ],
+   "ex": "The company will launch a new <b>line</b> of sports shoes.",
+   "exKo": "회사는 새로운 스포츠 신발 라인을 출시할 예정입니다."
+  },
+  {
+   "w": "lobby",
+   "p": "명사",
+   "m": "로비",
+   "cat": "시설·사무",
+   "ex": "Visitors must sign in at the <b>lobby</b> before entering the building.",
+   "exKo": "방문객은 건물에 들어가기 전에 로비에서 서명해야 합니다."
+  },
+  {
+   "w": "local",
+   "p": "형용사",
+   "m": "지역의, 현지의",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "locally",
+     "k": "파생",
+     "m": "지역에서"
+    },
+    {
+     "w": "local resident",
+     "k": "숙어",
+     "m": "지역 주민"
+    }
+   ],
+   "ex": "We placed an ad in the <b>local</b> newspaper last week.",
+   "exKo": "지난주에 지역 신문에 광고를 실었습니다."
+  },
+  {
+   "w": "low",
+   "p": "형용사",
+   "m": "낮은",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "lower",
+     "k": "파생",
+     "m": "낮추다"
+    },
+    {
+     "w": "high",
+     "k": "반의",
+     "m": "높은"
+    }
+   ],
+   "ex": "Sales were <b>low</b> during the first quarter of this year.",
+   "exKo": "올해 1분기 동안 매출이 낮았습니다."
+  },
+  {
+   "w": "magazine",
+   "p": "명사",
+   "m": "잡지",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "periodical",
+     "k": "동의",
+     "m": "정기 간행물"
+    }
+   ],
+   "ex": "Our new product was featured in a business <b>magazine</b> this month.",
+   "exKo": "저희 신제품이 이번 달 비즈니스 잡지에 소개되었습니다."
+  },
+  {
+   "w": "medicine",
+   "p": "명사",
+   "m": "약, 의학",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "medical",
+     "k": "파생",
+     "m": "의료의"
+    },
+    {
+     "w": "medication",
+     "k": "동의",
+     "m": "약물"
+    }
+   ],
+   "ex": "You can pick up your <b>medicine</b> at the pharmacy downstairs.",
+   "exKo": "아래층 약국에서 약을 받으실 수 있습니다."
+  },
+  {
+   "w": "member",
+   "p": "명사",
+   "m": "회원, 구성원",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "membership fee",
+     "k": "숙어",
+     "m": "회비"
+    }
+   ],
+   "ex": "Every <b>member</b> of our shopping club gets a ten percent discount.",
+   "exKo": "저희 쇼핑 클럽의 모든 회원은 10퍼센트 할인을 받습니다."
+  },
+  {
+   "w": "mention",
+   "p": "동사",
+   "m": "언급하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "as mentioned above",
+     "k": "숙어",
+     "m": "위에서 언급했듯이"
+    }
+   ],
+   "ex": "The manager did not <b>mention</b> the budget during the meeting.",
+   "exKo": "부장님은 회의 중에 예산을 언급하지 않으셨습니다."
+  },
+  {
+   "w": "merchandise",
+   "p": "명사",
+   "m": "상품",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "merchant",
+     "k": "파생",
+     "m": "상인"
+    }
+   ],
+   "ex": "All summer <b>merchandise</b> is now on sale at half price.",
+   "exKo": "모든 여름 상품이 현재 반값으로 할인 판매 중입니다."
+  },
+  {
+   "w": "midnight",
+   "p": "명사",
+   "m": "자정",
+   "cat": "시설·사무",
+   "ex": "The office building locks its doors at <b>midnight</b> every day.",
+   "exKo": "사무실 건물은 매일 자정에 문을 잠급니다."
+  },
+  {
+   "w": "mile",
+   "p": "명사",
+   "m": "마일 (거리 단위)",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "mileage",
+     "k": "파생",
+     "m": "주행 거리, 마일리지"
+    }
+   ],
+   "ex": "The airport is about ten <b>miles</b> from our hotel.",
+   "exKo": "공항은 저희 호텔에서 약 10마일 떨어져 있습니다."
+  },
+  {
+   "w": "minute",
+   "p": "명사",
+   "m": "분, (복수) 회의록",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "take minutes",
+     "k": "숙어",
+     "m": "회의록을 작성하다"
+    }
+   ],
+   "ex": "Please read the <b>minutes</b> from last week's staff meeting.",
+   "exKo": "지난주 직원 회의의 회의록을 읽어 주세요."
+  },
+  {
+   "w": "miss",
+   "p": "동사",
+   "m": "놓치다",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "missing",
+     "k": "파생",
+     "m": "분실된, 빠진"
+    }
+   ],
+   "ex": "Hurry, or you will <b>miss</b> the last train to the airport.",
+   "exKo": "서두르세요, 그렇지 않으면 공항으로 가는 마지막 기차를 놓치게 됩니다."
+  },
+  {
+   "w": "mobile",
+   "p": "형용사",
+   "m": "이동식의, 모바일의",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "mobile phone",
+     "k": "숙어",
+     "m": "휴대전화"
+    }
+   ],
+   "ex": "Please turn off your <b>mobile</b> phone during the presentation.",
+   "exKo": "발표 중에는 모바일 전화기를 꺼 주세요."
+  },
+  {
+   "w": "model",
+   "p": "명사",
+   "m": "모델, 기종",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "latest model",
+     "k": "숙어",
+     "m": "최신 기종"
+    }
+   ],
+   "ex": "This new printer <b>model</b> is much faster than the old one.",
+   "exKo": "이 새 프린터 기종은 이전 것보다 훨씬 빠릅니다."
+  },
+  {
+   "w": "moment",
+   "p": "명사",
+   "m": "잠깐, 순간",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "at the moment",
+     "k": "숙어",
+     "m": "지금은"
+    },
+    {
+     "w": "in a moment",
+     "k": "숙어",
+     "m": "곧"
+    }
+   ],
+   "ex": "Could you wait a <b>moment</b> while I check the file?",
+   "exKo": "파일을 확인하는 동안 잠깐만 기다려 주시겠습니까?"
+  },
+  {
+   "w": "money",
+   "p": "명사",
+   "m": "돈",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "make money",
+     "k": "숙어",
+     "m": "돈을 벌다"
+    }
+   ],
+   "ex": "The company saved a lot of <b>money</b> by using less paper.",
+   "exKo": "회사는 종이를 덜 사용하여 많은 돈을 절약했습니다."
+  },
+  {
+   "w": "month",
+   "p": "명사",
+   "m": "달, 월",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "monthly",
+     "k": "파생",
+     "m": "월간의, 매달의"
+    }
+   ],
+   "ex": "We must pay the office rent at the end of each <b>month</b>.",
+   "exKo": "매달 말에 사무실 임대료를 지불해야 합니다."
+  },
+  {
+   "w": "morning",
+   "p": "명사",
+   "m": "아침",
+   "cat": "시설·사무",
+   "ex": "The cleaning staff arrives early in the <b>morning</b> before work starts.",
+   "exKo": "청소 직원은 업무 시작 전 아침 일찍 도착합니다."
+  },
+  {
+   "w": "museum",
+   "p": "명사",
+   "m": "박물관",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "gallery",
+     "k": "동의",
+     "m": "미술관"
+    },
+    {
+     "w": "exhibit",
+     "k": "동의",
+     "m": "전시(품)"
+    }
+   ],
+   "ex": "We will visit the city <b>museum</b> after the business meeting.",
+   "exKo": "업무 회의 후에 시립 박물관을 방문할 예정입니다."
+  },
+  {
+   "w": "music",
+   "p": "명사",
+   "m": "음악",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "musician",
+     "k": "파생",
+     "m": "음악가"
+    },
+    {
+     "w": "musical instrument",
+     "k": "숙어",
+     "m": "악기"
+    }
+   ],
+   "ex": "The store plays soft <b>music</b> to make shoppers feel relaxed.",
+   "exKo": "매장은 쇼핑객이 편안함을 느끼도록 부드러운 음악을 틀어 줍니다."
+  },
+  {
+   "w": "nature",
+   "p": "명사",
+   "m": "자연",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "natural",
+     "k": "파생",
+     "m": "자연의, 천연의"
+    }
+   ],
+   "ex": "Guests can enjoy beautiful <b>nature</b> around the mountain resort.",
+   "exKo": "투숙객은 산악 리조트 주변의 아름다운 자연을 즐길 수 있습니다."
+  },
+  {
+   "w": "neighborhood",
+   "p": "명사",
+   "m": "동네, 인근",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "neighbor",
+     "k": "파생",
+     "m": "이웃"
+    },
+    {
+     "w": "neighboring",
+     "k": "파생",
+     "m": "인접한"
+    }
+   ],
+   "ex": "Our new office is in a quiet <b>neighborhood</b> near the park.",
+   "exKo": "저희 새 사무실은 공원 근처 조용한 동네에 있습니다."
+  },
+  {
+   "w": "newspaper",
+   "p": "명사",
+   "m": "신문",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "the press",
+     "k": "동의",
+     "m": "언론"
+    }
+   ],
+   "ex": "The store's grand opening was announced in the morning <b>newspaper</b>.",
+   "exKo": "매장 개점 소식이 조간신문에 발표되었습니다."
+  },
+  {
+   "w": "night",
+   "p": "명사",
+   "m": "밤",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "overnight",
+     "k": "파생",
+     "m": "하룻밤 사이에, 야간의"
+    }
+   ],
+   "ex": "We will stay two <b>nights</b> at a hotel in Boston.",
+   "exKo": "보스턴의 한 호텔에서 이틀 밤을 묵을 예정입니다."
+  },
+  {
+   "w": "nurse",
+   "p": "명사",
+   "m": "간호사",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "nursing",
+     "k": "파생",
+     "m": "간호"
+    }
+   ],
+   "ex": "The hospital is hiring a <b>nurse</b> for the night shift.",
+   "exKo": "그 병원은 야간 근무 간호사를 채용하고 있습니다."
+  },
+  {
+   "w": "okay",
+   "p": "형용사",
+   "m": "괜찮은",
+   "cat": "시설·사무",
+   "ex": "Is it <b>okay</b> if I use the meeting room this afternoon?",
+   "exKo": "오늘 오후에 제가 회의실을 사용해도 괜찮습니까?"
+  },
+  {
+   "w": "once",
+   "p": "부사",
+   "m": "한 번, 한때",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "at once",
+     "k": "숙어",
+     "m": "즉시"
+    },
+    {
+     "w": "once a week",
+     "k": "숙어",
+     "m": "일주일에 한 번"
+    }
+   ],
+   "ex": "The team meets <b>once</b> a week to share project updates.",
+   "exKo": "팀은 프로젝트 진행 상황을 공유하기 위해 일주일에 한 번 모입니다."
+  },
+  {
+   "w": "organize",
+   "p": "동사",
+   "m": "준비하다, 정리하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "organizer",
+     "k": "파생",
+     "m": "주최자"
+    },
+    {
+     "w": "organization",
+     "k": "파생",
+     "m": "조직, 단체"
+    }
+   ],
+   "ex": "Ms. Lee will <b>organize</b> the staff meeting for next Friday.",
+   "exKo": "이 씨가 다음 주 금요일 직원 회의를 준비할 것입니다."
+  },
+  {
+   "w": "outside",
+   "p": "부사",
+   "m": "밖에(서)",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "inside",
+     "k": "반의",
+     "m": "안에(서)"
+    }
+   ],
+   "ex": "Employees can eat lunch <b>outside</b> when the weather is nice.",
+   "exKo": "날씨가 좋을 때 직원들은 밖에서 점심을 먹을 수 있습니다."
+  },
+  {
+   "w": "oven",
+   "p": "명사",
+   "m": "오븐",
+   "cat": "시설·사무",
+   "ex": "The new <b>oven</b> in the break room is easy to use.",
+   "exKo": "휴게실의 새 오븐은 사용하기 쉽습니다."
+  },
+  {
+   "w": "overtime",
+   "p": "명사",
+   "m": "초과 근무, 야근",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "work overtime",
+     "k": "숙어",
+     "m": "야근하다"
+    }
+   ],
+   "ex": "Staff who work <b>overtime</b> will receive extra pay this month.",
+   "exKo": "초과 근무를 하는 직원은 이번 달에 추가 수당을 받습니다."
+  },
+  {
+   "w": "page",
+   "p": "명사",
+   "m": "페이지, 쪽",
+   "cat": "시설·사무",
+   "ex": "Please see <b>page</b> five of the report for the sales chart.",
+   "exKo": "매출 차트는 보고서 5페이지를 참고하세요."
+  },
+  {
+   "w": "paint",
+   "p": "동사",
+   "m": "페인트를 칠하다, 그리다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "painting",
+     "k": "파생",
+     "m": "그림"
+    },
+    {
+     "w": "painter",
+     "k": "파생",
+     "m": "화가, 도장공"
+    }
+   ],
+   "ex": "Workers will <b>paint</b> the office walls this coming weekend.",
+   "exKo": "작업자들이 다가오는 주말에 사무실 벽에 페인트를 칠할 것입니다."
+  },
+  {
+   "w": "pair",
+   "p": "명사",
+   "m": "한 쌍, 켤레",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "a pair of",
+     "k": "숙어",
+     "m": "한 쌍의"
+    }
+   ],
+   "ex": "Buy one <b>pair</b> of shoes and get the second at half price.",
+   "exKo": "신발 한 켤레를 사시면 두 번째 켤레는 반값에 드립니다."
+  },
+  {
+   "w": "pants",
+   "p": "명사",
+   "m": "바지",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "trousers",
+     "k": "동의",
+     "m": "바지"
+    }
+   ],
+   "ex": "These <b>pants</b> are on sale for twenty dollars this week.",
+   "exKo": "이 바지는 이번 주에 20달러에 할인 판매됩니다."
+  },
+  {
+   "w": "parcel",
+   "p": "명사",
+   "m": "소포",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "package",
+     "k": "동의",
+     "m": "소포"
+    }
+   ],
+   "ex": "Your <b>parcel</b> will arrive at the office by Thursday morning.",
+   "exKo": "고객님의 소포는 목요일 아침까지 사무실에 도착할 것입니다."
+  },
+  {
+   "w": "pass",
+   "p": "동사",
+   "m": "통과하다, 건네다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "pass out",
+     "k": "숙어",
+     "m": "나눠 주다"
+    },
+    {
+     "w": "passcode",
+     "k": "파생",
+     "m": "비밀번호"
+    }
+   ],
+   "ex": "Could you <b>pass</b> me the stapler on your desk?",
+   "exKo": "책상 위에 있는 스테이플러를 건네주시겠습니까?"
+  },
+  {
+   "w": "path",
+   "p": "명사",
+   "m": "길, 통로",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "walking path",
+     "k": "숙어",
+     "m": "산책로"
+    }
+   ],
+   "ex": "Follow the <b>path</b> along the river to reach the hotel.",
+   "exKo": "호텔에 가려면 강을 따라 난 길을 따라가세요."
+  },
+  {
+   "w": "patient",
+   "p": "명사",
+   "m": "환자",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "patiently",
+     "k": "파생",
+     "m": "참을성 있게"
+    }
+   ],
+   "ex": "The doctor will see the next <b>patient</b> in room three.",
+   "exKo": "의사 선생님이 3번 진료실에서 다음 환자를 진료할 것입니다."
+  },
+  {
+   "w": "pharmacy",
+   "p": "명사",
+   "m": "약국",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "pharmacist",
+     "k": "파생",
+     "m": "약사"
+    },
+    {
+     "w": "drugstore",
+     "k": "동의",
+     "m": "약국"
+    }
+   ],
+   "ex": "The <b>pharmacy</b> on the first floor closes at nine tonight.",
+   "exKo": "1층 약국은 오늘 밤 9시에 문을 닫습니다."
+  },
+  {
+   "w": "picture",
+   "p": "명사",
+   "m": "사진, 그림",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "take a picture",
+     "k": "숙어",
+     "m": "사진을 찍다"
+    }
+   ],
+   "ex": "We need a clear <b>picture</b> of the product for the website.",
+   "exKo": "웹사이트에 올릴 제품의 선명한 사진이 필요합니다."
+  },
+  {
+   "w": "piece",
+   "p": "명사",
+   "m": "조각, 한 개",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "a piece of",
+     "k": "숙어",
+     "m": "하나의"
+    }
+   ],
+   "ex": "Please take a <b>piece</b> of cake from the break room.",
+   "exKo": "휴게실에서 케이크 한 조각을 가져가세요."
+  },
+  {
+   "w": "plate",
+   "p": "명사",
+   "m": "접시",
+   "cat": "출장·여행",
+   "ex": "The waiter placed a <b>plate</b> of fresh fruit on our table.",
+   "exKo": "종업원이 저희 테이블에 신선한 과일 접시를 놓았습니다."
+  },
+  {
+   "w": "platform",
+   "p": "명사",
+   "m": "승강장, 플랫폼",
+   "cat": "출장·여행",
+   "ex": "The train to the airport leaves from <b>platform</b> four.",
+   "exKo": "공항행 기차는 4번 승강장에서 출발합니다."
+  },
+  {
+   "w": "pleasure",
+   "p": "명사",
+   "m": "기쁨",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "pleasant",
+     "k": "파생",
+     "m": "쾌적한, 즐거운"
+    },
+    {
+     "w": "with pleasure",
+     "k": "숙어",
+     "m": "기꺼이"
+    }
+   ],
+   "ex": "It was a <b>pleasure</b> to work with your team this year.",
+   "exKo": "올해 귀하의 팀과 함께 일하게 되어 큰 기쁨이었습니다."
+  },
+  {
+   "w": "plumber",
+   "p": "명사",
+   "m": "배관공",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "plumbing",
+     "k": "파생",
+     "m": "배관 (설비)"
+    }
+   ],
+   "ex": "A <b>plumber</b> will come to fix the sink in the kitchen.",
+   "exKo": "배관공이 주방 싱크대를 고치러 올 것입니다."
+  },
+  {
+   "w": "pocket",
+   "p": "명사",
+   "m": "주머니",
+   "cat": "마케팅",
+   "ex": "This travel bag has a large <b>pocket</b> for your phone.",
+   "exKo": "이 여행 가방에는 휴대전화를 넣을 수 있는 큰 주머니가 있습니다."
+  },
+  {
+   "w": "point",
+   "p": "명사",
+   "m": "요점, 점수",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "point out",
+     "k": "숙어",
+     "m": "지적하다"
+    },
+    {
+     "w": "main point",
+     "k": "숙어",
+     "m": "요점"
+    }
+   ],
+   "ex": "The main <b>point</b> of the meeting was the new sales plan.",
+   "exKo": "회의의 요점은 새로운 판매 계획이었습니다."
+  },
+  {
+   "w": "police",
+   "p": "명사",
+   "m": "경찰",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "police station",
+     "k": "숙어",
+     "m": "경찰서"
+    }
+   ],
+   "ex": "Please call the <b>police</b> if you see anything strange in the building.",
+   "exKo": "건물에서 이상한 것을 보시면 경찰에 전화해 주세요."
+  },
+  {
+   "w": "pool",
+   "p": "명사",
+   "m": "수영장",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "swimming pool",
+     "k": "숙어",
+     "m": "수영장"
+    }
+   ],
+   "ex": "The hotel <b>pool</b> is open from six in the morning.",
+   "exKo": "호텔 수영장은 아침 6시부터 개장합니다."
+  },
+  {
+   "w": "post",
+   "p": "동사",
+   "m": "게시하다, 발송하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "post office",
+     "k": "숙어",
+     "m": "우체국"
+    },
+    {
+     "w": "posting",
+     "k": "파생",
+     "m": "게시(물), 공고"
+    }
+   ],
+   "ex": "We will <b>post</b> the new work schedule on the notice board.",
+   "exKo": "새 근무 일정을 게시판에 게시하겠습니다."
+  },
+  {
+   "w": "pot",
+   "p": "명사",
+   "m": "냄비, 화분",
+   "cat": "시설·사무",
+   "ex": "She placed a plant <b>pot</b> next to the office window.",
+   "exKo": "그녀는 사무실 창문 옆에 화분을 놓았습니다."
+  },
+  {
+   "w": "pour",
+   "p": "동사",
+   "m": "붓다, 따르다",
+   "cat": "시설·사무",
+   "ex": "Please <b>pour</b> some water for the guests before the meeting.",
+   "exKo": "회의 전에 손님들께 물을 따라 주세요."
+  },
+  {
+   "w": "practice",
+   "p": "명사",
+   "m": "연습, 관행",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "best practice",
+     "k": "숙어",
+     "m": "모범 사례"
+    }
+   ],
+   "ex": "It is our <b>practice</b> to check all emails every morning.",
+   "exKo": "매일 아침 모든 이메일을 확인하는 것이 저희의 관행입니다."
+  },
+  {
+   "w": "prefer",
+   "p": "동사",
+   "m": "선호하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "preference",
+     "k": "파생",
+     "m": "선호(도)"
+    },
+    {
+     "w": "preferred",
+     "k": "파생",
+     "m": "선호되는"
+    }
+   ],
+   "ex": "Many customers <b>prefer</b> to shop online instead of visiting stores.",
+   "exKo": "많은 고객이 매장을 방문하는 대신 온라인 쇼핑을 선호합니다."
+  },
+  {
+   "w": "pretty",
+   "p": "부사",
+   "m": "꽤, 상당히",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "quite",
+     "k": "동의",
+     "m": "꽤"
+    }
+   ],
+   "ex": "The new copy machine is <b>pretty</b> easy to use.",
+   "exKo": "새 복사기는 꽤 사용하기 쉽습니다."
+  },
+  {
+   "w": "produce",
+   "p": "동사",
+   "m": "생산하다",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "producer",
+     "k": "파생",
+     "m": "생산자"
+    },
+    {
+     "w": "production",
+     "k": "파생",
+     "m": "생산"
+    },
+    {
+     "w": "productive",
+     "k": "파생",
+     "m": "생산적인"
+    }
+   ],
+   "ex": "The factory can <b>produce</b> five hundred boxes a day.",
+   "exKo": "그 공장은 하루에 500상자를 생산할 수 있습니다."
+  },
+  {
+   "w": "professor",
+   "p": "명사",
+   "m": "교수",
+   "cat": "채용·인사",
+   "ex": "The university hired a new <b>professor</b> for the business department.",
+   "exKo": "그 대학교는 경영학과에 새 교수를 채용했습니다."
+  },
+  {
+   "w": "program",
+   "p": "명사",
+   "m": "프로그램",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "loyalty program",
+     "k": "숙어",
+     "m": "고객 보상 프로그램"
+    }
+   ],
+   "ex": "Our store started a rewards <b>program</b> for regular customers.",
+   "exKo": "저희 매장은 단골 고객을 위한 보상 프로그램을 시작했습니다."
+  },
+  {
+   "w": "promise",
+   "p": "동사",
+   "m": "약속하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "promising",
+     "k": "파생",
+     "m": "유망한"
+    }
+   ],
+   "ex": "The manager <b>promised</b> to fix the air conditioner by Friday.",
+   "exKo": "관리자는 금요일까지 에어컨을 고치겠다고 약속했습니다."
+  },
+  {
+   "w": "proud",
+   "p": "형용사",
+   "m": "자랑스러운",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "be proud to",
+     "k": "숙어",
+     "m": "~하게 되어 자랑스럽다"
+    }
+   ],
+   "ex": "We are <b>proud</b> of our clean and safe office building.",
+   "exKo": "저희는 깨끗하고 안전한 사무실 건물을 자랑스럽게 생각합니다."
+  }
+ ]
+}
