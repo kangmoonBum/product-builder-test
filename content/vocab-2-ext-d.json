@@ -844,7 +844,9 @@
      "k": "동의",
      "m": "널찍한"
     }
-   ]
+   ],
+   "ex": "The new conference room is bright and <b>spacious</b>.",
+   "exKo": "새 회의실은 밝고 널찍합니다."
   },
   {
    "w": "specification",
@@ -857,7 +859,9 @@
      "k": "숙어",
      "m": "기술 사양"
     }
-   ]
+   ],
+   "ex": "The parts must meet the exact <b>specifications</b>.",
+   "exKo": "부품은 정확한 사양을 충족해야 합니다."
   },
   {
    "w": "specify",
@@ -875,7 +879,9 @@
      "k": "숙어",
      "m": "명시되지 않는 한"
     }
-   ]
+   ],
+   "ex": "Please <b>specify</b> a delivery date on the order form.",
+   "exKo": "주문서에 배송 날짜를 명시해 주세요."
   },
   {
    "w": "sponsor",
@@ -893,7 +899,9 @@
      "k": "숙어",
      "m": "~의 후원으로"
     }
-   ]
+   ],
+   "ex": "A local bank will <b>sponsor</b> the marathon.",
+   "exKo": "지역 은행이 마라톤을 후원할 예정입니다."
   },
   {
    "w": "stable",
@@ -911,7 +919,9 @@
      "k": "파생",
      "m": "안정시키다"
     }
-   ]
+   ],
+   "ex": "The company has maintained <b>stable</b> growth for years.",
+   "exKo": "그 회사는 수년간 안정적인 성장을 유지해 왔습니다."
   },
   {
    "w": "standard",
@@ -929,7 +939,9 @@
      "k": "파생",
      "m": "표준화하다"
     }
-   ]
+   ],
+   "ex": "All products meet international safety <b>standards</b>.",
+   "exKo": "모든 제품은 국제 안전 기준을 충족합니다."
   },
   {
    "w": "statistics",
@@ -947,7 +959,9 @@
      "k": "파생",
      "m": "통계적으로"
     }
-   ]
+   ],
+   "ex": "The <b>statistics</b> show a rise in online shopping.",
+   "exKo": "통계는 온라인 쇼핑의 증가를 보여 줍니다."
   },
   {
    "w": "status",
@@ -965,7 +979,9 @@
      "k": "숙어",
      "m": "경과 보고서"
     }
-   ]
+   ],
+   "ex": "You can check your order <b>status</b> online.",
+   "exKo": "온라인으로 주문 상태를 확인할 수 있습니다."
   },
   {
    "w": "steady",
@@ -983,7 +999,9 @@
      "k": "숙어",
      "m": "꾸준한 증가"
     }
-   ]
+   ],
+   "ex": "The cafe enjoys a <b>steady</b> stream of regulars.",
+   "exKo": "그 카페는 꾸준한 단골 발길을 누리고 있습니다."
   },
   {
    "w": "stimulate",
@@ -996,7 +1014,9 @@
      "k": "숙어",
      "m": "수요를 자극하다"
     }
-   ]
+   ],
+   "ex": "Tax cuts may <b>stimulate</b> consumer spending.",
+   "exKo": "감세는 소비 지출을 자극할 수 있습니다."
   },
   {
    "w": "strict",
@@ -1014,7 +1034,9 @@
      "k": "숙어",
      "m": "엄격히 금지된"
     }
-   ]
+   ],
+   "ex": "The lab has <b>strict</b> rules about visitor access.",
+   "exKo": "그 실험실은 방문객 출입에 엄격한 규칙이 있습니다."
   },
   {
    "w": "structure",
@@ -1032,7 +1054,9 @@
      "k": "파생",
      "m": "개편하다"
     }
-   ]
+   ],
+   "ex": "The report explains the company's pricing <b>structure</b>.",
+   "exKo": "보고서는 회사의 가격 구조를 설명합니다."
   },
   {
    "w": "subscription",
@@ -1050,7 +1074,9 @@
      "k": "파생",
      "m": "구독자"
     }
-   ]
+   ],
+   "ex": "Your magazine <b>subscription</b> expires next month.",
+   "exKo": "잡지 구독이 다음 달에 만료됩니다."
   },
   {
    "w": "substantial",
@@ -1068,7 +1094,9 @@
      "k": "숙어",
      "m": "상당한 증가"
     }
-   ]
+   ],
+   "ex": "Early birds get a <b>substantial</b> discount.",
+   "exKo": "조기 신청자는 상당한 할인을 받습니다."
   },
   {
    "w": "substitute",
@@ -1086,7 +1114,9 @@
      "k": "파생",
      "m": "대체"
     }
-   ]
+   ],
+   "ex": "Ms. Park will act as a <b>substitute</b> during my leave.",
+   "exKo": "제 휴가 동안 박 씨가 대리인 역할을 할 것입니다."
   },
   {
    "w": "summarize",
@@ -1104,7 +1134,9 @@
      "k": "숙어",
      "m": "요약하면"
     }
-   ]
+   ],
+   "ex": "Please <b>summarize</b> the findings in one page.",
+   "exKo": "조사 결과를 한 쪽으로 요약해 주세요."
   },
   {
    "w": "superior",
@@ -1122,7 +1154,9 @@
      "k": "반의",
      "m": "열등한"
     }
-   ]
+   ],
+   "ex": "This model offers <b>superior</b> battery life.",
+   "exKo": "이 모델은 우수한 배터리 수명을 제공합니다."
   },
   {
    "w": "supervise",
@@ -1140,7 +1174,9 @@
      "k": "숙어",
      "m": "~의 감독하에"
     }
-   ]
+   ],
+   "ex": "She <b>supervises</b> a team of ten technicians.",
+   "exKo": "그녀는 기술자 10명으로 이뤄진 팀을 감독합니다."
   },
   {
    "w": "surround",
@@ -1158,7 +1194,9 @@
      "k": "파생",
      "m": "주변 환경"
     }
-   ]
+   ],
+   "ex": "Tall trees <b>surround</b> the company retreat center.",
+   "exKo": "키 큰 나무들이 회사 연수원을 둘러싸고 있습니다."
   },
   {
    "w": "suspend",
@@ -1176,7 +1214,9 @@
      "k": "숙어",
      "m": "~까지 중단되다"
     }
-   ]
+   ],
+   "ex": "Bus service was <b>suspended</b> due to the snow.",
+   "exKo": "폭설로 버스 운행이 일시 중단되었습니다."
   },
   {
    "w": "sustain",
@@ -1194,7 +1234,9 @@
      "k": "파생",
      "m": "지속 가능성"
     }
-   ]
+   ],
+   "ex": "The firm aims to <b>sustain</b> double-digit growth.",
+   "exKo": "그 회사는 두 자릿수 성장을 지속하는 것이 목표입니다."
   },
   {
    "w": "technician",
@@ -1212,7 +1254,9 @@
      "k": "숙어",
      "m": "기술 지원"
     }
-   ]
+   ],
+   "ex": "A <b>technician</b> will visit to fix the copier.",
+   "exKo": "기술자가 복사기를 고치러 방문할 것입니다."
   },
   {
    "w": "tendency",
@@ -1225,7 +1269,9 @@
      "k": "숙어",
      "m": "~하는 경향이 있다"
     }
-   ]
+   ],
+   "ex": "Buyers show a <b>tendency</b> to shop late at night.",
+   "exKo": "구매자들은 밤늦게 쇼핑하는 경향을 보입니다."
   },
   {
    "w": "terminate",
@@ -1243,7 +1289,9 @@
      "k": "숙어",
      "m": "계약을 해지하다"
     }
-   ]
+   ],
+   "ex": "Either party may <b>terminate</b> the contract with notice.",
+   "exKo": "어느 쪽이든 통지 후 계약을 해지할 수 있습니다."
   },
   {
    "w": "tight",
@@ -1261,7 +1309,9 @@
      "k": "숙어",
      "m": "빡빡한 일정"
     }
-   ]
+   ],
+   "ex": "We finished the project despite the <b>tight</b> budget.",
+   "exKo": "빠듯한 예산에도 프로젝트를 끝냈습니다."
   },
   {
    "w": "transform",
@@ -1279,7 +1329,9 @@
      "k": "숙어",
      "m": "A를 B로 바꾸다"
     }
-   ]
+   ],
+   "ex": "The renovation <b>transformed</b> the old warehouse into offices.",
+   "exKo": "보수 공사로 낡은 창고가 사무실로 변모했습니다."
   },
   {
    "w": "transit",
@@ -1297,7 +1349,9 @@
      "k": "숙어",
      "m": "대중교통"
     }
-   ]
+   ],
+   "ex": "Two items were damaged in <b>transit</b>.",
+   "exKo": "두 개 품목이 운송 중에 손상되었습니다."
   },
   {
    "w": "transition",
@@ -1315,7 +1369,9 @@
      "k": "숙어",
      "m": "순조로운 전환"
     }
-   ]
+   ],
+   "ex": "The <b>transition</b> to the new system took a month.",
+   "exKo": "새 시스템으로의 전환에는 한 달이 걸렸습니다."
   },
   {
    "w": "transportation",
@@ -1333,7 +1389,9 @@
      "k": "숙어",
      "m": "교통수단"
     }
-   ]
+   ],
+   "ex": "The hotel provides free <b>transportation</b> to the airport.",
+   "exKo": "호텔은 공항까지 무료 교통편을 제공합니다."
   },
   {
    "w": "tremendous",
@@ -1346,7 +1404,9 @@
      "k": "파생",
      "m": "엄청나게"
     }
-   ]
+   ],
+   "ex": "The volunteers made a <b>tremendous</b> contribution.",
+   "exKo": "자원봉사자들이 엄청난 기여를 했습니다."
   },
   {
    "w": "trend",
@@ -1364,7 +1424,9 @@
      "k": "숙어",
      "m": "시장 동향"
     }
-   ]
+   ],
+   "ex": "Short videos are the latest marketing <b>trend</b>.",
+   "exKo": "짧은 영상이 최신 마케팅 트렌드입니다."
   },
   {
    "w": "trial",
@@ -1382,7 +1444,9 @@
      "k": "숙어",
      "m": "시험 기간"
     }
-   ]
+   ],
+   "ex": "Sign up for a free thirty-day <b>trial</b>.",
+   "exKo": "30일 무료 체험을 신청하세요."
   },
   {
    "w": "typical",
@@ -1395,7 +1459,9 @@
      "k": "파생",
      "m": "보통, 일반적으로"
     }
-   ]
+   ],
+   "ex": "A <b>typical</b> workday starts with a team huddle.",
+   "exKo": "보통의 근무일은 팀 회의로 시작합니다."
   },
   {
    "w": "ultimately",
@@ -1408,7 +1474,9 @@
      "k": "파생",
      "m": "궁극적인"
     }
-   ]
+   ],
+   "ex": "<b>Ultimately</b>, the final choice rests with the client.",
+   "exKo": "궁극적으로 최종 선택은 고객에게 달려 있습니다."
   },
   {
    "w": "unfortunately",
@@ -1426,7 +1494,9 @@
      "k": "반의",
      "m": "다행히"
     }
-   ]
+   ],
+   "ex": "<b>Unfortunately</b>, the item is out of stock.",
+   "exKo": "유감스럽게도 그 상품은 품절입니다."
   },
   {
    "w": "unique",
@@ -1444,7 +1514,9 @@
      "k": "동의",
      "m": "유일무이한"
     }
-   ]
+   ],
+   "ex": "Each handmade vase has a <b>unique</b> pattern.",
+   "exKo": "수제 화병마다 고유한 무늬가 있습니다."
   },
   {
    "w": "upcoming",
@@ -1457,7 +1529,9 @@
      "k": "동의",
      "m": "다가오는"
     }
-   ]
+   ],
+   "ex": "Details of the <b>upcoming</b> workshop are attached.",
+   "exKo": "다가오는 워크숍의 세부 사항이 첨부되어 있습니다."
   },
   {
    "w": "upgrade",
@@ -1470,7 +1544,9 @@
      "k": "숙어",
      "m": "무료 업그레이드"
     }
-   ]
+   ],
+   "ex": "We plan to <b>upgrade</b> all laptops next quarter.",
+   "exKo": "다음 분기에 모든 노트북을 업그레이드할 계획입니다."
   },
   {
    "w": "urgent",
@@ -1488,7 +1564,9 @@
      "k": "파생",
      "m": "긴급함"
     }
-   ]
+   ],
+   "ex": "Please mark <b>urgent</b> emails with a red flag.",
+   "exKo": "긴급한 이메일에는 빨간 표시를 해 주세요."
   },
   {
    "w": "utility",
@@ -1501,7 +1579,9 @@
      "k": "숙어",
      "m": "공과금"
     }
-   ]
+   ],
+   "ex": "Rent includes water and other <b>utility</b> costs.",
+   "exKo": "임대료에는 수도 등 공공요금이 포함됩니다."
   },
   {
    "w": "utilize",
@@ -1519,7 +1599,9 @@
      "k": "동의",
      "m": "~을 활용하다"
     }
-   ]
+   ],
+   "ex": "We <b>utilize</b> solar panels to cut energy bills.",
+   "exKo": "에너지 비용 절감을 위해 태양광 패널을 활용합니다."
   },
   {
    "w": "vacancy",
@@ -1537,7 +1619,9 @@
      "k": "숙어",
      "m": "공석을 채우다"
     }
-   ]
+   ],
+   "ex": "There is a <b>vacancy</b> in the accounting team.",
+   "exKo": "회계팀에 공석이 하나 있습니다."
   },
   {
    "w": "valid",
@@ -1560,7 +1644,9 @@
      "k": "파생",
      "m": "승인하다, (주차를) 확인해 주다"
     }
-   ]
+   ],
+   "ex": "The coupon is <b>valid</b> until the end of March.",
+   "exKo": "그 쿠폰은 3월 말까지 유효합니다."
   },
   {
    "w": "valuable",
@@ -1578,7 +1664,9 @@
      "k": "숙어",
      "m": "소중한 고객"
     }
-   ]
+   ],
+   "ex": "Do not leave <b>valuable</b> items in the locker room.",
+   "exKo": "탈의실에 귀중품을 두지 마세요."
   },
   {
    "w": "variety",
@@ -1601,7 +1689,9 @@
      "k": "파생",
      "m": "다르다, 달라지다"
     }
-   ]
+   ],
+   "ex": "The buffet offers a wide <b>variety</b> of dishes.",
+   "exKo": "그 뷔페는 매우 다양한 요리를 제공합니다."
   },
   {
    "w": "verify",
@@ -1614,7 +1704,9 @@
      "k": "파생",
      "m": "확인, 검증"
     }
-   ]
+   ],
+   "ex": "Please <b>verify</b> your address before submitting.",
+   "exKo": "제출 전에 주소를 확인해 주세요."
   },
   {
    "w": "via",
@@ -1627,7 +1719,9 @@
      "k": "숙어",
      "m": "이메일로"
     }
-   ]
+   ],
+   "ex": "Send the documents <b>via</b> express mail.",
+   "exKo": "서류를 속달 우편을 통해 보내 주세요."
   },
   {
    "w": "virtually",
@@ -1645,7 +1739,9 @@
      "k": "숙어",
      "m": "화상 회의"
     }
-   ]
+   ],
+   "ex": "The two models are <b>virtually</b> identical in size.",
+   "exKo": "두 모델은 크기가 사실상 동일합니다."
   },
   {
    "w": "vision",
@@ -1658,7 +1754,9 @@
      "k": "파생",
      "m": "선견지명이 있는"
     }
-   ]
+   ],
+   "ex": "The founder shared her <b>vision</b> for the next decade.",
+   "exKo": "창업자가 향후 10년에 대한 비전을 공유했습니다."
   },
   {
    "w": "volume",
@@ -1676,7 +1774,9 @@
      "k": "숙어",
      "m": "대량 구매 할인"
     }
-   ]
+   ],
+   "ex": "Order <b>volume</b> doubles during the holiday season.",
+   "exKo": "연휴 시즌에는 주문량이 두 배가 됩니다."
   },
   {
    "w": "volunteer",
@@ -1694,7 +1794,9 @@
      "k": "숙어",
      "m": "~에 자원하다"
     }
-   ]
+   ],
+   "ex": "<b>Volunteers</b> will guide visitors at the festival.",
+   "exKo": "자원봉사자들이 축제에서 방문객을 안내할 것입니다."
   },
   {
    "w": "warning",
@@ -1712,7 +1814,9 @@
      "k": "숙어",
      "m": "경고 표지판"
     }
-   ]
+   ],
+   "ex": "The system sends a <b>warning</b> when stock runs low.",
+   "exKo": "재고가 부족하면 시스템이 경고를 보냅니다."
   },
   {
    "w": "weigh",
@@ -1730,7 +1834,9 @@
      "k": "숙어",
      "m": "선택지를 저울질하다"
     }
-   ]
+   ],
+   "ex": "The package <b>weighs</b> just under five kilograms.",
+   "exKo": "그 소포는 무게가 5킬로그램이 채 안 됩니다."
   },
   {
    "w": "willing",
@@ -1748,7 +1854,9 @@
      "k": "파생",
      "m": "의향"
     }
-   ]
+   ],
+   "ex": "She is <b>willing</b> to work weekend shifts.",
+   "exKo": "그녀는 주말 근무를 기꺼이 하려고 합니다."
   },
   {
    "w": "withdraw",
@@ -1766,7 +1874,9 @@
      "k": "숙어",
      "m": "현금을 인출하다"
     }
-   ]
+   ],
+   "ex": "You can <b>withdraw</b> cash at any branch ATM.",
+   "exKo": "어느 지점 ATM에서든 현금을 인출할 수 있습니다."
   },
   {
    "w": "worth",
@@ -1784,7 +1894,9 @@
      "k": "숙어",
      "m": "~할 가치가 있다"
     }
-   ]
+   ],
+   "ex": "The museum tour is well <b>worth</b> the ticket price.",
+   "exKo": "그 박물관 투어는 입장료가 아깝지 않은 가치가 있습니다."
   },
   {
    "w": "acclaimed",
@@ -1797,7 +1909,9 @@
      "k": "숙어",
      "m": "평단의 호평을 받은"
     }
-   ]
+   ],
+   "ex": "The <b>acclaimed</b> chef opened a second restaurant.",
+   "exKo": "호평받는 그 요리사가 두 번째 식당을 열었습니다."
   },
   {
    "w": "accommodate",
@@ -1810,7 +1924,9 @@
      "k": "숙어",
      "m": "요청을 수용하다"
     }
-   ]
+   ],
+   "ex": "The hall can <b>accommodate</b> up to five hundred guests.",
+   "exKo": "그 홀은 최대 500명의 손님을 수용할 수 있습니다."
   },
   {
    "w": "accordingly",
@@ -1828,7 +1944,9 @@
      "k": "숙어",
      "m": "~에 따라"
     }
-   ]
+   ],
+   "ex": "Prices rose, and we adjusted our budget <b>accordingly</b>.",
+   "exKo": "가격이 올라 그에 따라 예산을 조정했습니다."
   },
   {
    "w": "advisory",
@@ -1846,7 +1964,9 @@
      "k": "파생",
      "m": "고문"
     }
-   ]
+   ],
+   "ex": "She serves on the company's <b>advisory</b> board.",
+   "exKo": "그녀는 회사 자문 위원회에서 활동하고 있습니다."
   },
   {
    "w": "attendance",
@@ -1859,7 +1979,9 @@
      "k": "숙어",
      "m": "출근 기록"
     }
-   ]
+   ],
+   "ex": "<b>Attendance</b> at the seminar exceeded expectations.",
+   "exKo": "세미나 참석자 수가 예상을 넘었습니다."
   },
   {
    "w": "banquet",
@@ -1877,7 +1999,9 @@
      "k": "숙어",
      "m": "시상 연회"
     }
-   ]
+   ],
+   "ex": "The awards <b>banquet</b> will be held in the grand hall.",
+   "exKo": "시상 연회는 대연회장에서 열립니다."
   },
   {
    "w": "briefing",
@@ -1890,7 +2014,9 @@
      "k": "숙어",
      "m": "언론 브리핑"
     }
-   ]
+   ],
+   "ex": "The morning <b>briefing</b> covers today's deliveries.",
+   "exKo": "아침 브리핑에서 오늘의 배송 건을 다룹니다."
   }
  ]
 }
