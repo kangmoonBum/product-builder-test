@@ -1,1595 +1,1803 @@
 {
-"words": [
-{
-"w": "earnest",
-"p": "형용사",
-"m": "진지한, 성실한",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "in earnest",
-"k": "숙어",
-"m": "본격적으로"
-}
-]
-},
-{
-"w": "economical",
-"p": "형용사",
-"m": "경제적인, 알뜰한",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "economy",
-"k": "파생",
-"m": "경제"
-},
-{
-"w": "economic",
-"k": "파생",
-"m": "경제의"
-},
-{
-"w": "economist",
-"k": "파생",
-"m": "경제학자"
-}
-]
-},
-{
-"w": "effectively",
-"p": "부사",
-"m": "효과적으로",
-"cat": "마케팅",
-"rel": [
-{
-"w": "effectiveness",
-"k": "파생",
-"m": "효과, 유효성"
-}
-]
-},
-{
-"w": "efficiency",
-"p": "명사",
-"m": "효율(성)",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "efficiently",
-"k": "파생",
-"m": "효율적으로"
-},
-{
-"w": "inefficient",
-"k": "반의",
-"m": "비효율적인"
-}
-]
-},
-{
-"w": "elaborate",
-"p": "형용사",
-"m": "정교한, 공들인",
-"cat": "마케팅",
-"rel": [
-{
-"w": "elaborate on",
-"k": "숙어",
-"m": "~을 자세히 설명하다"
-}
-]
-},
-{
-"w": "eligible",
-"p": "형용사",
-"m": "자격이 있는",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "be eligible for",
-"k": "숙어",
-"m": "~의 자격이 있다"
-},
-{
-"w": "eligibility",
-"k": "파생",
-"m": "자격"
-}
-]
-},
-{
-"w": "eliminate",
-"p": "동사",
-"m": "제거하다, 없애다",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "elimination",
-"k": "파생",
-"m": "제거"
-}
-]
-},
-{
-"w": "embrace",
-"p": "동사",
-"m": "받아들이다, 포용하다",
-"cat": "회의",
-"rel": [
-{
-"w": "embrace change",
-"k": "숙어",
-"m": "변화를 받아들이다"
-}
-]
-},
-{
-"w": "emerge",
-"p": "동사",
-"m": "부상하다, 나타나다",
-"cat": "마케팅",
-"rel": [
-{
-"w": "emerging market",
-"k": "숙어",
-"m": "신흥 시장"
-}
-]
-},
-{
-"w": "emphasis",
-"p": "명사",
-"m": "강조",
-"cat": "회의",
-"rel": [
-{
-"w": "emphasize",
-"k": "파생",
-"m": "강조하다"
-},
-{
-"w": "put emphasis on",
-"k": "숙어",
-"m": "~을 강조하다"
-}
-]
-},
-{
-"w": "enable",
-"p": "동사",
-"m": "가능하게 하다",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "enable A to do",
-"k": "숙어",
-"m": "A가 ~할 수 있게 하다"
-}
-]
-},
-{
-"w": "enclose",
-"p": "동사",
-"m": "동봉하다",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "enclosed",
-"k": "파생",
-"m": "동봉된"
-},
-{
-"w": "enclosure",
-"k": "파생",
-"m": "동봉물"
-}
-]
-},
-{
-"w": "encounter",
-"p": "동사",
-"m": "맞닥뜨리다",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "encounter a problem",
-"k": "숙어",
-"m": "문제에 부딪히다"
-}
-]
-},
-{
-"w": "endeavor",
-"p": "명사",
-"m": "노력, 시도",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "effort",
-"k": "동의",
-"m": "노력"
-}
-]
-},
-{
-"w": "enforce",
-"p": "동사",
-"m": "시행하다, 집행하다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "enforcement",
-"k": "파생",
-"m": "집행"
-}
-]
-},
-{
-"w": "engage",
-"p": "동사",
-"m": "참여시키다, 종사하다",
-"cat": "마케팅",
-"rel": [
-{
-"w": "be engaged in",
-"k": "숙어",
-"m": "~에 종사하다"
-},
-{
-"w": "engagement",
-"k": "파생",
-"m": "참여, 약속"
-}
-]
-},
-{
-"w": "enhancement",
-"p": "명사",
-"m": "향상, 개선",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "enhance",
-"k": "파생",
-"m": "향상시키다"
-}
-]
-},
-{
-"w": "enroll",
-"p": "동사",
-"m": "등록하다",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "enrollment",
-"k": "파생",
-"m": "등록(자 수)"
-},
-{
-"w": "enroll in",
-"k": "숙어",
-"m": "~에 등록하다"
-}
-]
-},
-{
-"w": "ensure",
-"p": "동사",
-"m": "보장하다, 확실히 하다",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "ensure that",
-"k": "숙어",
-"m": "반드시 ~하도록 하다"
-}
-]
-},
-{
-"w": "enterprise",
-"p": "명사",
-"m": "기업, 사업",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "entrepreneur",
-"k": "파생",
-"m": "기업가"
-}
-]
-},
-{
-"w": "enthusiasm",
-"p": "명사",
-"m": "열정",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "enthusiastic",
-"k": "파생",
-"m": "열정적인"
-},
-{
-"w": "enthusiastically",
-"k": "파생",
-"m": "열정적으로"
-}
-]
-},
-{
-"w": "entire",
-"p": "형용사",
-"m": "전체의",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "entirely",
-"k": "파생",
-"m": "완전히"
-},
-{
-"w": "whole",
-"k": "동의",
-"m": "전체의"
-}
-]
-},
-{
-"w": "entitle",
-"p": "동사",
-"m": "자격을 주다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "be entitled to",
-"k": "숙어",
-"m": "~할 자격이 있다"
-}
-]
-},
-{
-"w": "entry",
-"p": "명사",
-"m": "출품작, 입장, 입력",
-"cat": "마케팅",
-"rel": [
-{
-"w": "entry form",
-"k": "숙어",
-"m": "참가 신청서"
-},
-{
-"w": "no entry",
-"k": "숙어",
-"m": "출입 금지"
-}
-]
-},
-{
-"w": "environment",
-"p": "명사",
-"m": "환경",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "environmental",
-"k": "파생",
-"m": "환경의"
-},
-{
-"w": "environmentally friendly",
-"k": "숙어",
-"m": "친환경적인"
-}
-]
-},
-{
-"w": "equip",
-"p": "동사",
-"m": "장비를 갖추다",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "be equipped with",
-"k": "숙어",
-"m": "~을 갖추고 있다"
-}
-]
-},
-{
-"w": "equivalent",
-"p": "형용사",
-"m": "동등한, 상응하는",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "be equivalent to",
-"k": "숙어",
-"m": "~에 상당하다"
-}
-]
-},
-{
-"w": "essential",
-"p": "형용사",
-"m": "필수적인",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "essentially",
-"k": "파생",
-"m": "본질적으로"
-},
-{
-"w": "necessity",
-"k": "동의",
-"m": "필수품"
-}
-]
-},
-{
-"w": "establish",
-"p": "동사",
-"m": "설립하다, 확립하다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "established",
-"k": "파생",
-"m": "자리 잡은, 인정받는"
-},
-{
-"w": "establishment",
-"k": "파생",
-"m": "설립, 시설"
-}
-]
-},
-{
-"w": "eventually",
-"p": "부사",
-"m": "결국",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "eventual",
-"k": "파생",
-"m": "최종적인"
-},
-{
-"w": "in the end",
-"k": "동의",
-"m": "결국"
-}
-]
-},
-{
-"w": "evidence",
-"p": "명사",
-"m": "증거",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "evident",
-"k": "파생",
-"m": "분명한"
-},
-{
-"w": "evidently",
-"k": "파생",
-"m": "분명히"
-}
-]
-},
-{
-"w": "exceed",
-"p": "동사",
-"m": "초과하다, 넘다",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "exceed expectations",
-"k": "숙어",
-"m": "기대를 뛰어넘다"
-},
-{
-"w": "excess",
-"k": "파생",
-"m": "초과(량)"
-},
-{
-"w": "excessive",
-"k": "파생",
-"m": "과도한"
-}
-]
-},
-{
-"w": "exclusive",
-"p": "형용사",
-"m": "독점적인, 전용의",
-"cat": "마케팅",
-"rel": [
-{
-"w": "exclusively",
-"k": "파생",
-"m": "독점적으로, 오로지"
-},
-{
-"w": "exclusive offer",
-"k": "숙어",
-"m": "단독 특가"
-}
-]
-},
-{
-"w": "executive",
-"p": "명사",
-"m": "임원, 경영진",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "executive board",
-"k": "숙어",
-"m": "이사회"
-},
-{
-"w": "execute",
-"k": "파생",
-"m": "실행하다"
-}
-]
-},
-{
-"w": "expand",
-"p": "동사",
-"m": "확장하다",
-"cat": "마케팅",
-"rel": [
-{
-"w": "expansion",
-"k": "파생",
-"m": "확장"
-},
-{
-"w": "expand into",
-"k": "숙어",
-"m": "~로 진출하다"
-}
-]
-},
-{
-"w": "expenditure",
-"p": "명사",
-"m": "지출, 경비",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "spending",
-"k": "동의",
-"m": "지출"
-}
-]
-},
-{
-"w": "explore",
-"p": "동사",
-"m": "탐색하다, 검토하다",
-"cat": "회의",
-"rel": [
-{
-"w": "explore options",
-"k": "숙어",
-"m": "선택지를 검토하다"
-}
-]
-},
-{
-"w": "expose",
-"p": "동사",
-"m": "노출시키다",
-"cat": "마케팅",
-"rel": [
-{
-"w": "exposure",
-"k": "파생",
-"m": "노출"
-},
-{
-"w": "be exposed to",
-"k": "숙어",
-"m": "~에 노출되다"
-}
-]
-},
-{
-"w": "extend",
-"p": "동사",
-"m": "연장하다, (감사를) 표하다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "extended",
-"k": "파생",
-"m": "연장된"
-},
-{
-"w": "extend an invitation",
-"k": "숙어",
-"m": "초대하다"
-}
-]
-},
-{
-"w": "extensive",
-"p": "형용사",
-"m": "광범위한, 폭넓은",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "extensively",
-"k": "파생",
-"m": "광범위하게"
-},
-{
-"w": "extensive experience",
-"k": "숙어",
-"m": "풍부한 경력"
-}
-]
-},
-{
-"w": "extremely",
-"p": "부사",
-"m": "극도로, 매우",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "extreme",
-"k": "파생",
-"m": "극단적인"
-}
-]
-},
-{
-"w": "facilitate",
-"p": "동사",
-"m": "용이하게 하다, 진행하다",
-"cat": "회의",
-"rel": [
-{
-"w": "facilitator",
-"k": "파생",
-"m": "진행자"
-}
-]
-},
-{
-"w": "factor",
-"p": "명사",
-"m": "요인",
-"cat": "마케팅",
-"rel": [
-{
-"w": "key factor",
-"k": "숙어",
-"m": "핵심 요인"
-}
-]
-},
-{
-"w": "failure",
-"p": "명사",
-"m": "실패, 고장",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "fail",
-"k": "파생",
-"m": "실패하다"
-},
-{
-"w": "fail to do",
-"k": "숙어",
-"m": "~하지 못하다"
-},
-{
-"w": "power failure",
-"k": "숙어",
-"m": "정전"
-}
-]
-},
-{
-"w": "familiarize",
-"p": "동사",
-"m": "익숙하게 하다",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "familiarize oneself with",
-"k": "숙어",
-"m": "~을 숙지하다"
-}
-]
-},
-{
-"w": "feasibility",
-"p": "명사",
-"m": "실현 가능성",
-"cat": "회의",
-"rel": [
-{
-"w": "feasibility study",
-"k": "숙어",
-"m": "타당성 조사"
-}
-]
-},
-{
-"w": "feature",
-"p": "동사",
-"m": "특징으로 하다, 특집으로 다루다",
-"cat": "마케팅",
-"rel": [
-{
-"w": "featured",
-"k": "파생",
-"m": "특집의, 주요한"
-},
-{
-"w": "be featured in",
-"k": "숙어",
-"m": "~에 특집으로 실리다"
-}
-]
-},
-{
-"w": "fill an order",
-"p": "숙어",
-"m": "주문을 처리하다",
-"cat": "배송·주문",
-"rel": [
-{
-"w": "process an order",
-"k": "동의",
-"m": "주문을 처리하다"
-}
-]
-},
-{
-"w": "finalist",
-"p": "명사",
-"m": "최종 후보",
-"cat": "채용·인사"
-},
-{
-"w": "firmly",
-"p": "부사",
-"m": "단호히, 굳게",
-"cat": "시설·사무"
-},
-{
-"w": "fiscal",
-"p": "형용사",
-"m": "회계의, 재정의",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "fiscal year",
-"k": "숙어",
-"m": "회계 연도"
-}
-]
-},
-{
-"w": "fleet",
-"p": "명사",
-"m": "(차량·선박) 무리, 보유 차량",
-"cat": "배송·주문",
-"rel": [
-{
-"w": "delivery fleet",
-"k": "숙어",
-"m": "배송 차량단"
-}
-]
-},
-{
-"w": "fluent",
-"p": "형용사",
-"m": "유창한",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "fluently",
-"k": "파생",
-"m": "유창하게"
-},
-{
-"w": "fluency",
-"k": "파생",
-"m": "유창성"
-}
-]
-},
-{
-"w": "forbid",
-"p": "동사",
-"m": "금지하다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "forbidden",
-"k": "파생",
-"m": "금지된"
-}
-]
-},
-{
-"w": "forge",
-"p": "동사",
-"m": "구축하다, 위조하다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "forge a partnership",
-"k": "숙어",
-"m": "제휴를 맺다"
-}
-]
-},
-{
-"w": "formal",
-"p": "형용사",
-"m": "공식적인, 격식 있는",
-"cat": "회의",
-"rel": [
-{
-"w": "formally",
-"k": "파생",
-"m": "공식적으로"
-},
-{
-"w": "informal",
-"k": "반의",
-"m": "비공식의"
-}
-]
-},
-{
-"w": "format",
-"p": "명사",
-"m": "형식, 양식",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "in PDF format",
-"k": "숙어",
-"m": "PDF 형식으로"
-}
-]
-},
-{
-"w": "former",
-"p": "형용사",
-"m": "이전의, 전자의",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "formerly",
-"k": "파생",
-"m": "이전에"
-},
-{
-"w": "the former",
-"k": "숙어",
-"m": "전자"
-}
-]
-},
-{
-"w": "foster",
-"p": "동사",
-"m": "촉진하다, 기르다",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "foster teamwork",
-"k": "숙어",
-"m": "팀워크를 기르다"
-}
-]
-},
-{
-"w": "found",
-"p": "동사",
-"m": "설립하다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "founder",
-"k": "파생",
-"m": "설립자"
-},
-{
-"w": "foundation",
-"k": "파생",
-"m": "재단, 기반"
-}
-]
-},
-{
-"w": "fragile",
-"p": "형용사",
-"m": "깨지기 쉬운",
-"cat": "배송·주문",
-"rel": [
-{
-"w": "handle with care",
-"k": "숙어",
-"m": "취급 주의"
-}
-]
-},
-{
-"w": "franchise",
-"p": "명사",
-"m": "가맹점, 프랜차이즈",
-"cat": "마케팅",
-"rel": [
-{
-"w": "franchisee",
-"k": "파생",
-"m": "가맹점주"
-}
-]
-},
-{
-"w": "freight",
-"p": "명사",
-"m": "화물, 운송(료)",
-"cat": "배송·주문",
-"rel": [
-{
-"w": "freight charges",
-"k": "숙어",
-"m": "운송료"
-},
-{
-"w": "cargo",
-"k": "동의",
-"m": "화물"
-}
-]
-},
-{
-"w": "fulfill",
-"p": "동사",
-"m": "이행하다, 충족시키다",
-"cat": "배송·주문",
-"rel": [
-{
-"w": "fulfillment",
-"k": "파생",
-"m": "이행, 주문 처리"
-},
-{
-"w": "fulfill a requirement",
-"k": "숙어",
-"m": "요건을 충족하다"
-}
-]
-},
-{
-"w": "fund-raising",
-"p": "명사",
-"m": "모금 (활동)",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "fund-raiser",
-"k": "파생",
-"m": "모금 행사"
-}
-]
-},
-{
-"w": "furthermore",
-"p": "부사",
-"m": "게다가, 더욱이",
-"cat": "회의",
-"rel": [
-{
-"w": "moreover",
-"k": "동의",
-"m": "게다가"
-},
-{
-"w": "in addition",
-"k": "동의",
-"m": "게다가"
-}
-]
-},
-{
-"w": "generate",
-"p": "동사",
-"m": "창출하다, 발생시키다",
-"cat": "마케팅",
-"rel": [
-{
-"w": "generate revenue",
-"k": "숙어",
-"m": "수익을 창출하다"
-}
-]
-},
-{
-"w": "generous",
-"p": "형용사",
-"m": "후한, 관대한",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "generously",
-"k": "파생",
-"m": "후하게"
-},
-{
-"w": "generosity",
-"k": "파생",
-"m": "관대함"
-}
-]
-},
-{
-"w": "genuine",
-"p": "형용사",
-"m": "진짜의, 진심의",
-"cat": "마케팅",
-"rel": [
-{
-"w": "genuinely",
-"k": "파생",
-"m": "진심으로"
-},
-{
-"w": "authentic",
-"k": "동의",
-"m": "진품의"
-}
-]
-},
-{
-"w": "grateful",
-"p": "형용사",
-"m": "감사하는",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "gratitude",
-"k": "파생",
-"m": "감사"
-},
-{
-"w": "be grateful for",
-"k": "숙어",
-"m": "~에 감사하다"
-}
-]
-},
-{
-"w": "guideline",
-"p": "명사",
-"m": "지침",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "follow guidelines",
-"k": "숙어",
-"m": "지침을 따르다"
-}
-]
-},
-{
-"w": "halt",
-"p": "동사",
-"m": "중단시키다",
-"cat": "배송·주문",
-"rel": [
-{
-"w": "come to a halt",
-"k": "숙어",
-"m": "멈추다"
-}
-]
-},
-{
-"w": "headquarters",
-"p": "명사",
-"m": "본사",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "head office",
-"k": "동의",
-"m": "본사"
-},
-{
-"w": "be headquartered in",
-"k": "숙어",
-"m": "~에 본사를 두다"
-}
-]
-},
-{
-"w": "hesitate",
-"p": "동사",
-"m": "망설이다",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "do not hesitate to",
-"k": "숙어",
-"m": "주저하지 말고 ~하세요"
-},
-{
-"w": "hesitant",
-"k": "파생",
-"m": "주저하는"
-}
-]
-},
-{
-"w": "highlight",
-"p": "동사",
-"m": "강조하다",
-"cat": "마케팅",
-"rel": [
-{
-"w": "highlights",
-"k": "파생",
-"m": "하이라이트, 주요 부분"
-}
-]
-},
-{
-"w": "highly",
-"p": "부사",
-"m": "매우, 높이",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "highly recommended",
-"k": "숙어",
-"m": "강력 추천되는"
-},
-{
-"w": "highly qualified",
-"k": "숙어",
-"m": "충분한 자격을 갖춘"
-}
-]
-},
-{
-"w": "hospitality",
-"p": "명사",
-"m": "환대, 접객 (산업)",
-"cat": "출장·여행",
-"rel": [
-{
-"w": "hospitality industry",
-"k": "숙어",
-"m": "서비스 접객업"
-}
-]
-},
-{
-"w": "household",
-"p": "명사",
-"m": "가정, 가구",
-"cat": "마케팅",
-"rel": [
-{
-"w": "household items",
-"k": "숙어",
-"m": "생활용품"
-}
-]
-},
-{
-"w": "identify",
-"p": "동사",
-"m": "찾아내다, 확인하다",
-"cat": "회의",
-"rel": [
-{
-"w": "identification",
-"k": "파생",
-"m": "신분 증명(서)"
-},
-{
-"w": "identity",
-"k": "파생",
-"m": "신원"
-}
-]
-},
-{
-"w": "illustrate",
-"p": "동사",
-"m": "설명하다, 삽화를 넣다",
-"cat": "회의",
-"rel": [
-{
-"w": "illustration",
-"k": "파생",
-"m": "삽화, 예시"
-}
-]
-},
-{
-"w": "implement",
-"p": "동사",
-"m": "시행하다, 실행하다",
-"cat": "회의",
-"rel": [
-{
-"w": "implementation",
-"k": "파생",
-"m": "시행"
-}
-]
-},
-{
-"w": "imply",
-"p": "동사",
-"m": "암시하다",
-"cat": "회의",
-"rel": [
-{
-"w": "implication",
-"k": "파생",
-"m": "함의, 영향"
-}
-]
-},
-{
-"w": "impose",
-"p": "동사",
-"m": "부과하다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "impose a fine",
-"k": "숙어",
-"m": "벌금을 부과하다"
-}
-]
-},
-{
-"w": "incur",
-"p": "동사",
-"m": "(비용을) 발생시키다, 물게 되다",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "incur costs",
-"k": "숙어",
-"m": "비용이 발생하다"
-}
-]
-},
-{
-"w": "indicate",
-"p": "동사",
-"m": "나타내다, 표시하다",
-"cat": "회의",
-"rel": [
-{
-"w": "indication",
-"k": "파생",
-"m": "징후"
-},
-{
-"w": "indicator",
-"k": "파생",
-"m": "지표"
-}
-]
-},
-{
-"w": "individual",
-"p": "명사",
-"m": "개인",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "individually",
-"k": "파생",
-"m": "개별적으로"
-},
-{
-"w": "individual needs",
-"k": "숙어",
-"m": "개별 요구"
-}
-]
-},
-{
-"w": "influence",
-"p": "명사",
-"m": "영향(력)",
-"cat": "마케팅",
-"rel": [
-{
-"w": "influential",
-"k": "파생",
-"m": "영향력 있는"
-},
-{
-"w": "have influence on",
-"k": "숙어",
-"m": "~에 영향을 주다"
-}
-]
-},
-{
-"w": "ingredient",
-"p": "명사",
-"m": "재료, 성분",
-"cat": "배송·주문",
-"rel": [
-{
-"w": "fresh ingredients",
-"k": "숙어",
-"m": "신선한 재료"
-}
-]
-},
-{
-"w": "initial",
-"p": "형용사",
-"m": "초기의, 처음의",
-"cat": "회의",
-"rel": [
-{
-"w": "initially",
-"k": "파생",
-"m": "처음에"
-}
-]
-},
-{
-"w": "initiative",
-"p": "명사",
-"m": "계획, 주도(권)",
-"cat": "회의",
-"rel": [
-{
-"w": "take the initiative",
-"k": "숙어",
-"m": "주도적으로 나서다"
-}
-]
-},
-{
-"w": "innovative",
-"p": "형용사",
-"m": "혁신적인",
-"cat": "마케팅",
-"rel": [
-{
-"w": "innovation",
-"k": "파생",
-"m": "혁신"
-},
-{
-"w": "innovate",
-"k": "파생",
-"m": "혁신하다"
-}
-]
-},
-{
-"w": "inquire",
-"p": "동사",
-"m": "문의하다",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "inquiry",
-"k": "파생",
-"m": "문의"
-},
-{
-"w": "inquire about",
-"k": "숙어",
-"m": "~에 대해 문의하다"
-}
-]
-},
-{
-"w": "insert",
-"p": "동사",
-"m": "삽입하다, 넣다",
-"cat": "시설·사무"
-},
-{
-"w": "insight",
-"p": "명사",
-"m": "통찰(력)",
-"cat": "마케팅",
-"rel": [
-{
-"w": "insightful",
-"k": "파생",
-"m": "통찰력 있는"
-}
-]
-},
-{
-"w": "insist",
-"p": "동사",
-"m": "주장하다, 고집하다",
-"cat": "회의",
-"rel": [
-{
-"w": "insist on",
-"k": "숙어",
-"m": "~을 고집하다"
-}
-]
-},
-{
-"w": "instance",
-"p": "명사",
-"m": "사례, 경우",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "for instance",
-"k": "숙어",
-"m": "예를 들어"
-}
-]
-},
-{
-"w": "institute",
-"p": "명사",
-"m": "연구소, 기관",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "institution",
-"k": "파생",
-"m": "기관"
-}
-]
-},
-{
-"w": "intend",
-"p": "동사",
-"m": "의도하다, ~할 작정이다",
-"cat": "회의",
-"rel": [
-{
-"w": "intended",
-"k": "파생",
-"m": "의도된, 대상인"
-},
-{
-"w": "intention",
-"k": "파생",
-"m": "의도"
-}
-]
-},
-{
-"w": "intense",
-"p": "형용사",
-"m": "극심한, 치열한",
-"cat": "마케팅",
-"rel": [
-{
-"w": "intensive",
-"k": "파생",
-"m": "집중적인"
-},
-{
-"w": "intense competition",
-"k": "숙어",
-"m": "치열한 경쟁"
-}
-]
-},
-{
-"w": "interact",
-"p": "동사",
-"m": "소통하다, 상호 작용하다",
-"cat": "마케팅",
-"rel": [
-{
-"w": "interaction",
-"k": "파생",
-"m": "상호 작용"
-},
-{
-"w": "interactive",
-"k": "파생",
-"m": "쌍방향의"
-}
-]
-},
-{
-"w": "interrupt",
-"p": "동사",
-"m": "방해하다, 중단시키다",
-"cat": "회의",
-"rel": [
-{
-"w": "interruption",
-"k": "파생",
-"m": "중단"
-},
-{
-"w": "without interruption",
-"k": "숙어",
-"m": "중단 없이"
-}
-]
-},
-{
-"w": "invaluable",
-"p": "형용사",
-"m": "매우 귀중한",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "priceless",
-"k": "동의",
-"m": "값을 매길 수 없는"
-}
-]
-},
-{
-"w": "investigate",
-"p": "동사",
-"m": "조사하다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "investigation",
-"k": "파생",
-"m": "조사"
-},
-{
-"w": "investigator",
-"k": "파생",
-"m": "조사관"
-}
-]
-},
-{
-"w": "issue",
-"p": "동사",
-"m": "발급하다, 발행하다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "issue a refund",
-"k": "숙어",
-"m": "환불을 해 주다"
-},
-{
-"w": "issue a statement",
-"k": "숙어",
-"m": "성명을 발표하다"
-}
-]
-}
-]
+ "words": [
+  {
+   "w": "earnest",
+   "p": "형용사",
+   "m": "진지한, 성실한",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "in earnest",
+     "k": "숙어",
+     "m": "본격적으로"
+    }
+   ],
+   "ex": "She made an <b>earnest</b> effort to meet every client.",
+   "exKo": "그녀는 모든 고객을 만나려고 진지하게 노력했습니다."
+  },
+  {
+   "w": "economical",
+   "p": "형용사",
+   "m": "경제적인, 알뜰한",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "economy",
+     "k": "파생",
+     "m": "경제"
+    },
+    {
+     "w": "economic",
+     "k": "파생",
+     "m": "경제의"
+    },
+    {
+     "w": "economist",
+     "k": "파생",
+     "m": "경제학자"
+    }
+   ],
+   "ex": "The compact car is an <b>economical</b> choice for the fleet.",
+   "exKo": "소형차는 법인 차량으로 경제적인 선택입니다."
+  },
+  {
+   "w": "effectively",
+   "p": "부사",
+   "m": "효과적으로",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "effectiveness",
+     "k": "파생",
+     "m": "효과, 유효성"
+    }
+   ],
+   "ex": "The new system tracks inventory more <b>effectively</b>.",
+   "exKo": "새 시스템은 재고를 더 효과적으로 추적합니다."
+  },
+  {
+   "w": "efficiency",
+   "p": "명사",
+   "m": "효율(성)",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "efficiently",
+     "k": "파생",
+     "m": "효율적으로"
+    },
+    {
+     "w": "inefficient",
+     "k": "반의",
+     "m": "비효율적인"
+    }
+   ],
+   "ex": "The upgrade improved the plant's energy <b>efficiency</b>.",
+   "exKo": "업그레이드로 공장의 에너지 효율이 개선되었습니다."
+  },
+  {
+   "w": "elaborate",
+   "p": "형용사",
+   "m": "정교한, 공들인",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "elaborate on",
+     "k": "숙어",
+     "m": "~을 자세히 설명하다"
+    }
+   ],
+   "ex": "The hotel prepared an <b>elaborate</b> buffet for the gala.",
+   "exKo": "호텔은 갈라 행사를 위해 공들인 뷔페를 준비했습니다."
+  },
+  {
+   "w": "eligible",
+   "p": "형용사",
+   "m": "자격이 있는",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "be eligible for",
+     "k": "숙어",
+     "m": "~의 자격이 있다"
+    },
+    {
+     "w": "eligibility",
+     "k": "파생",
+     "m": "자격"
+    }
+   ],
+   "ex": "Full-time staff are <b>eligible</b> for the bonus program.",
+   "exKo": "정규직 직원은 보너스 프로그램 대상입니다."
+  },
+  {
+   "w": "eliminate",
+   "p": "동사",
+   "m": "제거하다, 없애다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "elimination",
+     "k": "파생",
+     "m": "제거"
+    }
+   ],
+   "ex": "The new process will <b>eliminate</b> duplicate paperwork.",
+   "exKo": "새 절차는 중복 서류 작업을 없애 줄 것입니다."
+  },
+  {
+   "w": "embrace",
+   "p": "동사",
+   "m": "받아들이다, 포용하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "embrace change",
+     "k": "숙어",
+     "m": "변화를 받아들이다"
+    }
+   ],
+   "ex": "The company <b>embraced</b> remote work early on.",
+   "exKo": "그 회사는 일찍부터 원격 근무를 받아들였습니다."
+  },
+  {
+   "w": "emerge",
+   "p": "동사",
+   "m": "부상하다, 나타나다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "emerging market",
+     "k": "숙어",
+     "m": "신흥 시장"
+    }
+   ],
+   "ex": "Several issues <b>emerged</b> during the system test.",
+   "exKo": "시스템 테스트 중에 여러 문제가 드러났습니다."
+  },
+  {
+   "w": "emphasis",
+   "p": "명사",
+   "m": "강조",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "emphasize",
+     "k": "파생",
+     "m": "강조하다"
+    },
+    {
+     "w": "put emphasis on",
+     "k": "숙어",
+     "m": "~을 강조하다"
+    }
+   ],
+   "ex": "The training puts <b>emphasis</b> on customer service.",
+   "exKo": "그 교육은 고객 서비스에 중점을 둡니다."
+  },
+  {
+   "w": "enable",
+   "p": "동사",
+   "m": "가능하게 하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "enable A to do",
+     "k": "숙어",
+     "m": "A가 ~할 수 있게 하다"
+    }
+   ],
+   "ex": "The app <b>enables</b> customers to track their orders.",
+   "exKo": "그 앱은 고객이 주문을 추적할 수 있게 해 줍니다."
+  },
+  {
+   "w": "enclose",
+   "p": "동사",
+   "m": "동봉하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "enclosed",
+     "k": "파생",
+     "m": "동봉된"
+    },
+    {
+     "w": "enclosure",
+     "k": "파생",
+     "m": "동봉물"
+    }
+   ],
+   "ex": "I <b>enclose</b> a copy of the receipt with this letter.",
+   "exKo": "이 편지에 영수증 사본을 동봉합니다."
+  },
+  {
+   "w": "encounter",
+   "p": "동사",
+   "m": "맞닥뜨리다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "encounter a problem",
+     "k": "숙어",
+     "m": "문제에 부딪히다"
+    }
+   ],
+   "ex": "You may <b>encounter</b> delays during the system upgrade.",
+   "exKo": "시스템 업그레이드 중에 지연이 발생할 수 있습니다."
+  },
+  {
+   "w": "endeavor",
+   "p": "명사",
+   "m": "노력, 시도",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "effort",
+     "k": "동의",
+     "m": "노력"
+    }
+   ],
+   "ex": "We wish you success in your new business <b>endeavor</b>.",
+   "exKo": "새로운 사업 시도에서의 성공을 기원합니다."
+  },
+  {
+   "w": "enforce",
+   "p": "동사",
+   "m": "시행하다, 집행하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "enforcement",
+     "k": "파생",
+     "m": "집행"
+    }
+   ],
+   "ex": "Security will strictly <b>enforce</b> the badge policy.",
+   "exKo": "보안팀은 출입증 규정을 엄격히 시행할 것입니다."
+  },
+  {
+   "w": "engage",
+   "p": "동사",
+   "m": "참여시키다, 종사하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "be engaged in",
+     "k": "숙어",
+     "m": "~에 종사하다"
+    },
+    {
+     "w": "engagement",
+     "k": "파생",
+     "m": "참여, 약속"
+    }
+   ],
+   "ex": "The campaign aims to <b>engage</b> younger audiences.",
+   "exKo": "그 캠페인은 젊은 층의 참여를 이끌어내는 것이 목표입니다."
+  },
+  {
+   "w": "enhancement",
+   "p": "명사",
+   "m": "향상, 개선",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "enhance",
+     "k": "파생",
+     "m": "향상시키다"
+    }
+   ],
+   "ex": "The update includes several security <b>enhancements</b>.",
+   "exKo": "이번 업데이트에는 여러 보안 개선 사항이 포함됩니다."
+  },
+  {
+   "w": "enroll",
+   "p": "동사",
+   "m": "등록하다",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "enrollment",
+     "k": "파생",
+     "m": "등록(자 수)"
+    },
+    {
+     "w": "enroll in",
+     "k": "숙어",
+     "m": "~에 등록하다"
+    }
+   ],
+   "ex": "Employees can <b>enroll</b> in the course until Friday.",
+   "exKo": "직원들은 금요일까지 그 과정에 등록할 수 있습니다."
+  },
+  {
+   "w": "ensure",
+   "p": "동사",
+   "m": "보장하다, 확실히 하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "ensure that",
+     "k": "숙어",
+     "m": "반드시 ~하도록 하다"
+    }
+   ],
+   "ex": "Please <b>ensure</b> all windows are locked before leaving.",
+   "exKo": "퇴근 전에 모든 창문이 잠겼는지 확실히 해 주세요."
+  },
+  {
+   "w": "enterprise",
+   "p": "명사",
+   "m": "기업, 사업",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "entrepreneur",
+     "k": "파생",
+     "m": "기업가"
+    }
+   ],
+   "ex": "The bank offers loans for small <b>enterprises</b>.",
+   "exKo": "그 은행은 소기업 대상 대출을 제공합니다."
+  },
+  {
+   "w": "enthusiasm",
+   "p": "명사",
+   "m": "열정",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "enthusiastic",
+     "k": "파생",
+     "m": "열정적인"
+    },
+    {
+     "w": "enthusiastically",
+     "k": "파생",
+     "m": "열정적으로"
+    }
+   ],
+   "ex": "The interns showed great <b>enthusiasm</b> for the project.",
+   "exKo": "인턴들은 프로젝트에 대단한 열정을 보였습니다."
+  },
+  {
+   "w": "entire",
+   "p": "형용사",
+   "m": "전체의",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "entirely",
+     "k": "파생",
+     "m": "완전히"
+    },
+    {
+     "w": "whole",
+     "k": "동의",
+     "m": "전체의"
+    }
+   ],
+   "ex": "The <b>entire</b> building will be repainted in May.",
+   "exKo": "건물 전체가 5월에 다시 도색될 예정입니다."
+  },
+  {
+   "w": "entitle",
+   "p": "동사",
+   "m": "자격을 주다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "be entitled to",
+     "k": "숙어",
+     "m": "~할 자격이 있다"
+    }
+   ],
+   "ex": "This coupon <b>entitles</b> you to a free dessert.",
+   "exKo": "이 쿠폰으로 무료 디저트를 받으실 수 있습니다."
+  },
+  {
+   "w": "entry",
+   "p": "명사",
+   "m": "출품작, 입장, 입력",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "entry form",
+     "k": "숙어",
+     "m": "참가 신청서"
+    },
+    {
+     "w": "no entry",
+     "k": "숙어",
+     "m": "출입 금지"
+    }
+   ],
+   "ex": "Contest <b>entries</b> must be submitted by March 1.",
+   "exKo": "공모전 출품작은 3월 1일까지 제출해야 합니다."
+  },
+  {
+   "w": "environment",
+   "p": "명사",
+   "m": "환경",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "environmental",
+     "k": "파생",
+     "m": "환경의"
+    },
+    {
+     "w": "environmentally friendly",
+     "k": "숙어",
+     "m": "친환경적인"
+    }
+   ],
+   "ex": "We aim to create a safe working <b>environment</b>.",
+   "exKo": "우리는 안전한 근무 환경을 만드는 것을 목표로 합니다."
+  },
+  {
+   "w": "equip",
+   "p": "동사",
+   "m": "장비를 갖추다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "be equipped with",
+     "k": "숙어",
+     "m": "~을 갖추고 있다"
+    }
+   ],
+   "ex": "Each meeting room is <b>equipped</b> with a projector.",
+   "exKo": "각 회의실에는 프로젝터가 갖춰져 있습니다."
+  },
+  {
+   "w": "equivalent",
+   "p": "형용사",
+   "m": "동등한, 상응하는",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "be equivalent to",
+     "k": "숙어",
+     "m": "~에 상당하다"
+    }
+   ],
+   "ex": "The bonus is <b>equivalent</b> to one month's salary.",
+   "exKo": "그 보너스는 한 달 치 급여에 상응합니다."
+  },
+  {
+   "w": "essential",
+   "p": "형용사",
+   "m": "필수적인",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "essentially",
+     "k": "파생",
+     "m": "본질적으로"
+    },
+    {
+     "w": "necessity",
+     "k": "동의",
+     "m": "필수품"
+    }
+   ],
+   "ex": "A valid passport is <b>essential</b> for international travel.",
+   "exKo": "해외여행에는 유효한 여권이 필수입니다."
+  },
+  {
+   "w": "establish",
+   "p": "동사",
+   "m": "설립하다, 확립하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "established",
+     "k": "파생",
+     "m": "자리 잡은, 인정받는"
+    },
+    {
+     "w": "establishment",
+     "k": "파생",
+     "m": "설립, 시설"
+    }
+   ],
+   "ex": "The firm was <b>established</b> over fifty years ago.",
+   "exKo": "그 회사는 50여 년 전에 설립되었습니다."
+  },
+  {
+   "w": "eventually",
+   "p": "부사",
+   "m": "결국",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "eventual",
+     "k": "파생",
+     "m": "최종적인"
+    },
+    {
+     "w": "in the end",
+     "k": "동의",
+     "m": "결국"
+    }
+   ],
+   "ex": "The printer issue was <b>eventually</b> resolved.",
+   "exKo": "프린터 문제는 결국 해결되었습니다."
+  },
+  {
+   "w": "evidence",
+   "p": "명사",
+   "m": "증거",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "evident",
+     "k": "파생",
+     "m": "분명한"
+    },
+    {
+     "w": "evidently",
+     "k": "파생",
+     "m": "분명히"
+    }
+   ],
+   "ex": "Keep the receipt as <b>evidence</b> of purchase.",
+   "exKo": "구매 증거로 영수증을 보관하세요."
+  },
+  {
+   "w": "exceed",
+   "p": "동사",
+   "m": "초과하다, 넘다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "exceed expectations",
+     "k": "숙어",
+     "m": "기대를 뛰어넘다"
+    },
+    {
+     "w": "excess",
+     "k": "파생",
+     "m": "초과(량)"
+    },
+    {
+     "w": "excessive",
+     "k": "파생",
+     "m": "과도한"
+    }
+   ],
+   "ex": "Sales <b>exceeded</b> our forecast by ten percent.",
+   "exKo": "매출이 예상치를 10퍼센트 초과했습니다."
+  },
+  {
+   "w": "exclusive",
+   "p": "형용사",
+   "m": "독점적인, 전용의",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "exclusively",
+     "k": "파생",
+     "m": "독점적으로, 오로지"
+    },
+    {
+     "w": "exclusive offer",
+     "k": "숙어",
+     "m": "단독 특가"
+    }
+   ],
+   "ex": "Members get <b>exclusive</b> access to the lounge.",
+   "exKo": "회원은 라운지를 독점적으로 이용할 수 있습니다."
+  },
+  {
+   "w": "executive",
+   "p": "명사",
+   "m": "임원, 경영진",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "executive board",
+     "k": "숙어",
+     "m": "이사회"
+    },
+    {
+     "w": "execute",
+     "k": "파생",
+     "m": "실행하다"
+    }
+   ],
+   "ex": "Several <b>executives</b> will attend the opening ceremony.",
+   "exKo": "여러 임원이 개막식에 참석할 예정입니다."
+  },
+  {
+   "w": "expand",
+   "p": "동사",
+   "m": "확장하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "expansion",
+     "k": "파생",
+     "m": "확장"
+    },
+    {
+     "w": "expand into",
+     "k": "숙어",
+     "m": "~로 진출하다"
+    }
+   ],
+   "ex": "The bakery plans to <b>expand</b> into the next unit.",
+   "exKo": "그 빵집은 옆 매장으로 확장할 계획입니다."
+  },
+  {
+   "w": "expenditure",
+   "p": "명사",
+   "m": "지출, 경비",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "spending",
+     "k": "동의",
+     "m": "지출"
+    }
+   ],
+   "ex": "The report lists all travel <b>expenditures</b> by month.",
+   "exKo": "보고서에는 월별 출장 지출이 모두 정리되어 있습니다."
+  },
+  {
+   "w": "explore",
+   "p": "동사",
+   "m": "탐색하다, 검토하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "explore options",
+     "k": "숙어",
+     "m": "선택지를 검토하다"
+    }
+   ],
+   "ex": "Let's <b>explore</b> other options before deciding.",
+   "exKo": "결정하기 전에 다른 선택지를 검토해 봅시다."
+  },
+  {
+   "w": "expose",
+   "p": "동사",
+   "m": "노출시키다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "exposure",
+     "k": "파생",
+     "m": "노출"
+    },
+    {
+     "w": "be exposed to",
+     "k": "숙어",
+     "m": "~에 노출되다"
+    }
+   ],
+   "ex": "Do not <b>expose</b> the device to direct sunlight.",
+   "exKo": "기기를 직사광선에 노출하지 마세요."
+  },
+  {
+   "w": "extend",
+   "p": "동사",
+   "m": "연장하다, (감사를) 표하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "extended",
+     "k": "파생",
+     "m": "연장된"
+    },
+    {
+     "w": "extend an invitation",
+     "k": "숙어",
+     "m": "초대하다"
+    }
+   ],
+   "ex": "We decided to <b>extend</b> the sale by one week.",
+   "exKo": "세일을 일주일 연장하기로 했습니다."
+  },
+  {
+   "w": "extensive",
+   "p": "형용사",
+   "m": "광범위한, 폭넓은",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "extensively",
+     "k": "파생",
+     "m": "광범위하게"
+    },
+    {
+     "w": "extensive experience",
+     "k": "숙어",
+     "m": "풍부한 경력"
+    }
+   ],
+   "ex": "She has <b>extensive</b> experience in event planning.",
+   "exKo": "그녀는 행사 기획에 폭넓은 경험이 있습니다."
+  },
+  {
+   "w": "extremely",
+   "p": "부사",
+   "m": "극도로, 매우",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "extreme",
+     "k": "파생",
+     "m": "극단적인"
+    }
+   ],
+   "ex": "The keynote speech was <b>extremely</b> well received.",
+   "exKo": "기조연설은 매우 좋은 반응을 얻었습니다."
+  },
+  {
+   "w": "facilitate",
+   "p": "동사",
+   "m": "용이하게 하다, 진행하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "facilitator",
+     "k": "파생",
+     "m": "진행자"
+    }
+   ],
+   "ex": "An interpreter will <b>facilitate</b> the discussion.",
+   "exKo": "통역사가 토론 진행을 도울 것입니다."
+  },
+  {
+   "w": "factor",
+   "p": "명사",
+   "m": "요인",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "key factor",
+     "k": "숙어",
+     "m": "핵심 요인"
+    }
+   ],
+   "ex": "Price is a major <b>factor</b> in customer decisions.",
+   "exKo": "가격은 고객 결정의 주요 요인입니다."
+  },
+  {
+   "w": "failure",
+   "p": "명사",
+   "m": "실패, 고장",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "fail",
+     "k": "파생",
+     "m": "실패하다"
+    },
+    {
+     "w": "fail to do",
+     "k": "숙어",
+     "m": "~하지 못하다"
+    },
+    {
+     "w": "power failure",
+     "k": "숙어",
+     "m": "정전"
+    }
+   ],
+   "ex": "A power <b>failure</b> stopped the assembly line.",
+   "exKo": "정전으로 조립 라인이 멈췄습니다."
+  },
+  {
+   "w": "familiarize",
+   "p": "동사",
+   "m": "익숙하게 하다",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "familiarize oneself with",
+     "k": "숙어",
+     "m": "~을 숙지하다"
+    }
+   ],
+   "ex": "Please <b>familiarize</b> yourself with the safety rules.",
+   "exKo": "안전 규칙을 숙지해 주시기 바랍니다."
+  },
+  {
+   "w": "feasibility",
+   "p": "명사",
+   "m": "실현 가능성",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "feasibility study",
+     "k": "숙어",
+     "m": "타당성 조사"
+    }
+   ],
+   "ex": "We are studying the <b>feasibility</b> of a night shift.",
+   "exKo": "야간 근무 도입의 실현 가능성을 검토하고 있습니다."
+  },
+  {
+   "w": "feature",
+   "p": "동사",
+   "m": "특징으로 하다, 특집으로 다루다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "featured",
+     "k": "파생",
+     "m": "특집의, 주요한"
+    },
+    {
+     "w": "be featured in",
+     "k": "숙어",
+     "m": "~에 특집으로 실리다"
+    }
+   ],
+   "ex": "The magazine will <b>feature</b> our CEO next month.",
+   "exKo": "그 잡지는 다음 달 우리 CEO를 특집으로 다룰 예정입니다."
+  },
+  {
+   "w": "fill an order",
+   "p": "숙어",
+   "m": "주문을 처리하다",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "process an order",
+     "k": "동의",
+     "m": "주문을 처리하다"
+    }
+   ],
+   "ex": "We can <b>fill an order</b> of any size within a week.",
+   "exKo": "어떤 규모의 주문이든 일주일 안에 처리할 수 있습니다."
+  },
+  {
+   "w": "finalist",
+   "p": "명사",
+   "m": "최종 후보",
+   "cat": "채용·인사",
+   "ex": "Five <b>finalists</b> were chosen from two hundred entries.",
+   "exKo": "200개 출품작 중 최종 후보 다섯이 선정되었습니다."
+  },
+  {
+   "w": "firmly",
+   "p": "부사",
+   "m": "단호히, 굳게",
+   "cat": "시설·사무",
+   "ex": "The lid must be <b>firmly</b> closed during transport.",
+   "exKo": "운송 중에는 뚜껑을 단단히 닫아야 합니다."
+  },
+  {
+   "w": "fiscal",
+   "p": "형용사",
+   "m": "회계의, 재정의",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "fiscal year",
+     "k": "숙어",
+     "m": "회계 연도"
+    }
+   ],
+   "ex": "The <b>fiscal</b> year ends on March 31.",
+   "exKo": "회계연도는 3월 31일에 끝납니다."
+  },
+  {
+   "w": "fleet",
+   "p": "명사",
+   "m": "(차량·선박) 무리, 보유 차량",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "delivery fleet",
+     "k": "숙어",
+     "m": "배송 차량단"
+    }
+   ],
+   "ex": "The delivery <b>fleet</b> now includes ten electric vans.",
+   "exKo": "배송 차량에는 이제 전기 밴 열 대가 포함됩니다."
+  },
+  {
+   "w": "fluent",
+   "p": "형용사",
+   "m": "유창한",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "fluently",
+     "k": "파생",
+     "m": "유창하게"
+    },
+    {
+     "w": "fluency",
+     "k": "파생",
+     "m": "유창성"
+    }
+   ],
+   "ex": "Applicants must be <b>fluent</b> in English and Korean.",
+   "exKo": "지원자는 영어와 한국어에 유창해야 합니다."
+  },
+  {
+   "w": "forbid",
+   "p": "동사",
+   "m": "금지하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "forbidden",
+     "k": "파생",
+     "m": "금지된"
+    }
+   ],
+   "ex": "Safety rules <b>forbid</b> smoking inside the warehouse.",
+   "exKo": "안전 규정상 창고 내 흡연은 금지됩니다."
+  },
+  {
+   "w": "forge",
+   "p": "동사",
+   "m": "구축하다, 위조하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "forge a partnership",
+     "k": "숙어",
+     "m": "제휴를 맺다"
+    }
+   ],
+   "ex": "The two firms <b>forged</b> a long-term partnership.",
+   "exKo": "두 회사는 장기 파트너십을 구축했습니다."
+  },
+  {
+   "w": "formal",
+   "p": "형용사",
+   "m": "공식적인, 격식 있는",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "formally",
+     "k": "파생",
+     "m": "공식적으로"
+    },
+    {
+     "w": "informal",
+     "k": "반의",
+     "m": "비공식의"
+    }
+   ],
+   "ex": "A <b>formal</b> announcement will be made on Monday.",
+   "exKo": "공식 발표는 월요일에 있을 예정입니다."
+  },
+  {
+   "w": "format",
+   "p": "명사",
+   "m": "형식, 양식",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "in PDF format",
+     "k": "숙어",
+     "m": "PDF 형식으로"
+    }
+   ],
+   "ex": "Please save the file in PDF <b>format</b>.",
+   "exKo": "파일을 PDF 형식으로 저장해 주세요."
+  },
+  {
+   "w": "former",
+   "p": "형용사",
+   "m": "이전의, 전자의",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "formerly",
+     "k": "파생",
+     "m": "이전에"
+    },
+    {
+     "w": "the former",
+     "k": "숙어",
+     "m": "전자"
+    }
+   ],
+   "ex": "The <b>former</b> manager now runs his own store.",
+   "exKo": "전임 매니저는 지금 자기 매장을 운영합니다."
+  },
+  {
+   "w": "foster",
+   "p": "동사",
+   "m": "촉진하다, 기르다",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "foster teamwork",
+     "k": "숙어",
+     "m": "팀워크를 기르다"
+    }
+   ],
+   "ex": "Team lunches help <b>foster</b> a friendly atmosphere.",
+   "exKo": "팀 점심은 우호적인 분위기를 조성하는 데 도움이 됩니다."
+  },
+  {
+   "w": "found",
+   "p": "동사",
+   "m": "설립하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "founder",
+     "k": "파생",
+     "m": "설립자"
+    },
+    {
+     "w": "foundation",
+     "k": "파생",
+     "m": "재단, 기반"
+    }
+   ],
+   "ex": "She <b>founded</b> the company with two colleagues.",
+   "exKo": "그녀는 동료 두 명과 함께 회사를 설립했습니다."
+  },
+  {
+   "w": "fragile",
+   "p": "형용사",
+   "m": "깨지기 쉬운",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "handle with care",
+     "k": "숙어",
+     "m": "취급 주의"
+    }
+   ],
+   "ex": "Mark the box as <b>fragile</b> before shipping.",
+   "exKo": "배송 전에 상자에 파손 주의 표시를 하세요."
+  },
+  {
+   "w": "franchise",
+   "p": "명사",
+   "m": "가맹점, 프랜차이즈",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "franchisee",
+     "k": "파생",
+     "m": "가맹점주"
+    }
+   ],
+   "ex": "He opened a coffee <b>franchise</b> near the station.",
+   "exKo": "그는 역 근처에 커피 프랜차이즈 매장을 열었습니다."
+  },
+  {
+   "w": "freight",
+   "p": "명사",
+   "m": "화물, 운송(료)",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "freight charges",
+     "k": "숙어",
+     "m": "운송료"
+    },
+    {
+     "w": "cargo",
+     "k": "동의",
+     "m": "화물"
+    }
+   ],
+   "ex": "<b>Freight</b> charges are included in the quoted price.",
+   "exKo": "견적 가격에는 운송료가 포함되어 있습니다."
+  },
+  {
+   "w": "fulfill",
+   "p": "동사",
+   "m": "이행하다, 충족시키다",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "fulfillment",
+     "k": "파생",
+     "m": "이행, 주문 처리"
+    },
+    {
+     "w": "fulfill a requirement",
+     "k": "숙어",
+     "m": "요건을 충족하다"
+    }
+   ],
+   "ex": "We <b>fulfill</b> most online orders within a day.",
+   "exKo": "대부분의 온라인 주문은 하루 안에 처리합니다."
+  },
+  {
+   "w": "fund-raising",
+   "p": "명사",
+   "m": "모금 (활동)",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "fund-raiser",
+     "k": "파생",
+     "m": "모금 행사"
+    }
+   ],
+   "ex": "The charity's <b>fund-raising</b> dinner raised ten thousand dollars.",
+   "exKo": "그 자선단체의 모금 만찬에서 1만 달러가 모였습니다."
+  },
+  {
+   "w": "furthermore",
+   "p": "부사",
+   "m": "게다가, 더욱이",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "moreover",
+     "k": "동의",
+     "m": "게다가"
+    },
+    {
+     "w": "in addition",
+     "k": "동의",
+     "m": "게다가"
+    }
+   ],
+   "ex": "The venue is spacious; <b>furthermore</b>, parking is free.",
+   "exKo": "그 행사장은 넓고, 게다가 주차도 무료입니다."
+  },
+  {
+   "w": "generate",
+   "p": "동사",
+   "m": "창출하다, 발생시키다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "generate revenue",
+     "k": "숙어",
+     "m": "수익을 창출하다"
+    }
+   ],
+   "ex": "The ad campaign <b>generated</b> hundreds of new leads.",
+   "exKo": "그 광고 캠페인은 수백 건의 신규 문의를 창출했습니다."
+  },
+  {
+   "w": "generous",
+   "p": "형용사",
+   "m": "후한, 관대한",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "generously",
+     "k": "파생",
+     "m": "후하게"
+    },
+    {
+     "w": "generosity",
+     "k": "파생",
+     "m": "관대함"
+    }
+   ],
+   "ex": "The company offers a <b>generous</b> vacation policy.",
+   "exKo": "그 회사는 후한 휴가 제도를 제공합니다."
+  },
+  {
+   "w": "genuine",
+   "p": "형용사",
+   "m": "진짜의, 진심의",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "genuinely",
+     "k": "파생",
+     "m": "진심으로"
+    },
+    {
+     "w": "authentic",
+     "k": "동의",
+     "m": "진품의"
+    }
+   ],
+   "ex": "All our bags are made of <b>genuine</b> leather.",
+   "exKo": "저희 가방은 모두 진짜 가죽으로 만듭니다."
+  },
+  {
+   "w": "grateful",
+   "p": "형용사",
+   "m": "감사하는",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "gratitude",
+     "k": "파생",
+     "m": "감사"
+    },
+    {
+     "w": "be grateful for",
+     "k": "숙어",
+     "m": "~에 감사하다"
+    }
+   ],
+   "ex": "We are <b>grateful</b> for your continued support.",
+   "exKo": "여러분의 변함없는 성원에 감사드립니다."
+  },
+  {
+   "w": "guideline",
+   "p": "명사",
+   "m": "지침",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "follow guidelines",
+     "k": "숙어",
+     "m": "지침을 따르다"
+    }
+   ],
+   "ex": "New safety <b>guidelines</b> take effect next week.",
+   "exKo": "새 안전 지침이 다음 주부터 시행됩니다."
+  },
+  {
+   "w": "halt",
+   "p": "동사",
+   "m": "중단시키다",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "come to a halt",
+     "k": "숙어",
+     "m": "멈추다"
+    }
+   ],
+   "ex": "The strike <b>halted</b> deliveries for three days.",
+   "exKo": "파업으로 배송이 사흘간 중단되었습니다."
+  },
+  {
+   "w": "headquarters",
+   "p": "명사",
+   "m": "본사",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "head office",
+     "k": "동의",
+     "m": "본사"
+    },
+    {
+     "w": "be headquartered in",
+     "k": "숙어",
+     "m": "~에 본사를 두다"
+    }
+   ],
+   "ex": "The company moved its <b>headquarters</b> to Busan.",
+   "exKo": "그 회사는 본사를 부산으로 옮겼습니다."
+  },
+  {
+   "w": "hesitate",
+   "p": "동사",
+   "m": "망설이다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "do not hesitate to",
+     "k": "숙어",
+     "m": "주저하지 말고 ~하세요"
+    },
+    {
+     "w": "hesitant",
+     "k": "파생",
+     "m": "주저하는"
+    }
+   ],
+   "ex": "Do not <b>hesitate</b> to contact us with questions.",
+   "exKo": "질문이 있으시면 주저하지 말고 연락 주세요."
+  },
+  {
+   "w": "highlight",
+   "p": "동사",
+   "m": "강조하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "highlights",
+     "k": "파생",
+     "m": "하이라이트, 주요 부분"
+    }
+   ],
+   "ex": "The report <b>highlights</b> three areas for improvement.",
+   "exKo": "보고서는 세 가지 개선 영역을 강조합니다."
+  },
+  {
+   "w": "highly",
+   "p": "부사",
+   "m": "매우, 높이",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "highly recommended",
+     "k": "숙어",
+     "m": "강력 추천되는"
+    },
+    {
+     "w": "highly qualified",
+     "k": "숙어",
+     "m": "충분한 자격을 갖춘"
+    }
+   ],
+   "ex": "This restaurant is <b>highly</b> recommended by locals.",
+   "exKo": "이 식당은 현지인들이 강력히 추천합니다."
+  },
+  {
+   "w": "hospitality",
+   "p": "명사",
+   "m": "환대, 접객 (산업)",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "hospitality industry",
+     "k": "숙어",
+     "m": "서비스 접객업"
+    }
+   ],
+   "ex": "She has worked in the <b>hospitality</b> industry for years.",
+   "exKo": "그녀는 수년간 접객 산업에서 일해 왔습니다."
+  },
+  {
+   "w": "household",
+   "p": "명사",
+   "m": "가정, 가구",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "household items",
+     "k": "숙어",
+     "m": "생활용품"
+    }
+   ],
+   "ex": "The vacuum is our best-selling <b>household</b> appliance.",
+   "exKo": "그 청소기는 저희의 가장 잘 팔리는 가정용 가전입니다."
+  },
+  {
+   "w": "identify",
+   "p": "동사",
+   "m": "찾아내다, 확인하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "identification",
+     "k": "파생",
+     "m": "신분 증명(서)"
+    },
+    {
+     "w": "identity",
+     "k": "파생",
+     "m": "신원"
+    }
+   ],
+   "ex": "The audit helped us <b>identify</b> wasteful spending.",
+   "exKo": "감사를 통해 낭비성 지출을 찾아낼 수 있었습니다."
+  },
+  {
+   "w": "illustrate",
+   "p": "동사",
+   "m": "설명하다, 삽화를 넣다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "illustration",
+     "k": "파생",
+     "m": "삽화, 예시"
+    }
+   ],
+   "ex": "This chart <b>illustrates</b> our sales growth clearly.",
+   "exKo": "이 차트는 우리의 매출 성장을 명확히 보여 줍니다."
+  },
+  {
+   "w": "implement",
+   "p": "동사",
+   "m": "시행하다, 실행하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "implementation",
+     "k": "파생",
+     "m": "시행"
+    }
+   ],
+   "ex": "We will <b>implement</b> the new schedule from April.",
+   "exKo": "4월부터 새 일정을 시행할 예정입니다."
+  },
+  {
+   "w": "imply",
+   "p": "동사",
+   "m": "암시하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "implication",
+     "k": "파생",
+     "m": "함의, 영향"
+    }
+   ],
+   "ex": "His silence seemed to <b>imply</b> disagreement.",
+   "exKo": "그의 침묵은 반대를 암시하는 듯했습니다."
+  },
+  {
+   "w": "impose",
+   "p": "동사",
+   "m": "부과하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "impose a fine",
+     "k": "숙어",
+     "m": "벌금을 부과하다"
+    }
+   ],
+   "ex": "The city will <b>impose</b> a fee on plastic bags.",
+   "exKo": "시는 비닐봉지에 요금을 부과할 예정입니다."
+  },
+  {
+   "w": "incur",
+   "p": "동사",
+   "m": "(비용을) 발생시키다, 물게 되다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "incur costs",
+     "k": "숙어",
+     "m": "비용이 발생하다"
+    }
+   ],
+   "ex": "Late payments <b>incur</b> an additional charge.",
+   "exKo": "연체 시 추가 요금이 발생합니다."
+  },
+  {
+   "w": "indicate",
+   "p": "동사",
+   "m": "나타내다, 표시하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "indication",
+     "k": "파생",
+     "m": "징후"
+    },
+    {
+     "w": "indicator",
+     "k": "파생",
+     "m": "지표"
+    }
+   ],
+   "ex": "The survey results <b>indicate</b> strong customer loyalty.",
+   "exKo": "설문 결과는 높은 고객 충성도를 나타냅니다."
+  },
+  {
+   "w": "individual",
+   "p": "명사",
+   "m": "개인",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "individually",
+     "k": "파생",
+     "m": "개별적으로"
+    },
+    {
+     "w": "individual needs",
+     "k": "숙어",
+     "m": "개별 요구"
+    }
+   ],
+   "ex": "Each <b>individual</b> receives a personal locker key.",
+   "exKo": "개인마다 개인 사물함 열쇠를 받습니다."
+  },
+  {
+   "w": "influence",
+   "p": "명사",
+   "m": "영향(력)",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "influential",
+     "k": "파생",
+     "m": "영향력 있는"
+    },
+    {
+     "w": "have influence on",
+     "k": "숙어",
+     "m": "~에 영향을 주다"
+    }
+   ],
+   "ex": "Online reviews have a strong <b>influence</b> on sales.",
+   "exKo": "온라인 리뷰는 매출에 강한 영향을 미칩니다."
+  },
+  {
+   "w": "ingredient",
+   "p": "명사",
+   "m": "재료, 성분",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "fresh ingredients",
+     "k": "숙어",
+     "m": "신선한 재료"
+    }
+   ],
+   "ex": "All <b>ingredients</b> are listed on the package.",
+   "exKo": "모든 재료는 포장에 표기되어 있습니다."
+  },
+  {
+   "w": "initial",
+   "p": "형용사",
+   "m": "초기의, 처음의",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "initially",
+     "k": "파생",
+     "m": "처음에"
+    }
+   ],
+   "ex": "The <b>initial</b> response to the ad was positive.",
+   "exKo": "광고에 대한 초기 반응은 긍정적이었습니다."
+  },
+  {
+   "w": "initiative",
+   "p": "명사",
+   "m": "계획, 주도(권)",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "take the initiative",
+     "k": "숙어",
+     "m": "주도적으로 나서다"
+    }
+   ],
+   "ex": "The recycling <b>initiative</b> starts next month.",
+   "exKo": "재활용 계획은 다음 달에 시작됩니다."
+  },
+  {
+   "w": "innovative",
+   "p": "형용사",
+   "m": "혁신적인",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "innovation",
+     "k": "파생",
+     "m": "혁신"
+    },
+    {
+     "w": "innovate",
+     "k": "파생",
+     "m": "혁신하다"
+    }
+   ],
+   "ex": "The firm is known for its <b>innovative</b> designs.",
+   "exKo": "그 회사는 혁신적인 디자인으로 유명합니다."
+  },
+  {
+   "w": "inquire",
+   "p": "동사",
+   "m": "문의하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "inquiry",
+     "k": "파생",
+     "m": "문의"
+    },
+    {
+     "w": "inquire about",
+     "k": "숙어",
+     "m": "~에 대해 문의하다"
+    }
+   ],
+   "ex": "Several customers <b>inquired</b> about the delivery date.",
+   "exKo": "여러 고객이 배송일에 대해 문의했습니다."
+  },
+  {
+   "w": "insert",
+   "p": "동사",
+   "m": "삽입하다, 넣다",
+   "cat": "시설·사무",
+   "ex": "<b>Insert</b> your card and enter the code.",
+   "exKo": "카드를 넣고 비밀번호를 입력하세요."
+  },
+  {
+   "w": "insight",
+   "p": "명사",
+   "m": "통찰(력)",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "insightful",
+     "k": "파생",
+     "m": "통찰력 있는"
+    }
+   ],
+   "ex": "The report offers useful <b>insights</b> into buyer behavior.",
+   "exKo": "그 보고서는 구매자 행동에 대한 유용한 통찰을 제공합니다."
+  },
+  {
+   "w": "insist",
+   "p": "동사",
+   "m": "주장하다, 고집하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "insist on",
+     "k": "숙어",
+     "m": "~을 고집하다"
+    }
+   ],
+   "ex": "The client <b>insisted</b> on an earlier deadline.",
+   "exKo": "고객은 더 이른 마감일을 고집했습니다."
+  },
+  {
+   "w": "instance",
+   "p": "명사",
+   "m": "사례, 경우",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "for instance",
+     "k": "숙어",
+     "m": "예를 들어"
+    }
+   ],
+   "ex": "In this <b>instance</b>, a full refund is appropriate.",
+   "exKo": "이 경우에는 전액 환불이 적절합니다."
+  },
+  {
+   "w": "institute",
+   "p": "명사",
+   "m": "연구소, 기관",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "institution",
+     "k": "파생",
+     "m": "기관"
+    }
+   ],
+   "ex": "She works at a research <b>institute</b> downtown.",
+   "exKo": "그녀는 시내의 연구소에서 일합니다."
+  },
+  {
+   "w": "intend",
+   "p": "동사",
+   "m": "의도하다, ~할 작정이다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "intended",
+     "k": "파생",
+     "m": "의도된, 대상인"
+    },
+    {
+     "w": "intention",
+     "k": "파생",
+     "m": "의도"
+    }
+   ],
+   "ex": "We <b>intend</b> to open two more branches this year.",
+   "exKo": "올해 두 개 지점을 더 열 계획입니다."
+  },
+  {
+   "w": "intense",
+   "p": "형용사",
+   "m": "극심한, 치열한",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "intensive",
+     "k": "파생",
+     "m": "집중적인"
+    },
+    {
+     "w": "intense competition",
+     "k": "숙어",
+     "m": "치열한 경쟁"
+    }
+   ],
+   "ex": "Competition in the phone market is <b>intense</b>.",
+   "exKo": "휴대폰 시장의 경쟁은 치열합니다."
+  },
+  {
+   "w": "interact",
+   "p": "동사",
+   "m": "소통하다, 상호 작용하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "interaction",
+     "k": "파생",
+     "m": "상호 작용"
+    },
+    {
+     "w": "interactive",
+     "k": "파생",
+     "m": "쌍방향의"
+    }
+   ],
+   "ex": "The app lets customers <b>interact</b> with support staff directly.",
+   "exKo": "그 앱으로 고객이 지원 직원과 직접 소통할 수 있습니다."
+  },
+  {
+   "w": "interrupt",
+   "p": "동사",
+   "m": "방해하다, 중단시키다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "interruption",
+     "k": "파생",
+     "m": "중단"
+    },
+    {
+     "w": "without interruption",
+     "k": "숙어",
+     "m": "중단 없이"
+    }
+   ],
+   "ex": "Please do not <b>interrupt</b> the speaker during the talk.",
+   "exKo": "강연 중에는 연사의 말을 끊지 말아 주세요."
+  },
+  {
+   "w": "invaluable",
+   "p": "형용사",
+   "m": "매우 귀중한",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "priceless",
+     "k": "동의",
+     "m": "값을 매길 수 없는"
+    }
+   ],
+   "ex": "Her advice was <b>invaluable</b> during the negotiation.",
+   "exKo": "협상 과정에서 그녀의 조언은 매우 귀중했습니다."
+  },
+  {
+   "w": "investigate",
+   "p": "동사",
+   "m": "조사하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "investigation",
+     "k": "파생",
+     "m": "조사"
+    },
+    {
+     "w": "investigator",
+     "k": "파생",
+     "m": "조사관"
+    }
+   ],
+   "ex": "The team will <b>investigate</b> the cause of the error.",
+   "exKo": "팀이 오류의 원인을 조사할 것입니다."
+  },
+  {
+   "w": "issue",
+   "p": "동사",
+   "m": "발급하다, 발행하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "issue a refund",
+     "k": "숙어",
+     "m": "환불을 해 주다"
+    },
+    {
+     "w": "issue a statement",
+     "k": "숙어",
+     "m": "성명을 발표하다"
+    }
+   ],
+   "ex": "The office will <b>issue</b> new ID cards on Monday.",
+   "exKo": "사무실은 월요일에 새 사원증을 발급할 예정입니다."
+  }
+ ]
 }

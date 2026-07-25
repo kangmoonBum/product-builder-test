@@ -1,119 +1,1972 @@
-{"words": [
-{"w":"keen","p":"형용사","m":"열망하는, 예리한","cat":"채용·인사","rel":[{"w":"be keen to","k":"숙어","m":"몹시 ~하고 싶어 하다"}]},
-{"w":"labor","p":"명사","m":"노동(력)","cat":"채용·인사","rel":[{"w":"labor costs","k":"숙어","m":"인건비"},{"w":"labor union","k":"숙어","m":"노동조합"}]},
-{"w":"landmark","p":"명사","m":"랜드마크, 획기적 사건","cat":"출장·여행","rel":[{"w":"landmark decision","k":"숙어","m":"획기적인 결정"}]},
-{"w":"largely","p":"부사","m":"주로, 대체로","cat":"재무·회계","rel":[{"w":"mostly","k":"동의","m":"대부분"}]},
-{"w":"latest","p":"형용사","m":"최신의","cat":"마케팅","rel":[{"w":"at the latest","k":"숙어","m":"늦어도"}]},
-{"w":"latter","p":"명사","m":"후자","cat":"회의","rel":[{"w":"the latter","k":"숙어","m":"후자"}]},
-{"w":"lead time","p":"명사","m":"(주문~배송) 소요 기간","cat":"배송·주문"},
-{"w":"leading","p":"형용사","m":"선도적인, 일류의","cat":"마케팅","rel":[{"w":"leading provider","k":"숙어","m":"선도 업체"}]},
-{"w":"lease","p":"명사","m":"임대차 (계약)","cat":"계약·법무","rel":[{"w":"lease agreement","k":"숙어","m":"임대 계약(서)"},{"w":"leaseholder","k":"파생","m":"임차인"}]},
-{"w":"leisure","p":"명사","m":"여가","cat":"출장·여행","rel":[{"w":"leisure activities","k":"숙어","m":"여가 활동"}]},
-{"w":"license","p":"명사","m":"면허(증), 라이선스","cat":"계약·법무","rel":[{"w":"licensed","k":"파생","m":"면허를 소지한"},{"w":"licensing","k":"파생","m":"라이선스 부여"}]},
-{"w":"likewise","p":"부사","m":"마찬가지로","cat":"회의","rel":[{"w":"similarly","k":"동의","m":"유사하게"}]},
-{"w":"literature","p":"명사","m":"(홍보) 인쇄물, 문헌","cat":"마케팅","rel":[{"w":"promotional literature","k":"숙어","m":"홍보 인쇄물"}]},
-{"w":"logistics","p":"명사","m":"물류","cat":"배송·주문","rel":[{"w":"logistics company","k":"숙어","m":"물류 회사"}]},
-{"w":"maintain","p":"동사","m":"유지하다, 정비하다","cat":"시설·사무","rel":[{"w":"maintain records","k":"숙어","m":"기록을 유지하다"}]},
-{"w":"majority","p":"명사","m":"다수, 과반수","cat":"회의","rel":[{"w":"the majority of","k":"숙어","m":"~의 대부분"},{"w":"minority","k":"반의","m":"소수"}]},
-{"w":"manner","p":"명사","m":"방식, 태도","cat":"시설·사무","rel":[{"w":"in a timely manner","k":"숙어","m":"시기적절하게"}]},
-{"w":"manuscript","p":"명사","m":"원고","cat":"마케팅","rel":[{"w":"submit a manuscript","k":"숙어","m":"원고를 제출하다"}]},
-{"w":"margin","p":"명사","m":"이윤 (폭), 여백","cat":"재무·회계","rel":[{"w":"profit margin","k":"숙어","m":"이윤 폭"}]},
-{"w":"mass","p":"형용사","m":"대량의, 대중의","cat":"마케팅","rel":[{"w":"mass production","k":"숙어","m":"대량 생산"}]},
-{"w":"massive","p":"형용사","m":"거대한, 대규모의","cat":"마케팅","rel":[{"w":"enormous","k":"동의","m":"막대한"}]},
-{"w":"measure","p":"명사","m":"조치, 측정","cat":"시설·사무","rel":[{"w":"take measures","k":"숙어","m":"조치를 취하다"},{"w":"measurement","k":"파생","m":"측정, 치수"}]},
-{"w":"mechanic","p":"명사","m":"정비공","cat":"시설·사무","rel":[{"w":"mechanical","k":"파생","m":"기계의"}]},
-{"w":"media","p":"명사","m":"매체, 언론","cat":"마케팅","rel":[{"w":"social media","k":"숙어","m":"소셜 미디어"},{"w":"media coverage","k":"숙어","m":"언론 보도"}]},
-{"w":"memorable","p":"형용사","m":"기억에 남는","cat":"마케팅","rel":[{"w":"unforgettable","k":"동의","m":"잊을 수 없는"}]},
-{"w":"mentor","p":"명사","m":"멘토, 조언자","cat":"채용·인사","rel":[{"w":"mentoring program","k":"숙어","m":"멘토링 프로그램"}]},
-{"w":"merge","p":"동사","m":"합병하다","cat":"계약·법무","rel":[{"w":"merger","k":"파생","m":"합병"},{"w":"merge with","k":"숙어","m":"~와 합병하다"}]},
-{"w":"merit","p":"명사","m":"장점, 가치","cat":"채용·인사","rel":[{"w":"on merit","k":"숙어","m":"실력에 따라"}]},
-{"w":"method","p":"명사","m":"방법","cat":"시설·사무","rel":[{"w":"payment method","k":"숙어","m":"결제 수단"}]},
-{"w":"minimize","p":"동사","m":"최소화하다","cat":"재무·회계","rel":[{"w":"maximize","k":"반의","m":"최대화하다"}]},
-{"w":"minimum","p":"명사","m":"최소(한)","cat":"재무·회계","rel":[{"w":"minimum order","k":"숙어","m":"최소 주문량"},{"w":"maximum","k":"반의","m":"최대"}]},
-{"w":"minor","p":"형용사","m":"사소한, 경미한","cat":"시설·사무","rel":[{"w":"major","k":"반의","m":"주요한"}]},
-{"w":"mission","p":"명사","m":"사명, 임무","cat":"채용·인사","rel":[{"w":"mission statement","k":"숙어","m":"기업 사명 선언문"}]},
-{"w":"moderate","p":"형용사","m":"적당한, 온건한","cat":"재무·회계","rel":[{"w":"moderately","k":"파생","m":"적당히"},{"w":"moderator","k":"파생","m":"사회자"}]},
-{"w":"modify","p":"동사","m":"수정하다, 변경하다","cat":"시설·사무","rel":[{"w":"modification","k":"파생","m":"수정"}]},
-{"w":"monitor","p":"동사","m":"관찰하다, 감시하다","cat":"시설·사무","rel":[{"w":"monitor progress","k":"숙어","m":"진행 상황을 관찰하다"}]},
-{"w":"morale","p":"명사","m":"사기, 의욕","cat":"채용·인사","rel":[{"w":"employee morale","k":"숙어","m":"직원 사기"}]},
-{"w":"motivate","p":"동사","m":"동기를 부여하다","cat":"채용·인사","rel":[{"w":"motivation","k":"파생","m":"동기 (부여)"},{"w":"motivated","k":"파생","m":"의욕적인"}]},
-{"w":"multiple","p":"형용사","m":"다수의, 복수의","cat":"시설·사무","rel":[{"w":"multiply","k":"파생","m":"곱하다, 크게 늘다"}]},
-{"w":"mutual","p":"형용사","m":"상호의","cat":"계약·법무","rel":[{"w":"mutually","k":"파생","m":"상호 간에"},{"w":"mutual agreement","k":"숙어","m":"상호 합의"}]},
-{"w":"narrow","p":"형용사","m":"좁은","cat":"시설·사무","rel":[{"w":"narrow down","k":"숙어","m":"좁히다, 추리다"}]},
-{"w":"necessarily","p":"부사","m":"반드시","cat":"회의","rel":[{"w":"not necessarily","k":"숙어","m":"반드시 ~인 것은 아니다"}]},
-{"w":"nevertheless","p":"부사","m":"그럼에도 불구하고","cat":"회의","rel":[{"w":"nonetheless","k":"동의","m":"그럼에도"}]},
-{"w":"nominate","p":"동사","m":"후보로 지명하다","cat":"채용·인사","rel":[{"w":"nomination","k":"파생","m":"지명, 후보 추천"},{"w":"nominee","k":"파생","m":"후보자"}]},
-{"w":"notable","p":"형용사","m":"주목할 만한","cat":"마케팅","rel":[{"w":"notably","k":"파생","m":"특히"}]},
-{"w":"noticeably","p":"부사","m":"눈에 띄게","cat":"재무·회계","rel":[{"w":"noticeable","k":"파생","m":"뚜렷한"}]},
-{"w":"numerous","p":"형용사","m":"수많은","cat":"시설·사무","rel":[{"w":"countless","k":"동의","m":"무수한"}]},
-{"w":"objection","p":"명사","m":"이의, 반대","cat":"회의","rel":[{"w":"object to","k":"숙어","m":"~에 반대하다"}]},
-{"w":"obligation","p":"명사","m":"의무","cat":"계약·법무","rel":[{"w":"be obliged to","k":"숙어","m":"~할 의무가 있다"},{"w":"obligatory","k":"파생","m":"의무적인"}]},
-{"w":"observe","p":"동사","m":"관찰하다, 준수하다","cat":"계약·법무","rel":[{"w":"observation","k":"파생","m":"관찰"},{"w":"observance","k":"파생","m":"준수"}]},
-{"w":"obtain","p":"동사","m":"얻다, 획득하다","cat":"계약·법무","rel":[{"w":"obtain approval","k":"숙어","m":"승인을 받다"}]},
-{"w":"occasion","p":"명사","m":"행사, 경우","cat":"회의","rel":[{"w":"occasionally","k":"파생","m":"가끔"},{"w":"special occasion","k":"숙어","m":"특별한 날"}]},
-{"w":"occupy","p":"동사","m":"차지하다, 사용 중이다","cat":"시설·사무","rel":[{"w":"occupied","k":"파생","m":"사용 중인"},{"w":"occupancy","k":"파생","m":"점유(율)"},{"w":"occupant","k":"파생","m":"입주자"}]},
-{"w":"ongoing","p":"형용사","m":"진행 중인","cat":"시설·사무","rel":[{"w":"in progress","k":"동의","m":"진행 중인"}]},
-{"w":"oppose","p":"동사","m":"반대하다","cat":"회의","rel":[{"w":"opposition","k":"파생","m":"반대"},{"w":"as opposed to","k":"숙어","m":"~와는 대조적으로"}]},
-{"w":"orientation","p":"명사","m":"오리엔테이션, 예비 교육","cat":"채용·인사","rel":[{"w":"new employee orientation","k":"숙어","m":"신입 사원 교육"}]},
-{"w":"otherwise","p":"부사","m":"그렇지 않으면","cat":"회의","rel":[{"w":"unless otherwise noted","k":"숙어","m":"별도 언급이 없는 한"}]},
-{"w":"outcome","p":"명사","m":"결과","cat":"회의","rel":[{"w":"result","k":"동의","m":"결과"}]},
-{"w":"outlet","p":"명사","m":"할인점, 콘센트","cat":"마케팅","rel":[{"w":"retail outlet","k":"숙어","m":"소매점"},{"w":"power outlet","k":"숙어","m":"전기 콘센트"}]},
-{"w":"outline","p":"동사","m":"개요를 설명하다","cat":"회의","rel":[{"w":"outline a plan","k":"숙어","m":"계획의 개요를 설명하다"}]},
-{"w":"output","p":"명사","m":"생산량, 산출","cat":"배송·주문","rel":[{"w":"input","k":"반의","m":"투입"}]},
-{"w":"overall","p":"형용사","m":"전반적인","cat":"재무·회계","rel":[{"w":"overall performance","k":"숙어","m":"전반적인 성과"}]},
-{"w":"overdue","p":"형용사","m":"기한이 지난, 연체된","cat":"재무·회계","rel":[{"w":"overdue payment","k":"숙어","m":"연체된 대금"}]},
-{"w":"overlook","p":"동사","m":"간과하다, 내려다보다","cat":"출장·여행","rel":[{"w":"overlook the ocean","k":"숙어","m":"바다가 내려다보이다"}]},
-{"w":"oversee","p":"동사","m":"감독하다","cat":"채용·인사","rel":[{"w":"supervise","k":"동의","m":"감독하다"}]},
-{"w":"overwhelm","p":"동사","m":"압도하다","cat":"마케팅","rel":[{"w":"overwhelming","k":"파생","m":"압도적인"},{"w":"overwhelmingly","k":"파생","m":"압도적으로"}]},
-{"w":"owe","p":"동사","m":"빚지다","cat":"재무·회계","rel":[{"w":"owe A to B","k":"숙어","m":"A는 B 덕분이다"}]},
-{"w":"pace","p":"명사","m":"속도","cat":"시설·사무","rel":[{"w":"keep pace with","k":"숙어","m":"~에 발맞추다"}]},
-{"w":"partial","p":"형용사","m":"부분적인","cat":"재무·회계","rel":[{"w":"partial refund","k":"숙어","m":"부분 환불"}]},
-{"w":"participate","p":"동사","m":"참가하다","cat":"회의","rel":[{"w":"participate in","k":"숙어","m":"~에 참가하다"},{"w":"participation","k":"파생","m":"참가"}]},
-{"w":"particular","p":"형용사","m":"특정한","cat":"시설·사무","rel":[{"w":"in particular","k":"숙어","m":"특히"}]},
-{"w":"partnership","p":"명사","m":"제휴, 동업","cat":"계약·법무","rel":[{"w":"in partnership with","k":"숙어","m":"~와 제휴하여"}]},
-{"w":"patron","p":"명사","m":"고객, 후원자","cat":"마케팅","rel":[{"w":"patronize","k":"파생","m":"애용하다"}]},
-{"w":"pending","p":"형용사","m":"보류 중인, 계류 중인","cat":"계약·법무","rel":[{"w":"pending approval","k":"숙어","m":"승인 대기 중"}]},
-{"w":"per","p":"전치사","m":"~당, ~마다","cat":"재무·회계","rel":[{"w":"per person","k":"숙어","m":"1인당"},{"w":"as per","k":"숙어","m":"~에 따라"}]},
-{"w":"performance","p":"명사","m":"성과, 공연","cat":"채용·인사","rel":[{"w":"performance review","k":"숙어","m":"인사 평가"},{"w":"perform","k":"파생","m":"수행하다, 공연하다"}]},
-{"w":"permanent","p":"형용사","m":"영구적인, 정규직의","cat":"채용·인사","rel":[{"w":"permanently","k":"파생","m":"영구히"},{"w":"permanent position","k":"숙어","m":"정규직"}]},
-{"w":"permission","p":"명사","m":"허락, 허가","cat":"계약·법무","rel":[{"w":"without permission","k":"숙어","m":"허가 없이"}]},
-{"w":"persuade","p":"동사","m":"설득하다","cat":"마케팅","rel":[{"w":"persuasive","k":"파생","m":"설득력 있는"},{"w":"persuasion","k":"파생","m":"설득"}]},
-{"w":"pharmaceutical","p":"형용사","m":"제약의","cat":"배송·주문","rel":[{"w":"pharmaceutical company","k":"숙어","m":"제약 회사"}]},
-{"w":"phase","p":"명사","m":"단계","cat":"회의","rel":[{"w":"phase out","k":"숙어","m":"단계적으로 폐지하다"}]},
-{"w":"pile","p":"명사","m":"더미","cat":"시설·사무","rel":[{"w":"a pile of","k":"숙어","m":"한 무더기의"}]},
-{"w":"pioneer","p":"명사","m":"선구자","cat":"마케팅","rel":[{"w":"pioneering","k":"파생","m":"선구적인"}]},
-{"w":"plenty","p":"명사","m":"풍부한 양","cat":"시설·사무","rel":[{"w":"plenty of","k":"숙어","m":"많은"}]},
-{"w":"portion","p":"명사","m":"부분, 1인분","cat":"재무·회계","rel":[{"w":"a portion of","k":"숙어","m":"~의 일부"}]},
-{"w":"possess","p":"동사","m":"소유하다, 갖추다","cat":"채용·인사","rel":[{"w":"possession","k":"파생","m":"소유(물)"}]},
-{"w":"potential","p":"명사","m":"잠재력","cat":"마케팅","rel":[{"w":"potential customer","k":"숙어","m":"잠재 고객"},{"w":"potentially","k":"파생","m":"잠재적으로"}]},
-{"w":"praise","p":"동사","m":"칭찬하다","cat":"채용·인사","rel":[{"w":"praise A for B","k":"숙어","m":"B에 대해 A를 칭찬하다"}]},
-{"w":"precaution","p":"명사","m":"예방 조치","cat":"시설·사무","rel":[{"w":"safety precautions","k":"숙어","m":"안전 수칙"}]},
-{"w":"precise","p":"형용사","m":"정밀한, 정확한","cat":"재무·회계","rel":[{"w":"precisely","k":"파생","m":"정확히"},{"w":"precision","k":"파생","m":"정밀(도)"}]},
-{"w":"predict","p":"동사","m":"예측하다","cat":"재무·회계","rel":[{"w":"prediction","k":"파생","m":"예측"},{"w":"predictable","k":"파생","m":"예측 가능한"}]},
-{"w":"premium","p":"명사","m":"보험료, 할증금","cat":"재무·회계","rel":[{"w":"insurance premium","k":"숙어","m":"보험료"},{"w":"premium quality","k":"숙어","m":"최고급 품질"}]},
-{"w":"prescription","p":"명사","m":"처방(전)","cat":"시설·사무","rel":[{"w":"prescribe","k":"파생","m":"처방하다"}]},
-{"w":"presence","p":"명사","m":"존재(감), 참석","cat":"마케팅","rel":[{"w":"market presence","k":"숙어","m":"시장 내 입지"}]},
-{"w":"preserve","p":"동사","m":"보존하다","cat":"시설·사무","rel":[{"w":"preservation","k":"파생","m":"보존"}]},
-{"w":"prestigious","p":"형용사","m":"명망 있는","cat":"채용·인사","rel":[{"w":"prestige","k":"파생","m":"명성"}]},
-{"w":"prevent","p":"동사","m":"막다, 예방하다","cat":"시설·사무","rel":[{"w":"prevent A from -ing","k":"숙어","m":"A가 ~하지 못하게 하다"},{"w":"prevention","k":"파생","m":"예방"}]},
-{"w":"previous","p":"형용사","m":"이전의","cat":"시설·사무","rel":[{"w":"previously","k":"파생","m":"이전에"}]},
-{"w":"primary","p":"형용사","m":"주요한, 첫째의","cat":"회의","rel":[{"w":"primarily","k":"파생","m":"주로"}]},
-{"w":"prior","p":"형용사","m":"사전의, 이전의","cat":"회의","rel":[{"w":"prior to","k":"숙어","m":"~ 전에"},{"w":"prior experience","k":"숙어","m":"이전 경력"}]},
-{"w":"priority","p":"명사","m":"우선순위","cat":"회의","rel":[{"w":"top priority","k":"숙어","m":"최우선 과제"},{"w":"prioritize","k":"파생","m":"우선순위를 정하다"}]},
-{"w":"probably","p":"부사","m":"아마도","cat":"시설·사무","rel":[{"w":"probable","k":"파생","m":"있음 직한"},{"w":"probability","k":"파생","m":"확률"}]},
-{"w":"proceed","p":"동사","m":"진행하다, 나아가다","cat":"회의","rel":[{"w":"proceed with","k":"숙어","m":"~을 진행하다"},{"w":"proceeds","k":"파생","m":"수익금"}]},
-{"w":"proficient","p":"형용사","m":"능숙한","cat":"채용·인사","rel":[{"w":"proficiency","k":"파생","m":"숙달, 능숙도"},{"w":"be proficient in","k":"숙어","m":"~에 능숙하다"}]},
-{"w":"prominent","p":"형용사","m":"저명한, 두드러진","cat":"마케팅","rel":[{"w":"prominently","k":"파생","m":"눈에 잘 띄게"}]},
-{"w":"promptly","p":"부사","m":"신속히, 정각에","cat":"시설·사무","rel":[{"w":"prompt","k":"파생","m":"신속한"},{"w":"promptness","k":"파생","m":"신속함"}]},
-{"w":"proof","p":"명사","m":"증거, 증명(서)","cat":"계약·법무","rel":[{"w":"proof of purchase","k":"숙어","m":"구매 증빙"}]},
-{"w":"proper","p":"형용사","m":"적절한, 제대로 된","cat":"시설·사무","rel":[{"w":"properly","k":"파생","m":"제대로"},{"w":"improper","k":"반의","m":"부적절한"}]},
-{"w":"property","p":"명사","m":"부동산, 재산","cat":"계약·법무","rel":[{"w":"property owner","k":"숙어","m":"부동산 소유주"},{"w":"intellectual property","k":"숙어","m":"지적 재산"}]},
-{"w":"proposal","p":"명사","m":"제안(서)","cat":"회의","rel":[{"w":"propose","k":"파생","m":"제안하다"},{"w":"submit a proposal","k":"숙어","m":"제안서를 제출하다"}]},
-{"w":"prospect","p":"명사","m":"전망, 가망","cat":"마케팅","rel":[{"w":"job prospects","k":"숙어","m":"취업 전망"}]},
-{"w":"protect","p":"동사","m":"보호하다","cat":"계약·법무","rel":[{"w":"protection","k":"파생","m":"보호"},{"w":"protective","k":"파생","m":"보호용의"}]},
-{"w":"prove","p":"동사","m":"입증하다, 판명되다","cat":"회의","rel":[{"w":"proven","k":"파생","m":"입증된"},{"w":"prove to be","k":"숙어","m":"~임이 판명되다"}]},
-{"w":"publication","p":"명사","m":"출판(물), 발행","cat":"마케팅","rel":[{"w":"publish","k":"파생","m":"출판하다"},{"w":"publisher","k":"파생","m":"출판사"}]},
-{"w":"publicity","p":"명사","m":"홍보, 언론의 관심","cat":"마케팅","rel":[{"w":"publicize","k":"파생","m":"홍보하다"}]},
-{"w":"punctual","p":"형용사","m":"시간을 지키는","cat":"채용·인사","rel":[{"w":"punctually","k":"파생","m":"제시간에"},{"w":"punctuality","k":"파생","m":"시간 엄수"}]},
-{"w":"pursue","p":"동사","m":"추구하다, (진로를) 나아가다","cat":"채용·인사","rel":[{"w":"pursue a career","k":"숙어","m":"경력을 쌓다"},{"w":"pursuit","k":"파생","m":"추구"}]}
-]}
+{
+ "words": [
+  {
+   "w": "keen",
+   "p": "형용사",
+   "m": "열망하는, 예리한",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "be keen to",
+     "k": "숙어",
+     "m": "몹시 ~하고 싶어 하다"
+    }
+   ],
+   "ex": "She is <b>keen</b> to join the overseas project.",
+   "exKo": "그녀는 해외 프로젝트에 참여하기를 열망합니다."
+  },
+  {
+   "w": "labor",
+   "p": "명사",
+   "m": "노동(력)",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "labor costs",
+     "k": "숙어",
+     "m": "인건비"
+    },
+    {
+     "w": "labor union",
+     "k": "숙어",
+     "m": "노동조합"
+    }
+   ],
+   "ex": "Rising <b>labor</b> costs affected our pricing.",
+   "exKo": "인건비 상승이 우리의 가격 책정에 영향을 주었습니다."
+  },
+  {
+   "w": "landmark",
+   "p": "명사",
+   "m": "랜드마크, 획기적 사건",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "landmark decision",
+     "k": "숙어",
+     "m": "획기적인 결정"
+    }
+   ],
+   "ex": "The tower is the city's most famous <b>landmark</b>.",
+   "exKo": "그 타워는 도시에서 가장 유명한 랜드마크입니다."
+  },
+  {
+   "w": "largely",
+   "p": "부사",
+   "m": "주로, 대체로",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "mostly",
+     "k": "동의",
+     "m": "대부분"
+    }
+   ],
+   "ex": "The delay was <b>largely</b> due to bad weather.",
+   "exKo": "지연은 주로 악천후 때문이었습니다."
+  },
+  {
+   "w": "latest",
+   "p": "형용사",
+   "m": "최신의",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "at the latest",
+     "k": "숙어",
+     "m": "늦어도"
+    }
+   ],
+   "ex": "Visit our website for the <b>latest</b> product news.",
+   "exKo": "최신 제품 소식은 저희 웹사이트에서 확인하세요."
+  },
+  {
+   "w": "latter",
+   "p": "명사",
+   "m": "후자",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "the latter",
+     "k": "숙어",
+     "m": "후자"
+    }
+   ],
+   "ex": "Of the two plans, I prefer the <b>latter</b>.",
+   "exKo": "두 계획 중에서 저는 후자를 선호합니다."
+  },
+  {
+   "w": "lead time",
+   "p": "명사",
+   "m": "(주문~배송) 소요 기간",
+   "cat": "배송·주문",
+   "ex": "The <b>lead time</b> for custom orders is three weeks.",
+   "exKo": "주문 제작품의 소요 기간은 3주입니다."
+  },
+  {
+   "w": "leading",
+   "p": "형용사",
+   "m": "선도적인, 일류의",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "leading provider",
+     "k": "숙어",
+     "m": "선도 업체"
+    }
+   ],
+   "ex": "She joined a <b>leading</b> electronics company.",
+   "exKo": "그녀는 선도적인 전자 회사에 입사했습니다."
+  },
+  {
+   "w": "lease",
+   "p": "명사",
+   "m": "임대차 (계약)",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "lease agreement",
+     "k": "숙어",
+     "m": "임대 계약(서)"
+    },
+    {
+     "w": "leaseholder",
+     "k": "파생",
+     "m": "임차인"
+    }
+   ],
+   "ex": "The office <b>lease</b> expires at the end of June.",
+   "exKo": "사무실 임대차 계약은 6월 말에 만료됩니다."
+  },
+  {
+   "w": "leisure",
+   "p": "명사",
+   "m": "여가",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "leisure activities",
+     "k": "숙어",
+     "m": "여가 활동"
+    }
+   ],
+   "ex": "The hotel has a pool for guests' <b>leisure</b> time.",
+   "exKo": "그 호텔에는 투숙객의 여가를 위한 수영장이 있습니다."
+  },
+  {
+   "w": "license",
+   "p": "명사",
+   "m": "면허(증), 라이선스",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "licensed",
+     "k": "파생",
+     "m": "면허를 소지한"
+    },
+    {
+     "w": "licensing",
+     "k": "파생",
+     "m": "라이선스 부여"
+    }
+   ],
+   "ex": "A valid driver's <b>license</b> is required for this job.",
+   "exKo": "이 직무에는 유효한 운전면허가 필요합니다."
+  },
+  {
+   "w": "likewise",
+   "p": "부사",
+   "m": "마찬가지로",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "similarly",
+     "k": "동의",
+     "m": "유사하게"
+    }
+   ],
+   "ex": "The Seoul branch grew; the Busan office did <b>likewise</b>.",
+   "exKo": "서울 지점이 성장했고, 부산 사무소도 마찬가지였습니다."
+  },
+  {
+   "w": "literature",
+   "p": "명사",
+   "m": "(홍보) 인쇄물, 문헌",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "promotional literature",
+     "k": "숙어",
+     "m": "홍보 인쇄물"
+    }
+   ],
+   "ex": "Product <b>literature</b> is available at the front desk.",
+   "exKo": "제품 홍보물은 안내 데스크에 비치되어 있습니다."
+  },
+  {
+   "w": "logistics",
+   "p": "명사",
+   "m": "물류",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "logistics company",
+     "k": "숙어",
+     "m": "물류 회사"
+    }
+   ],
+   "ex": "She manages <b>logistics</b> for all overseas shipments.",
+   "exKo": "그녀는 모든 해외 배송 물류를 관리합니다."
+  },
+  {
+   "w": "maintain",
+   "p": "동사",
+   "m": "유지하다, 정비하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "maintain records",
+     "k": "숙어",
+     "m": "기록을 유지하다"
+    }
+   ],
+   "ex": "Technicians <b>maintain</b> the elevators every quarter.",
+   "exKo": "기술자들이 분기마다 엘리베이터를 정비합니다."
+  },
+  {
+   "w": "majority",
+   "p": "명사",
+   "m": "다수, 과반수",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "the majority of",
+     "k": "숙어",
+     "m": "~의 대부분"
+    },
+    {
+     "w": "minority",
+     "k": "반의",
+     "m": "소수"
+    }
+   ],
+   "ex": "The <b>majority</b> of staff voted for flexible hours.",
+   "exKo": "직원 다수가 유연 근무제에 찬성했습니다."
+  },
+  {
+   "w": "manner",
+   "p": "명사",
+   "m": "방식, 태도",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "in a timely manner",
+     "k": "숙어",
+     "m": "시기적절하게"
+    }
+   ],
+   "ex": "Please handle complaints in a professional <b>manner</b>.",
+   "exKo": "불만 사항은 전문가다운 방식으로 처리해 주세요."
+  },
+  {
+   "w": "manuscript",
+   "p": "명사",
+   "m": "원고",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "submit a manuscript",
+     "k": "숙어",
+     "m": "원고를 제출하다"
+    }
+   ],
+   "ex": "The editor returned the <b>manuscript</b> with comments.",
+   "exKo": "편집자가 의견을 달아 원고를 돌려보냈습니다."
+  },
+  {
+   "w": "margin",
+   "p": "명사",
+   "m": "이윤 (폭), 여백",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "profit margin",
+     "k": "숙어",
+     "m": "이윤 폭"
+    }
+   ],
+   "ex": "Profit <b>margins</b> improved after the cost cuts.",
+   "exKo": "비용 절감 후 이윤 폭이 개선되었습니다."
+  },
+  {
+   "w": "mass",
+   "p": "형용사",
+   "m": "대량의, 대중의",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "mass production",
+     "k": "숙어",
+     "m": "대량 생산"
+    }
+   ],
+   "ex": "The factory switched to <b>mass</b> production last year.",
+   "exKo": "그 공장은 작년에 대량 생산으로 전환했습니다."
+  },
+  {
+   "w": "massive",
+   "p": "형용사",
+   "m": "거대한, 대규모의",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "enormous",
+     "k": "동의",
+     "m": "막대한"
+    }
+   ],
+   "ex": "The mall is holding a <b>massive</b> clearance sale.",
+   "exKo": "그 쇼핑몰은 대규모 재고 정리 세일을 하고 있습니다."
+  },
+  {
+   "w": "measure",
+   "p": "명사",
+   "m": "조치, 측정",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "take measures",
+     "k": "숙어",
+     "m": "조치를 취하다"
+    },
+    {
+     "w": "measurement",
+     "k": "파생",
+     "m": "측정, 치수"
+    }
+   ],
+   "ex": "We took extra <b>measures</b> to protect customer data.",
+   "exKo": "고객 데이터를 보호하기 위해 추가 조치를 취했습니다."
+  },
+  {
+   "w": "mechanic",
+   "p": "명사",
+   "m": "정비공",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "mechanical",
+     "k": "파생",
+     "m": "기계의"
+    }
+   ],
+   "ex": "The <b>mechanic</b> inspected the delivery van.",
+   "exKo": "정비공이 배송용 밴을 점검했습니다."
+  },
+  {
+   "w": "media",
+   "p": "명사",
+   "m": "매체, 언론",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "social media",
+     "k": "숙어",
+     "m": "소셜 미디어"
+    },
+    {
+     "w": "media coverage",
+     "k": "숙어",
+     "m": "언론 보도"
+    }
+   ],
+   "ex": "The launch attracted wide <b>media</b> attention.",
+   "exKo": "그 출시는 언론의 큰 주목을 받았습니다."
+  },
+  {
+   "w": "memorable",
+   "p": "형용사",
+   "m": "기억에 남는",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "unforgettable",
+     "k": "동의",
+     "m": "잊을 수 없는"
+    }
+   ],
+   "ex": "The gala dinner was a <b>memorable</b> evening.",
+   "exKo": "갈라 만찬은 기억에 남는 저녁이었습니다."
+  },
+  {
+   "w": "mentor",
+   "p": "명사",
+   "m": "멘토, 조언자",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "mentoring program",
+     "k": "숙어",
+     "m": "멘토링 프로그램"
+    }
+   ],
+   "ex": "Each new hire is paired with a <b>mentor</b>.",
+   "exKo": "신입 사원마다 멘토가 배정됩니다."
+  },
+  {
+   "w": "merge",
+   "p": "동사",
+   "m": "합병하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "merger",
+     "k": "파생",
+     "m": "합병"
+    },
+    {
+     "w": "merge with",
+     "k": "숙어",
+     "m": "~와 합병하다"
+    }
+   ],
+   "ex": "The two banks will <b>merge</b> next spring.",
+   "exKo": "두 은행은 내년 봄에 합병할 예정입니다."
+  },
+  {
+   "w": "merit",
+   "p": "명사",
+   "m": "장점, 가치",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "on merit",
+     "k": "숙어",
+     "m": "실력에 따라"
+    }
+   ],
+   "ex": "Each proposal is judged on its own <b>merits</b>.",
+   "exKo": "각 제안은 그 자체의 장점으로 평가됩니다."
+  },
+  {
+   "w": "method",
+   "p": "명사",
+   "m": "방법",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "payment method",
+     "k": "숙어",
+     "m": "결제 수단"
+    }
+   ],
+   "ex": "We updated our payment <b>methods</b> to include mobile pay.",
+   "exKo": "결제 방법에 모바일 결제를 추가했습니다."
+  },
+  {
+   "w": "minimize",
+   "p": "동사",
+   "m": "최소화하다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "maximize",
+     "k": "반의",
+     "m": "최대화하다"
+    }
+   ],
+   "ex": "Backups <b>minimize</b> the risk of losing data.",
+   "exKo": "백업은 데이터 손실 위험을 최소화합니다."
+  },
+  {
+   "w": "minimum",
+   "p": "명사",
+   "m": "최소(한)",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "minimum order",
+     "k": "숙어",
+     "m": "최소 주문량"
+    },
+    {
+     "w": "maximum",
+     "k": "반의",
+     "m": "최대"
+    }
+   ],
+   "ex": "The <b>minimum</b> order for free shipping is fifty dollars.",
+   "exKo": "무료 배송 최소 주문 금액은 50달러입니다."
+  },
+  {
+   "w": "minor",
+   "p": "형용사",
+   "m": "사소한, 경미한",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "major",
+     "k": "반의",
+     "m": "주요한"
+    }
+   ],
+   "ex": "The schedule needs only <b>minor</b> changes.",
+   "exKo": "일정에는 사소한 수정만 필요합니다."
+  },
+  {
+   "w": "mission",
+   "p": "명사",
+   "m": "사명, 임무",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "mission statement",
+     "k": "숙어",
+     "m": "기업 사명 선언문"
+    }
+   ],
+   "ex": "Our <b>mission</b> is to make banking simple for everyone.",
+   "exKo": "우리의 사명은 모두에게 쉬운 금융을 만드는 것입니다."
+  },
+  {
+   "w": "moderate",
+   "p": "형용사",
+   "m": "적당한, 온건한",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "moderately",
+     "k": "파생",
+     "m": "적당히"
+    },
+    {
+     "w": "moderator",
+     "k": "파생",
+     "m": "사회자"
+    }
+   ],
+   "ex": "The hotel offers good service at <b>moderate</b> prices.",
+   "exKo": "그 호텔은 적당한 가격에 좋은 서비스를 제공합니다."
+  },
+  {
+   "w": "modify",
+   "p": "동사",
+   "m": "수정하다, 변경하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "modification",
+     "k": "파생",
+     "m": "수정"
+    }
+   ],
+   "ex": "We can <b>modify</b> the design to fit your budget.",
+   "exKo": "예산에 맞게 디자인을 수정해 드릴 수 있습니다."
+  },
+  {
+   "w": "monitor",
+   "p": "동사",
+   "m": "관찰하다, 감시하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "monitor progress",
+     "k": "숙어",
+     "m": "진행 상황을 관찰하다"
+    }
+   ],
+   "ex": "Managers <b>monitor</b> inventory levels daily.",
+   "exKo": "매니저들은 매일 재고 수준을 관찰합니다."
+  },
+  {
+   "w": "morale",
+   "p": "명사",
+   "m": "사기, 의욕",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "employee morale",
+     "k": "숙어",
+     "m": "직원 사기"
+    }
+   ],
+   "ex": "The bonus announcement lifted team <b>morale</b>.",
+   "exKo": "보너스 발표가 팀 사기를 끌어올렸습니다."
+  },
+  {
+   "w": "motivate",
+   "p": "동사",
+   "m": "동기를 부여하다",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "motivation",
+     "k": "파생",
+     "m": "동기 (부여)"
+    },
+    {
+     "w": "motivated",
+     "k": "파생",
+     "m": "의욕적인"
+    }
+   ],
+   "ex": "Small rewards <b>motivate</b> staff to share ideas.",
+   "exKo": "작은 보상이 직원들의 아이디어 제안을 독려합니다."
+  },
+  {
+   "w": "multiple",
+   "p": "형용사",
+   "m": "다수의, 복수의",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "multiply",
+     "k": "파생",
+     "m": "곱하다, 크게 늘다"
+    }
+   ],
+   "ex": "The file can be shared with <b>multiple</b> users.",
+   "exKo": "그 파일은 여러 사용자와 공유할 수 있습니다."
+  },
+  {
+   "w": "mutual",
+   "p": "형용사",
+   "m": "상호의",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "mutually",
+     "k": "파생",
+     "m": "상호 간에"
+    },
+    {
+     "w": "mutual agreement",
+     "k": "숙어",
+     "m": "상호 합의"
+    }
+   ],
+   "ex": "The deal was canceled by <b>mutual</b> agreement.",
+   "exKo": "그 거래는 상호 합의로 취소되었습니다."
+  },
+  {
+   "w": "narrow",
+   "p": "형용사",
+   "m": "좁은",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "narrow down",
+     "k": "숙어",
+     "m": "좁히다, 추리다"
+    }
+   ],
+   "ex": "Delivery trucks cannot enter the <b>narrow</b> alley.",
+   "exKo": "배송 트럭은 그 좁은 골목에 들어갈 수 없습니다."
+  },
+  {
+   "w": "necessarily",
+   "p": "부사",
+   "m": "반드시",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "not necessarily",
+     "k": "숙어",
+     "m": "반드시 ~인 것은 아니다"
+    }
+   ],
+   "ex": "A higher price does not <b>necessarily</b> mean better quality.",
+   "exKo": "가격이 높다고 반드시 품질이 좋은 것은 아닙니다."
+  },
+  {
+   "w": "nevertheless",
+   "p": "부사",
+   "m": "그럼에도 불구하고",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "nonetheless",
+     "k": "동의",
+     "m": "그럼에도"
+    }
+   ],
+   "ex": "Sales fell; <b>nevertheless</b>, profits stayed stable.",
+   "exKo": "매출은 줄었지만, 그럼에도 이익은 안정적이었습니다."
+  },
+  {
+   "w": "nominate",
+   "p": "동사",
+   "m": "후보로 지명하다",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "nomination",
+     "k": "파생",
+     "m": "지명, 후보 추천"
+    },
+    {
+     "w": "nominee",
+     "k": "파생",
+     "m": "후보자"
+    }
+   ],
+   "ex": "Colleagues <b>nominated</b> her for the service award.",
+   "exKo": "동료들이 그녀를 서비스상 후보로 지명했습니다."
+  },
+  {
+   "w": "notable",
+   "p": "형용사",
+   "m": "주목할 만한",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "notably",
+     "k": "파생",
+     "m": "특히"
+    }
+   ],
+   "ex": "The museum saw a <b>notable</b> rise in visitors.",
+   "exKo": "그 박물관은 방문객이 주목할 만큼 늘었습니다."
+  },
+  {
+   "w": "noticeably",
+   "p": "부사",
+   "m": "눈에 띄게",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "noticeable",
+     "k": "파생",
+     "m": "뚜렷한"
+    }
+   ],
+   "ex": "Wait times dropped <b>noticeably</b> after the upgrade.",
+   "exKo": "업그레이드 후 대기 시간이 눈에 띄게 줄었습니다."
+  },
+  {
+   "w": "numerous",
+   "p": "형용사",
+   "m": "수많은",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "countless",
+     "k": "동의",
+     "m": "무수한"
+    }
+   ],
+   "ex": "We received <b>numerous</b> applications for the internship.",
+   "exKo": "인턴십에 수많은 지원서가 접수되었습니다."
+  },
+  {
+   "w": "objection",
+   "p": "명사",
+   "m": "이의, 반대",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "object to",
+     "k": "숙어",
+     "m": "~에 반대하다"
+    }
+   ],
+   "ex": "Are there any <b>objections</b> to the proposed date?",
+   "exKo": "제안된 날짜에 이의가 있으신가요?"
+  },
+  {
+   "w": "obligation",
+   "p": "명사",
+   "m": "의무",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "be obliged to",
+     "k": "숙어",
+     "m": "~할 의무가 있다"
+    },
+    {
+     "w": "obligatory",
+     "k": "파생",
+     "m": "의무적인"
+    }
+   ],
+   "ex": "The estimate is free, with no <b>obligation</b> to buy.",
+   "exKo": "견적은 무료이며 구매 의무는 없습니다."
+  },
+  {
+   "w": "observe",
+   "p": "동사",
+   "m": "관찰하다, 준수하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "observation",
+     "k": "파생",
+     "m": "관찰"
+    },
+    {
+     "w": "observance",
+     "k": "파생",
+     "m": "준수"
+    }
+   ],
+   "ex": "All visitors must <b>observe</b> the safety rules.",
+   "exKo": "모든 방문객은 안전 수칙을 준수해야 합니다."
+  },
+  {
+   "w": "obtain",
+   "p": "동사",
+   "m": "얻다, 획득하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "obtain approval",
+     "k": "숙어",
+     "m": "승인을 받다"
+    }
+   ],
+   "ex": "You can <b>obtain</b> a permit at the city office.",
+   "exKo": "시청에서 허가증을 받을 수 있습니다."
+  },
+  {
+   "w": "occasion",
+   "p": "명사",
+   "m": "행사, 경우",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "occasionally",
+     "k": "파생",
+     "m": "가끔"
+    },
+    {
+     "w": "special occasion",
+     "k": "숙어",
+     "m": "특별한 날"
+    }
+   ],
+   "ex": "The restaurant is perfect for special <b>occasions</b>.",
+   "exKo": "그 식당은 특별한 행사에 안성맞춤입니다."
+  },
+  {
+   "w": "occupy",
+   "p": "동사",
+   "m": "차지하다, 사용 중이다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "occupied",
+     "k": "파생",
+     "m": "사용 중인"
+    },
+    {
+     "w": "occupancy",
+     "k": "파생",
+     "m": "점유(율)"
+    },
+    {
+     "w": "occupant",
+     "k": "파생",
+     "m": "입주자"
+    }
+   ],
+   "ex": "The design team <b>occupies</b> the entire third floor.",
+   "exKo": "디자인팀이 3층 전체를 사용하고 있습니다."
+  },
+  {
+   "w": "ongoing",
+   "p": "형용사",
+   "m": "진행 중인",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "in progress",
+     "k": "동의",
+     "m": "진행 중인"
+    }
+   ],
+   "ex": "Road repairs are <b>ongoing</b> near the west gate.",
+   "exKo": "서문 근처에서 도로 보수가 진행 중입니다."
+  },
+  {
+   "w": "oppose",
+   "p": "동사",
+   "m": "반대하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "opposition",
+     "k": "파생",
+     "m": "반대"
+    },
+    {
+     "w": "as opposed to",
+     "k": "숙어",
+     "m": "~와는 대조적으로"
+    }
+   ],
+   "ex": "Several members <b>opposed</b> the budget increase.",
+   "exKo": "몇몇 위원이 예산 증액에 반대했습니다."
+  },
+  {
+   "w": "orientation",
+   "p": "명사",
+   "m": "오리엔테이션, 예비 교육",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "new employee orientation",
+     "k": "숙어",
+     "m": "신입 사원 교육"
+    }
+   ],
+   "ex": "New employee <b>orientation</b> begins at nine on Monday.",
+   "exKo": "신입 사원 오리엔테이션은 월요일 9시에 시작합니다."
+  },
+  {
+   "w": "otherwise",
+   "p": "부사",
+   "m": "그렇지 않으면",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "unless otherwise noted",
+     "k": "숙어",
+     "m": "별도 언급이 없는 한"
+    }
+   ],
+   "ex": "Leave now; <b>otherwise</b>, you will miss the train.",
+   "exKo": "지금 출발하세요. 그렇지 않으면 기차를 놓칩니다."
+  },
+  {
+   "w": "outcome",
+   "p": "명사",
+   "m": "결과",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "result",
+     "k": "동의",
+     "m": "결과"
+    }
+   ],
+   "ex": "We are satisfied with the <b>outcome</b> of the talks.",
+   "exKo": "협상 결과에 만족하고 있습니다."
+  },
+  {
+   "w": "outlet",
+   "p": "명사",
+   "m": "할인점, 콘센트",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "retail outlet",
+     "k": "숙어",
+     "m": "소매점"
+    },
+    {
+     "w": "power outlet",
+     "k": "숙어",
+     "m": "전기 콘센트"
+    }
+   ],
+   "ex": "The brand opened an <b>outlet</b> store near the highway.",
+   "exKo": "그 브랜드는 고속도로 근처에 할인 매장을 열었습니다."
+  },
+  {
+   "w": "outline",
+   "p": "동사",
+   "m": "개요를 설명하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "outline a plan",
+     "k": "숙어",
+     "m": "계획의 개요를 설명하다"
+    }
+   ],
+   "ex": "The manager <b>outlined</b> the plan in five minutes.",
+   "exKo": "매니저가 5분 만에 계획의 개요를 설명했습니다."
+  },
+  {
+   "w": "output",
+   "p": "명사",
+   "m": "생산량, 산출",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "input",
+     "k": "반의",
+     "m": "투입"
+    }
+   ],
+   "ex": "Factory <b>output</b> doubled after the new line opened.",
+   "exKo": "새 라인 가동 후 공장 생산량이 두 배가 되었습니다."
+  },
+  {
+   "w": "overall",
+   "p": "형용사",
+   "m": "전반적인",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "overall performance",
+     "k": "숙어",
+     "m": "전반적인 성과"
+    }
+   ],
+   "ex": "<b>Overall</b> satisfaction scores improved this year.",
+   "exKo": "올해 전반적인 만족도 점수가 개선되었습니다."
+  },
+  {
+   "w": "overdue",
+   "p": "형용사",
+   "m": "기한이 지난, 연체된",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "overdue payment",
+     "k": "숙어",
+     "m": "연체된 대금"
+    }
+   ],
+   "ex": "Please pay the <b>overdue</b> balance this week.",
+   "exKo": "연체된 잔액을 이번 주에 납부해 주세요."
+  },
+  {
+   "w": "overlook",
+   "p": "동사",
+   "m": "간과하다, 내려다보다",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "overlook the ocean",
+     "k": "숙어",
+     "m": "바다가 내려다보이다"
+    }
+   ],
+   "ex": "Do not <b>overlook</b> the small print in the contract.",
+   "exKo": "계약서의 작은 글씨를 간과하지 마세요."
+  },
+  {
+   "w": "oversee",
+   "p": "동사",
+   "m": "감독하다",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "supervise",
+     "k": "동의",
+     "m": "감독하다"
+    }
+   ],
+   "ex": "She <b>oversees</b> three retail locations.",
+   "exKo": "그녀는 소매점 세 곳을 감독합니다."
+  },
+  {
+   "w": "overwhelm",
+   "p": "동사",
+   "m": "압도하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "overwhelming",
+     "k": "파생",
+     "m": "압도적인"
+    },
+    {
+     "w": "overwhelmingly",
+     "k": "파생",
+     "m": "압도적으로"
+    }
+   ],
+   "ex": "Holiday orders can <b>overwhelm</b> our small staff.",
+   "exKo": "연휴 주문이 소규모 인력을 압도할 수 있습니다."
+  },
+  {
+   "w": "owe",
+   "p": "동사",
+   "m": "빚지다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "owe A to B",
+     "k": "숙어",
+     "m": "A는 B 덕분이다"
+    }
+   ],
+   "ex": "You still <b>owe</b> the balance on the invoice.",
+   "exKo": "송장 잔액이 아직 미납 상태입니다."
+  },
+  {
+   "w": "pace",
+   "p": "명사",
+   "m": "속도",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "keep pace with",
+     "k": "숙어",
+     "m": "~에 발맞추다"
+    }
+   ],
+   "ex": "The project is moving at a steady <b>pace</b>.",
+   "exKo": "프로젝트는 꾸준한 속도로 진행되고 있습니다."
+  },
+  {
+   "w": "partial",
+   "p": "형용사",
+   "m": "부분적인",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "partial refund",
+     "k": "숙어",
+     "m": "부분 환불"
+    }
+   ],
+   "ex": "We issued a <b>partial</b> refund for the damaged item.",
+   "exKo": "손상된 상품에 대해 부분 환불을 해 드렸습니다."
+  },
+  {
+   "w": "participate",
+   "p": "동사",
+   "m": "참가하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "participate in",
+     "k": "숙어",
+     "m": "~에 참가하다"
+    },
+    {
+     "w": "participation",
+     "k": "파생",
+     "m": "참가"
+    }
+   ],
+   "ex": "All staff are invited to <b>participate</b> in the survey.",
+   "exKo": "전 직원이 설문에 참가하도록 초대됩니다."
+  },
+  {
+   "w": "particular",
+   "p": "형용사",
+   "m": "특정한",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "in particular",
+     "k": "숙어",
+     "m": "특히"
+    }
+   ],
+   "ex": "This <b>particular</b> model sells out quickly.",
+   "exKo": "이 특정 모델은 빨리 품절됩니다."
+  },
+  {
+   "w": "partnership",
+   "p": "명사",
+   "m": "제휴, 동업",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "in partnership with",
+     "k": "숙어",
+     "m": "~와 제휴하여"
+    }
+   ],
+   "ex": "The cafe formed a <b>partnership</b> with a local bakery.",
+   "exKo": "그 카페는 지역 빵집과 제휴를 맺었습니다."
+  },
+  {
+   "w": "patron",
+   "p": "명사",
+   "m": "고객, 후원자",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "patronize",
+     "k": "파생",
+     "m": "애용하다"
+    }
+   ],
+   "ex": "Regular <b>patrons</b> receive a loyalty card.",
+   "exKo": "단골 고객에게는 적립 카드가 제공됩니다."
+  },
+  {
+   "w": "pending",
+   "p": "형용사",
+   "m": "보류 중인, 계류 중인",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "pending approval",
+     "k": "숙어",
+     "m": "승인 대기 중"
+    }
+   ],
+   "ex": "Your refund is still <b>pending</b> approval.",
+   "exKo": "환불은 아직 승인 대기 중입니다."
+  },
+  {
+   "w": "per",
+   "p": "전치사",
+   "m": "~당, ~마다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "per person",
+     "k": "숙어",
+     "m": "1인당"
+    },
+    {
+     "w": "as per",
+     "k": "숙어",
+     "m": "~에 따라"
+    }
+   ],
+   "ex": "The rental costs forty dollars <b>per</b> day.",
+   "exKo": "대여료는 하루당 40달러입니다."
+  },
+  {
+   "w": "performance",
+   "p": "명사",
+   "m": "성과, 공연",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "performance review",
+     "k": "숙어",
+     "m": "인사 평가"
+    },
+    {
+     "w": "perform",
+     "k": "파생",
+     "m": "수행하다, 공연하다"
+    }
+   ],
+   "ex": "Bonuses are based on annual <b>performance</b> reviews.",
+   "exKo": "보너스는 연간 성과 평가에 근거합니다."
+  },
+  {
+   "w": "permanent",
+   "p": "형용사",
+   "m": "영구적인, 정규직의",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "permanently",
+     "k": "파생",
+     "m": "영구히"
+    },
+    {
+     "w": "permanent position",
+     "k": "숙어",
+     "m": "정규직"
+    }
+   ],
+   "ex": "After six months, the position becomes <b>permanent</b>.",
+   "exKo": "6개월 후 그 자리는 정규직으로 전환됩니다."
+  },
+  {
+   "w": "permission",
+   "p": "명사",
+   "m": "허락, 허가",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "without permission",
+     "k": "숙어",
+     "m": "허가 없이"
+    }
+   ],
+   "ex": "You need <b>permission</b> to film inside the museum.",
+   "exKo": "박물관 내부 촬영에는 허가가 필요합니다."
+  },
+  {
+   "w": "persuade",
+   "p": "동사",
+   "m": "설득하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "persuasive",
+     "k": "파생",
+     "m": "설득력 있는"
+    },
+    {
+     "w": "persuasion",
+     "k": "파생",
+     "m": "설득"
+    }
+   ],
+   "ex": "The salesperson <b>persuaded</b> me to try the premium plan.",
+   "exKo": "판매원이 프리미엄 요금제를 써 보라고 저를 설득했습니다."
+  },
+  {
+   "w": "pharmaceutical",
+   "p": "형용사",
+   "m": "제약의",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "pharmaceutical company",
+     "k": "숙어",
+     "m": "제약 회사"
+    }
+   ],
+   "ex": "She works for a large <b>pharmaceutical</b> company.",
+   "exKo": "그녀는 대형 제약 회사에서 일합니다."
+  },
+  {
+   "w": "phase",
+   "p": "명사",
+   "m": "단계",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "phase out",
+     "k": "숙어",
+     "m": "단계적으로 폐지하다"
+    }
+   ],
+   "ex": "The construction will proceed in three <b>phases</b>.",
+   "exKo": "공사는 세 단계로 진행됩니다."
+  },
+  {
+   "w": "pile",
+   "p": "명사",
+   "m": "더미",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "a pile of",
+     "k": "숙어",
+     "m": "한 무더기의"
+    }
+   ],
+   "ex": "A <b>pile</b> of applications sat on the desk.",
+   "exKo": "지원서 한 더미가 책상 위에 쌓여 있었습니다."
+  },
+  {
+   "w": "pioneer",
+   "p": "명사",
+   "m": "선구자",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "pioneering",
+     "k": "파생",
+     "m": "선구적인"
+    }
+   ],
+   "ex": "The company was a <b>pioneer</b> in online banking.",
+   "exKo": "그 회사는 온라인 뱅킹의 선구자였습니다."
+  },
+  {
+   "w": "plenty",
+   "p": "명사",
+   "m": "풍부한 양",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "plenty of",
+     "k": "숙어",
+     "m": "많은"
+    }
+   ],
+   "ex": "There is <b>plenty</b> of parking behind the store.",
+   "exKo": "매장 뒤에 주차 공간이 넉넉합니다."
+  },
+  {
+   "w": "portion",
+   "p": "명사",
+   "m": "부분, 1인분",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "a portion of",
+     "k": "숙어",
+     "m": "~의 일부"
+    }
+   ],
+   "ex": "A <b>portion</b> of the profits goes to charity.",
+   "exKo": "수익의 일부는 자선단체에 기부됩니다."
+  },
+  {
+   "w": "possess",
+   "p": "동사",
+   "m": "소유하다, 갖추다",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "possession",
+     "k": "파생",
+     "m": "소유(물)"
+    }
+   ],
+   "ex": "Candidates must <b>possess</b> strong writing skills.",
+   "exKo": "지원자는 뛰어난 작문 능력을 갖춰야 합니다."
+  },
+  {
+   "w": "potential",
+   "p": "명사",
+   "m": "잠재력",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "potential customer",
+     "k": "숙어",
+     "m": "잠재 고객"
+    },
+    {
+     "w": "potentially",
+     "k": "파생",
+     "m": "잠재적으로"
+    }
+   ],
+   "ex": "The overseas market has huge growth <b>potential</b>.",
+   "exKo": "해외 시장은 큰 성장 잠재력을 갖고 있습니다."
+  },
+  {
+   "w": "praise",
+   "p": "동사",
+   "m": "칭찬하다",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "praise A for B",
+     "k": "숙어",
+     "m": "B에 대해 A를 칭찬하다"
+    }
+   ],
+   "ex": "The manager <b>praised</b> the team for the quick fix.",
+   "exKo": "매니저는 신속한 문제 해결에 대해 팀을 칭찬했습니다."
+  },
+  {
+   "w": "precaution",
+   "p": "명사",
+   "m": "예방 조치",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "safety precautions",
+     "k": "숙어",
+     "m": "안전 수칙"
+    }
+   ],
+   "ex": "As a <b>precaution</b>, back up your files daily.",
+   "exKo": "예방 조치로 매일 파일을 백업하세요."
+  },
+  {
+   "w": "precise",
+   "p": "형용사",
+   "m": "정밀한, 정확한",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "precisely",
+     "k": "파생",
+     "m": "정확히"
+    },
+    {
+     "w": "precision",
+     "k": "파생",
+     "m": "정밀(도)"
+    }
+   ],
+   "ex": "The parts must be cut to <b>precise</b> measurements.",
+   "exKo": "부품은 정밀한 치수로 절단되어야 합니다."
+  },
+  {
+   "w": "predict",
+   "p": "동사",
+   "m": "예측하다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "prediction",
+     "k": "파생",
+     "m": "예측"
+    },
+    {
+     "w": "predictable",
+     "k": "파생",
+     "m": "예측 가능한"
+    }
+   ],
+   "ex": "Analysts <b>predict</b> steady growth next year.",
+   "exKo": "분석가들은 내년의 꾸준한 성장을 예측합니다."
+  },
+  {
+   "w": "premium",
+   "p": "명사",
+   "m": "보험료, 할증금",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "insurance premium",
+     "k": "숙어",
+     "m": "보험료"
+    },
+    {
+     "w": "premium quality",
+     "k": "숙어",
+     "m": "최고급 품질"
+    }
+   ],
+   "ex": "The insurance <b>premium</b> increased slightly this year.",
+   "exKo": "올해 보험료가 소폭 인상되었습니다."
+  },
+  {
+   "w": "prescription",
+   "p": "명사",
+   "m": "처방(전)",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "prescribe",
+     "k": "파생",
+     "m": "처방하다"
+    }
+   ],
+   "ex": "Bring your <b>prescription</b> to the pharmacy counter.",
+   "exKo": "처방전을 약국 창구로 가져오세요."
+  },
+  {
+   "w": "presence",
+   "p": "명사",
+   "m": "존재(감), 참석",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "market presence",
+     "k": "숙어",
+     "m": "시장 내 입지"
+    }
+   ],
+   "ex": "The brand built a strong online <b>presence</b>.",
+   "exKo": "그 브랜드는 강력한 온라인 존재감을 구축했습니다."
+  },
+  {
+   "w": "preserve",
+   "p": "동사",
+   "m": "보존하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "preservation",
+     "k": "파생",
+     "m": "보존"
+    }
+   ],
+   "ex": "The city works to <b>preserve</b> its historic buildings.",
+   "exKo": "시는 역사적 건물을 보존하기 위해 노력합니다."
+  },
+  {
+   "w": "prestigious",
+   "p": "형용사",
+   "m": "명망 있는",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "prestige",
+     "k": "파생",
+     "m": "명성"
+    }
+   ],
+   "ex": "She received a <b>prestigious</b> industry award.",
+   "exKo": "그녀는 명망 있는 업계 상을 받았습니다."
+  },
+  {
+   "w": "prevent",
+   "p": "동사",
+   "m": "막다, 예방하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "prevent A from -ing",
+     "k": "숙어",
+     "m": "A가 ~하지 못하게 하다"
+    },
+    {
+     "w": "prevention",
+     "k": "파생",
+     "m": "예방"
+    }
+   ],
+   "ex": "Regular checks <b>prevent</b> costly machine failures.",
+   "exKo": "정기 점검은 값비싼 기계 고장을 예방합니다."
+  },
+  {
+   "w": "previous",
+   "p": "형용사",
+   "m": "이전의",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "previously",
+     "k": "파생",
+     "m": "이전에"
+    }
+   ],
+   "ex": "Please refer to my <b>previous</b> email for details.",
+   "exKo": "자세한 내용은 제 이전 이메일을 참조하세요."
+  },
+  {
+   "w": "primary",
+   "p": "형용사",
+   "m": "주요한, 첫째의",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "primarily",
+     "k": "파생",
+     "m": "주로"
+    }
+   ],
+   "ex": "Our <b>primary</b> goal is customer satisfaction.",
+   "exKo": "우리의 주요 목표는 고객 만족입니다."
+  },
+  {
+   "w": "prior",
+   "p": "형용사",
+   "m": "사전의, 이전의",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "prior to",
+     "k": "숙어",
+     "m": "~ 전에"
+    },
+    {
+     "w": "prior experience",
+     "k": "숙어",
+     "m": "이전 경력"
+    }
+   ],
+   "ex": "No <b>prior</b> experience is required for this role.",
+   "exKo": "이 직무에는 사전 경력이 필요하지 않습니다."
+  },
+  {
+   "w": "priority",
+   "p": "명사",
+   "m": "우선순위",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "top priority",
+     "k": "숙어",
+     "m": "최우선 과제"
+    },
+    {
+     "w": "prioritize",
+     "k": "파생",
+     "m": "우선순위를 정하다"
+    }
+   ],
+   "ex": "Fixing the server issue is our top <b>priority</b>.",
+   "exKo": "서버 문제 해결이 최우선 과제입니다."
+  },
+  {
+   "w": "probably",
+   "p": "부사",
+   "m": "아마도",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "probable",
+     "k": "파생",
+     "m": "있음 직한"
+    },
+    {
+     "w": "probability",
+     "k": "파생",
+     "m": "확률"
+    }
+   ],
+   "ex": "The shipment will <b>probably</b> arrive on Thursday.",
+   "exKo": "화물은 아마 목요일에 도착할 것입니다."
+  },
+  {
+   "w": "proceed",
+   "p": "동사",
+   "m": "진행하다, 나아가다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "proceed with",
+     "k": "숙어",
+     "m": "~을 진행하다"
+    },
+    {
+     "w": "proceeds",
+     "k": "파생",
+     "m": "수익금"
+    }
+   ],
+   "ex": "Let's <b>proceed</b> to the next agenda item.",
+   "exKo": "다음 안건으로 진행합시다."
+  },
+  {
+   "w": "proficient",
+   "p": "형용사",
+   "m": "능숙한",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "proficiency",
+     "k": "파생",
+     "m": "숙달, 능숙도"
+    },
+    {
+     "w": "be proficient in",
+     "k": "숙어",
+     "m": "~에 능숙하다"
+    }
+   ],
+   "ex": "She is <b>proficient</b> in three design programs.",
+   "exKo": "그녀는 디자인 프로그램 세 가지에 능숙합니다."
+  },
+  {
+   "w": "prominent",
+   "p": "형용사",
+   "m": "저명한, 두드러진",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "prominently",
+     "k": "파생",
+     "m": "눈에 잘 띄게"
+    }
+   ],
+   "ex": "A <b>prominent</b> economist will give the keynote speech.",
+   "exKo": "저명한 경제학자가 기조연설을 할 예정입니다."
+  },
+  {
+   "w": "promptly",
+   "p": "부사",
+   "m": "신속히, 정각에",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "prompt",
+     "k": "파생",
+     "m": "신속한"
+    },
+    {
+     "w": "promptness",
+     "k": "파생",
+     "m": "신속함"
+    }
+   ],
+   "ex": "Please reply <b>promptly</b> to customer emails.",
+   "exKo": "고객 이메일에 신속히 답장해 주세요."
+  },
+  {
+   "w": "proof",
+   "p": "명사",
+   "m": "증거, 증명(서)",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "proof of purchase",
+     "k": "숙어",
+     "m": "구매 증빙"
+    }
+   ],
+   "ex": "Keep the receipt as <b>proof</b> of purchase.",
+   "exKo": "구매 증명으로 영수증을 보관하세요."
+  },
+  {
+   "w": "proper",
+   "p": "형용사",
+   "m": "적절한, 제대로 된",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "properly",
+     "k": "파생",
+     "m": "제대로"
+    },
+    {
+     "w": "improper",
+     "k": "반의",
+     "m": "부적절한"
+    }
+   ],
+   "ex": "Wear <b>proper</b> safety gear in the workshop.",
+   "exKo": "작업장에서는 적절한 안전 장비를 착용하세요."
+  },
+  {
+   "w": "property",
+   "p": "명사",
+   "m": "부동산, 재산",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "property owner",
+     "k": "숙어",
+     "m": "부동산 소유주"
+    },
+    {
+     "w": "intellectual property",
+     "k": "숙어",
+     "m": "지적 재산"
+    }
+   ],
+   "ex": "The company bought a <b>property</b> near the port.",
+   "exKo": "회사는 항구 근처의 부동산을 매입했습니다."
+  },
+  {
+   "w": "proposal",
+   "p": "명사",
+   "m": "제안(서)",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "propose",
+     "k": "파생",
+     "m": "제안하다"
+    },
+    {
+     "w": "submit a proposal",
+     "k": "숙어",
+     "m": "제안서를 제출하다"
+    }
+   ],
+   "ex": "The board approved the budget <b>proposal</b>.",
+   "exKo": "이사회가 예산 제안서를 승인했습니다."
+  },
+  {
+   "w": "prospect",
+   "p": "명사",
+   "m": "전망, 가망",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "job prospects",
+     "k": "숙어",
+     "m": "취업 전망"
+    }
+   ],
+   "ex": "The <b>prospect</b> of overseas expansion excites investors.",
+   "exKo": "해외 진출 전망이 투자자들을 설레게 합니다."
+  },
+  {
+   "w": "protect",
+   "p": "동사",
+   "m": "보호하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "protection",
+     "k": "파생",
+     "m": "보호"
+    },
+    {
+     "w": "protective",
+     "k": "파생",
+     "m": "보호용의"
+    }
+   ],
+   "ex": "Passwords <b>protect</b> your account information.",
+   "exKo": "비밀번호는 계정 정보를 보호합니다."
+  },
+  {
+   "w": "prove",
+   "p": "동사",
+   "m": "입증하다, 판명되다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "proven",
+     "k": "파생",
+     "m": "입증된"
+    },
+    {
+     "w": "prove to be",
+     "k": "숙어",
+     "m": "~임이 판명되다"
+    }
+   ],
+   "ex": "The new layout <b>proved</b> popular with shoppers.",
+   "exKo": "새 배치는 쇼핑객들에게 인기가 있는 것으로 판명되었습니다."
+  },
+  {
+   "w": "publication",
+   "p": "명사",
+   "m": "출판(물), 발행",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "publish",
+     "k": "파생",
+     "m": "출판하다"
+    },
+    {
+     "w": "publisher",
+     "k": "파생",
+     "m": "출판사"
+    }
+   ],
+   "ex": "Her article appeared in a trade <b>publication</b>.",
+   "exKo": "그녀의 글이 업계 간행물에 실렸습니다."
+  },
+  {
+   "w": "publicity",
+   "p": "명사",
+   "m": "홍보, 언론의 관심",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "publicize",
+     "k": "파생",
+     "m": "홍보하다"
+    }
+   ],
+   "ex": "The event received a lot of positive <b>publicity</b>.",
+   "exKo": "그 행사는 많은 긍정적 언론 관심을 받았습니다."
+  },
+  {
+   "w": "punctual",
+   "p": "형용사",
+   "m": "시간을 지키는",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "punctually",
+     "k": "파생",
+     "m": "제시간에"
+    },
+    {
+     "w": "punctuality",
+     "k": "파생",
+     "m": "시간 엄수"
+    }
+   ],
+   "ex": "Please be <b>punctual</b> for the client meeting.",
+   "exKo": "고객 미팅에는 시간을 지켜 주세요."
+  },
+  {
+   "w": "pursue",
+   "p": "동사",
+   "m": "추구하다, (진로를) 나아가다",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "pursue a career",
+     "k": "숙어",
+     "m": "경력을 쌓다"
+    },
+    {
+     "w": "pursuit",
+     "k": "파생",
+     "m": "추구"
+    }
+   ],
+   "ex": "He left the firm to <b>pursue</b> a teaching career.",
+   "exKo": "그는 교직의 길을 걷기 위해 회사를 떠났습니다."
+  }
+ ]
+}
