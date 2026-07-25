@@ -1,1362 +1,1594 @@
 {
-"words": [
-{
-"w": "abolish",
-"p": "동사",
-"m": "폐지하다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "abolition",
-"k": "파생",
-"m": "폐지"
-}
-]
-},
-{
-"w": "abrupt",
-"p": "형용사",
-"m": "갑작스러운",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "abruptly",
-"k": "파생",
-"m": "갑자기"
-}
-]
-},
-{
-"w": "absenteeism",
-"p": "명사",
-"m": "상습적 결근",
-"cat": "채용·인사"
-},
-{
-"w": "accrue",
-"p": "동사",
-"m": "(이자·휴가가) 쌓이다, 발생하다",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "accrued interest",
-"k": "숙어",
-"m": "미지급 이자"
-}
-]
-},
-{
-"w": "adhere",
-"p": "동사",
-"m": "준수하다, 부착되다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "adhere to",
-"k": "숙어",
-"m": "~을 준수하다"
-},
-{
-"w": "adherence",
-"k": "파생",
-"m": "준수"
-}
-]
-},
-{
-"w": "adverse",
-"p": "형용사",
-"m": "불리한, 부정적인",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "adversely",
-"k": "파생",
-"m": "불리하게"
-},
-{
-"w": "adverse effect",
-"k": "숙어",
-"m": "악영향"
-}
-]
-},
-{
-"w": "advocate",
-"p": "동사",
-"m": "옹호하다, 지지하다",
-"cat": "회의",
-"rel": [
-{
-"w": "advocacy",
-"k": "파생",
-"m": "옹호"
-}
-]
-},
-{
-"w": "aesthetic",
-"p": "형용사",
-"m": "미적인",
-"cat": "마케팅",
-"rel": [
-{
-"w": "aesthetically",
-"k": "파생",
-"m": "미적으로"
-}
-]
-},
-{
-"w": "affiliate",
-"p": "명사",
-"m": "계열사, 제휴사",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "affiliated",
-"k": "파생",
-"m": "제휴된"
-},
-{
-"w": "be affiliated with",
-"k": "숙어",
-"m": "~와 제휴 관계이다"
-}
-]
-},
-{
-"w": "affluent",
-"p": "형용사",
-"m": "부유한",
-"cat": "마케팅",
-"rel": [
-{
-"w": "wealthy",
-"k": "동의",
-"m": "부유한"
-}
-]
-},
-{
-"w": "aggregate",
-"p": "명사",
-"m": "총계, 합계",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "in the aggregate",
-"k": "숙어",
-"m": "전체적으로"
-}
-]
-},
-{
-"w": "ailing",
-"p": "형용사",
-"m": "부진한, 병든",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "ailing economy",
-"k": "숙어",
-"m": "침체된 경제"
-}
-]
-},
-{
-"w": "albeit",
-"p": "접속사",
-"m": "비록 ~이지만",
-"cat": "회의"
-},
-{
-"w": "allegedly",
-"p": "부사",
-"m": "주장에 따르면",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "alleged",
-"k": "파생",
-"m": "~라고 주장된"
-}
-]
-},
-{
-"w": "alleviate",
-"p": "동사",
-"m": "완화하다",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "alleviate congestion",
-"k": "숙어",
-"m": "혼잡을 완화하다"
-}
-]
-},
-{
-"w": "ambiguous",
-"p": "형용사",
-"m": "모호한",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "ambiguity",
-"k": "파생",
-"m": "모호함"
-},
-{
-"w": "unambiguous",
-"k": "반의",
-"m": "명확한"
-}
-]
-},
-{
-"w": "analogous",
-"p": "형용사",
-"m": "유사한",
-"cat": "회의",
-"rel": [
-{
-"w": "analogy",
-"k": "파생",
-"m": "유추, 비유"
-}
-]
-},
-{
-"w": "annuity",
-"p": "명사",
-"m": "연금",
-"cat": "재무·회계"
-},
-{
-"w": "antique",
-"p": "명사",
-"m": "골동품",
-"cat": "마케팅",
-"rel": [
-{
-"w": "antique dealer",
-"k": "숙어",
-"m": "골동품상"
-}
-]
-},
-{
-"w": "appellate",
-"p": "형용사",
-"m": "항소의",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "appeal a decision",
-"k": "숙어",
-"m": "판결에 항소하다"
-}
-]
-},
-{
-"w": "apprehensive",
-"p": "형용사",
-"m": "걱정하는, 불안한",
-"cat": "채용·인사"
-},
-{
-"w": "arduous",
-"p": "형용사",
-"m": "고된, 힘든",
-"cat": "채용·인사"
-},
-{
-"w": "array",
-"p": "명사",
-"m": "다수, 배열",
-"cat": "마케팅",
-"rel": [
-{
-"w": "an array of",
-"k": "숙어",
-"m": "다양한"
-}
-]
-},
-{
-"w": "articulate",
-"p": "동사",
-"m": "명료하게 표현하다",
-"cat": "회의",
-"rel": [
-{
-"w": "articulate a vision",
-"k": "숙어",
-"m": "비전을 명확히 밝히다"
-}
-]
-},
-{
-"w": "ascend",
-"p": "동사",
-"m": "오르다",
-"cat": "출장·여행",
-"rel": [
-{
-"w": "descend",
-"k": "반의",
-"m": "내려가다"
-}
-]
-},
-{
-"w": "ascertain",
-"p": "동사",
-"m": "확인하다, 알아내다",
-"cat": "계약·법무"
-},
-{
-"w": "aspire",
-"p": "동사",
-"m": "열망하다",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "aspire to",
-"k": "숙어",
-"m": "~을 열망하다"
-},
-{
-"w": "aspiring",
-"k": "파생",
-"m": "장차 ~가 되려는"
-}
-]
-},
-{
-"w": "assert",
-"p": "동사",
-"m": "주장하다",
-"cat": "회의",
-"rel": [
-{
-"w": "assertive",
-"k": "파생",
-"m": "적극적인, 확신에 찬"
-}
-]
-},
-{
-"w": "astute",
-"p": "형용사",
-"m": "기민한, 눈치 빠른",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "astute investor",
-"k": "숙어",
-"m": "기민한 투자자"
-}
-]
-},
-{
-"w": "attest",
-"p": "동사",
-"m": "증명하다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "attest to",
-"k": "숙어",
-"m": "~을 증명하다"
-}
-]
-},
-{
-"w": "attrition",
-"p": "명사",
-"m": "자연 감소, 인원 감축",
-"cat": "채용·인사"
-},
-{
-"w": "augment",
-"p": "동사",
-"m": "늘리다, 증대시키다",
-"cat": "재무·회계"
-},
-{
-"w": "auspicious",
-"p": "형용사",
-"m": "상서로운, 길조의",
-"cat": "회의"
-},
-{
-"w": "authenticate",
-"p": "동사",
-"m": "진위를 확인하다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "authentication",
-"k": "파생",
-"m": "인증"
-},
-{
-"w": "authenticity",
-"k": "파생",
-"m": "진위, 진품성"
-}
-]
-},
-{
-"w": "avert",
-"p": "동사",
-"m": "피하다, 방지하다",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "avert a crisis",
-"k": "숙어",
-"m": "위기를 모면하다"
-}
-]
-},
-{
-"w": "avid",
-"p": "형용사",
-"m": "열렬한",
-"cat": "마케팅",
-"rel": [
-{
-"w": "avid reader",
-"k": "숙어",
-"m": "열혈 독자"
-}
-]
-},
-{
-"w": "bearer",
-"p": "명사",
-"m": "소지자",
-"cat": "계약·법무"
-},
-{
-"w": "bilateral",
-"p": "형용사",
-"m": "쌍방의, 양자 간의",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "bilateral agreement",
-"k": "숙어",
-"m": "양자 협정"
-}
-]
-},
-{
-"w": "binding",
-"p": "형용사",
-"m": "구속력 있는",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "legally binding",
-"k": "숙어",
-"m": "법적 구속력이 있는"
-}
-]
-},
-{
-"w": "bleak",
-"p": "형용사",
-"m": "암울한",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "bleak outlook",
-"k": "숙어",
-"m": "암울한 전망"
-}
-]
-},
-{
-"w": "bolster",
-"p": "동사",
-"m": "강화하다, 북돋우다",
-"cat": "마케팅",
-"rel": [
-{
-"w": "bolster confidence",
-"k": "숙어",
-"m": "자신감을 북돋우다"
-}
-]
-},
-{
-"w": "bountiful",
-"p": "형용사",
-"m": "풍부한",
-"cat": "배송·주문"
-},
-{
-"w": "breach",
-"p": "명사",
-"m": "위반, 불이행",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "breach of contract",
-"k": "숙어",
-"m": "계약 위반"
-}
-]
-},
-{
-"w": "brokerage",
-"p": "명사",
-"m": "중개업(소)",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "brokerage firm",
-"k": "숙어",
-"m": "증권 회사"
-}
-]
-},
-{
-"w": "bureaucratic",
-"p": "형용사",
-"m": "관료적인",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "bureaucracy",
-"k": "파생",
-"m": "관료제"
-}
-]
-},
-{
-"w": "bustling",
-"p": "형용사",
-"m": "북적거리는",
-"cat": "출장·여행",
-"rel": [
-{
-"w": "bustling district",
-"k": "숙어",
-"m": "번화가"
-}
-]
-},
-{
-"w": "candid",
-"p": "형용사",
-"m": "솔직한",
-"cat": "회의",
-"rel": [
-{
-"w": "candidly",
-"k": "파생",
-"m": "솔직하게"
-}
-]
-},
-{
-"w": "capitalize",
-"p": "동사",
-"m": "활용하다, 자본화하다",
-"cat": "마케팅",
-"rel": [
-{
-"w": "capitalize on",
-"k": "숙어",
-"m": "~을 활용하다"
-}
-]
-},
-{
-"w": "cardinal",
-"p": "형용사",
-"m": "가장 중요한",
-"cat": "회의",
-"rel": [
-{
-"w": "cardinal rule",
-"k": "숙어",
-"m": "기본 원칙"
-}
-]
-},
-{
-"w": "catalyst",
-"p": "명사",
-"m": "촉매, 기폭제",
-"cat": "마케팅"
-},
-{
-"w": "caveat",
-"p": "명사",
-"m": "단서, 주의 사항",
-"cat": "계약·법무"
-},
-{
-"w": "cessation",
-"p": "명사",
-"m": "중단",
-"cat": "계약·법무"
-},
-{
-"w": "circumvent",
-"p": "동사",
-"m": "우회하다, 회피하다",
-"cat": "계약·법무"
-},
-{
-"w": "coincide",
-"p": "동사",
-"m": "동시에 일어나다, 일치하다",
-"cat": "회의",
-"rel": [
-{
-"w": "coincide with",
-"k": "숙어",
-"m": "~와 겹치다"
-},
-{
-"w": "coincidence",
-"k": "파생",
-"m": "우연의 일치"
-}
-]
-},
-{
-"w": "collaborative",
-"p": "형용사",
-"m": "협력적인",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "collaborative effort",
-"k": "숙어",
-"m": "공동 노력"
-}
-]
-},
-{
-"w": "commendable",
-"p": "형용사",
-"m": "칭찬할 만한",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "commend",
-"k": "파생",
-"m": "칭찬하다"
-},
-{
-"w": "commendation",
-"k": "파생",
-"m": "표창"
-}
-]
-},
-{
-"w": "commensurate",
-"p": "형용사",
-"m": "상응하는",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "commensurate with experience",
-"k": "숙어",
-"m": "경력에 비례하는 (급여)"
-}
-]
-},
-{
-"w": "compelling",
-"p": "형용사",
-"m": "설득력 있는, 매력적인",
-"cat": "마케팅",
-"rel": [
-{
-"w": "compelling reason",
-"k": "숙어",
-"m": "설득력 있는 이유"
-}
-]
-},
-{
-"w": "complacent",
-"p": "형용사",
-"m": "현실에 안주하는",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "complacency",
-"k": "파생",
-"m": "안주"
-}
-]
-},
-{
-"w": "compliance",
-"p": "명사",
-"m": "(규정) 준수",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "in compliance with",
-"k": "숙어",
-"m": "~을 준수하여"
-},
-{
-"w": "noncompliance",
-"k": "반의",
-"m": "불이행"
-}
-]
-},
-{
-"w": "comptroller",
-"p": "명사",
-"m": "감사관, 회계 감독관",
-"cat": "재무·회계"
-},
-{
-"w": "concession",
-"p": "명사",
-"m": "양보, 할인",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "make concessions",
-"k": "숙어",
-"m": "양보하다"
-}
-]
-},
-{
-"w": "concise",
-"p": "형용사",
-"m": "간결한",
-"cat": "회의",
-"rel": [
-{
-"w": "concisely",
-"k": "파생",
-"m": "간결하게"
-}
-]
-},
-{
-"w": "concur",
-"p": "동사",
-"m": "동의하다",
-"cat": "회의",
-"rel": [
-{
-"w": "concur with",
-"k": "숙어",
-"m": "~에 동의하다"
-}
-]
-},
-{
-"w": "condense",
-"p": "동사",
-"m": "압축하다, 요약하다",
-"cat": "회의",
-"rel": [
-{
-"w": "condensed version",
-"k": "숙어",
-"m": "요약본"
-}
-]
-},
-{
-"w": "conducive",
-"p": "형용사",
-"m": "~에 도움이 되는",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "be conducive to",
-"k": "숙어",
-"m": "~에 도움이 되다"
-}
-]
-},
-{
-"w": "confidentiality",
-"p": "명사",
-"m": "기밀 유지",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "confidentiality agreement",
-"k": "숙어",
-"m": "기밀 유지 협약"
-}
-]
-},
-{
-"w": "conform",
-"p": "동사",
-"m": "따르다, 부합하다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "conform to",
-"k": "숙어",
-"m": "~에 부합하다"
-},
-{
-"w": "conformity",
-"k": "파생",
-"m": "부합, 순응"
-}
-]
-},
-{
-"w": "conglomerate",
-"p": "명사",
-"m": "대기업, 복합 기업",
-"cat": "계약·법무"
-},
-{
-"w": "conjecture",
-"p": "명사",
-"m": "추측",
-"cat": "회의"
-},
-{
-"w": "connoisseur",
-"p": "명사",
-"m": "감정가, 전문가",
-"cat": "마케팅"
-},
-{
-"w": "conscientious",
-"p": "형용사",
-"m": "성실한, 양심적인",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "conscientiously",
-"k": "파생",
-"m": "성실하게"
-}
-]
-},
-{
-"w": "consortium",
-"p": "명사",
-"m": "컨소시엄, 연합체",
-"cat": "계약·법무"
-},
-{
-"w": "conspicuous",
-"p": "형용사",
-"m": "눈에 띄는",
-"cat": "마케팅",
-"rel": [
-{
-"w": "conspicuously",
-"k": "파생",
-"m": "눈에 띄게"
-}
-]
-},
-{
-"w": "constituent",
-"p": "명사",
-"m": "구성 요소, 유권자",
-"cat": "회의"
-},
-{
-"w": "constraint",
-"p": "명사",
-"m": "제약",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "budget constraints",
-"k": "숙어",
-"m": "예산 제약"
-}
-]
-},
-{
-"w": "contemplate",
-"p": "동사",
-"m": "심사숙고하다",
-"cat": "회의",
-"rel": [
-{
-"w": "contemplation",
-"k": "파생",
-"m": "숙고"
-}
-]
-},
-{
-"w": "contend",
-"p": "동사",
-"m": "주장하다, 경쟁하다",
-"cat": "회의",
-"rel": [
-{
-"w": "contend with",
-"k": "숙어",
-"m": "~와 씨름하다"
-},
-{
-"w": "contender",
-"k": "파생",
-"m": "경쟁자"
-}
-]
-},
-{
-"w": "contingent",
-"p": "형용사",
-"m": "~에 달려 있는, 조건부의",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "be contingent on",
-"k": "숙어",
-"m": "~에 달려 있다"
-}
-]
-},
-{
-"w": "conversely",
-"p": "부사",
-"m": "반대로",
-"cat": "회의"
-},
-{
-"w": "convey",
-"p": "동사",
-"m": "전달하다",
-"cat": "회의",
-"rel": [
-{
-"w": "convey a message",
-"k": "숙어",
-"m": "메시지를 전달하다"
-}
-]
-},
-{
-"w": "conviction",
-"p": "명사",
-"m": "확신, 유죄 판결",
-"cat": "계약·법무"
-},
-{
-"w": "correlate",
-"p": "동사",
-"m": "상관관계가 있다",
-"cat": "마케팅",
-"rel": [
-{
-"w": "correlation",
-"k": "파생",
-"m": "상관관계"
-}
-]
-},
-{
-"w": "corrode",
-"p": "동사",
-"m": "부식하다",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "corrosion",
-"k": "파생",
-"m": "부식"
-}
-]
-},
-{
-"w": "counterfeit",
-"p": "형용사",
-"m": "위조의",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "counterfeit goods",
-"k": "숙어",
-"m": "위조품"
-}
-]
-},
-{
-"w": "covet",
-"p": "동사",
-"m": "탐내다",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "coveted award",
-"k": "숙어",
-"m": "선망의 상"
-}
-]
-},
-{
-"w": "credible",
-"p": "형용사",
-"m": "신뢰할 수 있는",
-"cat": "마케팅",
-"rel": [
-{
-"w": "credibility",
-"k": "파생",
-"m": "신뢰성"
-}
-]
-},
-{
-"w": "culminate",
-"p": "동사",
-"m": "절정에 달하다, ~로 끝나다",
-"cat": "회의",
-"rel": [
-{
-"w": "culminate in",
-"k": "숙어",
-"m": "결국 ~이 되다"
-}
-]
-},
-{
-"w": "cumbersome",
-"p": "형용사",
-"m": "번거로운, 다루기 힘든",
-"cat": "시설·사무"
-},
-{
-"w": "cumulative",
-"p": "형용사",
-"m": "누적되는",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "cumulative total",
-"k": "숙어",
-"m": "누계"
-}
-]
-},
-{
-"w": "curtail",
-"p": "동사",
-"m": "축소하다, 삭감하다",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "curtail spending",
-"k": "숙어",
-"m": "지출을 줄이다"
-}
-]
-},
-{
-"w": "custody",
-"p": "명사",
-"m": "보관, 관리",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "in the custody of",
-"k": "숙어",
-"m": "~의 보관하에"
-}
-]
-},
-{
-"w": "dearth",
-"p": "명사",
-"m": "부족, 결핍",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "a dearth of",
-"k": "숙어",
-"m": "~의 부족"
-}
-]
-},
-{
-"w": "debris",
-"p": "명사",
-"m": "잔해, 파편",
-"cat": "시설·사무"
-},
-{
-"w": "decree",
-"p": "명사",
-"m": "법령, 판결",
-"cat": "계약·법무"
-},
-{
-"w": "deem",
-"p": "동사",
-"m": "~로 여기다, 간주하다",
-"cat": "회의",
-"rel": [
-{
-"w": "be deemed necessary",
-"k": "숙어",
-"m": "필요하다고 간주되다"
-}
-]
-},
-{
-"w": "default",
-"p": "명사",
-"m": "채무 불이행, 기본값",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "default on a loan",
-"k": "숙어",
-"m": "대출을 갚지 못하다"
-}
-]
-},
-{
-"w": "deficient",
-"p": "형용사",
-"m": "부족한, 결함 있는",
-"cat": "배송·주문",
-"rel": [
-{
-"w": "deficiency",
-"k": "파생",
-"m": "결핍, 결함"
-}
-]
-},
-{
-"w": "deflect",
-"p": "동사",
-"m": "피하다, 빗나가게 하다",
-"cat": "회의"
-},
-{
-"w": "defray",
-"p": "동사",
-"m": "(비용을) 부담하다",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "defray costs",
-"k": "숙어",
-"m": "비용을 충당하다"
-}
-]
-},
-{
-"w": "deliberate",
-"p": "형용사",
-"m": "신중한, 의도적인",
-"cat": "회의",
-"rel": [
-{
-"w": "deliberately",
-"k": "파생",
-"m": "고의로"
-},
-{
-"w": "deliberation",
-"k": "파생",
-"m": "심의"
-}
-]
-},
-{
-"w": "delinquent",
-"p": "형용사",
-"m": "연체된",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "delinquent account",
-"k": "숙어",
-"m": "연체 계좌"
-}
-]
-},
-{
-"w": "demolish",
-"p": "동사",
-"m": "철거하다",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "demolition",
-"k": "파생",
-"m": "철거"
-}
-]
-},
-{
-"w": "deplete",
-"p": "동사",
-"m": "고갈시키다",
-"cat": "배송·주문",
-"rel": [
-{
-"w": "depleted inventory",
-"k": "숙어",
-"m": "고갈된 재고"
-}
-]
-},
-{
-"w": "depreciate",
-"p": "동사",
-"m": "가치가 하락하다",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "appreciate",
-"k": "반의",
-"m": "가치가 오르다"
-}
-]
-},
-{
-"w": "deregulation",
-"p": "명사",
-"m": "규제 완화",
-"cat": "계약·법무"
-},
-{
-"w": "derive",
-"p": "동사",
-"m": "얻다, 유래하다",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "derive from",
-"k": "숙어",
-"m": "~에서 비롯되다"
-}
-]
-},
-{
-"w": "designated",
-"p": "형용사",
-"m": "지정된",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "designated parking",
-"k": "숙어",
-"m": "지정 주차"
-}
-]
-},
-{
-"w": "deteriorating",
-"p": "형용사",
-"m": "악화되는",
-"cat": "시설·사무"
-},
-{
-"w": "detrimental",
-"p": "형용사",
-"m": "해로운",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "be detrimental to",
-"k": "숙어",
-"m": "~에 해롭다"
-}
-]
-},
-{
-"w": "devastate",
-"p": "동사",
-"m": "황폐화하다, 큰 타격을 주다",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "devastating",
-"k": "파생",
-"m": "파괴적인"
-}
-]
-},
-{
-"w": "diligence",
-"p": "명사",
-"m": "근면, 성실",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "due diligence",
-"k": "숙어",
-"m": "실사, due diligence"
-}
-]
-},
-{
-"w": "diminish",
-"p": "동사",
-"m": "줄어들다, 약화되다",
-"cat": "재무·회계"
-},
-{
-"w": "discern",
-"p": "동사",
-"m": "분별하다, 알아차리다",
-"cat": "회의",
-"rel": [
-{
-"w": "discerning",
-"k": "파생",
-"m": "안목 있는"
-}
-]
-},
-{
-"w": "discreet",
-"p": "형용사",
-"m": "신중한, 조심스러운",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "discretion",
-"k": "파생",
-"m": "재량, 신중함"
-}
-]
-},
-{
-"w": "discretionary",
-"p": "형용사",
-"m": "재량에 따른",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "discretionary spending",
-"k": "숙어",
-"m": "재량 지출"
-}
-]
-}
-]
+ "words": [
+  {
+   "w": "abolish",
+   "p": "동사",
+   "m": "폐지하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "abolition",
+     "k": "파생",
+     "m": "폐지"
+    }
+   ],
+   "ex": "The board voted to <b>abolish</b> the outdated dress code.",
+   "exKo": "이사회는 낡은 복장 규정을 폐지하기로 의결했습니다."
+  },
+  {
+   "w": "abrupt",
+   "p": "형용사",
+   "m": "갑작스러운",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "abruptly",
+     "k": "파생",
+     "m": "갑자기"
+    }
+   ],
+   "ex": "The <b>abrupt</b> schedule change confused several vendors.",
+   "exKo": "갑작스러운 일정 변경이 여러 협력업체를 혼란스럽게 했습니다."
+  },
+  {
+   "w": "absenteeism",
+   "p": "명사",
+   "m": "상습적 결근",
+   "cat": "채용·인사",
+   "ex": "Flexible hours reduced <b>absenteeism</b> by a third.",
+   "exKo": "유연 근무제가 상습 결근을 3분의 1 줄였습니다."
+  },
+  {
+   "w": "accrue",
+   "p": "동사",
+   "m": "(이자·휴가가) 쌓이다, 발생하다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "accrued interest",
+     "k": "숙어",
+     "m": "미지급 이자"
+    }
+   ],
+   "ex": "Unused vacation days <b>accrue</b> up to a yearly cap.",
+   "exKo": "미사용 휴가는 연간 상한까지 쌓입니다."
+  },
+  {
+   "w": "adhere",
+   "p": "동사",
+   "m": "준수하다, 부착되다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "adhere to",
+     "k": "숙어",
+     "m": "~을 준수하다"
+    },
+    {
+     "w": "adherence",
+     "k": "파생",
+     "m": "준수"
+    }
+   ],
+   "ex": "All contractors must <b>adhere</b> to the site safety code.",
+   "exKo": "모든 계약업체는 현장 안전 수칙을 준수해야 합니다."
+  },
+  {
+   "w": "adverse",
+   "p": "형용사",
+   "m": "불리한, 부정적인",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "adversely",
+     "k": "파생",
+     "m": "불리하게"
+    },
+    {
+     "w": "adverse effect",
+     "k": "숙어",
+     "m": "악영향"
+    }
+   ],
+   "ex": "The lawsuit had an <b>adverse</b> effect on the stock price.",
+   "exKo": "그 소송은 주가에 부정적인 영향을 미쳤습니다."
+  },
+  {
+   "w": "advocate",
+   "p": "동사",
+   "m": "옹호하다, 지지하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "advocacy",
+     "k": "파생",
+     "m": "옹호"
+    }
+   ],
+   "ex": "The director <b>advocates</b> investing in staff training.",
+   "exKo": "그 이사는 직원 교육 투자를 옹호합니다."
+  },
+  {
+   "w": "aesthetic",
+   "p": "형용사",
+   "m": "미적인",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "aesthetically",
+     "k": "파생",
+     "m": "미적으로"
+    }
+   ],
+   "ex": "The packaging redesign improved the product's <b>aesthetic</b> appeal.",
+   "exKo": "포장 재설계가 제품의 미적 매력을 높였습니다."
+  },
+  {
+   "w": "affiliate",
+   "p": "명사",
+   "m": "계열사, 제휴사",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "affiliated",
+     "k": "파생",
+     "m": "제휴된"
+    },
+    {
+     "w": "be affiliated with",
+     "k": "숙어",
+     "m": "~와 제휴 관계이다"
+    }
+   ],
+   "ex": "The bank operates through a local <b>affiliate</b> in Vietnam.",
+   "exKo": "그 은행은 베트남 현지 계열사를 통해 영업합니다."
+  },
+  {
+   "w": "affluent",
+   "p": "형용사",
+   "m": "부유한",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "wealthy",
+     "k": "동의",
+     "m": "부유한"
+    }
+   ],
+   "ex": "The boutique targets <b>affluent</b> weekend shoppers.",
+   "exKo": "그 부티크는 부유한 주말 쇼핑객을 겨냥합니다."
+  },
+  {
+   "w": "aggregate",
+   "p": "명사",
+   "m": "총계, 합계",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "in the aggregate",
+     "k": "숙어",
+     "m": "전체적으로"
+    }
+   ],
+   "ex": "<b>Aggregate</b> sales across all branches rose eight percent.",
+   "exKo": "전 지점 합계 매출이 8퍼센트 증가했습니다."
+  },
+  {
+   "w": "ailing",
+   "p": "형용사",
+   "m": "부진한, 병든",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "ailing economy",
+     "k": "숙어",
+     "m": "침체된 경제"
+    }
+   ],
+   "ex": "New management turned the <b>ailing</b> retailer around.",
+   "exKo": "새 경영진이 부진하던 소매업체를 회생시켰습니다."
+  },
+  {
+   "w": "albeit",
+   "p": "접속사",
+   "m": "비록 ~이지만",
+   "cat": "회의",
+   "ex": "The launch succeeded, <b>albeit</b> with a smaller budget.",
+   "exKo": "예산은 적었지만 출시는 성공했습니다."
+  },
+  {
+   "w": "allegedly",
+   "p": "부사",
+   "m": "주장에 따르면",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "alleged",
+     "k": "파생",
+     "m": "~라고 주장된"
+    }
+   ],
+   "ex": "The supplier <b>allegedly</b> breached the exclusivity clause.",
+   "exKo": "그 공급업체는 독점 조항을 위반했다는 주장을 받고 있습니다."
+  },
+  {
+   "w": "alleviate",
+   "p": "동사",
+   "m": "완화하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "alleviate congestion",
+     "k": "숙어",
+     "m": "혼잡을 완화하다"
+    }
+   ],
+   "ex": "The shuttle service helped <b>alleviate</b> parking congestion.",
+   "exKo": "셔틀 운행이 주차 혼잡을 완화하는 데 도움이 되었습니다."
+  },
+  {
+   "w": "ambiguous",
+   "p": "형용사",
+   "m": "모호한",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "ambiguity",
+     "k": "파생",
+     "m": "모호함"
+    },
+    {
+     "w": "unambiguous",
+     "k": "반의",
+     "m": "명확한"
+    }
+   ],
+   "ex": "The renewal terms were too <b>ambiguous</b> to sign.",
+   "exKo": "갱신 조건이 서명하기에는 너무 모호했습니다."
+  },
+  {
+   "w": "analogous",
+   "p": "형용사",
+   "m": "유사한",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "analogy",
+     "k": "파생",
+     "m": "유추, 비유"
+    }
+   ],
+   "ex": "Our situation is <b>analogous</b> to last year's supply crisis.",
+   "exKo": "우리 상황은 작년 공급 위기와 유사합니다."
+  },
+  {
+   "w": "annuity",
+   "p": "명사",
+   "m": "연금",
+   "cat": "재무·회계",
+   "ex": "The plan converts your savings into a monthly <b>annuity</b>.",
+   "exKo": "그 상품은 저축을 월 연금으로 전환해 줍니다."
+  },
+  {
+   "w": "antique",
+   "p": "명사",
+   "m": "골동품",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "antique dealer",
+     "k": "숙어",
+     "m": "골동품상"
+    }
+   ],
+   "ex": "The lobby is furnished with restored <b>antiques</b>.",
+   "exKo": "로비는 복원된 골동품 가구로 꾸며져 있습니다."
+  },
+  {
+   "w": "appellate",
+   "p": "형용사",
+   "m": "항소의",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "appeal a decision",
+     "k": "숙어",
+     "m": "판결에 항소하다"
+    }
+   ],
+   "ex": "The case moved to the <b>appellate</b> court last month.",
+   "exKo": "그 사건은 지난달 항소 법원으로 넘어갔습니다."
+  },
+  {
+   "w": "apprehensive",
+   "p": "형용사",
+   "m": "걱정하는, 불안한",
+   "cat": "채용·인사",
+   "ex": "Staff were <b>apprehensive</b> about the merger at first.",
+   "exKo": "직원들은 처음에 합병에 대해 불안해했습니다."
+  },
+  {
+   "w": "arduous",
+   "p": "형용사",
+   "m": "고된, 힘든",
+   "cat": "채용·인사",
+   "ex": "Qualifying the new supplier was an <b>arduous</b> process.",
+   "exKo": "새 공급업체 인증은 고된 과정이었습니다."
+  },
+  {
+   "w": "array",
+   "p": "명사",
+   "m": "다수, 배열",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "an array of",
+     "k": "숙어",
+     "m": "다양한"
+    }
+   ],
+   "ex": "The store offers an <b>array</b> of ergonomic chairs.",
+   "exKo": "그 매장은 다양한 인체공학 의자를 갖추고 있습니다."
+  },
+  {
+   "w": "articulate",
+   "p": "동사",
+   "m": "명료하게 표현하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "articulate a vision",
+     "k": "숙어",
+     "m": "비전을 명확히 밝히다"
+    }
+   ],
+   "ex": "She <b>articulated</b> the strategy in plain terms.",
+   "exKo": "그녀는 전략을 쉬운 말로 명료하게 설명했습니다."
+  },
+  {
+   "w": "ascend",
+   "p": "동사",
+   "m": "오르다",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "descend",
+     "k": "반의",
+     "m": "내려가다"
+    }
+   ],
+   "ex": "The glass elevator <b>ascends</b> to the rooftop bar.",
+   "exKo": "유리 엘리베이터가 옥상 바까지 올라갑니다."
+  },
+  {
+   "w": "ascertain",
+   "p": "동사",
+   "m": "확인하다, 알아내다",
+   "cat": "계약·법무",
+   "ex": "Auditors worked to <b>ascertain</b> the true inventory value.",
+   "exKo": "감사인들은 실제 재고 가치를 확인하기 위해 노력했습니다."
+  },
+  {
+   "w": "aspire",
+   "p": "동사",
+   "m": "열망하다",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "aspire to",
+     "k": "숙어",
+     "m": "~을 열망하다"
+    },
+    {
+     "w": "aspiring",
+     "k": "파생",
+     "m": "장차 ~가 되려는"
+    }
+   ],
+   "ex": "Many interns <b>aspire</b> to join the design team.",
+   "exKo": "많은 인턴이 디자인팀 합류를 열망합니다."
+  },
+  {
+   "w": "assert",
+   "p": "동사",
+   "m": "주장하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "assertive",
+     "k": "파생",
+     "m": "적극적인, 확신에 찬"
+    }
+   ],
+   "ex": "The vendor <b>asserts</b> that the delay was unavoidable.",
+   "exKo": "그 업체는 지연이 불가피했다고 주장합니다."
+  },
+  {
+   "w": "astute",
+   "p": "형용사",
+   "m": "기민한, 눈치 빠른",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "astute investor",
+     "k": "숙어",
+     "m": "기민한 투자자"
+    }
+   ],
+   "ex": "An <b>astute</b> buyer noticed the pricing gap between branches.",
+   "exKo": "기민한 구매자가 지점 간 가격 차이를 알아차렸습니다."
+  },
+  {
+   "w": "attest",
+   "p": "동사",
+   "m": "증명하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "attest to",
+     "k": "숙어",
+     "m": "~을 증명하다"
+    }
+   ],
+   "ex": "Three references can <b>attest</b> to her leadership skills.",
+   "exKo": "추천인 세 명이 그녀의 리더십을 증명할 수 있습니다."
+  },
+  {
+   "w": "attrition",
+   "p": "명사",
+   "m": "자연 감소, 인원 감축",
+   "cat": "채용·인사",
+   "ex": "The team shrank through natural <b>attrition</b>, not layoffs.",
+   "exKo": "그 팀은 해고가 아닌 자연 감소로 줄었습니다."
+  },
+  {
+   "w": "augment",
+   "p": "동사",
+   "m": "늘리다, 증대시키다",
+   "cat": "재무·회계",
+   "ex": "Freelancers <b>augment</b> our staff during peak season.",
+   "exKo": "성수기에는 프리랜서들이 인력을 보강합니다."
+  },
+  {
+   "w": "auspicious",
+   "p": "형용사",
+   "m": "상서로운, 길조의",
+   "cat": "회의",
+   "ex": "Record ticket sales were an <b>auspicious</b> start for the venue.",
+   "exKo": "기록적인 티켓 판매는 그 공연장의 상서로운 출발이었습니다."
+  },
+  {
+   "w": "authenticate",
+   "p": "동사",
+   "m": "진위를 확인하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "authentication",
+     "k": "파생",
+     "m": "인증"
+    },
+    {
+     "w": "authenticity",
+     "k": "파생",
+     "m": "진위, 진품성"
+    }
+   ],
+   "ex": "Experts <b>authenticated</b> the painting before the auction.",
+   "exKo": "전문가들이 경매 전에 그림의 진위를 확인했습니다."
+  },
+  {
+   "w": "avert",
+   "p": "동사",
+   "m": "피하다, 방지하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "avert a crisis",
+     "k": "숙어",
+     "m": "위기를 모면하다"
+    }
+   ],
+   "ex": "Quick repairs <b>averted</b> a costly production stoppage.",
+   "exKo": "신속한 수리로 값비싼 생산 중단을 피했습니다."
+  },
+  {
+   "w": "avid",
+   "p": "형용사",
+   "m": "열렬한",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "avid reader",
+     "k": "숙어",
+     "m": "열혈 독자"
+    }
+   ],
+   "ex": "The podcast attracts <b>avid</b> followers of market news.",
+   "exKo": "그 팟캐스트는 시장 뉴스의 열렬한 청취자들을 끌어모읍니다."
+  },
+  {
+   "w": "bearer",
+   "p": "명사",
+   "m": "소지자",
+   "cat": "계약·법무",
+   "ex": "The pass admits the <b>bearer</b> to all sessions.",
+   "exKo": "그 출입증은 소지자에게 전 세션 입장을 허용합니다."
+  },
+  {
+   "w": "bilateral",
+   "p": "형용사",
+   "m": "쌍방의, 양자 간의",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "bilateral agreement",
+     "k": "숙어",
+     "m": "양자 협정"
+    }
+   ],
+   "ex": "The two firms signed a <b>bilateral</b> supply agreement.",
+   "exKo": "두 회사는 쌍방 공급 계약을 체결했습니다."
+  },
+  {
+   "w": "binding",
+   "p": "형용사",
+   "m": "구속력 있는",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "legally binding",
+     "k": "숙어",
+     "m": "법적 구속력이 있는"
+    }
+   ],
+   "ex": "The signed offer becomes <b>binding</b> after七 days.",
+   "exKo": "서명된 제안서는 7일 후 구속력을 갖습니다."
+  },
+  {
+   "w": "bleak",
+   "p": "형용사",
+   "m": "암울한",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "bleak outlook",
+     "k": "숙어",
+     "m": "암울한 전망"
+    }
+   ],
+   "ex": "The outlook for print advertising remains <b>bleak</b>.",
+   "exKo": "인쇄 광고의 전망은 여전히 암울합니다."
+  },
+  {
+   "w": "bolster",
+   "p": "동사",
+   "m": "강화하다, 북돋우다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "bolster confidence",
+     "k": "숙어",
+     "m": "자신감을 북돋우다"
+    }
+   ],
+   "ex": "Positive reviews <b>bolstered</b> early ticket sales.",
+   "exKo": "긍정적인 후기가 초기 티켓 판매를 끌어올렸습니다."
+  },
+  {
+   "w": "bountiful",
+   "p": "형용사",
+   "m": "풍부한",
+   "cat": "배송·주문",
+   "ex": "A <b>bountiful</b> harvest lowered produce prices this fall.",
+   "exKo": "풍성한 수확으로 올가을 농산물 가격이 내렸습니다."
+  },
+  {
+   "w": "breach",
+   "p": "명사",
+   "m": "위반, 불이행",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "breach of contract",
+     "k": "숙어",
+     "m": "계약 위반"
+    }
+   ],
+   "ex": "Late delivery constitutes a <b>breach</b> of the contract.",
+   "exKo": "배송 지연은 계약 위반에 해당합니다."
+  },
+  {
+   "w": "brokerage",
+   "p": "명사",
+   "m": "중개업(소)",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "brokerage firm",
+     "k": "숙어",
+     "m": "증권 회사"
+    }
+   ],
+   "ex": "She opened an account with an online <b>brokerage</b>.",
+   "exKo": "그녀는 온라인 증권 중개사에 계좌를 개설했습니다."
+  },
+  {
+   "w": "bureaucratic",
+   "p": "형용사",
+   "m": "관료적인",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "bureaucracy",
+     "k": "파생",
+     "m": "관료제"
+    }
+   ],
+   "ex": "The permit process is slow and <b>bureaucratic</b>.",
+   "exKo": "허가 절차가 느리고 관료적입니다."
+  },
+  {
+   "w": "bustling",
+   "p": "형용사",
+   "m": "북적거리는",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "bustling district",
+     "k": "숙어",
+     "m": "번화가"
+    }
+   ],
+   "ex": "The night market is <b>bustling</b> with tourists.",
+   "exKo": "야시장은 관광객들로 북적거립니다."
+  },
+  {
+   "w": "candid",
+   "p": "형용사",
+   "m": "솔직한",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "candidly",
+     "k": "파생",
+     "m": "솔직하게"
+    }
+   ],
+   "ex": "The CEO gave a <b>candid</b> answer about the delays.",
+   "exKo": "CEO는 지연에 대해 솔직한 답변을 내놓았습니다."
+  },
+  {
+   "w": "capitalize",
+   "p": "동사",
+   "m": "활용하다, 자본화하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "capitalize on",
+     "k": "숙어",
+     "m": "~을 활용하다"
+    }
+   ],
+   "ex": "We should <b>capitalize</b> on the holiday shopping surge.",
+   "exKo": "연휴 쇼핑 특수를 활용해야 합니다."
+  },
+  {
+   "w": "cardinal",
+   "p": "형용사",
+   "m": "가장 중요한",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "cardinal rule",
+     "k": "숙어",
+     "m": "기본 원칙"
+    }
+   ],
+   "ex": "Protecting client data is our <b>cardinal</b> rule.",
+   "exKo": "고객 데이터 보호는 우리의 제1 원칙입니다."
+  },
+  {
+   "w": "catalyst",
+   "p": "명사",
+   "m": "촉매, 기폭제",
+   "cat": "마케팅",
+   "ex": "The viral video was a <b>catalyst</b> for brand growth.",
+   "exKo": "그 바이럴 영상은 브랜드 성장의 기폭제였습니다."
+  },
+  {
+   "w": "caveat",
+   "p": "명사",
+   "m": "단서, 주의 사항",
+   "cat": "계약·법무",
+   "ex": "The approval came with one <b>caveat</b> about costs.",
+   "exKo": "승인에는 비용에 관한 단서 하나가 붙었습니다."
+  },
+  {
+   "w": "cessation",
+   "p": "명사",
+   "m": "중단",
+   "cat": "계약·법무",
+   "ex": "The notice announced the <b>cessation</b> of weekend service.",
+   "exKo": "공지는 주말 서비스 중단을 알렸습니다."
+  },
+  {
+   "w": "circumvent",
+   "p": "동사",
+   "m": "우회하다, 회피하다",
+   "cat": "계약·법무",
+   "ex": "The new checks prevent staff from <b>circumventing</b> approval steps.",
+   "exKo": "새 점검 절차는 직원들이 승인 단계를 우회하는 것을 막습니다."
+  },
+  {
+   "w": "coincide",
+   "p": "동사",
+   "m": "동시에 일어나다, 일치하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "coincide with",
+     "k": "숙어",
+     "m": "~와 겹치다"
+    },
+    {
+     "w": "coincidence",
+     "k": "파생",
+     "m": "우연의 일치"
+    }
+   ],
+   "ex": "The sale <b>coincides</b> with the city festival.",
+   "exKo": "세일은 도시 축제와 같은 기간에 열립니다."
+  },
+  {
+   "w": "collaborative",
+   "p": "형용사",
+   "m": "협력적인",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "collaborative effort",
+     "k": "숙어",
+     "m": "공동 노력"
+    }
+   ],
+   "ex": "The open office encourages <b>collaborative</b> work.",
+   "exKo": "개방형 사무실은 협력적인 업무를 장려합니다."
+  },
+  {
+   "w": "commendable",
+   "p": "형용사",
+   "m": "칭찬할 만한",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "commend",
+     "k": "파생",
+     "m": "칭찬하다"
+    },
+    {
+     "w": "commendation",
+     "k": "파생",
+     "m": "표창"
+    }
+   ],
+   "ex": "Her calm handling of the complaint was <b>commendable</b>.",
+   "exKo": "불만을 침착하게 처리한 그녀의 대응은 칭찬할 만했습니다."
+  },
+  {
+   "w": "commensurate",
+   "p": "형용사",
+   "m": "상응하는",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "commensurate with experience",
+     "k": "숙어",
+     "m": "경력에 비례하는 (급여)"
+    }
+   ],
+   "ex": "Salary will be <b>commensurate</b> with experience.",
+   "exKo": "급여는 경력에 상응하여 책정됩니다."
+  },
+  {
+   "w": "compelling",
+   "p": "형용사",
+   "m": "설득력 있는, 매력적인",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "compelling reason",
+     "k": "숙어",
+     "m": "설득력 있는 이유"
+    }
+   ],
+   "ex": "The pitch gave a <b>compelling</b> reason to switch suppliers.",
+   "exKo": "그 제안은 공급업체를 바꿀 설득력 있는 이유를 제시했습니다."
+  },
+  {
+   "w": "complacent",
+   "p": "형용사",
+   "m": "현실에 안주하는",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "complacency",
+     "k": "파생",
+     "m": "안주"
+    }
+   ],
+   "ex": "Market leaders cannot afford to grow <b>complacent</b>.",
+   "exKo": "시장 선두 기업은 안주할 여유가 없습니다."
+  },
+  {
+   "w": "compliance",
+   "p": "명사",
+   "m": "(규정) 준수",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "in compliance with",
+     "k": "숙어",
+     "m": "~을 준수하여"
+    },
+    {
+     "w": "noncompliance",
+     "k": "반의",
+     "m": "불이행"
+    }
+   ],
+   "ex": "The audit confirmed full <b>compliance</b> with tax law.",
+   "exKo": "감사에서 세법의 완전한 준수가 확인되었습니다."
+  },
+  {
+   "w": "comptroller",
+   "p": "명사",
+   "m": "감사관, 회계 감독관",
+   "cat": "재무·회계",
+   "ex": "The <b>comptroller</b> reviews every budget request.",
+   "exKo": "감사관이 모든 예산 요청을 검토합니다."
+  },
+  {
+   "w": "concession",
+   "p": "명사",
+   "m": "양보, 할인",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "make concessions",
+     "k": "숙어",
+     "m": "양보하다"
+    }
+   ],
+   "ex": "The landlord offered a rent <b>concession</b> for early renewal.",
+   "exKo": "임대인은 조기 갱신에 대해 임대료 할인을 제안했습니다."
+  },
+  {
+   "w": "concise",
+   "p": "형용사",
+   "m": "간결한",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "concisely",
+     "k": "파생",
+     "m": "간결하게"
+    }
+   ],
+   "ex": "Keep the summary <b>concise</b> — one page at most.",
+   "exKo": "요약은 간결하게, 최대 한 쪽으로 해 주세요."
+  },
+  {
+   "w": "concur",
+   "p": "동사",
+   "m": "동의하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "concur with",
+     "k": "숙어",
+     "m": "~에 동의하다"
+    }
+   ],
+   "ex": "The auditors <b>concur</b> with the revised estimate.",
+   "exKo": "감사인들은 수정된 추정치에 동의합니다."
+  },
+  {
+   "w": "condense",
+   "p": "동사",
+   "m": "압축하다, 요약하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "condensed version",
+     "k": "숙어",
+     "m": "요약본"
+    }
+   ],
+   "ex": "Please <b>condense</b> the findings into five slides.",
+   "exKo": "조사 결과를 슬라이드 다섯 장으로 압축해 주세요."
+  },
+  {
+   "w": "conducive",
+   "p": "형용사",
+   "m": "~에 도움이 되는",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "be conducive to",
+     "k": "숙어",
+     "m": "~에 도움이 되다"
+    }
+   ],
+   "ex": "Quiet lighting is <b>conducive</b> to focused work.",
+   "exKo": "차분한 조명은 집중 업무에 도움이 됩니다."
+  },
+  {
+   "w": "confidentiality",
+   "p": "명사",
+   "m": "기밀 유지",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "confidentiality agreement",
+     "k": "숙어",
+     "m": "기밀 유지 협약"
+    }
+   ],
+   "ex": "All parties signed a <b>confidentiality</b> agreement.",
+   "exKo": "모든 당사자가 기밀 유지 계약에 서명했습니다."
+  },
+  {
+   "w": "conform",
+   "p": "동사",
+   "m": "따르다, 부합하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "conform to",
+     "k": "숙어",
+     "m": "~에 부합하다"
+    },
+    {
+     "w": "conformity",
+     "k": "파생",
+     "m": "부합, 순응"
+    }
+   ],
+   "ex": "The packaging must <b>conform</b> to labeling regulations.",
+   "exKo": "포장은 표기 규정에 부합해야 합니다."
+  },
+  {
+   "w": "conglomerate",
+   "p": "명사",
+   "m": "대기업, 복합 기업",
+   "cat": "계약·법무",
+   "ex": "The <b>conglomerate</b> owns hotels, airlines, and shops.",
+   "exKo": "그 대기업은 호텔, 항공사, 매장을 소유하고 있습니다."
+  },
+  {
+   "w": "conjecture",
+   "p": "명사",
+   "m": "추측",
+   "cat": "회의",
+   "ex": "The takeover rumor is pure <b>conjecture</b> at this point.",
+   "exKo": "인수설은 현재로서는 순전한 추측입니다."
+  },
+  {
+   "w": "connoisseur",
+   "p": "명사",
+   "m": "감정가, 전문가",
+   "cat": "마케팅",
+   "ex": "The tasting menu impressed even seasoned <b>connoisseurs</b>.",
+   "exKo": "테이스팅 메뉴는 노련한 감정가들까지 감탄시켰습니다."
+  },
+  {
+   "w": "conscientious",
+   "p": "형용사",
+   "m": "성실한, 양심적인",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "conscientiously",
+     "k": "파생",
+     "m": "성실하게"
+    }
+   ],
+   "ex": "A <b>conscientious</b> reviewer caught the contract error.",
+   "exKo": "성실한 검토자가 계약서 오류를 잡아냈습니다."
+  },
+  {
+   "w": "consortium",
+   "p": "명사",
+   "m": "컨소시엄, 연합체",
+   "cat": "계약·법무",
+   "ex": "A <b>consortium</b> of banks funded the port expansion.",
+   "exKo": "은행 컨소시엄이 항만 확장에 자금을 댔습니다."
+  },
+  {
+   "w": "conspicuous",
+   "p": "형용사",
+   "m": "눈에 띄는",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "conspicuously",
+     "k": "파생",
+     "m": "눈에 띄게"
+    }
+   ],
+   "ex": "Place the safety notice in a <b>conspicuous</b> spot.",
+   "exKo": "안전 공지는 눈에 띄는 곳에 게시하세요."
+  },
+  {
+   "w": "constituent",
+   "p": "명사",
+   "m": "구성 요소, 유권자",
+   "cat": "회의",
+   "ex": "Quality inspection covers every <b>constituent</b> part.",
+   "exKo": "품질 검사는 모든 구성 부품을 대상으로 합니다."
+  },
+  {
+   "w": "constraint",
+   "p": "명사",
+   "m": "제약",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "budget constraints",
+     "k": "숙어",
+     "m": "예산 제약"
+    }
+   ],
+   "ex": "Budget <b>constraints</b> delayed the office remodel.",
+   "exKo": "예산 제약으로 사무실 개조가 미뤄졌습니다."
+  },
+  {
+   "w": "contemplate",
+   "p": "동사",
+   "m": "심사숙고하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "contemplation",
+     "k": "파생",
+     "m": "숙고"
+    }
+   ],
+   "ex": "Management is <b>contemplating</b> a fourth production shift.",
+   "exKo": "경영진은 4교대 도입을 심사숙고하고 있습니다."
+  },
+  {
+   "w": "contend",
+   "p": "동사",
+   "m": "주장하다, 경쟁하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "contend with",
+     "k": "숙어",
+     "m": "~와 씨름하다"
+    },
+    {
+     "w": "contender",
+     "k": "파생",
+     "m": "경쟁자"
+    }
+   ],
+   "ex": "Analysts <b>contend</b> that the market has peaked.",
+   "exKo": "분석가들은 시장이 정점을 찍었다고 주장합니다."
+  },
+  {
+   "w": "contingent",
+   "p": "형용사",
+   "m": "~에 달려 있는, 조건부의",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "be contingent on",
+     "k": "숙어",
+     "m": "~에 달려 있다"
+    }
+   ],
+   "ex": "The bonus is <b>contingent</b> on hitting quarterly targets.",
+   "exKo": "보너스는 분기 목표 달성을 조건으로 합니다."
+  },
+  {
+   "w": "conversely",
+   "p": "부사",
+   "m": "반대로",
+   "cat": "회의",
+   "ex": "Costs fell; <b>conversely</b>, service scores improved.",
+   "exKo": "비용은 줄었고, 반대로 서비스 점수는 좋아졌습니다."
+  },
+  {
+   "w": "convey",
+   "p": "동사",
+   "m": "전달하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "convey a message",
+     "k": "숙어",
+     "m": "메시지를 전달하다"
+    }
+   ],
+   "ex": "Please <b>convey</b> our thanks to the whole crew.",
+   "exKo": "전 작업반에 저희의 감사를 전해 주세요."
+  },
+  {
+   "w": "conviction",
+   "p": "명사",
+   "m": "확신, 유죄 판결",
+   "cat": "계약·법무",
+   "ex": "She argued for the plan with real <b>conviction</b>.",
+   "exKo": "그녀는 진정한 확신을 갖고 그 계획을 주장했습니다."
+  },
+  {
+   "w": "correlate",
+   "p": "동사",
+   "m": "상관관계가 있다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "correlation",
+     "k": "파생",
+     "m": "상관관계"
+    }
+   ],
+   "ex": "Customer ratings <b>correlate</b> strongly with repeat orders.",
+   "exKo": "고객 평점은 재주문과 강한 상관관계가 있습니다."
+  },
+  {
+   "w": "corrode",
+   "p": "동사",
+   "m": "부식하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "corrosion",
+     "k": "파생",
+     "m": "부식"
+    }
+   ],
+   "ex": "Salt air can <b>corrode</b> outdoor metal fixtures.",
+   "exKo": "바닷바람은 야외 금속 설비를 부식시킬 수 있습니다."
+  },
+  {
+   "w": "counterfeit",
+   "p": "형용사",
+   "m": "위조의",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "counterfeit goods",
+     "k": "숙어",
+     "m": "위조품"
+    }
+   ],
+   "ex": "Customs seized a shipment of <b>counterfeit</b> watches.",
+   "exKo": "세관이 위조 시계 화물을 압수했습니다."
+  },
+  {
+   "w": "covet",
+   "p": "동사",
+   "m": "탐내다",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "coveted award",
+     "k": "숙어",
+     "m": "선망의 상"
+    }
+   ],
+   "ex": "Many rivals <b>covet</b> our downtown retail location.",
+   "exKo": "많은 경쟁사가 우리의 시내 매장 자리를 탐냅니다."
+  },
+  {
+   "w": "credible",
+   "p": "형용사",
+   "m": "신뢰할 수 있는",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "credibility",
+     "k": "파생",
+     "m": "신뢰성"
+    }
+   ],
+   "ex": "The claim needs a <b>credible</b> source before we publish.",
+   "exKo": "그 주장은 게재 전에 신뢰할 수 있는 출처가 필요합니다."
+  },
+  {
+   "w": "culminate",
+   "p": "동사",
+   "m": "절정에 달하다, ~로 끝나다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "culminate in",
+     "k": "숙어",
+     "m": "결국 ~이 되다"
+    }
+   ],
+   "ex": "The campaign <b>culminated</b> in a record sales month.",
+   "exKo": "그 캠페인은 기록적인 판매의 달로 절정을 맞았습니다."
+  },
+  {
+   "w": "cumbersome",
+   "p": "형용사",
+   "m": "번거로운, 다루기 힘든",
+   "cat": "시설·사무",
+   "ex": "The old approval form was <b>cumbersome</b> and slow.",
+   "exKo": "예전 승인 양식은 번거롭고 느렸습니다."
+  },
+  {
+   "w": "cumulative",
+   "p": "형용사",
+   "m": "누적되는",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "cumulative total",
+     "k": "숙어",
+     "m": "누계"
+    }
+   ],
+   "ex": "The <b>cumulative</b> savings reached fifty thousand dollars.",
+   "exKo": "누적 절감액이 5만 달러에 달했습니다."
+  },
+  {
+   "w": "curtail",
+   "p": "동사",
+   "m": "축소하다, 삭감하다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "curtail spending",
+     "k": "숙어",
+     "m": "지출을 줄이다"
+    }
+   ],
+   "ex": "The firm <b>curtailed</b> travel spending this quarter.",
+   "exKo": "회사는 이번 분기 출장 지출을 축소했습니다."
+  },
+  {
+   "w": "custody",
+   "p": "명사",
+   "m": "보관, 관리",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "in the custody of",
+     "k": "숙어",
+     "m": "~의 보관하에"
+    }
+   ],
+   "ex": "The documents remain in the bank's <b>custody</b>.",
+   "exKo": "그 서류들은 은행이 보관하고 있습니다."
+  },
+  {
+   "w": "dearth",
+   "p": "명사",
+   "m": "부족, 결핍",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "a dearth of",
+     "k": "숙어",
+     "m": "~의 부족"
+    }
+   ],
+   "ex": "The region faces a <b>dearth</b> of skilled welders.",
+   "exKo": "그 지역은 숙련 용접공 부족에 직면해 있습니다."
+  },
+  {
+   "w": "debris",
+   "p": "명사",
+   "m": "잔해, 파편",
+   "cat": "시설·사무",
+   "ex": "Crews cleared storm <b>debris</b> from the loading dock.",
+   "exKo": "작업반이 하역장의 폭풍 잔해를 치웠습니다."
+  },
+  {
+   "w": "decree",
+   "p": "명사",
+   "m": "법령, 판결",
+   "cat": "계약·법무",
+   "ex": "A city <b>decree</b> limits delivery trucks after midnight.",
+   "exKo": "시 법령은 자정 이후 배송 트럭을 제한합니다."
+  },
+  {
+   "w": "deem",
+   "p": "동사",
+   "m": "~로 여기다, 간주하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "be deemed necessary",
+     "k": "숙어",
+     "m": "필요하다고 간주되다"
+    }
+   ],
+   "ex": "The inspector <b>deemed</b> the scaffolding safe.",
+   "exKo": "검사관은 비계가 안전하다고 판단했습니다."
+  },
+  {
+   "w": "default",
+   "p": "명사",
+   "m": "채무 불이행, 기본값",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "default on a loan",
+     "k": "숙어",
+     "m": "대출을 갚지 못하다"
+    }
+   ],
+   "ex": "The borrower risks <b>default</b> if sales keep falling.",
+   "exKo": "매출이 계속 줄면 차입자는 채무 불이행 위험에 처합니다."
+  },
+  {
+   "w": "deficient",
+   "p": "형용사",
+   "m": "부족한, 결함 있는",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "deficiency",
+     "k": "파생",
+     "m": "결핍, 결함"
+    }
+   ],
+   "ex": "The batch was <b>deficient</b> in two required tests.",
+   "exKo": "그 로트는 필수 시험 두 항목에서 미달이었습니다."
+  },
+  {
+   "w": "deflect",
+   "p": "동사",
+   "m": "피하다, 빗나가게 하다",
+   "cat": "회의",
+   "ex": "The spokesperson <b>deflected</b> questions about the merger.",
+   "exKo": "대변인은 합병 관련 질문을 피해 갔습니다."
+  },
+  {
+   "w": "defray",
+   "p": "동사",
+   "m": "(비용을) 부담하다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "defray costs",
+     "k": "숙어",
+     "m": "비용을 충당하다"
+    }
+   ],
+   "ex": "A grant will <b>defray</b> part of the training costs.",
+   "exKo": "보조금이 교육 비용 일부를 부담할 것입니다."
+  },
+  {
+   "w": "deliberate",
+   "p": "형용사",
+   "m": "신중한, 의도적인",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "deliberately",
+     "k": "파생",
+     "m": "고의로"
+    },
+    {
+     "w": "deliberation",
+     "k": "파생",
+     "m": "심의"
+    }
+   ],
+   "ex": "After <b>deliberate</b> review, the board approved the deal.",
+   "exKo": "신중한 검토 끝에 이사회가 거래를 승인했습니다."
+  },
+  {
+   "w": "delinquent",
+   "p": "형용사",
+   "m": "연체된",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "delinquent account",
+     "k": "숙어",
+     "m": "연체 계좌"
+    }
+   ],
+   "ex": "<b>Delinquent</b> accounts are charged a monthly fee.",
+   "exKo": "연체 계정에는 월 수수료가 부과됩니다."
+  },
+  {
+   "w": "demolish",
+   "p": "동사",
+   "m": "철거하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "demolition",
+     "k": "파생",
+     "m": "철거"
+    }
+   ],
+   "ex": "The old depot will be <b>demolished</b> next spring.",
+   "exKo": "낡은 차고는 내년 봄 철거될 예정입니다."
+  },
+  {
+   "w": "deplete",
+   "p": "동사",
+   "m": "고갈시키다",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "depleted inventory",
+     "k": "숙어",
+     "m": "고갈된 재고"
+    }
+   ],
+   "ex": "The flash sale <b>depleted</b> our entire stock in hours.",
+   "exKo": "반짝 세일로 몇 시간 만에 전 재고가 소진되었습니다."
+  },
+  {
+   "w": "depreciate",
+   "p": "동사",
+   "m": "가치가 하락하다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "appreciate",
+     "k": "반의",
+     "m": "가치가 오르다"
+    }
+   ],
+   "ex": "Delivery vans <b>depreciate</b> quickly in the first year.",
+   "exKo": "배송 밴은 첫해에 가치가 빠르게 하락합니다."
+  },
+  {
+   "w": "deregulation",
+   "p": "명사",
+   "m": "규제 완화",
+   "cat": "계약·법무",
+   "ex": "<b>Deregulation</b> opened the market to new carriers.",
+   "exKo": "규제 완화로 신규 운송사에 시장이 열렸습니다."
+  },
+  {
+   "w": "derive",
+   "p": "동사",
+   "m": "얻다, 유래하다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "derive from",
+     "k": "숙어",
+     "m": "~에서 비롯되다"
+    }
+   ],
+   "ex": "The firm <b>derives</b> most revenue from subscriptions.",
+   "exKo": "그 회사는 수익 대부분을 구독에서 얻습니다."
+  },
+  {
+   "w": "designated",
+   "p": "형용사",
+   "m": "지정된",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "designated parking",
+     "k": "숙어",
+     "m": "지정 주차"
+    }
+   ],
+   "ex": "Smoking is allowed only in <b>designated</b> areas.",
+   "exKo": "흡연은 지정된 구역에서만 허용됩니다."
+  },
+  {
+   "w": "deteriorating",
+   "p": "형용사",
+   "m": "악화되는",
+   "cat": "시설·사무",
+   "ex": "The <b>deteriorating</b> roof needs urgent repair.",
+   "exKo": "악화되는 지붕 상태는 긴급 수리가 필요합니다."
+  },
+  {
+   "w": "detrimental",
+   "p": "형용사",
+   "m": "해로운",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "be detrimental to",
+     "k": "숙어",
+     "m": "~에 해롭다"
+    }
+   ],
+   "ex": "Frequent discounts can be <b>detrimental</b> to brand value.",
+   "exKo": "잦은 할인은 브랜드 가치에 해로울 수 있습니다."
+  },
+  {
+   "w": "devastate",
+   "p": "동사",
+   "m": "황폐화하다, 큰 타격을 주다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "devastating",
+     "k": "파생",
+     "m": "파괴적인"
+    }
+   ],
+   "ex": "The port strike <b>devastated</b> small exporters.",
+   "exKo": "항만 파업이 소규모 수출업체들에 큰 타격을 주었습니다."
+  },
+  {
+   "w": "diligence",
+   "p": "명사",
+   "m": "근면, 성실",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "due diligence",
+     "k": "숙어",
+     "m": "실사, due diligence"
+    }
+   ],
+   "ex": "Her <b>diligence</b> earned her an early promotion.",
+   "exKo": "그녀의 근면함이 조기 승진을 가져왔습니다."
+  },
+  {
+   "w": "diminish",
+   "p": "동사",
+   "m": "줄어들다, 약화되다",
+   "cat": "재무·회계",
+   "ex": "Interest in the old model <b>diminished</b> after the launch.",
+   "exKo": "신제품 출시 후 구형 모델에 대한 관심이 줄었습니다."
+  },
+  {
+   "w": "discern",
+   "p": "동사",
+   "m": "분별하다, 알아차리다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "discerning",
+     "k": "파생",
+     "m": "안목 있는"
+    }
+   ],
+   "ex": "Testers could not <b>discern</b> any difference in taste.",
+   "exKo": "테스터들은 맛의 차이를 분별하지 못했습니다."
+  },
+  {
+   "w": "discreet",
+   "p": "형용사",
+   "m": "신중한, 조심스러운",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "discretion",
+     "k": "파생",
+     "m": "재량, 신중함"
+    }
+   ],
+   "ex": "Please be <b>discreet</b> about the unannounced merger.",
+   "exKo": "발표 전 합병 건은 신중히 다뤄 주세요."
+  },
+  {
+   "w": "discretionary",
+   "p": "형용사",
+   "m": "재량에 따른",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "discretionary spending",
+     "k": "숙어",
+     "m": "재량 지출"
+    }
+   ],
+   "ex": "Managers hold a small <b>discretionary</b> budget.",
+   "exKo": "매니저들은 소액의 재량 예산을 갖고 있습니다."
+  }
+ ]
 }

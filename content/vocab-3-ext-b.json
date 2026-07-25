@@ -1,1271 +1,1419 @@
 {
-"words": [
-{
-"w": "dismantle",
-"p": "동사",
-"m": "해체하다",
-"cat": "시설·사무"
-},
-{
-"w": "disparity",
-"p": "명사",
-"m": "격차, 불균형",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "wage disparity",
-"k": "숙어",
-"m": "임금 격차"
-}
-]
-},
-{
-"w": "dispense",
-"p": "동사",
-"m": "나누어 주다, 제공하다",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "dispenser",
-"k": "파생",
-"m": "디스펜서"
-},
-{
-"w": "dispense with",
-"k": "숙어",
-"m": "~ 없이 지내다"
-}
-]
-},
-{
-"w": "disperse",
-"p": "동사",
-"m": "흩어지다, 해산하다",
-"cat": "시설·사무"
-},
-{
-"w": "disproportionate",
-"p": "형용사",
-"m": "불균형한",
-"cat": "재무·회계"
-},
-{
-"w": "disseminate",
-"p": "동사",
-"m": "유포하다, 배포하다",
-"cat": "마케팅",
-"rel": [
-{
-"w": "disseminate information",
-"k": "숙어",
-"m": "정보를 배포하다"
-}
-]
-},
-{
-"w": "dissolve",
-"p": "동사",
-"m": "해산하다, 용해되다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "dissolve a partnership",
-"k": "숙어",
-"m": "동업을 해체하다"
-}
-]
-},
-{
-"w": "distill",
-"p": "동사",
-"m": "증류하다, 추출하다",
-"cat": "배송·주문",
-"rel": [
-{
-"w": "distillery",
-"k": "파생",
-"m": "증류소"
-}
-]
-},
-{
-"w": "divulge",
-"p": "동사",
-"m": "누설하다",
-"cat": "계약·법무"
-},
-{
-"w": "dormant",
-"p": "형용사",
-"m": "휴면 상태의",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "dormant account",
-"k": "숙어",
-"m": "휴면 계좌"
-}
-]
-},
-{
-"w": "downsize",
-"p": "동사",
-"m": "(인원을) 축소하다",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "downsizing",
-"k": "파생",
-"m": "인원 감축"
-}
-]
-},
-{
-"w": "drape",
-"p": "동사",
-"m": "(천을) 걸치다, 드리우다",
-"cat": "시설·사무"
-},
-{
-"w": "dwindle",
-"p": "동사",
-"m": "점점 줄어들다",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "dwindling sales",
-"k": "숙어",
-"m": "줄어드는 매출"
-}
-]
-},
-{
-"w": "earmark",
-"p": "동사",
-"m": "(자금을) 배정하다",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "be earmarked for",
-"k": "숙어",
-"m": "~용으로 책정되다"
-}
-]
-},
-{
-"w": "eclipse",
-"p": "동사",
-"m": "능가하다, 가리다",
-"cat": "마케팅"
-},
-{
-"w": "elicit",
-"p": "동사",
-"m": "이끌어 내다",
-"cat": "마케팅",
-"rel": [
-{
-"w": "elicit a response",
-"k": "숙어",
-"m": "반응을 이끌어 내다"
-}
-]
-},
-{
-"w": "eloquent",
-"p": "형용사",
-"m": "유창한, 설득력 있는",
-"cat": "회의",
-"rel": [
-{
-"w": "eloquently",
-"k": "파생",
-"m": "유창하게"
-}
-]
-},
-{
-"w": "embezzle",
-"p": "동사",
-"m": "횡령하다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "embezzlement",
-"k": "파생",
-"m": "횡령"
-}
-]
-},
-{
-"w": "eminent",
-"p": "형용사",
-"m": "저명한",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "eminently",
-"k": "파생",
-"m": "대단히"
-}
-]
-},
-{
-"w": "emulate",
-"p": "동사",
-"m": "본받다, 모방하다",
-"cat": "마케팅"
-},
-{
-"w": "enact",
-"p": "동사",
-"m": "(법을) 제정하다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "enactment",
-"k": "파생",
-"m": "제정"
-}
-]
-},
-{
-"w": "encompass",
-"p": "동사",
-"m": "포괄하다, 아우르다",
-"cat": "마케팅"
-},
-{
-"w": "engrave",
-"p": "동사",
-"m": "새기다, 조각하다",
-"cat": "마케팅",
-"rel": [
-{
-"w": "engraved plaque",
-"k": "숙어",
-"m": "새겨진 명판"
-}
-]
-},
-{
-"w": "enlist",
-"p": "동사",
-"m": "(협조를) 요청하다, 입대하다",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "enlist the help of",
-"k": "숙어",
-"m": "~의 도움을 구하다"
-}
-]
-},
-{
-"w": "ensue",
-"p": "동사",
-"m": "뒤따르다",
-"cat": "회의",
-"rel": [
-{
-"w": "ensuing",
-"k": "파생",
-"m": "뒤이은"
-}
-]
-},
-{
-"w": "entail",
-"p": "동사",
-"m": "수반하다",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "the job entails",
-"k": "숙어",
-"m": "그 업무는 ~을 수반한다"
-}
-]
-},
-{
-"w": "entice",
-"p": "동사",
-"m": "유인하다",
-"cat": "마케팅",
-"rel": [
-{
-"w": "enticing",
-"k": "파생",
-"m": "솔깃한, 매력적인"
-}
-]
-},
-{
-"w": "entrust",
-"p": "동사",
-"m": "맡기다, 위임하다",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "entrust A with B",
-"k": "숙어",
-"m": "A에게 B를 맡기다"
-}
-]
-},
-{
-"w": "envisage",
-"p": "동사",
-"m": "예상하다, 상상하다",
-"cat": "회의"
-},
-{
-"w": "epitome",
-"p": "명사",
-"m": "전형, 완벽한 본보기",
-"cat": "마케팅",
-"rel": [
-{
-"w": "the epitome of",
-"k": "숙어",
-"m": "~의 전형"
-}
-]
-},
-{
-"w": "equitable",
-"p": "형용사",
-"m": "공정한",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "equitably",
-"k": "파생",
-"m": "공평하게"
-}
-]
-},
-{
-"w": "eradicate",
-"p": "동사",
-"m": "근절하다",
-"cat": "시설·사무"
-},
-{
-"w": "erratic",
-"p": "형용사",
-"m": "불규칙한, 일정치 않은",
-"cat": "재무·회계"
-},
-{
-"w": "escalate",
-"p": "동사",
-"m": "확대되다, 상부에 보고하다",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "escalate an issue",
-"k": "숙어",
-"m": "문제를 상부로 올리다"
-}
-]
-},
-{
-"w": "evade",
-"p": "동사",
-"m": "회피하다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "tax evasion",
-"k": "숙어",
-"m": "탈세"
-}
-]
-},
-{
-"w": "exacerbate",
-"p": "동사",
-"m": "악화시키다",
-"cat": "시설·사무"
-},
-{
-"w": "excel",
-"p": "동사",
-"m": "뛰어나다",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "excel at",
-"k": "숙어",
-"m": "~에 뛰어나다"
-},
-{
-"w": "excellence",
-"k": "파생",
-"m": "탁월함"
-}
-]
-},
-{
-"w": "exemplary",
-"p": "형용사",
-"m": "모범적인",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "exemplary service",
-"k": "숙어",
-"m": "모범적인 서비스"
-}
-]
-},
-{
-"w": "exemplify",
-"p": "동사",
-"m": "전형적인 예가 되다",
-"cat": "마케팅"
-},
-{
-"w": "exert",
-"p": "동사",
-"m": "(힘을) 가하다, 발휘하다",
-"cat": "회의",
-"rel": [
-{
-"w": "exert influence",
-"k": "숙어",
-"m": "영향력을 행사하다"
-}
-]
-},
-{
-"w": "exhaustive",
-"p": "형용사",
-"m": "철저한, 남김없는",
-"cat": "회의",
-"rel": [
-{
-"w": "exhaustive review",
-"k": "숙어",
-"m": "철저한 검토"
-}
-]
-},
-{
-"w": "exorbitant",
-"p": "형용사",
-"m": "터무니없이 비싼",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "exorbitant price",
-"k": "숙어",
-"m": "터무니없는 가격"
-}
-]
-},
-{
-"w": "expertise",
-"p": "명사",
-"m": "전문 지식",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "technical expertise",
-"k": "숙어",
-"m": "기술 전문성"
-}
-]
-},
-{
-"w": "exponential",
-"p": "형용사",
-"m": "기하급수적인",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "exponentially",
-"k": "파생",
-"m": "기하급수적으로"
-}
-]
-},
-{
-"w": "extenuating",
-"p": "형용사",
-"m": "정상 참작이 되는",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "extenuating circumstances",
-"k": "숙어",
-"m": "정상 참작 사유"
-}
-]
-},
-{
-"w": "extravagant",
-"p": "형용사",
-"m": "사치스러운, 낭비하는",
-"cat": "재무·회계"
-},
-{
-"w": "facade",
-"p": "명사",
-"m": "(건물) 정면, 외관",
-"cat": "시설·사무"
-},
-{
-"w": "facet",
-"p": "명사",
-"m": "측면",
-"cat": "회의",
-"rel": [
-{
-"w": "every facet of",
-"k": "숙어",
-"m": "~의 모든 측면"
-}
-]
-},
-{
-"w": "fastidious",
-"p": "형용사",
-"m": "까다로운, 꼼꼼한",
-"cat": "채용·인사"
-},
-{
-"w": "feat",
-"p": "명사",
-"m": "위업, 공적",
-"cat": "마케팅",
-"rel": [
-{
-"w": "remarkable feat",
-"k": "숙어",
-"m": "놀라운 업적"
-}
-]
-},
-{
-"w": "fixture",
-"p": "명사",
-"m": "붙박이 설비",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "light fixture",
-"k": "숙어",
-"m": "조명 설비"
-}
-]
-},
-{
-"w": "flagship",
-"p": "명사",
-"m": "주력 (상품·매장)",
-"cat": "마케팅",
-"rel": [
-{
-"w": "flagship store",
-"k": "숙어",
-"m": "플래그십 매장"
-}
-]
-},
-{
-"w": "foothold",
-"p": "명사",
-"m": "발판, 기반",
-"cat": "마케팅",
-"rel": [
-{
-"w": "gain a foothold",
-"k": "숙어",
-"m": "발판을 마련하다"
-}
-]
-},
-{
-"w": "forfeit",
-"p": "동사",
-"m": "몰수당하다, 상실하다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "forfeit a deposit",
-"k": "숙어",
-"m": "보증금을 잃다"
-}
-]
-},
-{
-"w": "formidable",
-"p": "형용사",
-"m": "만만찮은, 가공할",
-"cat": "마케팅",
-"rel": [
-{
-"w": "formidable competitor",
-"k": "숙어",
-"m": "강력한 경쟁자"
-}
-]
-},
-{
-"w": "forthcoming",
-"p": "형용사",
-"m": "다가오는, 곧 나올",
-"cat": "마케팅",
-"rel": [
-{
-"w": "forthcoming release",
-"k": "숙어",
-"m": "출시 예정작"
-}
-]
-},
-{
-"w": "fortify",
-"p": "동사",
-"m": "강화하다",
-"cat": "시설·사무"
-},
-{
-"w": "foreclose",
-"p": "동사",
-"m": "담보권을 행사하다",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "foreclosure",
-"k": "파생",
-"m": "압류"
-}
-]
-},
-{
-"w": "fraudulent",
-"p": "형용사",
-"m": "사기의",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "fraud",
-"k": "파생",
-"m": "사기"
-},
-{
-"w": "fraudulent transaction",
-"k": "숙어",
-"m": "사기 거래"
-}
-]
-},
-{
-"w": "frugal",
-"p": "형용사",
-"m": "검소한, 절약하는",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "frugality",
-"k": "파생",
-"m": "절약"
-}
-]
-},
-{
-"w": "galvanize",
-"p": "동사",
-"m": "자극하다, 활기를 불어넣다",
-"cat": "마케팅"
-},
-{
-"w": "garner",
-"p": "동사",
-"m": "얻다, 모으다",
-"cat": "마케팅",
-"rel": [
-{
-"w": "garner attention",
-"k": "숙어",
-"m": "주목을 받다"
-}
-]
-},
-{
-"w": "generic",
-"p": "형용사",
-"m": "일반적인, 상표 없는",
-"cat": "마케팅",
-"rel": [
-{
-"w": "generic brand",
-"k": "숙어",
-"m": "노브랜드 제품"
-}
-]
-},
-{
-"w": "gist",
-"p": "명사",
-"m": "요지, 골자",
-"cat": "회의",
-"rel": [
-{
-"w": "the gist of",
-"k": "숙어",
-"m": "~의 요지"
-}
-]
-},
-{
-"w": "grievous",
-"p": "형용사",
-"m": "통탄할, 극심한",
-"cat": "계약·법무"
-},
-{
-"w": "gross",
-"p": "형용사",
-"m": "총계의",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "gross profit",
-"k": "숙어",
-"m": "총이익"
-},
-{
-"w": "net",
-"k": "반의",
-"m": "순(純)~"
-}
-]
-},
-{
-"w": "hail",
-"p": "동사",
-"m": "칭송하다, 환호하다",
-"cat": "마케팅",
-"rel": [
-{
-"w": "be hailed as",
-"k": "숙어",
-"m": "~로 칭송받다"
-}
-]
-},
-{
-"w": "hamper",
-"p": "동사",
-"m": "방해하다",
-"cat": "배송·주문",
-"rel": [
-{
-"w": "hamper progress",
-"k": "숙어",
-"m": "진행을 방해하다"
-}
-]
-},
-{
-"w": "haphazard",
-"p": "형용사",
-"m": "무계획적인, 되는대로의",
-"cat": "시설·사무"
-},
-{
-"w": "hefty",
-"p": "형용사",
-"m": "두둑한, 큰",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "hefty fine",
-"k": "숙어",
-"m": "무거운 벌금"
-}
-]
-},
-{
-"w": "heighten",
-"p": "동사",
-"m": "높이다, 고조시키다",
-"cat": "마케팅",
-"rel": [
-{
-"w": "heightened awareness",
-"k": "숙어",
-"m": "높아진 인식"
-}
-]
-},
-{
-"w": "hierarchy",
-"p": "명사",
-"m": "위계, 서열",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "hierarchical",
-"k": "파생",
-"m": "위계적인"
-}
-]
-},
-{
-"w": "hinder",
-"p": "동사",
-"m": "방해하다",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "hindrance",
-"k": "파생",
-"m": "방해(물)"
-}
-]
-},
-{
-"w": "hoard",
-"p": "동사",
-"m": "비축하다, 사재기하다",
-"cat": "배송·주문"
-},
-{
-"w": "holistic",
-"p": "형용사",
-"m": "전체론적인, 종합적인",
-"cat": "회의",
-"rel": [
-{
-"w": "holistic approach",
-"k": "숙어",
-"m": "종합적 접근"
-}
-]
-},
-{
-"w": "hone",
-"p": "동사",
-"m": "연마하다, 갈고닦다",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "hone one's skills",
-"k": "숙어",
-"m": "기술을 연마하다"
-}
-]
-},
-{
-"w": "illegible",
-"p": "형용사",
-"m": "읽기 어려운",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "legible",
-"k": "반의",
-"m": "읽기 쉬운"
-}
-]
-},
-{
-"w": "immaculate",
-"p": "형용사",
-"m": "티끌 하나 없는, 완벽한",
-"cat": "시설·사무"
-},
-{
-"w": "impair",
-"p": "동사",
-"m": "손상시키다",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "impaired",
-"k": "파생",
-"m": "손상된"
-}
-]
-},
-{
-"w": "impartial",
-"p": "형용사",
-"m": "공정한, 치우치지 않은",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "impartially",
-"k": "파생",
-"m": "공정하게"
-}
-]
-},
-{
-"w": "impede",
-"p": "동사",
-"m": "지연시키다, 방해하다",
-"cat": "배송·주문",
-"rel": [
-{
-"w": "impediment",
-"k": "파생",
-"m": "장애(물)"
-}
-]
-},
-{
-"w": "impending",
-"p": "형용사",
-"m": "임박한",
-"cat": "회의",
-"rel": [
-{
-"w": "impending merger",
-"k": "숙어",
-"m": "임박한 합병"
-}
-]
-},
-{
-"w": "implication",
-"p": "명사",
-"m": "영향, 함의",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "legal implications",
-"k": "숙어",
-"m": "법적 영향"
-}
-]
-},
-{
-"w": "implicit",
-"p": "형용사",
-"m": "암묵적인",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "implicitly",
-"k": "파생",
-"m": "암묵적으로"
-}
-]
-},
-{
-"w": "inadvertently",
-"p": "부사",
-"m": "무심코, 실수로",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "inadvertent",
-"k": "파생",
-"m": "의도치 않은"
-}
-]
-},
-{
-"w": "inaugurate",
-"p": "동사",
-"m": "취임시키다, 개시하다",
-"cat": "회의",
-"rel": [
-{
-"w": "inauguration",
-"k": "파생",
-"m": "취임(식), 개관"
-}
-]
-},
-{
-"w": "incapacitate",
-"p": "동사",
-"m": "무력화하다",
-"cat": "시설·사무"
-},
-{
-"w": "inception",
-"p": "명사",
-"m": "시작, 발족",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "since its inception",
-"k": "숙어",
-"m": "발족 이래로"
-}
-]
-},
-{
-"w": "incessant",
-"p": "형용사",
-"m": "끊임없는",
-"cat": "시설·사무"
-},
-{
-"w": "incidence",
-"p": "명사",
-"m": "발생(률)",
-"cat": "시설·사무"
-},
-{
-"w": "inclusive",
-"p": "형용사",
-"m": "포함된, 포용적인",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "all-inclusive",
-"k": "파생",
-"m": "모든 것이 포함된"
-}
-]
-},
-{
-"w": "incremental",
-"p": "형용사",
-"m": "점진적인",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "increment",
-"k": "파생",
-"m": "증가(분)"
-}
-]
-},
-{
-"w": "indemnity",
-"p": "명사",
-"m": "배상, 보장",
-"cat": "계약·법무"
-},
-{
-"w": "indigenous",
-"p": "형용사",
-"m": "토착의, 고유의",
-"cat": "출장·여행"
-},
-{
-"w": "induce",
-"p": "동사",
-"m": "유도하다, 설득하다",
-"cat": "마케팅",
-"rel": [
-{
-"w": "inducement",
-"k": "파생",
-"m": "유인책"
-}
-]
-},
-{
-"w": "industrious",
-"p": "형용사",
-"m": "근면한",
-"cat": "채용·인사"
-},
-{
-"w": "inept",
-"p": "형용사",
-"m": "서투른",
-"cat": "채용·인사"
-},
-{
-"w": "inertia",
-"p": "명사",
-"m": "타성, 관성",
-"cat": "회의"
-},
-{
-"w": "infringe",
-"p": "동사",
-"m": "침해하다",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "infringement",
-"k": "파생",
-"m": "침해"
-},
-{
-"w": "infringe on",
-"k": "숙어",
-"m": "~을 침해하다"
-}
-]
-},
-{
-"w": "ingenious",
-"p": "형용사",
-"m": "기발한, 독창적인",
-"cat": "마케팅",
-"rel": [
-{
-"w": "ingenuity",
-"k": "파생",
-"m": "독창성"
-}
-]
-},
-{
-"w": "inherent",
-"p": "형용사",
-"m": "내재된, 고유의",
-"cat": "계약·법무",
-"rel": [
-{
-"w": "inherently",
-"k": "파생",
-"m": "본질적으로"
-}
-]
-},
-{
-"w": "inhibit",
-"p": "동사",
-"m": "억제하다",
-"cat": "시설·사무"
-},
-{
-"w": "innate",
-"p": "형용사",
-"m": "타고난",
-"cat": "채용·인사"
-},
-{
-"w": "inquisitive",
-"p": "형용사",
-"m": "호기심 많은",
-"cat": "채용·인사"
-},
-{
-"w": "insolvent",
-"p": "형용사",
-"m": "지급 불능의, 파산한",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "insolvency",
-"k": "파생",
-"m": "지급 불능"
-}
-]
-},
-{
-"w": "instrumental",
-"p": "형용사",
-"m": "중요한 역할을 하는",
-"cat": "채용·인사",
-"rel": [
-{
-"w": "be instrumental in",
-"k": "숙어",
-"m": "~에 중요한 역할을 하다"
-}
-]
-},
-{
-"w": "intangible",
-"p": "형용사",
-"m": "무형의",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "intangible assets",
-"k": "숙어",
-"m": "무형 자산"
-},
-{
-"w": "tangible",
-"k": "반의",
-"m": "유형의"
-}
-]
-},
-{
-"w": "intricate",
-"p": "형용사",
-"m": "복잡한, 정교한",
-"cat": "배송·주문",
-"rel": [
-{
-"w": "intricately",
-"k": "파생",
-"m": "정교하게"
-}
-]
-},
-{
-"w": "intrigue",
-"p": "동사",
-"m": "흥미를 끌다",
-"cat": "마케팅",
-"rel": [
-{
-"w": "intriguing",
-"k": "파생",
-"m": "아주 흥미로운"
-}
-]
-},
-{
-"w": "intuitive",
-"p": "형용사",
-"m": "직관적인",
-"cat": "마케팅",
-"rel": [
-{
-"w": "intuitive interface",
-"k": "숙어",
-"m": "직관적인 인터페이스"
-}
-]
-},
-{
-"w": "inundate",
-"p": "동사",
-"m": "쇄도하다, 침수시키다",
-"cat": "시설·사무",
-"rel": [
-{
-"w": "be inundated with",
-"k": "숙어",
-"m": "~이 쇄도하다"
-}
-]
-},
-{
-"w": "invariably",
-"p": "부사",
-"m": "변함없이, 언제나",
-"cat": "시설·사무"
-},
-{
-"w": "irrevocable",
-"p": "형용사",
-"m": "취소할 수 없는",
-"cat": "계약·법무"
-},
-{
-"w": "itemized",
-"p": "형용사",
-"m": "항목별로 구분된",
-"cat": "재무·회계",
-"rel": [
-{
-"w": "itemized bill",
-"k": "숙어",
-"m": "항목별 청구서"
-}
-]
-}
-]
+ "words": [
+  {
+   "w": "dismantle",
+   "p": "동사",
+   "m": "해체하다",
+   "cat": "시설·사무",
+   "ex": "Crews <b>dismantled</b> the booth in under an hour.",
+   "exKo": "작업반이 한 시간도 안 돼 부스를 해체했습니다."
+  },
+  {
+   "w": "disparity",
+   "p": "명사",
+   "m": "격차, 불균형",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "wage disparity",
+     "k": "숙어",
+     "m": "임금 격차"
+    }
+   ],
+   "ex": "The audit found a pay <b>disparity</b> between branches.",
+   "exKo": "감사에서 지점 간 급여 격차가 발견되었습니다."
+  },
+  {
+   "w": "dispense",
+   "p": "동사",
+   "m": "나누어 주다, 제공하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "dispenser",
+     "k": "파생",
+     "m": "디스펜서"
+    },
+    {
+     "w": "dispense with",
+     "k": "숙어",
+     "m": "~ 없이 지내다"
+    }
+   ],
+   "ex": "The machine <b>dispenses</b> safety gloves and earplugs.",
+   "exKo": "그 기계는 안전 장갑과 귀마개를 제공합니다."
+  },
+  {
+   "w": "disperse",
+   "p": "동사",
+   "m": "흩어지다, 해산하다",
+   "cat": "시설·사무",
+   "ex": "The crowd <b>dispersed</b> after the closing ceremony.",
+   "exKo": "폐막식 후 인파가 흩어졌습니다."
+  },
+  {
+   "w": "disproportionate",
+   "p": "형용사",
+   "m": "불균형한",
+   "cat": "재무·회계",
+   "ex": "A <b>disproportionate</b> share of costs came from freight.",
+   "exKo": "비용의 불균형하게 큰 몫이 운송에서 발생했습니다."
+  },
+  {
+   "w": "disseminate",
+   "p": "동사",
+   "m": "유포하다, 배포하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "disseminate information",
+     "k": "숙어",
+     "m": "정보를 배포하다"
+    }
+   ],
+   "ex": "The portal <b>disseminates</b> policy updates instantly.",
+   "exKo": "포털은 정책 변경 사항을 즉시 배포합니다."
+  },
+  {
+   "w": "dissolve",
+   "p": "동사",
+   "m": "해산하다, 용해되다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "dissolve a partnership",
+     "k": "숙어",
+     "m": "동업을 해체하다"
+    }
+   ],
+   "ex": "The partners agreed to <b>dissolve</b> the joint venture.",
+   "exKo": "파트너들은 합작 회사를 해산하기로 합의했습니다."
+  },
+  {
+   "w": "distill",
+   "p": "동사",
+   "m": "증류하다, 추출하다",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "distillery",
+     "k": "파생",
+     "m": "증류소"
+    }
+   ],
+   "ex": "The report <b>distills</b> months of research into ten pages.",
+   "exKo": "그 보고서는 수개월의 연구를 열 쪽으로 추려 냈습니다."
+  },
+  {
+   "w": "divulge",
+   "p": "동사",
+   "m": "누설하다",
+   "cat": "계약·법무",
+   "ex": "Employees may not <b>divulge</b> client information.",
+   "exKo": "직원은 고객 정보를 누설해서는 안 됩니다."
+  },
+  {
+   "w": "dormant",
+   "p": "형용사",
+   "m": "휴면 상태의",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "dormant account",
+     "k": "숙어",
+     "m": "휴면 계좌"
+    }
+   ],
+   "ex": "<b>Dormant</b> accounts are archived after two years.",
+   "exKo": "휴면 계정은 2년 후 보관 처리됩니다."
+  },
+  {
+   "w": "downsize",
+   "p": "동사",
+   "m": "(인원을) 축소하다",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "downsizing",
+     "k": "파생",
+     "m": "인원 감축"
+    }
+   ],
+   "ex": "The firm chose retraining over <b>downsizing</b>.",
+   "exKo": "그 회사는 인원 축소 대신 재교육을 택했습니다."
+  },
+  {
+   "w": "drape",
+   "p": "동사",
+   "m": "(천을) 걸치다, 드리우다",
+   "cat": "시설·사무",
+   "ex": "Banners were <b>draped</b> across the storefront.",
+   "exKo": "현수막이 매장 전면에 드리워졌습니다."
+  },
+  {
+   "w": "dwindle",
+   "p": "동사",
+   "m": "점점 줄어들다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "dwindling sales",
+     "k": "숙어",
+     "m": "줄어드는 매출"
+    }
+   ],
+   "ex": "Foot traffic <b>dwindled</b> after the anchor store closed.",
+   "exKo": "핵심 매장이 문을 닫자 방문객이 점점 줄었습니다."
+  },
+  {
+   "w": "earmark",
+   "p": "동사",
+   "m": "(자금을) 배정하다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "be earmarked for",
+     "k": "숙어",
+     "m": "~용으로 책정되다"
+    }
+   ],
+   "ex": "The board <b>earmarked</b> funds for the new lab.",
+   "exKo": "이사회는 새 연구소를 위한 자금을 배정했습니다."
+  },
+  {
+   "w": "eclipse",
+   "p": "동사",
+   "m": "능가하다, 가리다",
+   "cat": "마케팅",
+   "ex": "Online sales now <b>eclipse</b> in-store revenue.",
+   "exKo": "온라인 매출이 이제 매장 매출을 능가합니다."
+  },
+  {
+   "w": "elicit",
+   "p": "동사",
+   "m": "이끌어 내다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "elicit a response",
+     "k": "숙어",
+     "m": "반응을 이끌어 내다"
+    }
+   ],
+   "ex": "The survey <b>elicited</b> hundreds of detailed responses.",
+   "exKo": "그 설문은 수백 건의 상세한 응답을 이끌어 냈습니다."
+  },
+  {
+   "w": "eloquent",
+   "p": "형용사",
+   "m": "유창한, 설득력 있는",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "eloquently",
+     "k": "파생",
+     "m": "유창하게"
+    }
+   ],
+   "ex": "Her <b>eloquent</b> speech won over the investors.",
+   "exKo": "그녀의 유창한 연설이 투자자들의 마음을 얻었습니다."
+  },
+  {
+   "w": "embezzle",
+   "p": "동사",
+   "m": "횡령하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "embezzlement",
+     "k": "파생",
+     "m": "횡령"
+    }
+   ],
+   "ex": "The clerk was charged with <b>embezzling</b> company funds.",
+   "exKo": "그 직원은 회사 자금 횡령 혐의로 기소되었습니다."
+  },
+  {
+   "w": "eminent",
+   "p": "형용사",
+   "m": "저명한",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "eminently",
+     "k": "파생",
+     "m": "대단히"
+    }
+   ],
+   "ex": "An <b>eminent</b> economist chaired the panel.",
+   "exKo": "저명한 경제학자가 패널을 이끌었습니다."
+  },
+  {
+   "w": "emulate",
+   "p": "동사",
+   "m": "본받다, 모방하다",
+   "cat": "마케팅",
+   "ex": "Startups try to <b>emulate</b> the retailer's delivery model.",
+   "exKo": "스타트업들은 그 소매업체의 배송 모델을 본받으려 합니다."
+  },
+  {
+   "w": "enact",
+   "p": "동사",
+   "m": "(법을) 제정하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "enactment",
+     "k": "파생",
+     "m": "제정"
+    }
+   ],
+   "ex": "The council <b>enacted</b> stricter zoning rules.",
+   "exKo": "의회는 더 엄격한 구역 규정을 제정했습니다."
+  },
+  {
+   "w": "encompass",
+   "p": "동사",
+   "m": "포괄하다, 아우르다",
+   "cat": "마케팅",
+   "ex": "The service <b>encompasses</b> design, printing, and delivery.",
+   "exKo": "그 서비스는 디자인, 인쇄, 배송을 포괄합니다."
+  },
+  {
+   "w": "engrave",
+   "p": "동사",
+   "m": "새기다, 조각하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "engraved plaque",
+     "k": "숙어",
+     "m": "새겨진 명판"
+    }
+   ],
+   "ex": "We <b>engrave</b> names on the awards free of charge.",
+   "exKo": "상패에 이름을 무료로 새겨 드립니다."
+  },
+  {
+   "w": "enlist",
+   "p": "동사",
+   "m": "(협조를) 요청하다, 입대하다",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "enlist the help of",
+     "k": "숙어",
+     "m": "~의 도움을 구하다"
+    }
+   ],
+   "ex": "We <b>enlisted</b> local vendors to support the festival.",
+   "exKo": "축제 지원을 위해 지역 상인들의 협조를 요청했습니다."
+  },
+  {
+   "w": "ensue",
+   "p": "동사",
+   "m": "뒤따르다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "ensuing",
+     "k": "파생",
+     "m": "뒤이은"
+    }
+   ],
+   "ex": "A lively debate <b>ensued</b> after the proposal.",
+   "exKo": "제안 후 활발한 토론이 뒤따랐습니다."
+  },
+  {
+   "w": "entail",
+   "p": "동사",
+   "m": "수반하다",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "the job entails",
+     "k": "숙어",
+     "m": "그 업무는 ~을 수반한다"
+    }
+   ],
+   "ex": "The role <b>entails</b> frequent overseas travel.",
+   "exKo": "그 직무는 잦은 해외 출장을 수반합니다."
+  },
+  {
+   "w": "entice",
+   "p": "동사",
+   "m": "유인하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "enticing",
+     "k": "파생",
+     "m": "솔깃한, 매력적인"
+    }
+   ],
+   "ex": "Free samples <b>entice</b> shoppers into the new store.",
+   "exKo": "무료 샘플이 쇼핑객을 새 매장으로 유인합니다."
+  },
+  {
+   "w": "entrust",
+   "p": "동사",
+   "m": "맡기다, 위임하다",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "entrust A with B",
+     "k": "숙어",
+     "m": "A에게 B를 맡기다"
+    }
+   ],
+   "ex": "The estate was <b>entrusted</b> to a professional manager.",
+   "exKo": "그 자산은 전문 관리인에게 맡겨졌습니다."
+  },
+  {
+   "w": "envisage",
+   "p": "동사",
+   "m": "예상하다, 상상하다",
+   "cat": "회의",
+   "ex": "We <b>envisage</b> doubling exports within five years.",
+   "exKo": "5년 안에 수출을 두 배로 늘릴 것으로 예상합니다."
+  },
+  {
+   "w": "epitome",
+   "p": "명사",
+   "m": "전형, 완벽한 본보기",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "the epitome of",
+     "k": "숙어",
+     "m": "~의 전형"
+    }
+   ],
+   "ex": "The lounge is the <b>epitome</b> of quiet luxury.",
+   "exKo": "그 라운지는 조용한 럭셔리의 전형입니다."
+  },
+  {
+   "w": "equitable",
+   "p": "형용사",
+   "m": "공정한",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "equitably",
+     "k": "파생",
+     "m": "공평하게"
+    }
+   ],
+   "ex": "The new bonus plan is more <b>equitable</b> across teams.",
+   "exKo": "새 보너스 제도는 팀 간에 더 공정합니다."
+  },
+  {
+   "w": "eradicate",
+   "p": "동사",
+   "m": "근절하다",
+   "cat": "시설·사무",
+   "ex": "The update <b>eradicated</b> the billing glitch entirely.",
+   "exKo": "업데이트가 청구 오류를 완전히 근절했습니다."
+  },
+  {
+   "w": "erratic",
+   "p": "형용사",
+   "m": "불규칙한, 일정치 않은",
+   "cat": "재무·회계",
+   "ex": "<b>Erratic</b> demand makes inventory planning difficult.",
+   "exKo": "불규칙한 수요는 재고 계획을 어렵게 만듭니다."
+  },
+  {
+   "w": "escalate",
+   "p": "동사",
+   "m": "확대되다, 상부에 보고하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "escalate an issue",
+     "k": "숙어",
+     "m": "문제를 상부로 올리다"
+    }
+   ],
+   "ex": "Unresolved tickets <b>escalate</b> to a senior agent.",
+   "exKo": "미해결 문의는 상급 상담원에게 이관됩니다."
+  },
+  {
+   "w": "evade",
+   "p": "동사",
+   "m": "회피하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "tax evasion",
+     "k": "숙어",
+     "m": "탈세"
+    }
+   ],
+   "ex": "The firm was fined for <b>evading</b> import duties.",
+   "exKo": "그 회사는 수입 관세 회피로 벌금을 물었습니다."
+  },
+  {
+   "w": "exacerbate",
+   "p": "동사",
+   "m": "악화시키다",
+   "cat": "시설·사무",
+   "ex": "The port delay <b>exacerbated</b> the parts shortage.",
+   "exKo": "항만 지연이 부품 부족을 악화시켰습니다."
+  },
+  {
+   "w": "excel",
+   "p": "동사",
+   "m": "뛰어나다",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "excel at",
+     "k": "숙어",
+     "m": "~에 뛰어나다"
+    },
+    {
+     "w": "excellence",
+     "k": "파생",
+     "m": "탁월함"
+    }
+   ],
+   "ex": "She <b>excels</b> at turning data into clear stories.",
+   "exKo": "그녀는 데이터를 명쾌한 이야기로 풀어내는 데 뛰어납니다."
+  },
+  {
+   "w": "exemplary",
+   "p": "형용사",
+   "m": "모범적인",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "exemplary service",
+     "k": "숙어",
+     "m": "모범적인 서비스"
+    }
+   ],
+   "ex": "His <b>exemplary</b> attendance record earned an award.",
+   "exKo": "그의 모범적인 근태 기록은 표창을 받았습니다."
+  },
+  {
+   "w": "exemplify",
+   "p": "동사",
+   "m": "전형적인 예가 되다",
+   "cat": "마케팅",
+   "ex": "The flagship store <b>exemplifies</b> our new brand look.",
+   "exKo": "그 주력 매장은 우리의 새 브랜드 이미지를 전형적으로 보여 줍니다."
+  },
+  {
+   "w": "exert",
+   "p": "동사",
+   "m": "(힘을) 가하다, 발휘하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "exert influence",
+     "k": "숙어",
+     "m": "영향력을 행사하다"
+    }
+   ],
+   "ex": "Retail giants <b>exert</b> pressure on supplier prices.",
+   "exKo": "대형 유통업체들은 납품가에 압력을 행사합니다."
+  },
+  {
+   "w": "exhaustive",
+   "p": "형용사",
+   "m": "철저한, 남김없는",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "exhaustive review",
+     "k": "숙어",
+     "m": "철저한 검토"
+    }
+   ],
+   "ex": "The recall followed an <b>exhaustive</b> safety review.",
+   "exKo": "리콜은 철저한 안전 검토 끝에 이뤄졌습니다."
+  },
+  {
+   "w": "exorbitant",
+   "p": "형용사",
+   "m": "터무니없이 비싼",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "exorbitant price",
+     "k": "숙어",
+     "m": "터무니없는 가격"
+    }
+   ],
+   "ex": "Downtown rents have become <b>exorbitant</b>.",
+   "exKo": "시내 임대료가 터무니없이 비싸졌습니다."
+  },
+  {
+   "w": "expertise",
+   "p": "명사",
+   "m": "전문 지식",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "technical expertise",
+     "k": "숙어",
+     "m": "기술 전문성"
+    }
+   ],
+   "ex": "Her legal <b>expertise</b> proved vital in the talks.",
+   "exKo": "그녀의 법률 전문 지식이 협상에서 결정적이었습니다."
+  },
+  {
+   "w": "exponential",
+   "p": "형용사",
+   "m": "기하급수적인",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "exponentially",
+     "k": "파생",
+     "m": "기하급수적으로"
+    }
+   ],
+   "ex": "The app saw <b>exponential</b> growth in downloads.",
+   "exKo": "그 앱은 다운로드의 기하급수적 성장을 기록했습니다."
+  },
+  {
+   "w": "extenuating",
+   "p": "형용사",
+   "m": "정상 참작이 되는",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "extenuating circumstances",
+     "k": "숙어",
+     "m": "정상 참작 사유"
+    }
+   ],
+   "ex": "Deadlines may be extended under <b>extenuating</b> circumstances.",
+   "exKo": "정상 참작이 되는 상황에서는 기한이 연장될 수 있습니다."
+  },
+  {
+   "w": "extravagant",
+   "p": "형용사",
+   "m": "사치스러운, 낭비하는",
+   "cat": "재무·회계",
+   "ex": "Auditors flagged the <b>extravagant</b> entertainment expenses.",
+   "exKo": "감사인들이 사치스러운 접대비를 지적했습니다."
+  },
+  {
+   "w": "facade",
+   "p": "명사",
+   "m": "(건물) 정면, 외관",
+   "cat": "시설·사무",
+   "ex": "The historic <b>facade</b> will be preserved during the remodel.",
+   "exKo": "개조 공사 중에도 역사적인 건물 정면은 보존됩니다."
+  },
+  {
+   "w": "facet",
+   "p": "명사",
+   "m": "측면",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "every facet of",
+     "k": "숙어",
+     "m": "~의 모든 측면"
+    }
+   ],
+   "ex": "Pricing is only one <b>facet</b> of the strategy.",
+   "exKo": "가격은 전략의 한 측면일 뿐입니다."
+  },
+  {
+   "w": "fastidious",
+   "p": "형용사",
+   "m": "까다로운, 꼼꼼한",
+   "cat": "채용·인사",
+   "ex": "Our <b>fastidious</b> inspector checks every seam twice.",
+   "exKo": "꼼꼼한 검사관이 모든 이음새를 두 번씩 확인합니다."
+  },
+  {
+   "w": "feat",
+   "p": "명사",
+   "m": "위업, 공적",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "remarkable feat",
+     "k": "숙어",
+     "m": "놀라운 업적"
+    }
+   ],
+   "ex": "Shipping overnight nationwide is no small <b>feat</b>.",
+   "exKo": "전국 익일 배송은 결코 작은 위업이 아닙니다."
+  },
+  {
+   "w": "fixture",
+   "p": "명사",
+   "m": "붙박이 설비",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "light fixture",
+     "k": "숙어",
+     "m": "조명 설비"
+    }
+   ],
+   "ex": "The lease includes all lighting <b>fixtures</b>.",
+   "exKo": "임대차에는 모든 조명 설비가 포함됩니다."
+  },
+  {
+   "w": "flagship",
+   "p": "명사",
+   "m": "주력 (상품·매장)",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "flagship store",
+     "k": "숙어",
+     "m": "플래그십 매장"
+    }
+   ],
+   "ex": "The brand opened its <b>flagship</b> store in Gangnam.",
+   "exKo": "그 브랜드는 강남에 주력 매장을 열었습니다."
+  },
+  {
+   "w": "foothold",
+   "p": "명사",
+   "m": "발판, 기반",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "gain a foothold",
+     "k": "숙어",
+     "m": "발판을 마련하다"
+    }
+   ],
+   "ex": "The deal gives us a <b>foothold</b> in the European market.",
+   "exKo": "그 계약으로 유럽 시장에 발판을 마련했습니다."
+  },
+  {
+   "w": "forfeit",
+   "p": "동사",
+   "m": "몰수당하다, 상실하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "forfeit a deposit",
+     "k": "숙어",
+     "m": "보증금을 잃다"
+    }
+   ],
+   "ex": "Cancel late and you <b>forfeit</b> the deposit.",
+   "exKo": "늦게 취소하면 보증금을 상실합니다."
+  },
+  {
+   "w": "formidable",
+   "p": "형용사",
+   "m": "만만찮은, 가공할",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "formidable competitor",
+     "k": "숙어",
+     "m": "강력한 경쟁자"
+    }
+   ],
+   "ex": "The startup faces <b>formidable</b> competitors.",
+   "exKo": "그 스타트업은 만만찮은 경쟁자들과 맞서고 있습니다."
+  },
+  {
+   "w": "forthcoming",
+   "p": "형용사",
+   "m": "다가오는, 곧 나올",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "forthcoming release",
+     "k": "숙어",
+     "m": "출시 예정작"
+    }
+   ],
+   "ex": "Details of the <b>forthcoming</b> model remain secret.",
+   "exKo": "곧 나올 모델의 세부 사항은 비밀에 부쳐져 있습니다."
+  },
+  {
+   "w": "fortify",
+   "p": "동사",
+   "m": "강화하다",
+   "cat": "시설·사무",
+   "ex": "Extra staff <b>fortified</b> the support desk before launch.",
+   "exKo": "출시 전 추가 인력이 지원 창구를 강화했습니다."
+  },
+  {
+   "w": "foreclose",
+   "p": "동사",
+   "m": "담보권을 행사하다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "foreclosure",
+     "k": "파생",
+     "m": "압류"
+    }
+   ],
+   "ex": "The bank moved to <b>foreclose</b> on the property.",
+   "exKo": "은행은 그 부동산에 담보권 행사를 개시했습니다."
+  },
+  {
+   "w": "fraudulent",
+   "p": "형용사",
+   "m": "사기의",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "fraud",
+     "k": "파생",
+     "m": "사기"
+    },
+    {
+     "w": "fraudulent transaction",
+     "k": "숙어",
+     "m": "사기 거래"
+    }
+   ],
+   "ex": "The system flags <b>fraudulent</b> card transactions.",
+   "exKo": "시스템은 사기 카드 거래를 표시합니다."
+  },
+  {
+   "w": "frugal",
+   "p": "형용사",
+   "m": "검소한, 절약하는",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "frugality",
+     "k": "파생",
+     "m": "절약"
+    }
+   ],
+   "ex": "Years of <b>frugal</b> management funded the expansion.",
+   "exKo": "수년간의 검소한 경영이 확장 자금을 마련해 주었습니다."
+  },
+  {
+   "w": "galvanize",
+   "p": "동사",
+   "m": "자극하다, 활기를 불어넣다",
+   "cat": "마케팅",
+   "ex": "The award <b>galvanized</b> the whole design team.",
+   "exKo": "수상 소식이 디자인팀 전체에 활력을 불어넣었습니다."
+  },
+  {
+   "w": "garner",
+   "p": "동사",
+   "m": "얻다, 모으다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "garner attention",
+     "k": "숙어",
+     "m": "주목을 받다"
+    }
+   ],
+   "ex": "The campaign <b>garnered</b> praise from industry critics.",
+   "exKo": "그 캠페인은 업계 평론가들의 찬사를 얻었습니다."
+  },
+  {
+   "w": "generic",
+   "p": "형용사",
+   "m": "일반적인, 상표 없는",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "generic brand",
+     "k": "숙어",
+     "m": "노브랜드 제품"
+    }
+   ],
+   "ex": "<b>Generic</b> brands cost less than name brands.",
+   "exKo": "무상표 제품은 유명 브랜드보다 저렴합니다."
+  },
+  {
+   "w": "gist",
+   "p": "명사",
+   "m": "요지, 골자",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "the gist of",
+     "k": "숙어",
+     "m": "~의 요지"
+    }
+   ],
+   "ex": "The <b>gist</b> of the memo is that budgets are frozen.",
+   "exKo": "메모의 요지는 예산이 동결되었다는 것입니다."
+  },
+  {
+   "w": "grievous",
+   "p": "형용사",
+   "m": "통탄할, 극심한",
+   "cat": "계약·법무",
+   "ex": "The data leak was a <b>grievous</b> breach of trust.",
+   "exKo": "그 데이터 유출은 통탄할 신뢰 위반이었습니다."
+  },
+  {
+   "w": "gross",
+   "p": "형용사",
+   "m": "총계의",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "gross profit",
+     "k": "숙어",
+     "m": "총이익"
+    },
+    {
+     "w": "net",
+     "k": "반의",
+     "m": "순(純)~"
+    }
+   ],
+   "ex": "<b>Gross</b> revenue passed ten million dollars.",
+   "exKo": "총매출이 천만 달러를 넘었습니다."
+  },
+  {
+   "w": "hail",
+   "p": "동사",
+   "m": "칭송하다, 환호하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "be hailed as",
+     "k": "숙어",
+     "m": "~로 칭송받다"
+    }
+   ],
+   "ex": "Critics <b>hailed</b> the redesign as a triumph.",
+   "exKo": "평론가들은 그 재설계를 대성공이라 칭송했습니다."
+  },
+  {
+   "w": "hamper",
+   "p": "동사",
+   "m": "방해하다",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "hamper progress",
+     "k": "숙어",
+     "m": "진행을 방해하다"
+    }
+   ],
+   "ex": "Fog <b>hampered</b> deliveries across the region.",
+   "exKo": "안개가 지역 전체의 배송을 방해했습니다."
+  },
+  {
+   "w": "haphazard",
+   "p": "형용사",
+   "m": "무계획적인, 되는대로의",
+   "cat": "시설·사무",
+   "ex": "The files were stored in a <b>haphazard</b> way.",
+   "exKo": "파일들이 무계획적으로 보관되어 있었습니다."
+  },
+  {
+   "w": "hefty",
+   "p": "형용사",
+   "m": "두둑한, 큰",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "hefty fine",
+     "k": "숙어",
+     "m": "무거운 벌금"
+    }
+   ],
+   "ex": "Early termination carries a <b>hefty</b> penalty.",
+   "exKo": "중도 해지에는 두둑한 위약금이 따릅니다."
+  },
+  {
+   "w": "heighten",
+   "p": "동사",
+   "m": "높이다, 고조시키다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "heightened awareness",
+     "k": "숙어",
+     "m": "높아진 인식"
+    }
+   ],
+   "ex": "The teaser video <b>heightened</b> interest in the launch.",
+   "exKo": "티저 영상이 출시에 대한 관심을 높였습니다."
+  },
+  {
+   "w": "hierarchy",
+   "p": "명사",
+   "m": "위계, 서열",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "hierarchical",
+     "k": "파생",
+     "m": "위계적인"
+    }
+   ],
+   "ex": "The startup keeps a flat management <b>hierarchy</b>.",
+   "exKo": "그 스타트업은 수평적인 관리 체계를 유지합니다."
+  },
+  {
+   "w": "hinder",
+   "p": "동사",
+   "m": "방해하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "hindrance",
+     "k": "파생",
+     "m": "방해(물)"
+    }
+   ],
+   "ex": "Old software <b>hinders</b> the team's productivity.",
+   "exKo": "낡은 소프트웨어가 팀 생산성을 방해합니다."
+  },
+  {
+   "w": "hoard",
+   "p": "동사",
+   "m": "비축하다, 사재기하다",
+   "cat": "배송·주문",
+   "ex": "Customers began to <b>hoard</b> supplies before the storm.",
+   "exKo": "폭풍 전에 고객들이 물품을 사재기하기 시작했습니다."
+  },
+  {
+   "w": "holistic",
+   "p": "형용사",
+   "m": "전체론적인, 종합적인",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "holistic approach",
+     "k": "숙어",
+     "m": "종합적 접근"
+    }
+   ]
+  },
+  {
+   "w": "hone",
+   "p": "동사",
+   "m": "연마하다, 갈고닦다",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "hone one's skills",
+     "k": "숙어",
+     "m": "기술을 연마하다"
+    }
+   ]
+  },
+  {
+   "w": "illegible",
+   "p": "형용사",
+   "m": "읽기 어려운",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "legible",
+     "k": "반의",
+     "m": "읽기 쉬운"
+    }
+   ]
+  },
+  {
+   "w": "immaculate",
+   "p": "형용사",
+   "m": "티끌 하나 없는, 완벽한",
+   "cat": "시설·사무"
+  },
+  {
+   "w": "impair",
+   "p": "동사",
+   "m": "손상시키다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "impaired",
+     "k": "파생",
+     "m": "손상된"
+    }
+   ]
+  },
+  {
+   "w": "impartial",
+   "p": "형용사",
+   "m": "공정한, 치우치지 않은",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "impartially",
+     "k": "파생",
+     "m": "공정하게"
+    }
+   ]
+  },
+  {
+   "w": "impede",
+   "p": "동사",
+   "m": "지연시키다, 방해하다",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "impediment",
+     "k": "파생",
+     "m": "장애(물)"
+    }
+   ]
+  },
+  {
+   "w": "impending",
+   "p": "형용사",
+   "m": "임박한",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "impending merger",
+     "k": "숙어",
+     "m": "임박한 합병"
+    }
+   ]
+  },
+  {
+   "w": "implication",
+   "p": "명사",
+   "m": "영향, 함의",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "legal implications",
+     "k": "숙어",
+     "m": "법적 영향"
+    }
+   ]
+  },
+  {
+   "w": "implicit",
+   "p": "형용사",
+   "m": "암묵적인",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "implicitly",
+     "k": "파생",
+     "m": "암묵적으로"
+    }
+   ]
+  },
+  {
+   "w": "inadvertently",
+   "p": "부사",
+   "m": "무심코, 실수로",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "inadvertent",
+     "k": "파생",
+     "m": "의도치 않은"
+    }
+   ]
+  },
+  {
+   "w": "inaugurate",
+   "p": "동사",
+   "m": "취임시키다, 개시하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "inauguration",
+     "k": "파생",
+     "m": "취임(식), 개관"
+    }
+   ]
+  },
+  {
+   "w": "incapacitate",
+   "p": "동사",
+   "m": "무력화하다",
+   "cat": "시설·사무"
+  },
+  {
+   "w": "inception",
+   "p": "명사",
+   "m": "시작, 발족",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "since its inception",
+     "k": "숙어",
+     "m": "발족 이래로"
+    }
+   ]
+  },
+  {
+   "w": "incessant",
+   "p": "형용사",
+   "m": "끊임없는",
+   "cat": "시설·사무"
+  },
+  {
+   "w": "incidence",
+   "p": "명사",
+   "m": "발생(률)",
+   "cat": "시설·사무"
+  },
+  {
+   "w": "inclusive",
+   "p": "형용사",
+   "m": "포함된, 포용적인",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "all-inclusive",
+     "k": "파생",
+     "m": "모든 것이 포함된"
+    }
+   ]
+  },
+  {
+   "w": "incremental",
+   "p": "형용사",
+   "m": "점진적인",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "increment",
+     "k": "파생",
+     "m": "증가(분)"
+    }
+   ]
+  },
+  {
+   "w": "indemnity",
+   "p": "명사",
+   "m": "배상, 보장",
+   "cat": "계약·법무"
+  },
+  {
+   "w": "indigenous",
+   "p": "형용사",
+   "m": "토착의, 고유의",
+   "cat": "출장·여행"
+  },
+  {
+   "w": "induce",
+   "p": "동사",
+   "m": "유도하다, 설득하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "inducement",
+     "k": "파생",
+     "m": "유인책"
+    }
+   ]
+  },
+  {
+   "w": "industrious",
+   "p": "형용사",
+   "m": "근면한",
+   "cat": "채용·인사"
+  },
+  {
+   "w": "inept",
+   "p": "형용사",
+   "m": "서투른",
+   "cat": "채용·인사"
+  },
+  {
+   "w": "inertia",
+   "p": "명사",
+   "m": "타성, 관성",
+   "cat": "회의"
+  },
+  {
+   "w": "infringe",
+   "p": "동사",
+   "m": "침해하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "infringement",
+     "k": "파생",
+     "m": "침해"
+    },
+    {
+     "w": "infringe on",
+     "k": "숙어",
+     "m": "~을 침해하다"
+    }
+   ]
+  },
+  {
+   "w": "ingenious",
+   "p": "형용사",
+   "m": "기발한, 독창적인",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "ingenuity",
+     "k": "파생",
+     "m": "독창성"
+    }
+   ]
+  },
+  {
+   "w": "inherent",
+   "p": "형용사",
+   "m": "내재된, 고유의",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "inherently",
+     "k": "파생",
+     "m": "본질적으로"
+    }
+   ]
+  },
+  {
+   "w": "inhibit",
+   "p": "동사",
+   "m": "억제하다",
+   "cat": "시설·사무"
+  },
+  {
+   "w": "innate",
+   "p": "형용사",
+   "m": "타고난",
+   "cat": "채용·인사"
+  },
+  {
+   "w": "inquisitive",
+   "p": "형용사",
+   "m": "호기심 많은",
+   "cat": "채용·인사"
+  },
+  {
+   "w": "insolvent",
+   "p": "형용사",
+   "m": "지급 불능의, 파산한",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "insolvency",
+     "k": "파생",
+     "m": "지급 불능"
+    }
+   ]
+  },
+  {
+   "w": "instrumental",
+   "p": "형용사",
+   "m": "중요한 역할을 하는",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "be instrumental in",
+     "k": "숙어",
+     "m": "~에 중요한 역할을 하다"
+    }
+   ]
+  },
+  {
+   "w": "intangible",
+   "p": "형용사",
+   "m": "무형의",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "intangible assets",
+     "k": "숙어",
+     "m": "무형 자산"
+    },
+    {
+     "w": "tangible",
+     "k": "반의",
+     "m": "유형의"
+    }
+   ]
+  },
+  {
+   "w": "intricate",
+   "p": "형용사",
+   "m": "복잡한, 정교한",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "intricately",
+     "k": "파생",
+     "m": "정교하게"
+    }
+   ]
+  },
+  {
+   "w": "intrigue",
+   "p": "동사",
+   "m": "흥미를 끌다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "intriguing",
+     "k": "파생",
+     "m": "아주 흥미로운"
+    }
+   ]
+  },
+  {
+   "w": "intuitive",
+   "p": "형용사",
+   "m": "직관적인",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "intuitive interface",
+     "k": "숙어",
+     "m": "직관적인 인터페이스"
+    }
+   ]
+  },
+  {
+   "w": "inundate",
+   "p": "동사",
+   "m": "쇄도하다, 침수시키다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "be inundated with",
+     "k": "숙어",
+     "m": "~이 쇄도하다"
+    }
+   ]
+  },
+  {
+   "w": "invariably",
+   "p": "부사",
+   "m": "변함없이, 언제나",
+   "cat": "시설·사무"
+  },
+  {
+   "w": "irrevocable",
+   "p": "형용사",
+   "m": "취소할 수 없는",
+   "cat": "계약·법무"
+  },
+  {
+   "w": "itemized",
+   "p": "형용사",
+   "m": "항목별로 구분된",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "itemized bill",
+     "k": "숙어",
+     "m": "항목별 청구서"
+    }
+   ]
+  }
+ ]
 }
