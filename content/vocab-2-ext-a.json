@@ -18,7 +18,9 @@
     }
    ],
    "ex": "The team <b>accomplished</b> all of its quarterly goals.",
-   "exKo": "그 팀은 분기 목표를 모두 달성했습니다."
+   "exKo": "그 팀은 분기 목표를 모두 달성했습니다.",
+   "ety": "ac-(~까지) + compl(가득 채우다) + -ish(동사) → 끝까지 가득 채우다 → 달성하다 (같은 어근: complete 완성하다)",
+   "mnem": "'어! 컴플리트' 소리가 나게 꽉 채워 끝냄 → 달성하다, 해내다"
   },
   {
    "w": "accurate",
@@ -43,7 +45,9 @@
     }
    ],
    "ex": "Please make sure the invoice amounts are <b>accurate</b>.",
-   "exKo": "송장 금액이 정확한지 확인해 주세요."
+   "exKo": "송장 금액이 정확한지 확인해 주세요.",
+   "ety": "ac-(~에) + cur(주의를 기울이다) + -ate(형용사) → 정성껏 살핀 → 정확한 (같은 어근: cure 치료하다)",
+   "mnem": "큐어(cure)하듯 정성 들여 맞춘 시계 바늘 → 정확한"
   },
   {
    "w": "achievement",
@@ -58,7 +62,9 @@
     }
    ],
    "ex": "Winning the design award was a great <b>achievement</b>.",
-   "exKo": "디자인상 수상은 대단한 성취였습니다."
+   "exKo": "디자인상 수상은 대단한 성취였습니다.",
+   "ety": "ad-(~로) + chieve(머리·정점) + -ment(명사) → 정점에 도달함 → 성취 (같은 어근: chief 우두머리)",
+   "mnem": "게임 화면에 뜨는 '어치브먼트' 뱃지가 딱 업적 → 성취, 업적"
   },
   {
    "w": "acknowledge",
@@ -78,7 +84,9 @@
     }
    ],
    "ex": "Please <b>acknowledge</b> receipt of this email.",
-   "exKo": "이 이메일의 수신을 확인해 주시기 바랍니다."
+   "exKo": "이 이메일의 수신을 확인해 주시기 바랍니다.",
+   "ety": "ac-(~에 대해) + knowledge(앎) → 안다고 밝히다 → 인정하다 (같은 어근: know 알다)",
+   "mnem": "'낼리지(knowledge) 인정!' 알고 있음을 대놓고 밝힘 → 인정하다, 수신 확인해 주다"
   },
   {
    "w": "acquire",
@@ -93,7 +101,9 @@
     }
    ],
    "ex": "The firm plans to <b>acquire</b> a smaller competitor.",
-   "exKo": "그 회사는 소규모 경쟁사를 인수할 계획입니다."
+   "exKo": "그 회사는 소규모 경쟁사를 인수할 계획입니다.",
+   "ety": "ac-(~에) + quire(구하다) → 구해서 제 것으로 만들다 → 획득하다 (같은 어근: require 요구하다)",
+   "mnem": "'애콰이어', 대기업이 콱 사서 제 것으로 만듦 → 인수하다, 획득하다"
   },
   {
    "w": "adapt",
@@ -113,7 +123,9 @@
     }
    ],
    "ex": "New hires quickly <b>adapt</b> to our flexible schedule.",
-   "exKo": "신입 사원들은 우리의 유연 근무제에 빠르게 적응합니다."
+   "exKo": "신입 사원들은 우리의 유연 근무제에 빠르게 적응합니다.",
+   "ety": "ad-(~에) + apt(알맞은) → ~에 알맞게 맞추다 → 적응하다 (같은 어근: apt 적절한)",
+   "mnem": "'어댑터'가 낯선 콘센트에 맞춰 주듯 → 적응하다, 조정하다"
   },
   {
    "w": "adjust",
@@ -133,7 +145,9 @@
     }
    ],
    "ex": "You can <b>adjust</b> the chair height with this lever.",
-   "exKo": "이 레버로 의자 높이를 조절할 수 있습니다."
+   "exKo": "이 레버로 의자 높이를 조절할 수 있습니다.",
+   "ety": "ad-(~에) + just(꼭 맞는·올바른) → 딱 맞게 바로잡다 → 조정하다 (같은 어근: justice 정의)",
+   "mnem": "의자 높이를 '저스트(just)'하게 딱 맞춰 놓음 → 조정하다"
   },
   {
    "w": "administration",
@@ -153,7 +167,9 @@
     }
    ],
    "ex": "She moved from sales to office <b>administration</b>.",
-   "exKo": "그녀는 영업에서 사무 행정으로 옮겼습니다."
+   "exKo": "그녀는 영업에서 사무 행정으로 옮겼습니다.",
+   "ety": "ad-(~에) + minister(섬기다·돌보다) + -ation(명사) → 돌보아 운영함 → 행정 (같은 어근: minister 장관)",
+   "mnem": "뉴스에서 '행정부'를 administration이라 부르죠 → 행정, 관리"
   },
   {
    "w": "adopt",
@@ -168,7 +184,9 @@
     }
    ],
    "ex": "The board voted to <b>adopt</b> the new policy.",
-   "exKo": "이사회는 새 정책을 채택하기로 표결했습니다."
+   "exKo": "이사회는 새 정책을 채택하기로 표결했습니다.",
+   "ety": "ad-(~로) + opt(선택하다) → 골라서 받아들이다 → 채택하다 (같은 어근: option 선택권)",
+   "mnem": "여러 옵션(opt) 중 하나를 골라 우리 것으로 들임 → 채택하다"
   },
   {
    "w": "advantage",
@@ -188,7 +206,9 @@
     }
    ],
    "ex": "Free delivery gives us an <b>advantage</b> over rivals.",
-   "exKo": "무료 배송은 경쟁사 대비 우리의 이점입니다."
+   "exKo": "무료 배송은 경쟁사 대비 우리의 이점입니다.",
+   "ety": "ad-(앞으로) + van(앞) + -age(명사) → 남보다 앞선 자리 → 장점 (같은 어근: advance 전진하다)",
+   "mnem": "테니스 '어드밴티지'는 한 점 앞선 유리한 상태 → 장점, 이점"
   },
   {
    "w": "affect",
@@ -203,7 +223,9 @@
     }
    ],
    "ex": "Rising fuel costs <b>affect</b> our shipping rates.",
-   "exKo": "유가 상승은 우리 배송 요금에 영향을 미칩니다."
+   "exKo": "유가 상승은 우리 배송 요금에 영향을 미칩니다.",
+   "ety": "af-(~에) + fect(만들다·행하다) → ~에 작용을 가하다 → 영향을 미치다 (같은 어근: effect 결과)",
+   "mnem": "a는 action, 액션을 걸어 상대를 흔들어 놓음 → 영향을 미치다"
   },
   {
    "w": "afterward",
@@ -218,7 +240,9 @@
     }
    ],
    "ex": "The seminar ends at five, and dinner follows <b>afterward</b>.",
-   "exKo": "세미나는 5시에 끝나고 그 후에 만찬이 이어집니다."
+   "exKo": "세미나는 5시에 끝나고 그 후에 만찬이 이어집니다.",
+   "ety": "after(뒤에) + -ward(~쪽으로) → 시간의 뒤쪽으로 → 그 후에 (같은 어근: toward ~쪽으로)",
+   "mnem": "애프터(after) + 워드(방향), 그 뒤쪽 시간대 → 그 후에"
   },
   {
    "w": "aggressive",
@@ -233,7 +257,9 @@
     }
    ],
    "ex": "The company set an <b>aggressive</b> sales target this year.",
-   "exKo": "그 회사는 올해 공격적인 매출 목표를 세웠습니다."
+   "exKo": "그 회사는 올해 공격적인 매출 목표를 세웠습니다.",
+   "ety": "ag-(~쪽으로) + gress(걸어가다) + -ive(형용사) → 상대 쪽으로 밀고 나가는 → 공격적인 (같은 어근: progress 전진)",
+   "mnem": "축구 '어그레시브'한 압박, 앞으로 확 밀고 들어감 → 공격적인, 적극적인"
   },
   {
    "w": "aim",
@@ -253,7 +279,9 @@
     }
    ],
    "ex": "We <b>aim</b> to reduce complaints by half.",
-   "exKo": "우리는 불만 건수를 절반으로 줄이는 것을 목표로 합니다."
+   "exKo": "우리는 불만 건수를 절반으로 줄이는 것을 목표로 합니다.",
+   "ety": "aestim(가늠하다) → 거리를 가늠해 겨누다 → 목표로 하다 (같은 어근: estimate 추정하다)",
+   "mnem": "FPS 게임 '에임' 맞추듯 과녁을 딱 겨눔 → 목표로 하다"
   },
   {
    "w": "alert",
@@ -268,7 +296,9 @@
     }
    ],
    "ex": "Please <b>alert</b> security if you see anything unusual.",
-   "exKo": "이상한 점을 발견하면 보안팀에 알려 주세요."
+   "exKo": "이상한 점을 발견하면 보안팀에 알려 주세요.",
+   "ety": "all'erta(망루 위로!) → 보초에게 외치던 경계 구호 → 경고하다 (같은 어근: erect 곧추선)",
+   "mnem": "폰에 삐용 하고 뜨는 재난 '얼럿' → 알리다, 경고하다"
   },
   {
    "w": "alter",
@@ -283,7 +313,9 @@
     }
    ],
    "ex": "We had to <b>alter</b> the schedule due to the storm.",
-   "exKo": "폭풍 때문에 일정을 변경해야 했습니다."
+   "exKo": "폭풍 때문에 일정을 변경해야 했습니다.",
+   "ety": "alter(다른) → 다른 것으로 만들다 → 바꾸다 (같은 어근: alternative 대안)",
+   "mnem": "수선집 '알터'—바지 기장을 다르게 고쳐 줌 → 바꾸다, 변경하다"
   },
   {
    "w": "alternative",
@@ -303,7 +335,9 @@
     }
    ],
    "ex": "Taking the train is a cheaper <b>alternative</b> to flying.",
-   "exKo": "기차 이용은 비행보다 저렴한 대안입니다."
+   "exKo": "기차 이용은 비행보다 저렴한 대안입니다.",
+   "ety": "alter(다른) + -ative(성질) → 다른 쪽 선택지 → 대안 (같은 어근: alter 바꾸다)",
+   "mnem": "'얼터너티브 록'은 주류 말고 다른 갈래의 음악 → 대안"
   },
   {
    "w": "ambitious",
@@ -318,7 +352,9 @@
     }
    ],
    "ex": "The startup has an <b>ambitious</b> five-year plan.",
-   "exKo": "그 스타트업은 야심 찬 5개년 계획을 갖고 있습니다."
+   "exKo": "그 스타트업은 야심 찬 5개년 계획을 갖고 있습니다.",
+   "ety": "amb-(주위를) + it(가다) + -ous(형용사) → 표 구하러 돌아다니는 → 야심 찬 (같은 어근: exit 출구)",
+   "mnem": "사방(amb)을 돌며 기회를 노리는 눈빛 → 야심 찬"
   },
   {
    "w": "analysis",
@@ -338,7 +374,9 @@
     }
    ],
    "ex": "The market <b>analysis</b> will be ready by Friday.",
-   "exKo": "시장 분석은 금요일까지 준비될 것입니다."
+   "exKo": "시장 분석은 금요일까지 준비될 것입니다.",
+   "ety": "ana-(완전히) + lys(풀다) + -is(명사) → 낱낱이 풀어헤침 → 분석 (같은 어근: paralysis 마비)",
+   "mnem": "'애널리시스'는 얽힌 실타래를 다 풀어 늘어놓는 일 → 분석"
   },
   {
    "w": "anticipate",
@@ -358,7 +396,9 @@
     }
    ],
    "ex": "We <b>anticipate</b> strong demand for the new model.",
-   "exKo": "신모델에 대한 강한 수요를 예상합니다."
+   "exKo": "신모델에 대한 강한 수요를 예상합니다.",
+   "ety": "anti-(미리) + cip(잡다) + -ate(동사) → 미리 붙잡아 두다 → 예상하다 (같은 어근: participate 참여하다)",
+   "mnem": "안티(미리) + 십(잡다), 올 일을 미리 낚아챔 → 예상하다, 기대하다"
   },
   {
    "w": "anxious",
@@ -373,7 +413,9 @@
     }
    ],
    "ex": "Investors are <b>anxious</b> about the delayed launch.",
-   "exKo": "투자자들은 출시 지연에 대해 불안해하고 있습니다."
+   "exKo": "투자자들은 출시 지연에 대해 불안해하고 있습니다.",
+   "ety": "anx(죄다·조이다) + -ious(형용사) → 가슴이 죄어드는 → 불안한 (같은 어근: anger 분노)",
+   "mnem": "'앵' 하고 목이 조이는 기분, 합격 발표 직전 → 불안한, 갈망하는"
   },
   {
    "w": "apparent",
@@ -388,7 +430,9 @@
     }
    ],
    "ex": "It became <b>apparent</b> that we needed more staff.",
-   "exKo": "인력이 더 필요하다는 것이 분명해졌습니다."
+   "exKo": "인력이 더 필요하다는 것이 분명해졌습니다.",
+   "ety": "ap-(~에) + par(나타나다) + -ent(형용사) → 눈앞에 드러난 → 분명한 (같은 어근: appear 나타나다)",
+   "mnem": "어피어(appear)해 버려 감출 수 없이 보임 → 분명한, 명백한"
   },
   {
    "w": "appeal",
@@ -408,7 +452,9 @@
     }
    ],
    "ex": "The new packaging <b>appeals</b> to younger buyers.",
-   "exKo": "새 포장은 젊은 구매자들의 마음을 끕니다."
+   "exKo": "새 포장은 젊은 구매자들의 마음을 끕니다.",
+   "ety": "ap-(~에) + peal(몰아붙이다) → 마음 쪽으로 밀어붙이다 → 호소하다 (같은 어근: propel 추진하다)",
+   "mnem": "'어필한다'고 한국어에서 그대로 쓰죠 → 호소하다, 매력을 끌다"
   },
   {
    "w": "appropriate",
@@ -428,7 +474,9 @@
     }
    ],
    "ex": "Please wear <b>appropriate</b> clothing for the site visit.",
-   "exKo": "현장 방문에 적절한 복장을 착용해 주세요."
+   "exKo": "현장 방문에 적절한 복장을 착용해 주세요.",
+   "ety": "ap-(~에) + propri(자기 것·고유의) + -ate(형용사) → 그 자리에 꼭 맞는 → 적절한 (같은 어근: property 재산)",
+   "mnem": "프로퍼(propri)가 '딱 제 것', 상황에 딱 제 것인 → 적절한"
   },
   {
    "w": "approximately",
@@ -448,7 +496,9 @@
     }
    ],
    "ex": "The flight takes <b>approximately</b> two hours.",
-   "exKo": "그 항공편은 대략 2시간이 걸립니다."
+   "exKo": "그 항공편은 대략 2시간이 걸립니다.",
+   "ety": "ap-(~에) + proxim(가장 가까운) + -ly(부사) → 거의 근접하게 → 대략 (같은 어근: proximity 근접)",
+   "mnem": "프록시(proxim)처럼 근처까지만 가고 딱은 아님 → 대략"
   },
   {
    "w": "aspect",
@@ -463,7 +513,9 @@
     }
    ],
    "ex": "Safety is the most important <b>aspect</b> of the plan.",
-   "exKo": "안전은 그 계획에서 가장 중요한 측면입니다."
+   "exKo": "안전은 그 계획에서 가장 중요한 측면입니다.",
+   "ety": "ad-(~쪽을) + spect(보다) → 바라본 한 면 → 측면 (같은 어근: inspect 점검하다)",
+   "mnem": "사진 '애스펙트 비율'도 보이는 면의 모양 → 측면, 양상"
   },
   {
    "w": "assemble",
@@ -483,7 +535,9 @@
     }
    ],
    "ex": "Workers <b>assemble</b> the desks at the factory.",
-   "exKo": "작업자들이 공장에서 책상을 조립합니다."
+   "exKo": "작업자들이 공장에서 책상을 조립합니다.",
+   "ety": "as-(~로) + sembl(같이·하나로) → 하나로 모아 붙이다 → 조립하다 (같은 어근: similar 비슷한)",
+   "mnem": "'어셈블!' 외치면 흩어진 부품이 모여 합체 → 조립하다, 모이다"
   },
   {
    "w": "assess",
@@ -498,7 +552,9 @@
     }
    ],
    "ex": "An expert will <b>assess</b> the damage tomorrow.",
-   "exKo": "전문가가 내일 손상 정도를 평가할 것입니다."
+   "exKo": "전문가가 내일 손상 정도를 평가할 것입니다.",
+   "ety": "as-(옆에) + sess(앉다) → 판사 옆에 앉아 액수를 매기다 → 평가하다 (같은 어근: session 회기)",
+   "mnem": "옆자리에 앉아(sess) 점수판을 드는 심사위원 → 평가하다"
   },
   {
    "w": "asset",
@@ -513,7 +569,9 @@
     }
    ],
    "ex": "The building is the company's largest <b>asset</b>.",
-   "exKo": "그 건물은 회사의 가장 큰 자산입니다."
+   "exKo": "그 건물은 회사의 가장 큰 자산입니다.",
+   "ety": "ad(~에) + satis(충분한) → 빚 갚기에 충분한 것 → 자산 (같은 어근: satisfy 만족시키다)",
+   "mnem": "'애셋 관리'라 하죠, 한 세트로 쌓아 둔 재산 → 자산"
   },
   {
    "w": "associate",
@@ -533,7 +591,9 @@
     }
    ],
    "ex": "A sales <b>associate</b> will help you at the counter.",
-   "exKo": "판매 직원이 카운터에서 도와드릴 것입니다."
+   "exKo": "판매 직원이 카운터에서 도와드릴 것입니다.",
+   "ety": "as-(~로) + soci(동료·무리) + -ate → 한 무리로 묶인 사람 → 동료 (같은 어근: society 사회)",
+   "mnem": "소셜(soci)하게 같은 편으로 묶인 사람 → 동료, 어소시에이트"
   },
   {
    "w": "assume",
@@ -553,7 +613,9 @@
     }
    ],
    "ex": "She will <b>assume</b> the role of team leader in July.",
-   "exKo": "그녀는 7월에 팀장 역할을 맡게 됩니다."
+   "exKo": "그녀는 7월에 팀장 역할을 맡게 됩니다.",
+   "ety": "as-(~로) + sum(취하다) → 미리 집어 들다 → 추정하다 (같은 어근: consume 소비하다)",
+   "mnem": "숨(sum)은 답을 미리 집어 듦, 자리도 집어 맡음 → 추정하다, 맡다"
   },
   {
    "w": "assure",
@@ -573,7 +635,9 @@
     }
    ],
    "ex": "I <b>assure</b> you the order will arrive on time.",
-   "exKo": "주문품이 제때 도착할 것을 장담합니다."
+   "exKo": "주문품이 제때 도착할 것을 장담합니다.",
+   "ety": "as-(~에) + sure(확실한) → 확실하다고 못 박다 → 장담하다 (같은 어근: insurance 보험)",
+   "mnem": "'슈어(sure)!' 하며 상대 가슴에 확신 도장을 쾅 → 장담·보장하다"
   },
   {
    "w": "attempt",
@@ -588,7 +652,9 @@
     }
    ],
    "ex": "Our first <b>attempt</b> to fix the printer failed.",
-   "exKo": "프린터를 고치려던 첫 시도는 실패했습니다."
+   "exKo": "프린터를 고치려던 첫 시도는 실패했습니다.",
+   "ety": "at-(~로) + tempt(시험해 보다) → 한번 건드려 보다 → 시도 (같은 어근: tempt 유혹하다)",
+   "mnem": "템트(tempt) 당해 일단 한번 손대 봄 → 시도"
   },
   {
    "w": "authority",
@@ -603,7 +669,9 @@
     }
    ],
    "ex": "Only managers have the <b>authority</b> to approve refunds.",
-   "exKo": "환불 승인 권한은 매니저에게만 있습니다."
+   "exKo": "환불 승인 권한은 매니저에게만 있습니다.",
+   "ety": "author(창시자·저자) + -ity(성질) → 만들어 낸 자가 가진 힘 → 권한 (같은 어근: author 저자)",
+   "mnem": "오써(author)가 제 작품에 갖는 절대적인 힘 → 권한, 당국"
   },
   {
    "w": "authorize",
@@ -623,7 +691,9 @@
     }
    ],
    "ex": "The director must <b>authorize</b> all overseas travel.",
-   "exKo": "모든 해외 출장은 이사의 허가를 받아야 합니다."
+   "exKo": "모든 해외 출장은 이사의 허가를 받아야 합니다.",
+   "ety": "author(권한자) + -ize(~하게 하다) → 권한을 얹어 주다 → 허가하다 (같은 어근: authority 권한)",
+   "mnem": "카드 결제가 '어서라이즈'되면 승인이 떨어짐 → 허가하다, 권한을 주다"
   },
   {
    "w": "await",
@@ -638,7 +708,9 @@
     }
    ],
    "ex": "We <b>await</b> your reply regarding the contract.",
-   "exKo": "계약에 관한 회신을 기다리고 있습니다."
+   "exKo": "계약에 관한 회신을 기다리고 있습니다.",
+   "ety": "a-(~를 향해) + wait(기다리다) → 대상을 향해 기다리다 → 기다리다 (같은 어근: wait 기다리다)",
+   "mnem": "a가 붙어 for 없이 목적어를 바로 무는 wait → 기다리다"
   },
   {
    "w": "ban",
@@ -653,7 +725,9 @@
     }
    ],
    "ex": "The city decided to <b>ban</b> parking on this street.",
-   "exKo": "시는 이 거리의 주차를 금지하기로 했습니다."
+   "exKo": "시는 이 거리의 주차를 금지하기로 했습니다.",
+   "ety": "bann(선포하다) → 하지 말라고 공표하다 → 금지하다 (같은 어근: banish 추방하다)",
+   "mnem": "게임 계정 '밴' 당하면 아예 못 들어가죠 → 금지하다"
   },
   {
    "w": "barely",
@@ -668,7 +742,9 @@
     }
    ],
    "ex": "We <b>barely</b> finished the report before the deadline.",
-   "exKo": "마감 직전에 간신히 보고서를 끝냈습니다."
+   "exKo": "마감 직전에 간신히 보고서를 끝냈습니다.",
+   "ety": "bare(벌거벗은·아무것도 없는) + -ly(부사) → 남은 게 없을 만큼 아슬하게 → 간신히",
+   "mnem": "베어(bare)라 가진 게 없어 겨우겨우 → 간신히, 거의 ~않다"
   },
   {
    "w": "barrier",
@@ -683,7 +759,9 @@
     }
    ],
    "ex": "Language is no longer a <b>barrier</b> thanks to translation apps.",
-   "exKo": "번역 앱 덕분에 언어는 더 이상 장벽이 아닙니다."
+   "exKo": "번역 앱 덕분에 언어는 더 이상 장벽이 아닙니다.",
+   "ety": "barr(빗장·막대) + -ier(물건) → 가로막는 막대 → 장벽 (같은 어근: bar 막대)",
+   "mnem": "바(bar)를 가로질러 걸어 놓아 못 지나가게 함 → 장벽, 장애물"
   },
   {
    "w": "basis",
@@ -703,7 +781,9 @@
     }
    ],
    "ex": "Staff meetings are held on a weekly <b>basis</b>.",
-   "exKo": "직원 회의는 주 단위로 열립니다."
+   "exKo": "직원 회의는 주 단위로 열립니다.",
+   "ety": "bas(밟다·발판) + -is(명사) → 딛고 서는 바닥 → 기준, 근거 (같은 어근: base 기초)",
+   "mnem": "베이스(base) 위에 발을 딛어야 판단이 서죠 → 기준, 근거"
   },
   {
    "w": "bid",
@@ -723,7 +803,9 @@
     }
    ],
    "ex": "Three firms submitted a <b>bid</b> for the project.",
-   "exKo": "세 회사가 그 프로젝트에 입찰서를 제출했습니다."
+   "exKo": "세 회사가 그 프로젝트에 입찰서를 제출했습니다.",
+   "ety": "bidd(청하다·부르다) → 값을 불러 청하다 → 입찰(가) (같은 어근: forbid 금하다)",
+   "mnem": "경매장에서 '비드!' 하고 값을 부르는 순간 → 입찰가"
   },
   {
    "w": "board member",
@@ -738,7 +820,8 @@
     }
    ],
    "ex": "Each <b>board member</b> received the annual report.",
-   "exKo": "이사회 임원 각자가 연례 보고서를 받았습니다."
+   "exKo": "이사회 임원 각자가 연례 보고서를 받았습니다.",
+   "mnem": "긴 회의 테이블(board) 상석에 앉는 사람들 → 이사회 임원"
   },
   {
    "w": "boost",
@@ -758,7 +841,8 @@
     }
    ],
    "ex": "The holiday sale should <b>boost</b> store traffic.",
-   "exKo": "연휴 세일이 매장 방문객을 늘려 줄 것입니다."
+   "exKo": "연휴 세일이 매장 방문객을 늘려 줄 것입니다.",
+   "mnem": "'부스터'를 켜면 매출 그래프가 쭉 솟죠 → 신장시키다, 북돋우다"
   },
   {
    "w": "broad",
@@ -778,7 +862,8 @@
     }
    ],
    "ex": "The store carries a <b>broad</b> range of office supplies.",
-   "exKo": "그 매장은 폭넓은 사무용품을 취급합니다."
+   "exKo": "그 매장은 폭넓은 사무용품을 취급합니다.",
+   "mnem": "브로드밴드(broad+band)는 폭이 넓은 통신 대역 → 폭넓은"
   },
   {
    "w": "browse",
@@ -793,7 +878,9 @@
     }
    ],
    "ex": "Feel free to <b>browse</b> our online catalog.",
-   "exKo": "온라인 카탈로그를 자유롭게 둘러보세요."
+   "exKo": "온라인 카탈로그를 자유롭게 둘러보세요.",
+   "ety": "brous(어린 가지를 뜯어 먹다) → 여기저기 뜯어 먹듯 훑다 → 둘러보다 (같은 어근: browser 브라우저)",
+   "mnem": "'브라우저'로 이 탭 저 탭 뜯어보듯 넘기죠 → 둘러보다, 훑어보다"
   },
   {
    "w": "capable",
@@ -813,7 +900,9 @@
     }
    ],
    "ex": "She is <b>capable</b> of managing several projects at once.",
-   "exKo": "그녀는 여러 프로젝트를 동시에 관리할 수 있습니다."
+   "exKo": "그녀는 여러 프로젝트를 동시에 관리할 수 있습니다.",
+   "ety": "cap(붙잡다·담다) + -able(~할 수 있는) → 일을 잡아낼 수 있는 → 유능한 (같은 어근: capture 포획하다)",
+   "mnem": "어떤 일이든 캡(cap)처해 잡아내는 사람 → 유능한, ~할 수 있는"
   },
   {
    "w": "capacity",
@@ -833,7 +922,9 @@
     }
    ],
    "ex": "The hall has a seating <b>capacity</b> of three hundred.",
-   "exKo": "그 홀의 수용 인원은 300명입니다."
+   "exKo": "그 홀의 수용 인원은 300명입니다.",
+   "ety": "cap(담다) + -acity(성질) → 담을 수 있는 정도 → 수용력, 용량 (같은 어근: capable 유능한)",
+   "mnem": "배터리 '커패시티'는 안에 담기는 양 → 수용력, 용량"
   },
   {
    "w": "carry out",
@@ -848,7 +939,8 @@
     }
    ],
    "ex": "The team will <b>carry out</b> the survey next month.",
-   "exKo": "그 팀은 다음 달 설문 조사를 수행할 것입니다."
+   "exKo": "그 팀은 다음 달 설문 조사를 수행할 것입니다.",
+   "mnem": "계획을 서랍에서 밖으로(out) 들고 나가(carry) 실행 → 수행하다"
   },
   {
    "w": "cautiously",
@@ -868,7 +960,9 @@
     }
    ],
    "ex": "Investors responded <b>cautiously</b> to the merger news.",
-   "exKo": "투자자들은 합병 소식에 조심스럽게 반응했습니다."
+   "exKo": "투자자들은 합병 소식에 조심스럽게 반응했습니다.",
+   "ety": "caut(경계하다) + -ous(형용사) + -ly(부사) → 경계하는 태도로 → 조심스럽게 (같은 어근: caution 주의)",
+   "mnem": "공사장 'CAUTION' 표지판 앞을 지나듯 살금살금 → 조심스럽게"
   },
   {
    "w": "cease",

@@ -1355,7 +1355,8 @@
     }
    ],
    "ex": "Each <b>child</b> receives a free balloon at the event.",
-   "exKo": "행사에서 어린이마다 무료 풍선을 받습니다."
+   "exKo": "행사에서 어린이마다 무료 풍선을 받습니다.",
+   "mnem": "'차일드' 하면 차 뒷좌석 카시트에 앉혀 데리고 다니는 작은 승객 → 어린이"
   },
   {
    "w": "chip",
@@ -1363,7 +1364,8 @@
    "m": "칩, 조각",
    "cat": "시설·사무",
    "ex": "The phone uses a faster memory <b>chip</b>.",
-   "exKo": "그 휴대폰은 더 빠른 메모리 칩을 사용합니다."
+   "exKo": "그 휴대폰은 더 빠른 메모리 칩을 사용합니다.",
+   "mnem": "감자 '칩'도 반도체 '칩'도 얇게 잘라낸 납작한 한 조각이죠 → 칩, 조각"
   },
   {
    "w": "circle",
@@ -1371,7 +1373,9 @@
    "m": "동그라미를 치다",
    "cat": "시설·사무",
    "ex": "Please <b>circle</b> the correct answer on the form.",
-   "exKo": "양식에서 정답에 동그라미를 쳐 주세요."
+   "exKo": "양식에서 정답에 동그라미를 쳐 주세요.",
+   "ety": "circ(둥근 고리) + -le(작은 것) → 작고 둥근 고리 → 동그라미를 치다 (같은 어근: circulate 순환하다)",
+   "mnem": "동아리 '서클'은 빙 둘러앉아 원을 만드는 모임 → 동그라미를 치다"
   },
   {
    "w": "claim",
@@ -1391,7 +1395,9 @@
     }
    ],
    "ex": "You can <b>claim</b> travel expenses within thirty days.",
-   "exKo": "출장 경비는 30일 이내에 청구할 수 있습니다."
+   "exKo": "출장 경비는 30일 이내에 청구할 수 있습니다.",
+   "ety": "clam(외치다) → 내 것이라고 크게 외치다 → 청구하다, 주장하다 (같은 어근: exclaim 외치다)",
+   "mnem": "보험 '클레임' 넣는다 = 내 돈 내놓으라고 외치는 절차 → 청구하다, 주장하다"
   },
   {
    "w": "clear",
@@ -1411,7 +1417,9 @@
     }
    ],
    "ex": "The instructions were short and <b>clear</b>.",
-   "exKo": "지침은 짧고 명확했습니다."
+   "exKo": "지침은 짧고 명확했습니다.",
+   "ety": "clar(밝은) → 빛이 환히 통하는 → 명확한, 맑은 (같은 어근: clarify 명확히 하다)",
+   "mnem": "게임 스테이지 '클리어'는 안개가 걷혀 길이 훤히 보이는 상태 → 명확한, 맑은"
   },
   {
    "w": "clock",
@@ -1426,7 +1434,8 @@
     }
    ],
    "ex": "The <b>clock</b> in the lobby is five minutes fast.",
-   "exKo": "로비의 시계는 5분 빠릅니다."
+   "exKo": "로비의 시계는 5분 빠릅니다.",
+   "mnem": "'클락' 째깍째깍, 벽에 걸린 종 모양 기계가 시간을 알리죠 → 시계"
   },
   {
    "w": "club",
@@ -1441,7 +1450,8 @@
     }
    ],
    "ex": "The fitness <b>club</b> offers a corporate discount.",
-   "exKo": "그 피트니스 클럽은 기업 할인을 제공합니다."
+   "exKo": "그 피트니스 클럽은 기업 할인을 제공합니다.",
+   "mnem": "골프 '클럽'은 몽둥이, 동호회 '클럽'은 그 몽둥이 들고 모인 무리 → 동호회"
   },
   {
    "w": "coast",
@@ -1456,7 +1466,9 @@
     }
    ],
    "ex": "The road runs along the <b>coast</b> for miles.",
-   "exKo": "그 도로는 해안을 따라 길게 이어집니다."
+   "exKo": "그 도로는 해안을 따라 길게 이어집니다.",
+   "ety": "cost(갈비뼈, 옆구리) → 육지의 옆구리 → 해안 (같은 어근: coastal 해안의)",
+   "mnem": "cost(비용) 한 푼 안 들이고 걷는 바다 옆구리 산책길 → 해안"
   },
   {
    "w": "code",
@@ -1476,7 +1488,9 @@
     }
    ],
    "ex": "Enter the door <b>code</b> to access the lab.",
-   "exKo": "실험실에 들어가려면 출입 코드를 입력하세요."
+   "exKo": "실험실에 들어가려면 출입 코드를 입력하세요.",
+   "ety": "codex(나무 판, 법전) → 법을 새겨 둔 판 → 코드, 규정 (같은 어근: codify 법전화하다)",
+   "mnem": "'드레스 코드'는 그 자리에서 지켜야 할 옷 규정이죠 → 코드, 규정"
   },
   {
    "w": "color",
@@ -1491,7 +1505,8 @@
     }
    ],
    "ex": "The chair comes in five different <b>colors</b>.",
-   "exKo": "그 의자는 다섯 가지 색상으로 출시됩니다."
+   "exKo": "그 의자는 다섯 가지 색상으로 출시됩니다.",
+   "mnem": "흑백 TV 시대를 끝낸 '컬러' TV, 화면에 입혀진 것이 바로 → 색"
   },
   {
    "w": "combine",
@@ -1511,7 +1526,9 @@
     }
    ],
    "ex": "We will <b>combine</b> the two teams next month.",
-   "exKo": "다음 달에 두 팀을 통합할 예정입니다."
+   "exKo": "다음 달에 두 팀을 통합할 예정입니다.",
+   "ety": "com-(함께) + bin(둘) → 둘을 하나로 묶다 → 결합하다 (같은 어근: binary 이진의)",
+   "mnem": "'콤비' 플레이는 두 사람이 한 몸처럼 붙어 움직이는 것 → 결합하다"
   },
   {
    "w": "come",
@@ -1531,7 +1548,8 @@
     }
    ],
    "ex": "Please <b>come</b> to the front desk at three.",
-   "exKo": "3시에 안내 데스크로 와 주세요."
+   "exKo": "3시에 안내 데스크로 와 주세요.",
+   "mnem": "'컴온(come on)!' 하고 손짓하면 상대가 이쪽으로 다가오죠 → 오다"
   },
   {
    "w": "comment",
@@ -1546,7 +1564,9 @@
     }
    ],
    "ex": "Please leave a <b>comment</b> in the survey box.",
-   "exKo": "설문 상자에 의견을 남겨 주세요."
+   "exKo": "설문 상자에 의견을 남겨 주세요.",
+   "ety": "com-(강조) + ment(마음, 생각) → 생각을 밖으로 꺼내 놓음 → 의견, 논평 (같은 어근: mental 정신의)",
+   "mnem": "유튜브 영상 아래 '코멘트'란에 달리는 것이 바로 → 의견, 논평"
   },
   {
    "w": "common",
@@ -1566,7 +1586,9 @@
     }
    ],
    "ex": "Late delivery is a <b>common</b> complaint in winter.",
-   "exKo": "배송 지연은 겨울철의 흔한 불만 사항입니다."
+   "exKo": "배송 지연은 겨울철의 흔한 불만 사항입니다.",
+   "ety": "com-(함께) + mun(의무, 나눔) → 함께 짊어지고 나누는 → 흔한, 공통의 (같은 어근: community 공동체)",
+   "mnem": "커뮤니티(community) 사람 모두가 나눠 갖는 것이라 흔하죠 → 공통의"
   },
   {
    "w": "communicate",
@@ -1581,7 +1603,9 @@
     }
    ],
    "ex": "We <b>communicate</b> with clients mainly by email.",
-   "exKo": "우리는 주로 이메일로 고객과 소통합니다."
+   "exKo": "우리는 주로 이메일로 고객과 소통합니다.",
+   "ety": "com-(함께) + mun(나누다) + -ate(하다) → 함께 나누다 → 소통하다 (같은 어근: common 공통의)",
+   "mnem": "'커뮤니케이션'은 말주머니를 서로 나눠 갖는 일 → 소통하다, 전달하다"
   },
   {
    "w": "compare",
@@ -1601,7 +1625,9 @@
     }
    ],
    "ex": "<b>Compare</b> prices before choosing a supplier.",
-   "exKo": "공급업체를 고르기 전에 가격을 비교하세요."
+   "exKo": "공급업체를 고르기 전에 가격을 비교하세요.",
+   "ety": "com-(함께) + par(동등한) → 나란히 놓고 같은지 재보다 → 비교하다 (같은 어근: par 동등)",
+   "mnem": "골프에서 기준 타수 '파(par)'에 견줘 점수를 재보죠 → 비교하다"
   },
   {
    "w": "competition",
@@ -1626,7 +1652,9 @@
     }
    ],
    "ex": "The design <b>competition</b> is open to all staff.",
-   "exKo": "그 디자인 공모전은 전 직원이 참가할 수 있습니다."
+   "exKo": "그 디자인 공모전은 전 직원이 참가할 수 있습니다.",
+   "ety": "com-(함께) + pet(추구하다) + -tion(명사) → 함께 같은 것을 노림 → 경쟁, 대회 (같은 어근: appetite 식욕)",
+   "mnem": "'컴피티션'은 한 자리를 놓고 다 함께 달려드는 판 → 경쟁, 대회"
   },
   {
    "w": "concern",
@@ -1646,7 +1674,9 @@
     }
    ],
    "ex": "My main <b>concern</b> is the tight deadline.",
-   "exKo": "제 주된 우려는 빠듯한 마감입니다."
+   "exKo": "제 주된 우려는 빠듯한 마감입니다.",
+   "ety": "con-(함께) + cern(체로 거르다) → 마음에 걸러져 남는 것 → 우려, 관심사 (같은 어근: discern 식별하다)",
+   "mnem": "'컨선'이 있다 = 마음에 콕 걸려 선(線)처럼 지워지지 않는 것 → 우려, 관심사"
   },
   {
    "w": "conclusion",
@@ -1666,7 +1696,9 @@
     }
    ],
    "ex": "The report ends with a short <b>conclusion</b>.",
-   "exKo": "보고서는 짧은 결론으로 끝납니다."
+   "exKo": "보고서는 짧은 결론으로 끝납니다.",
+   "ety": "con-(완전히) + clus(닫다) + -ion(명사) → 완전히 닫아 끝맺음 → 결론 (같은 어근: exclude 배제하다)",
+   "mnem": "논의의 문을 쾅 닫고(clus) 마지막에 내리는 한마디 → 결론"
   },
   {
    "w": "congratulate",
@@ -1681,7 +1713,9 @@
     }
    ],
    "ex": "Let me <b>congratulate</b> you on your promotion.",
-   "exKo": "승진을 축하드립니다."
+   "exKo": "승진을 축하드립니다.",
+   "ety": "con-(함께) + grat(기쁜, 감사한) + -ulate(하다) → 함께 기뻐하다 → 축하하다 (같은 어근: grateful 감사하는)",
+   "mnem": "합격 소식에 'Congrats!'라고 외치는 그 말의 원형 → 축하하다"
   },
   {
    "w": "consider",
@@ -1701,7 +1735,9 @@
     }
    ],
    "ex": "Please <b>consider</b> our offer by Friday.",
-   "exKo": "금요일까지 저희 제안을 검토해 주세요."
+   "exKo": "금요일까지 저희 제안을 검토해 주세요.",
+   "ety": "con-(함께) + sider(별) → 별자리를 함께 살펴 점치다 → 고려하다 (같은 어근: desire 바라다)",
+   "mnem": "밤하늘 별(sider)을 하나하나 헤아리듯 따져 보는 것 → 고려하다"
   },
   {
    "w": "continue",
@@ -1721,7 +1757,9 @@
     }
    ],
    "ex": "The meeting will <b>continue</b> after lunch.",
-   "exKo": "회의는 점심 후에 계속됩니다."
+   "exKo": "회의는 점심 후에 계속됩니다.",
+   "ety": "con-(함께) + tin(붙잡다) → 끊기지 않게 계속 붙잡고 있다 → 계속하다 (같은 어근: contain 담다)",
+   "mnem": "오락실 게임 오버 화면에 뜨던 'CONTINUE?' 문구 → 계속하다"
   },
   {
    "w": "cool",
@@ -1736,7 +1774,8 @@
     }
    ],
    "ex": "Keep the samples in a <b>cool</b>, dry place.",
-   "exKo": "샘플은 서늘하고 건조한 곳에 보관하세요."
+   "exKo": "샘플은 서늘하고 건조한 곳에 보관하세요.",
+   "mnem": "에어컨 '쿨' 모드를 켜면 등골까지 서늘해지죠 → 시원한"
   },
   {
    "w": "copy machine",
@@ -1756,7 +1795,8 @@
     }
    ],
    "ex": "The <b>copy machine</b> is out of paper again.",
-   "exKo": "복사기에 또 종이가 떨어졌습니다."
+   "exKo": "복사기에 또 종이가 떨어졌습니다.",
+   "mnem": "'카피(복사) + 머신(기계)' = 원본을 그대로 뱉어내는 기계 → 복사기"
   },
   {
    "w": "couple",
@@ -1771,7 +1811,9 @@
     }
    ],
    "ex": "I have a <b>couple</b> of questions about the invoice.",
-   "exKo": "송장에 대해 두어 가지 질문이 있습니다."
+   "exKo": "송장에 대해 두어 가지 질문이 있습니다.",
+   "ety": "coup(묶다) + -le → 둘을 하나로 묶은 것 → 두어 개, 부부 (같은 어근: coupling 연결기)",
+   "mnem": "커플링 나눠 낀 두 사람처럼 짝지어 묶인 둘 → 두어 개, 부부"
   },
   {
    "w": "course",
@@ -1791,7 +1833,9 @@
     }
    ],
    "ex": "The training <b>course</b> lasts three weeks.",
-   "exKo": "교육 과정은 3주간 진행됩니다."
+   "exKo": "교육 과정은 3주간 진행됩니다.",
+   "ety": "curs(달리다) → 달려가야 할 길 → 강좌, 과정 (같은 어근: current 흐름)",
+   "mnem": "골프 '코스'처럼 정해진 길을 순서대로 밟아 나가는 것 → 강좌, 과정"
   },
   {
    "w": "cover",
@@ -1811,7 +1855,9 @@
     }
    ],
    "ex": "Can you <b>cover</b> my shift on Saturday?",
-   "exKo": "토요일에 제 근무를 대신해 줄 수 있나요?"
+   "exKo": "토요일에 제 근무를 대신해 줄 수 있나요?",
+   "ety": "co-(완전히) + ver(덮다) → 완전히 덮다 → 덮다, 다루다, 대신하다 (같은 어근: discover 발견하다)",
+   "mnem": "'커버곡'은 남의 노래를 대신 부르는 것 → 덮다, 다루다, 대신하다"
   },
   {
    "w": "create",
@@ -1831,7 +1877,9 @@
     }
    ],
    "ex": "We need to <b>create</b> a new logo for the brand.",
-   "exKo": "브랜드를 위한 새 로고를 만들어야 합니다."
+   "exKo": "브랜드를 위한 새 로고를 만들어야 합니다.",
+   "ety": "cre(자라게 하다) + -ate(하다) → 없던 것을 자라나게 하다 → 만들다, 창출하다 (같은 어근: increase 증가하다)",
+   "mnem": "'크리에이터'는 세상에 없던 콘텐츠를 뽑아내는 사람 → 만들다, 창출하다"
   },
   {
    "w": "credit",
@@ -1851,7 +1899,9 @@
     }
    ],
    "ex": "The refund was issued as store <b>credit</b>.",
-   "exKo": "환불은 매장 적립금으로 처리되었습니다."
+   "exKo": "환불은 매장 적립금으로 처리되었습니다.",
+   "ety": "cred(믿다) + -it → 믿고 맡김 → 신용, 적립금 (같은 어근: incredible 믿기 힘든)",
+   "mnem": "'크레딧 카드'는 돈이 없어도 믿고 먼저 긁게 해주는 카드 → 신용, 적립금"
   },
   {
    "w": "crew",
@@ -1866,7 +1916,8 @@
     }
    ],
    "ex": "The cleaning <b>crew</b> arrives after office hours.",
-   "exKo": "청소 작업반은 업무 시간 후에 도착합니다."
+   "exKo": "청소 작업반은 업무 시간 후에 도착합니다.",
+   "mnem": "비행기 안내방송의 '캐빈 크루' = 함께 일하는 승무원 한 팀 → 승무원, 작업반"
   },
   {
    "w": "culture",
@@ -1886,7 +1937,9 @@
     }
    ],
    "ex": "Our company <b>culture</b> values open communication.",
-   "exKo": "우리 회사 문화는 열린 소통을 중시합니다."
+   "exKo": "우리 회사 문화는 열린 소통을 중시합니다.",
+   "ety": "cult(경작하다) + -ure(명사) → 갈고 닦아 길러낸 것 → 문화 (같은 어근: agriculture 농업)",
+   "mnem": "밭을 갈듯(cult) 사람의 마음을 갈아 키워낸 결실 → 문화"
   },
   {
    "w": "current",
@@ -1901,7 +1954,9 @@
     }
    ],
    "ex": "Please update your <b>current</b> address in the system.",
-   "exKo": "시스템에서 현재 주소를 업데이트해 주세요."
+   "exKo": "시스템에서 현재 주소를 업데이트해 주세요.",
+   "ety": "curr(달리다) + -ent(형용사) → 지금 흘러 달리는 → 현재의 (같은 어근: course 진로)",
+   "mnem": "전선을 타고 지금 이 순간 흐르는 전류가 current → 현재의"
   },
   {
    "w": "cut",
@@ -1921,7 +1976,8 @@
     }
    ],
    "ex": "We need to <b>cut</b> travel costs this quarter.",
-   "exKo": "이번 분기에는 출장비를 줄여야 합니다."
+   "exKo": "이번 분기에는 출장비를 줄여야 합니다.",
+   "mnem": "머리 '커트'도 싹둑, 예산 '커트'도 싹둑 → 자르다, 줄이다"
   }
  ]
 }

@@ -1004,7 +1004,9 @@
     }
    ],
    "ex": "This sale is a good <b>chance</b> to try our new products.",
-   "exKo": "이번 할인 행사는 저희 신제품을 사용해 볼 좋은 기회입니다."
+   "exKo": "이번 할인 행사는 저희 신제품을 사용해 볼 좋은 기회입니다.",
+   "ety": "cad(떨어지다) + -ance(명사) → 주사위가 떨어져 나온 결과 → 기회 (같은 어근: accident 사고)",
+   "mnem": "'찬스가 왔다!'—우리가 그대로 쓰는 그 찬스, 굴러온 주사위 눈 → 기회, 가능성"
   },
   {
    "w": "charge",
@@ -1024,7 +1026,9 @@
     }
    ],
    "ex": "The bank will <b>charge</b> a small fee for this service.",
-   "exKo": "은행은 이 서비스에 대해 소액의 수수료를 청구합니다."
+   "exKo": "은행은 이 서비스에 대해 소액의 수수료를 청구합니다.",
+   "ety": "car(수레) + -ge → 수레에 짐을 잔뜩 싣다 → 부담을 지우다 → 청구하다 (같은 어근: cargo 화물)",
+   "mnem": "배터리에 전기를 싣고 지갑에 부담을 싣는다, 둘 다 차지 → 청구하다, 충전하다"
   },
   {
    "w": "chart",
@@ -1039,7 +1043,9 @@
     }
    ],
    "ex": "The sales <b>chart</b> on the screen shows strong growth this month.",
-   "exKo": "화면의 매출 도표는 이번 달의 큰 성장을 보여줍니다."
+   "exKo": "화면의 매출 도표는 이번 달의 큰 성장을 보여줍니다.",
+   "ety": "chart(파피루스 종이) → 종이 위에 선을 그어 정리한 것 → 도표 (같은 어근: card 카드)",
+   "mnem": "음원 순위 볼 때 보는 그 '차트', 숫자를 그림으로 편 종이 → 도표"
   },
   {
    "w": "chef",
@@ -1054,7 +1060,9 @@
     }
    ],
    "ex": "The hotel <b>chef</b> prepared a special dinner for our group.",
-   "exKo": "호텔 주방장이 저희 일행을 위해 특별한 저녁 식사를 준비했습니다."
+   "exKo": "호텔 주방장이 저희 일행을 위해 특별한 저녁 식사를 준비했습니다.",
+   "ety": "caput(머리) → chef(우두머리) → 주방의 우두머리 → 요리사 (같은 어근: chief 우두머리)",
+   "mnem": "'셰프'는 주방의 chief(우두머리), 모자가 제일 큰 사람 → 요리사, 주방장"
   },
   {
    "w": "city",
@@ -1069,7 +1077,9 @@
     }
    ],
    "ex": "Our next business trip is to a <b>city</b> near Tokyo.",
-   "exKo": "다음 출장은 도쿄 근처의 한 도시로 갑니다."
+   "exKo": "다음 출장은 도쿄 근처의 한 도시로 갑니다.",
+   "ety": "civ(시민) + -ity(명사) → 시민들이 모여 사는 곳 → 도시 (같은 어근: civil 시민의)",
+   "mnem": "'시티투어 버스'가 한 바퀴 도는 그 범위가 통째로 → 도시"
   },
   {
    "w": "class",
@@ -1084,7 +1094,9 @@
     }
    ],
    "ex": "New employees must take a safety <b>class</b> in their first week.",
-   "exKo": "신입 사원은 첫 주에 안전 교육 수업을 받아야 합니다."
+   "exKo": "신입 사원은 첫 주에 안전 교육 수업을 받아야 합니다.",
+   "ety": "classis(로마 시민을 재산별로 나눈 등급) → 나눠 놓은 무리 → 등급, 수업 (같은 어근: classify 분류하다)",
+   "mnem": "'클래스가 다르다'는 등급, 학교 클래스는 나눠 놓은 반 → 수업, 등급"
   },
   {
    "w": "clerk",
@@ -1099,7 +1111,9 @@
     }
    ],
    "ex": "The store is looking for a friendly <b>clerk</b> for weekend shifts.",
-   "exKo": "그 매장은 주말 근무를 할 친절한 점원을 구하고 있습니다."
+   "exKo": "그 매장은 주말 근무를 할 친절한 점원을 구하고 있습니다.",
+   "ety": "cleric(성직자) → 중세에 글 읽고 쓰던 유일한 사람 → 사무원, 점원 (같은 어근: clergy 성직자)",
+   "mnem": "카운터에서 클릭클릭 계산기 두드리며 장부 적는 사람 → 점원, 사무원"
   },
   {
    "w": "climate",
@@ -1107,7 +1121,9 @@
    "m": "기후",
    "cat": "출장·여행",
    "ex": "The <b>climate</b> in Singapore is hot and wet all year.",
-   "exKo": "싱가포르의 기후는 일 년 내내 덥고 습합니다."
+   "exKo": "싱가포르의 기후는 일 년 내내 덥고 습합니다.",
+   "ety": "clim(기울다·경사) + -ate(명사) → 지구가 기운 위도대마다 다른 날씨 → 기후 (같은 어근: incline 기울다)",
+   "mnem": "클라이밍하듯 위도를 올라갈수록 확 달라지는 것 → 기후"
   },
   {
    "w": "clothing",
@@ -1127,7 +1143,9 @@
     }
    ],
    "ex": "Our new <b>clothing</b> line will go on sale next month.",
-   "exKo": "저희 새 의류 라인은 다음 달에 판매를 시작합니다."
+   "exKo": "저희 새 의류 라인은 다음 달에 판매를 시작합니다.",
+   "ety": "cloth(천) + -ing(모아 이르는 명사) → 천으로 지은 것들 전체 → 의류",
+   "mnem": "'클로스(cloth)'는 천, 그 천을 몸에 걸치면 통틀어 → 의류"
   },
   {
    "w": "coffee",
@@ -1142,7 +1160,8 @@
     }
    ],
    "ex": "Free <b>coffee</b> is ready in the break room every morning.",
-   "exKo": "매일 아침 휴게실에 무료 커피가 준비되어 있습니다."
+   "exKo": "매일 아침 휴게실에 무료 커피가 준비되어 있습니다.",
+   "mnem": "아랍에서 건너온 검은 각성 음료, 발음도 뜻도 그대로 → 커피"
   },
   {
    "w": "cold",
@@ -1150,7 +1169,8 @@
    "m": "추운, 차가운",
    "cat": "시설·사무",
    "ex": "The meeting room is too <b>cold</b>, so please adjust the heater.",
-   "exKo": "회의실이 너무 추우니 히터를 조절해 주세요."
+   "exKo": "회의실이 너무 추우니 히터를 조절해 주세요.",
+   "mnem": "'콜드브루'는 찬물로 천천히 내린 커피, 콜드가 붙으면 → 추운, 차가운"
   },
   {
    "w": "collect",
@@ -1165,7 +1185,9 @@
     }
    ],
    "ex": "A truck will <b>collect</b> the old paper boxes on Friday.",
-   "exKo": "금요일에 트럭이 낡은 종이 상자들을 수거할 것입니다."
+   "exKo": "금요일에 트럭이 낡은 종이 상자들을 수거할 것입니다.",
+   "ety": "col-(함께) + lect(고르다) → 골라서 한데 모으다 → 모으다 (같은 어근: select 고르다)",
+   "mnem": "'컬렉션'을 채우려면 하나씩 골라 모아야 하죠 → 모으다, 수거하다"
   },
   {
    "w": "comfortable",
@@ -1185,7 +1207,9 @@
     }
    ],
    "ex": "The hotel bed was very <b>comfortable</b> after the long flight.",
-   "exKo": "긴 비행 후에 호텔 침대는 매우 편안했습니다."
+   "exKo": "긴 비행 후에 호텔 침대는 매우 편안했습니다.",
+   "ety": "com-(강조) + fort(힘) + -able(할 수 있는) → 힘을 북돋아 주는 → 편안한 (같은 어근: effort 노력)",
+   "mnem": "힘(fort) 하나도 안 들이고 몸을 맡길 수 있는 소파 → 편안한"
   },
   {
    "w": "community",
@@ -1200,7 +1224,9 @@
     }
    ],
    "ex": "Our store gives part of its profit to the local <b>community</b>.",
-   "exKo": "저희 매장은 수익의 일부를 지역 사회에 기부합니다."
+   "exKo": "저희 매장은 수익의 일부를 지역 사회에 기부합니다.",
+   "ety": "com-(함께) + mun(의무를 나누다) + -ity(명사) → 의무를 함께 지는 무리 → 공동체 (같은 어근: common 공통의)",
+   "mnem": "온라인 '커뮤니티'는 관심사를 함께 나누는 사람들 모임 → 지역 사회, 공동체"
   },
   {
    "w": "commute",
@@ -1215,7 +1241,9 @@
     }
    ],
    "ex": "Many employees <b>commute</b> to the office by subway every day.",
-   "exKo": "많은 직원들이 매일 지하철로 사무실에 통근합니다."
+   "exKo": "많은 직원들이 매일 지하철로 사무실에 통근합니다.",
+   "ety": "com-(완전히) + mut(바꾸다) → 매일 요금을 정기권으로 바꿔 오가다 → 통근하다 (같은 어근: mutual 상호의)",
+   "mnem": "아침저녁으로 집과 회사를 맞바꾸며(mut) 왕복하는 일 → 통근하다"
   },
   {
    "w": "concert",
@@ -1230,7 +1258,9 @@
     }
    ],
    "ex": "The company will give free <b>concert</b> tickets to loyal customers.",
-   "exKo": "회사는 단골 고객에게 무료 콘서트 티켓을 제공할 예정입니다."
+   "exKo": "회사는 단골 고객에게 무료 콘서트 티켓을 제공할 예정입니다.",
+   "ety": "con-(함께) + cert(맞겨루다·맞추다) → 여럿이 소리를 맞추는 자리 → 연주회",
+   "mnem": "'콘서트' 그대로, 여러 연주자가 한 무대에서 소리를 맞추는 밤 → 콘서트, 연주회"
   },
   {
    "w": "condition",
@@ -1250,7 +1280,9 @@
     }
    ],
    "ex": "Please read every <b>condition</b> in the contract before you sign.",
-   "exKo": "서명하시기 전에 계약서의 모든 조건을 읽어 보세요."
+   "exKo": "서명하시기 전에 계약서의 모든 조건을 읽어 보세요.",
+   "ety": "con-(함께) + dic(말하다) + -ion(명사) → 함께 말해서 정해 둔 것 → 조건, 상태 (같은 어근: dictionary 사전)",
+   "mnem": "운동선수가 '오늘 컨디션 좋다'고 할 때 그 컨디션 → 상태, 조건"
   },
   {
    "w": "construction",
@@ -1270,7 +1302,9 @@
     }
    ],
    "ex": "The <b>construction</b> on the fifth floor will end next week.",
-   "exKo": "5층 공사는 다음 주에 끝날 예정입니다."
+   "exKo": "5층 공사는 다음 주에 끝날 예정입니다.",
+   "ety": "con-(함께) + struct(쌓다) + -ion(명사) → 여럿이 함께 쌓아 올리기 → 공사, 건설 (같은 어근: structure 구조)",
+   "mnem": "공사장 펜스에 붙은 'UNDER CONSTRUCTION' 표지판 → 공사, 건설"
   },
   {
    "w": "container",
@@ -1290,7 +1324,9 @@
     }
    ],
    "ex": "Please put the food samples in a plastic <b>container</b> for shipping.",
-   "exKo": "배송을 위해 식품 샘플을 플라스틱 용기에 넣어 주세요."
+   "exKo": "배송을 위해 식품 샘플을 플라스틱 용기에 넣어 주세요.",
+   "ety": "con-(함께) + tain(붙잡다) + -er(것) → 안에 함께 붙잡아 두는 것 → 용기 (같은 어근: maintain 유지하다)",
+   "mnem": "항구에 층층이 쌓인 네모난 '컨테이너', 안에 물건을 잡아 두죠 → 용기"
   },
   {
    "w": "convenient",
@@ -1315,7 +1351,9 @@
     }
    ],
    "ex": "The new printer location is <b>convenient</b> for everyone on our floor.",
-   "exKo": "새 프린터 위치는 우리 층 모든 사람에게 편리합니다."
+   "exKo": "새 프린터 위치는 우리 층 모든 사람에게 편리합니다.",
+   "ety": "con-(함께) + ven(오다) + -ient(형용사) → 필요할 때 딱 맞춰 와 주는 → 편리한 (같은 어근: event 사건)",
+   "mnem": "'컨비니언스 스토어'=편의점, 24시간 곁에 와 있는 가게 → 편리한"
   },
   {
    "w": "cook",
@@ -1330,7 +1368,9 @@
     }
    ],
    "ex": "The hotel chef will <b>cook</b> a special dinner for our business guests.",
-   "exKo": "호텔 주방장이 저희 비즈니스 손님들을 위해 특별 저녁 식사를 요리할 것입니다."
+   "exKo": "호텔 주방장이 저희 비즈니스 손님들을 위해 특별 저녁 식사를 요리할 것입니다.",
+   "ety": "coqu(불로 익히다) → 불 앞에서 익혀 내다 → 요리하다 (같은 어근: cuisine 요리)",
+   "mnem": "냄비를 쿡쿡 저으며 불 앞에 서 있는 장면 하나로 끝 → 요리하다"
   },
   {
    "w": "corner",
@@ -1345,7 +1385,9 @@
     }
    ],
    "ex": "The taxi stand is around the <b>corner</b> from the train station.",
-   "exKo": "택시 승강장은 기차역 모퉁이를 돌면 바로 있습니다."
+   "exKo": "택시 승강장은 기차역 모퉁이를 돌면 바로 있습니다.",
+   "ety": "corn(뿔) + -er(것) → 뿔처럼 튀어나온 모서리 → 모퉁이 (같은 어근: unicorn 유니콘)",
+   "mnem": "축구 '코너킥'은 운동장 네 귀퉁이에서 차는 킥 → 모퉁이"
   },
   {
    "w": "country",
@@ -1360,7 +1402,9 @@
     }
    ],
    "ex": "Mr. Kim will visit three <b>countries</b> during his business trip next month.",
-   "exKo": "김 씨는 다음 달 출장 중에 세 개 국가를 방문할 예정입니다."
+   "exKo": "김 씨는 다음 달 출장 중에 세 개 국가를 방문할 예정입니다.",
+   "ety": "contra-(맞은편에 펼쳐진) + -y(명사) → 눈앞 맞은편에 펼쳐진 땅 → 국가, 시골 (같은 어근: contrast 대조)",
+   "mnem": "'컨트리 음악'에서 오는 시골 들판 냄새, 나라 이름도 country → 국가, 시골"
   },
   {
    "w": "crowded",
@@ -1375,7 +1419,9 @@
     }
    ],
    "ex": "The airport was very <b>crowded</b> during the holiday travel season.",
-   "exKo": "휴가철 여행 기간 동안 공항이 매우 붐볐습니다."
+   "exKo": "휴가철 여행 기간 동안 공항이 매우 붐볐습니다.",
+   "ety": "crowd(밀어 대다·군중) + -ed(된 상태) → 사람이 밀려들어 찬 → 붐비는",
+   "mnem": "'크라우드 펀딩'처럼 사람이 우르르 몰려 발 디딜 틈 없는 → 붐비는"
   },
   {
    "w": "cup",
@@ -1383,7 +1429,8 @@
    "m": "컵",
    "cat": "시설·사무",
    "ex": "Paper <b>cups</b> are available next to the coffee machine in the break room.",
-   "exKo": "휴게실 커피 머신 옆에 종이컵이 준비되어 있습니다."
+   "exKo": "휴게실 커피 머신 옆에 종이컵이 준비되어 있습니다.",
+   "mnem": "월드'컵' 트로피가 커다란 잔 모양인 이유, 원래 술잔이었으니까 → 컵"
   },
   {
    "w": "curtain",
@@ -1391,7 +1438,8 @@
    "m": "커튼",
    "cat": "시설·사무",
    "ex": "Please close the <b>curtains</b> before you start the video presentation.",
-   "exKo": "영상 프레젠테이션을 시작하기 전에 커튼을 닫아 주세요."
+   "exKo": "영상 프레젠테이션을 시작하기 전에 커튼을 닫아 주세요.",
+   "mnem": "커튼을 치면 빛이 컷(cut)! 하고 잘리는 천 → 커튼"
   },
   {
    "w": "daily",
@@ -1406,7 +1454,9 @@
     }
    ],
    "ex": "The cleaning staff performs a <b>daily</b> check of all meeting rooms.",
-   "exKo": "청소 직원들이 모든 회의실에 대해 매일 점검을 실시합니다."
+   "exKo": "청소 직원들이 모든 회의실에 대해 매일 점검을 실시합니다.",
+   "ety": "day(날) + -ly(형용사) → 날마다 되풀이되는 → 매일의, 일간의",
+   "mnem": "신문 제호에 붙은 '데일리'는 하루도 안 빠지고 나온다는 뜻 → 매일의, 일간의"
   },
   {
    "w": "damage",
@@ -1421,7 +1471,9 @@
     }
    ],
    "ex": "Please check the package for <b>damage</b> before you sign for it.",
-   "exKo": "수령 서명을 하기 전에 소포에 손상이 없는지 확인해 주세요."
+   "exKo": "수령 서명을 하기 전에 소포에 손상이 없는지 확인해 주세요.",
+   "ety": "damn(손해) + -age(명사) → 입은 손해의 양 → 손상, 피해 (같은 어근: condemn 비난하다)",
+   "mnem": "게임에서 '데미지 크게 입었다' 할 때 그 데미지 → 손상, 피해"
   },
   {
    "w": "dear",
@@ -1429,7 +1481,8 @@
    "m": "친애하는 (편지 서두)",
    "cat": "시설·사무",
    "ex": "She started her business email with the greeting <b>Dear</b> Ms. Carter.",
-   "exKo": "그녀는 '친애하는 카터 씨께'라는 인사말로 업무 이메일을 시작했습니다."
+   "exKo": "그녀는 '친애하는 카터 씨께'라는 인사말로 업무 이메일을 시작했습니다.",
+   "mnem": "편지 첫 줄 'Dear ○○'—디어 하고 부르며 마음을 여는 인사말 → 친애하는"
   },
   {
    "w": "degree",
@@ -1449,7 +1502,9 @@
     }
    ],
    "ex": "Applicants for this position must have a <b>degree</b> in accounting.",
-   "exKo": "이 직책의 지원자는 회계학 학위를 소지해야 합니다."
+   "exKo": "이 직책의 지원자는 회계학 학위를 소지해야 합니다.",
+   "ety": "de-(따라 내려온) + gree(계단) → 계단 한 칸씩 매긴 등급 → 학위, (온)도 (같은 어근: grade 등급)",
+   "mnem": "계단(gree)을 한 칸씩 올라 받는 것이 학위, 온도계 눈금도 한 칸 → 학위, 도"
   },
   {
    "w": "dentist",
@@ -1464,7 +1519,9 @@
     }
    ],
    "ex": "I have to leave early today for an appointment with my <b>dentist</b>.",
-   "exKo": "오늘은 치과 의사 진료 예약이 있어서 일찍 퇴근해야 합니다."
+   "exKo": "오늘은 치과 의사 진료 예약이 있어서 일찍 퇴근해야 합니다.",
+   "ety": "dent(이) + -ist(사람) → 이를 다루는 사람 → 치과 의사 (같은 어근: dental 치아의)",
+   "mnem": "'덴탈 케어' 광고의 그 덴트가 곧 이, 이만 보는 사람 → 치과 의사"
   },
   {
    "w": "design",
@@ -1484,7 +1541,9 @@
     }
    ],
    "ex": "Our team will <b>design</b> a new logo for the spring campaign.",
-   "exKo": "저희 팀이 봄 캠페인을 위한 새 로고를 디자인할 것입니다."
+   "exKo": "저희 팀이 봄 캠페인을 위한 새 로고를 디자인할 것입니다.",
+   "ety": "de-(밑에) + sign(표시하다) → 밑그림에 표시를 해 두다 → 설계하다 (같은 어근: signal 신호)",
+   "mnem": "'디자인'은 종이에 사인(sign)하듯 선을 그어 미리 그려 두는 일 → 설계하다"
   },
   {
    "w": "dessert",
@@ -1492,7 +1551,9 @@
    "m": "디저트, 후식",
    "cat": "출장·여행",
    "ex": "The restaurant offers free <b>dessert</b> with every lunch set on weekdays.",
-   "exKo": "그 식당은 평일 점심 세트마다 무료 디저트를 제공합니다."
+   "exKo": "그 식당은 평일 점심 세트마다 무료 디저트를 제공합니다.",
+   "ety": "des-(치우다) + sert(상을 차리다) → 밥상을 치운 뒤 나오는 것 → 후식 (같은 어근: service 시중)",
+   "mnem": "s가 두 개! 달콤한 건 두 번 먹고 싶으니까, 사막(desert)과 구분 → 디저트, 후식"
   },
   {
    "w": "detail",
@@ -1512,7 +1573,9 @@
     }
    ],
    "ex": "We will discuss the <b>details</b> of the project at tomorrow's meeting.",
-   "exKo": "내일 회의에서 프로젝트의 세부 사항을 논의할 것입니다."
+   "exKo": "내일 회의에서 프로젝트의 세부 사항을 논의할 것입니다.",
+   "ety": "de-(떼어) + tail(자르다) → 잘게 잘라 낸 조각들 → 세부 사항 (같은 어근: tailor 재단사)",
+   "mnem": "'디테일이 살아 있다'는 잘게 자른 부분까지 챙겼다는 말 → 세부 사항"
   },
   {
    "w": "dining",
@@ -1532,7 +1595,9 @@
     }
    ],
    "ex": "The hotel has a <b>dining</b> area on the first floor for guests.",
-   "exKo": "그 호텔은 1층에 투숙객을 위한 식사 공간이 있습니다."
+   "exKo": "그 호텔은 1층에 투숙객을 위한 식사 공간이 있습니다.",
+   "ety": "dis-(풀다) + jejun(금식) → dine(굶주림을 풀고 먹다) + -ing → 식사",
+   "mnem": "'다이닝룸'은 밥 먹으려고 따로 둔 방, 다이닝은 곧 → 식사"
   },
   {
    "w": "direction",
@@ -1547,7 +1612,9 @@
     }
    ],
    "ex": "The driver asked for <b>directions</b> to the conference center.",
-   "exKo": "운전기사는 컨퍼런스 센터로 가는 길 안내를 요청했습니다."
+   "exKo": "운전기사는 컨퍼런스 센터로 가는 길 안내를 요청했습니다.",
+   "ety": "di-(향해) + rect(곧게) + -ion(명사) → 곧장 향하는 쪽 → 방향, 길 안내 (같은 어근: correct 바로잡다)",
+   "mnem": "'디렉터'가 손을 뻗어 저쪽으로 가라고 가리키는 쪽 → 방향, 길 안내"
   },
   {
    "w": "directory",
@@ -1562,7 +1629,9 @@
     }
    ],
    "ex": "You can find each department's phone number in the office <b>directory</b>.",
-   "exKo": "사무실 안내 책자에서 각 부서의 전화번호를 찾을 수 있습니다."
+   "exKo": "사무실 안내 책자에서 각 부서의 전화번호를 찾을 수 있습니다.",
+   "ety": "di-(향해) + rect(곧은) + -ory(모아 둔 것) → 곧장 찾아가게 해 주는 목록 → 안내 책자 (같은 어근: direct 지시하다)",
+   "mnem": "컴퓨터 '디렉터리'처럼 뭐가 어디 있는지 줄줄이 적힌 목록 → 안내 책자, 전화번호부"
   },
   {
    "w": "dish",
@@ -1577,7 +1646,9 @@
     }
    ],
    "ex": "The restaurant near our hotel serves many local <b>dishes</b>.",
-   "exKo": "저희 호텔 근처 식당은 다양한 현지 요리를 제공합니다."
+   "exKo": "저희 호텔 근처 식당은 다양한 현지 요리를 제공합니다.",
+   "ety": "disc(원반) → dish → 둥근 원반처럼 생긴 그릇 → 접시, 요리 (같은 어근: disk 원반)",
+   "mnem": "디스크(disk)처럼 둥글고 납작한 것 위에 담겨 나오는 것 → 요리, 접시"
   },
   {
    "w": "display",
@@ -1592,7 +1663,9 @@
     }
    ],
    "ex": "The new products are on <b>display</b> at the store entrance.",
-   "exKo": "신제품들이 매장 입구에 진열되어 있습니다."
+   "exKo": "신제품들이 매장 입구에 진열되어 있습니다.",
+   "ety": "dis-(반대로) + play(접다) → 접힌 것을 활짝 펴 보이다 → 진열, 전시 (같은 어근: apply 적용하다)",
+   "mnem": "휴대폰 '디스플레이'가 화면을 펼쳐 보여 주듯 물건을 펼쳐 놓기 → 진열, 전시"
   },
   {
    "w": "distance",
@@ -1612,7 +1685,9 @@
     }
    ],
    "ex": "The <b>distance</b> from the airport to the hotel is about ten kilometers.",
-   "exKo": "공항에서 호텔까지의 거리는 약 10킬로미터입니다."
+   "exKo": "공항에서 호텔까지의 거리는 약 10킬로미터입니다.",
+   "ety": "dis-(떨어져) + st(서다) + -ance(명사) → 떨어져 서 있는 정도 → 거리 (같은 어근: stand 서다)",
+   "mnem": "'롱디(long distance) 연애'는 멀리 떨어져 있는 사이 → 거리"
   },
   {
    "w": "district",
@@ -1627,7 +1702,9 @@
     }
    ],
    "ex": "Our new office is located in the main business <b>district</b>.",
-   "exKo": "저희 새 사무실은 주요 상업 지구에 위치해 있습니다."
+   "exKo": "저희 새 사무실은 주요 상업 지구에 위치해 있습니다.",
+   "ety": "dis-(따로) + strict(꽉 묶다) → 따로 묶어 갈라 놓은 땅 → 지구, 구역 (같은 어근: strict 엄격한)",
+   "mnem": "줄로 꽉(strict) 묶어 여기부터 저기까지 갈라 놓은 땅 → 지구, 구역"
   },
   {
    "w": "doctor",
@@ -1642,7 +1719,9 @@
     }
    ],
    "ex": "Employees can see a <b>doctor</b> at the clinic on the second floor.",
-   "exKo": "직원들은 2층 진료소에서 의사의 진료를 받을 수 있습니다."
+   "exKo": "직원들은 2층 진료소에서 의사의 진료를 받을 수 있습니다.",
+   "ety": "doc(가르치다) + -or(사람) → 가르칠 자격을 갖춘 사람 → 박사, 의사 (같은 어근: document 문서)",
+   "mnem": "'닥터 ○○'—박사 소리 들을 만큼 배운 뒤 진료실에 앉은 사람 → 의사"
   },
   {
    "w": "door",
@@ -1657,7 +1736,8 @@
     }
    ],
    "ex": "Please keep the <b>door</b> closed while the meeting is in progress.",
-   "exKo": "회의가 진행되는 동안 문을 닫아 두시기 바랍니다."
+   "exKo": "회의가 진행되는 동안 문을 닫아 두시기 바랍니다.",
+   "mnem": "'도어록'은 문에 다는 잠금장치, '도어투도어'는 문에서 문까지 → 문"
   },
   {
    "w": "double",
@@ -1672,7 +1752,9 @@
     }
    ],
    "ex": "Our online sales <b>doubled</b> in the second quarter of this year.",
-   "exKo": "올해 2분기에 저희 온라인 매출이 두 배가 되었습니다."
+   "exKo": "올해 2분기에 저희 온라인 매출이 두 배가 되었습니다.",
+   "ety": "du(둘) + -ble(접다) → 둘로 접어 겹치다 → 두 배가 되다 (같은 어근: duo 2인조)",
+   "mnem": "야구 '더블'은 2루타, 커피 샷도 더블이면 두 배 → 두 배가 되다"
   },
   {
    "w": "downtown",
@@ -1680,7 +1762,9 @@
    "m": "시내에(서)",
    "cat": "출장·여행",
    "ex": "We will meet the client <b>downtown</b> after lunch tomorrow.",
-   "exKo": "내일 점심 이후에 시내에서 고객을 만날 예정입니다."
+   "exKo": "내일 점심 이후에 시내에서 고객을 만날 예정입니다.",
+   "ety": "down(아래쪽) + town(마을) → 섬 아래쪽 상점가 → 시내에",
+   "mnem": "지대가 낮은(down) 쪽에 가게가 몰려 있던 마을(town) → 시내에서"
   },
   {
    "w": "dozen",
@@ -1695,7 +1779,9 @@
     }
    ],
    "ex": "The office manager ordered two <b>dozen</b> pens for the new staff.",
-   "exKo": "사무장은 신입 직원들을 위해 펜 2다스를 주문했습니다."
+   "exKo": "사무장은 신입 직원들을 위해 펜 2다스를 주문했습니다.",
+   "ety": "duo(둘) + dec(열) → 2 더하기 10 = 12 → 12개 묶음 (같은 어근: decade 10년)",
+   "mnem": "연필 '한 다스'가 바로 dozen, 도넛도 12개씩 한 상자 → 12개 묶음, 다스"
   },
   {
    "w": "drive",
@@ -1715,7 +1801,8 @@
     }
    ],
    "ex": "Ms. Lee will <b>drive</b> us to the airport early tomorrow morning.",
-   "exKo": "이 씨가 내일 아침 일찍 저희를 공항까지 운전해서 데려다줄 것입니다."
+   "exKo": "이 씨가 내일 아침 일찍 저희를 공항까지 운전해서 데려다줄 것입니다.",
+   "mnem": "'드라이브 갈까?'는 차 몰고 나가자는 말, 드라이버는 운전자 → 운전하다"
   },
   {
    "w": "drop",
@@ -1735,7 +1822,8 @@
     }
    ],
    "ex": "Fuel costs <b>dropped</b> sharply during the last quarter.",
-   "exKo": "지난 분기 동안 연료비가 급격히 하락했습니다."
+   "exKo": "지난 분기 동안 연료비가 급격히 하락했습니다.",
+   "mnem": "물방울이 뚝(drop) 떨어지듯 주가도 뚝 → 떨어뜨리다, 하락하다"
   },
   {
    "w": "dry",
@@ -1750,7 +1838,8 @@
     }
    ],
    "ex": "Please store the printer paper in a <b>dry</b> place.",
-   "exKo": "프린터 용지는 건조한 곳에 보관해 주세요."
+   "exKo": "프린터 용지는 건조한 곳에 보관해 주세요.",
+   "mnem": "'드라이기'로 머리를 말리고 '드라이클리닝'은 물 없이 세탁 → 건조한, 마른"
   },
   {
    "w": "during",
@@ -1758,7 +1847,9 @@
    "m": "~ 동안",
    "cat": "회의",
    "ex": "Please turn off your phone <b>during</b> the staff meeting.",
-   "exKo": "직원 회의 동안에는 휴대전화를 꺼 주시기 바랍니다."
+   "exKo": "직원 회의 동안에는 휴대전화를 꺼 주시기 바랍니다.",
+   "ety": "dur(지속되다) + -ing(~하는 사이) → 계속되는 그 사이에 → ~ 동안 (같은 어근: durable 오래가는)",
+   "mnem": "'듀라셀' 건전지처럼 지속(dur)되는 그 시간 사이 내내 → ~ 동안"
   },
   {
    "w": "duty",
@@ -1778,7 +1869,9 @@
     }
    ],
    "ex": "Answering customer calls is an important <b>duty</b> in this role.",
-   "exKo": "고객 전화 응대는 이 직무에서 중요한 임무입니다."
+   "exKo": "고객 전화 응대는 이 직무에서 중요한 임무입니다.",
+   "ety": "du(마땅히 치러야 할) + -ty(명사) → 갚아야 할 몫 → 의무, 직무, 관세 (같은 어근: debt 빚)",
+   "mnem": "공항 '듀티프리'는 관세 면제, 안 내도 되게 풀어 준 몫 → 의무, 관세"
   },
   {
    "w": "electricity",
@@ -1798,7 +1891,9 @@
     }
    ],
    "ex": "The <b>electricity</b> in the building will be off for repairs on Saturday.",
-   "exKo": "토요일에 수리 작업으로 건물의 전기가 차단될 예정입니다."
+   "exKo": "토요일에 수리 작업으로 건물의 전기가 차단될 예정입니다.",
+   "ety": "electr(호박·문지르면 튀는 것) + -ic + -ity(성질) → 호박을 문질러 나온 힘 → 전기",
+   "mnem": "'일렉트로닉 기타'는 이것 없으면 소리도 안 나는 악기 → 전기"
   },
   {
    "w": "employer",
@@ -1818,7 +1913,9 @@
     }
    ],
    "ex": "Her previous <b>employer</b> wrote a very positive reference letter.",
-   "exKo": "그녀의 이전 고용주는 매우 긍정적인 추천서를 써 주었습니다."
+   "exKo": "그녀의 이전 고용주는 매우 긍정적인 추천서를 써 주었습니다.",
+   "ety": "em-(안으로) + ploy(끌어들이다) + -er(사람) → 사람을 안으로 끌어다 쓰는 쪽 → 고용주 (같은 어근: employee 직원)",
+   "mnem": "-er은 하는 쪽, -ee는 당하는 쪽. 월급 주는 쪽이 employer → 고용주"
   },
   {
    "w": "end",
@@ -1838,7 +1935,8 @@
     }
    ],
    "ex": "We will take questions at the <b>end</b> of the meeting.",
-   "exKo": "회의가 끝날 때 질문을 받도록 하겠습니다."
+   "exKo": "회의가 끝날 때 질문을 받도록 하겠습니다.",
+   "mnem": "영화가 끝나면 화면에 크게 뜨는 'THE END', 그 순간이 곧 → 끝"
   },
   {
    "w": "engineer",
@@ -1853,7 +1951,9 @@
     }
    ],
    "ex": "The company is hiring two <b>engineers</b> for the new factory.",
-   "exKo": "그 회사는 새 공장을 위해 엔지니어 두 명을 채용하고 있습니다."
+   "exKo": "그 회사는 새 공장을 위해 엔지니어 두 명을 채용하고 있습니다.",
+   "ety": "in-(안에) + gen(타고나다) + -eer(사람) → 타고난 재주로 기계를 만드는 사람 → 기술자 (같은 어근: genius 천재)",
+   "mnem": "엔진(engine)을 뜯었다 붙였다 하는 사람 → 기술자, 엔지니어"
   },
   {
    "w": "enjoy",
@@ -1868,7 +1968,9 @@
     }
    ],
    "ex": "The staff <b>enjoyed</b> the city tour after the conference ended.",
-   "exKo": "직원들은 컨퍼런스가 끝난 후 시내 관광을 즐겼습니다."
+   "exKo": "직원들은 컨퍼런스가 끝난 후 시내 관광을 즐겼습니다.",
+   "ety": "en-(~하게 만들다) + joy(기쁨) → 기쁨 속으로 들어가게 하다 → 즐기다 (같은 어근: joyful 즐거운)",
+   "mnem": "en(만들다)에 joy(기쁨)를 붙이면 기쁨을 만들어 내는 일 → 즐기다"
   },
   {
    "w": "enough",
@@ -1883,7 +1985,8 @@
     }
    ],
    "ex": "There are <b>enough</b> chairs in the conference room for everyone.",
-   "exKo": "회의실에는 모두를 위한 충분한 의자가 있습니다."
+   "exKo": "회의실에는 모두를 위한 충분한 의자가 있습니다.",
+   "mnem": "'이너프!'하고 손사래 치면 그만, 이미 넉넉하다는 신호 → 충분한"
   },
   {
    "w": "exit",
@@ -1898,7 +2001,9 @@
     }
    ],
    "ex": "The emergency <b>exit</b> is at the end of this hallway.",
-   "exKo": "비상 출구는 이 복도 끝에 있습니다."
+   "exKo": "비상 출구는 이 복도 끝에 있습니다.",
+   "ety": "ex-(밖으로) + it(가다) → 밖으로 나가는 길 → 출구 (같은 어근: initial 처음의)",
+   "mnem": "극장 벽에 붙은 초록 비상등 'EXIT', 밖으로 나가라는 표시 → 출구"
   },
   {
    "w": "factory",
@@ -1913,7 +2018,9 @@
     }
    ],
    "ex": "The order will ship directly from our <b>factory</b> next week.",
-   "exKo": "주문품은 다음 주에 저희 공장에서 직접 발송될 예정입니다."
+   "exKo": "주문품은 다음 주에 저희 공장에서 직접 발송될 예정입니다.",
+   "ety": "fac(만들다) + -ory(장소) → 물건을 만드는 곳 → 공장 (같은 어근: manufacture 제조하다)",
+   "mnem": "'팩토리 아울렛'은 공장에서 바로 떼어다 파는 매장 → 공장"
   },
   {
    "w": "fair",
@@ -1933,7 +2040,9 @@
     }
    ],
    "ex": "Our company will present its new products at the trade <b>fair</b>.",
-   "exKo": "저희 회사는 무역 박람회에서 신제품을 선보일 예정입니다."
+   "exKo": "저희 회사는 무역 박람회에서 신제품을 선보일 예정입니다.",
+   "ety": "feria(축일) → fair → 축일마다 광장에 서던 큰 장 → 박람회 (같은 어근: festival 축제)",
+   "mnem": "'북페어', '아트페어'—부스가 쭉 늘어선 그 페어 → 박람회"
   },
   {
    "w": "fare",
@@ -1948,7 +2057,9 @@
     }
    ],
    "ex": "The bus <b>fare</b> to the airport is five dollars per person.",
-   "exKo": "공항까지 가는 버스 요금은 1인당 5달러입니다."
+   "exKo": "공항까지 가는 버스 요금은 1인당 5달러입니다.",
+   "ety": "far(가다·여행하다) → 이동한 값으로 치르는 돈 → 교통 요금 (같은 어근: farewell 작별 인사)",
+   "mnem": "멀리(far) 갈수록 미터기가 쭉 올라가는 그 값 → 교통 요금"
   },
   {
    "w": "farm",
@@ -1968,7 +2079,9 @@
     }
    ],
    "ex": "The restaurant orders fresh vegetables from a local <b>farm</b> every morning.",
-   "exKo": "그 식당은 매일 아침 지역 농장에서 신선한 채소를 주문합니다."
+   "exKo": "그 식당은 매일 아침 지역 농장에서 신선한 채소를 주문합니다.",
+   "ety": "firm(고정된 소작료) → 정해진 세를 내고 부치던 땅 → 농장 (같은 어근: firm 단단한)",
+   "mnem": "'팜스테이'는 농장에서 하룻밤 자며 소 젖 짜 보는 체험 → 농장"
   }
  ]
 }

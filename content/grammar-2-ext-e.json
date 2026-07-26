@@ -1,63 +1,1163 @@
-{"items": [
-{"q":"The auditors praised the ___ kept expense records.","type":"품사","choices":["careful","carefully","carefulness","caring"],"a":1,"transKo":"감사관들은 꼼꼼하게 관리된 지출 기록을 칭찬했다.","exKo":"과거분사 kept를 수식하는 부사 carefully가 정답입니다."},
-{"q":"The device includes a two-year ___ against defects.","type":"품사","choices":["warrant","warranty","warranted","warranting"],"a":1,"transKo":"이 기기에는 결함에 대한 2년 보증이 포함되어 있다.","exKo":"관사 a 뒤의 명사 자리이므로 warranty(보증)가 정답입니다."},
-{"q":"The transition to the new system went ___ smoothly.","type":"품사","choices":["remark","remarkable","remarkably","remarked"],"a":2,"transKo":"새 시스템으로의 전환은 놀랄 만큼 순조롭게 진행되었다.","exKo":"부사 smoothly를 수식하는 부사 remarkably가 정답입니다."},
-{"q":"Her ___ in three markets makes her a strong candidate.","type":"품사","choices":["experience","experienced","experiential","experiencing"],"a":0,"transKo":"세 개 시장에서의 경력이 그녀를 유력한 후보로 만든다.","exKo":"소유격 Her 뒤 주어가 되는 명사 experience가 정답입니다."},
-{"q":"The document must be signed in the ___ of a witness.","type":"품사","choices":["present","presence","presently","presented"],"a":1,"transKo":"그 문서는 증인이 보는 앞에서 서명되어야 한다.","exKo":"in the presence of(~가 있는 자리에서)가 빈출 표현입니다."},
-{"q":"The training made new hires ___ productive sooner.","type":"품사","choices":["notice","noticeably","noticeable","noticing"],"a":1,"transKo":"교육 덕분에 신입 사원들이 눈에 띄게 더 빨리 성과를 냈다.","exKo":"형용사 productive를 수식하는 부사 noticeably가 정답입니다."},
-{"q":"The chef's ___ of local produce sets the menu apart.","type":"품사","choices":["use","useful","usable","usefully"],"a":0,"transKo":"지역 농산물을 활용한다는 점이 그 메뉴를 돋보이게 한다.","exKo":"소유격 뒤 명사 자리이므로 use(사용)가 정답입니다."},
-{"q":"The line expanded to meet ___ demand overseas.","type":"품사","choices":["rise","risen","rising","raised of"],"a":2,"transKo":"해외의 증가하는 수요에 맞추기 위해 생산 라인이 확장되었다.","exKo":"명사 demand를 수식하는 현재분사 rising이 정답입니다."},
-{"q":"The seminar registration closed ___ early this year.","type":"품사","choices":["usual","unusual","unusually","usually of"],"a":2,"transKo":"올해 세미나 등록은 이례적으로 일찍 마감되었다.","exKo":"부사 early를 수식하는 부사 unusually가 정답입니다."},
-{"q":"The manual includes ___ diagrams for each step.","type":"품사","choices":["help","helpful","helpfully","helped"],"a":1,"transKo":"설명서에는 각 단계에 대한 유용한 도해가 포함되어 있다.","exKo":"명사 diagrams를 수식하는 형용사 helpful이 정답입니다."},
-{"q":"The retreat aims to strengthen ___ among departments.","type":"품사","choices":["collaborate","collaborative","collaboration","collaboratively"],"a":2,"transKo":"워크숍은 부서 간 협업을 강화하는 것을 목표로 한다.","exKo":"동사 strengthen의 목적어인 명사 collaboration이 정답입니다."},
-{"q":"The council approved the plan ___ after a long debate.","type":"품사","choices":["unanimous","unanimously","unanimity","unanimousness"],"a":1,"transKo":"의회는 긴 토론 끝에 그 계획을 만장일치로 승인했다.","exKo":"동사 approved를 수식하는 부사 unanimously가 정답입니다."},
-{"q":"Renew early to avoid a ___ in your coverage.","type":"품사","choices":["lapse","lapsed","lapsing","elapse"],"a":0,"transKo":"보장 공백을 피하려면 일찍 갱신하세요.","exKo":"관사 a 뒤의 명사 자리이므로 lapse(공백)가 정답입니다."},
-{"q":"The team's ___ response prevented a larger outage.","type":"품사","choices":["swift","swiftly","swiftness","swifter of"],"a":0,"transKo":"팀의 신속한 대응이 더 큰 장애를 막았다.","exKo":"명사 response를 수식하는 형용사 swift가 정답입니다."},
-{"q":"The venue can be booked ___ for private events.","type":"품사","choices":["exclusive","exclusively","exclusivity","excluded"],"a":1,"transKo":"그 행사장은 비공개 행사를 위해 단독으로 대관할 수 있다.","exKo":"동사구 be booked를 수식하는 부사 exclusively가 정답입니다."},
-{"q":"The shipment ___ in transit for over a week now.","type":"시제·형태","choices":["is","has been","was being","will be"],"a":1,"transKo":"그 화물은 벌써 일주일 넘게 운송 중이다.","exKo":"for over a week now와 함께 계속을 나타내는 현재완료 has been이 정답입니다."},
-{"q":"The director wants the summary ___ by noon.","type":"시제·형태","choices":["finish","finished","finishing","to finishing"],"a":1,"transKo":"이사는 정오까지 요약본이 완성되기를 원한다.","exKo":"want + 목적어 + 과거분사(~된 상태를 원하다) 구조이므로 finished가 정답입니다."},
-{"q":"___ in advance, the tickets cost 20 percent less.","type":"시제·형태","choices":["Purchase","Purchasing","Purchased","To purchase"],"a":2,"transKo":"미리 구매하면 티켓 가격이 20% 저렴하다.","exKo":"티켓은 구매되는 대상이므로 수동 분사구문 Purchased가 정답입니다."},
-{"q":"The policy requires that every refund ___ documented.","type":"시제·형태","choices":["is","be","was","were"],"a":1,"transKo":"그 정책은 모든 환불이 문서로 기록될 것을 요구한다.","exKo":"require that절에는 (should 생략) 동사원형을 쓰므로 be documented의 be가 정답입니다."},
-{"q":"Ms. Sung would rather ___ the early flight.","type":"시제·형태","choices":["take","to take","taking","took"],"a":0,"transKo":"성 씨는 이른 항공편을 타는 편을 선호한다.","exKo":"would rather + 동사원형 구조이므로 take가 정답입니다."},
-{"q":"The store keeps customers ___ about restock dates.","type":"시제·형태","choices":["inform","informed","informing","to inform"],"a":1,"transKo":"매장은 재입고 날짜에 대해 고객들에게 계속 알린다.","exKo":"keep + 목적어 + 과거분사(계속 ~된 상태로 두다) 구조이므로 informed가 정답입니다."},
-{"q":"It is worth ___ the terms before renewing.","type":"시제·형태","choices":["review","to review","reviewing","reviewed"],"a":2,"transKo":"갱신 전에 조건을 검토해 볼 가치가 있다.","exKo":"be worth -ing(~할 가치가 있다) 구조이므로 reviewing이 정답입니다."},
-{"q":"The samples appear ___ during shipping.","type":"시제·형태","choices":["damage","to have been damaged","damaging","damages"],"a":1,"transKo":"샘플들은 운송 중에 손상된 것으로 보인다.","exKo":"appear to have p.p.(~했던 것으로 보이다)의 수동형 to have been damaged가 정답입니다."},
-{"q":"Should the printer fail again, a technician ___ dispatched.","type":"시제·형태","choices":["is","will be","was","has been"],"a":1,"transKo":"프린터가 다시 고장 나면 기사가 파견될 것입니다.","exKo":"Should 도치 조건문의 주절에는 미래시제 will be가 자연스럽습니다."},
-{"q":"The firm spent two years ___ the new headquarters.","type":"시제·형태","choices":["design","designing","designed","to design"],"a":1,"transKo":"그 회사는 2년에 걸쳐 새 본사를 설계했다.","exKo":"spend + 시간 + -ing(~하는 데 시간을 쓰다) 구조이므로 designing이 정답입니다."},
-{"q":"___ for his patience, Mr. Reo received a service credit.","type":"시제·형태","choices":["Thank","Thanked","Thanking","To thank"],"a":1,"transKo":"기다려 준 데 대한 감사로 레오 씨는 서비스 크레딧을 받았다.","exKo":"주어가 감사를 '받는' 수동 관계이므로 과거분사 분사구문 Thanked가 정답입니다."},
-{"q":"___ the road work, the bus is taking a detour.","type":"전치사·접속사","choices":["Due to","Since","Although","Now that"],"a":0,"transKo":"도로 공사 때문에 버스가 우회 운행 중이다.","exKo":"뒤에 명사구가 오므로 전치사구 Due to가 정답입니다."},
-{"q":"Employees may not share client data, ___ with family.","type":"전치사·접속사","choices":["not even","despite","except that","without"],"a":0,"transKo":"직원들은 고객 정보를 가족에게조차 공유해서는 안 된다.","exKo":"not even(심지어 ~조차 아닌)이 문맥상 정답입니다."},
-{"q":"The bid was rejected ___ it arrived after the deadline.","type":"전치사·접속사","choices":["because","because of","due to","owing to"],"a":0,"transKo":"입찰서가 마감 후에 도착해서 거부되었다.","exKo":"뒤에 절이 오므로 접속사 because가 정답입니다. 나머지는 전치사(구)입니다."},
-{"q":"___ signing the lease, tenants receive two sets of keys.","type":"전치사·접속사","choices":["Upon","While","Whenever","As long as"],"a":0,"transKo":"임대 계약 서명과 동시에 세입자는 열쇠 두 세트를 받는다.","exKo":"Upon + 동명사(~하자마자)가 정답입니다."},
-{"q":"The park stays open late ___ the summer festival.","type":"전치사·접속사","choices":["throughout","while","since","whereas"],"a":0,"transKo":"여름 축제 기간 내내 공원은 늦게까지 개방된다.","exKo":"뒤에 명사구가 오므로 전치사 throughout(~ 내내)이 정답입니다."},
-{"q":"Wear your badge ___ times inside the facility.","type":"전치사·접속사","choices":["at all","in all","on all","for all"],"a":0,"transKo":"시설 내에서는 항상 사원증을 착용하세요.","exKo":"at all times(항상)는 빈출 표현입니다."},
-{"q":"The upgrade will proceed ___ planned this weekend.","type":"전치사·접속사","choices":["as","like to","such as","so"],"a":0,"transKo":"업그레이드는 이번 주말 계획대로 진행될 것이다.","exKo":"as planned(계획대로)가 빈출 표현입니다."},
-{"q":"___ a decision is made, all work on the site must pause.","type":"전치사·접속사","choices":["Until","By","Within","Toward"],"a":0,"transKo":"결정이 내려질 때까지 현장의 모든 작업은 중단되어야 한다.","exKo":"뒤에 절이 오고 '~할 때까지'의 의미인 접속사 Until이 정답입니다."},
-{"q":"The candidates differ ___ their approach to marketing.","type":"전치사·접속사","choices":["in","of","at","among to"],"a":0,"transKo":"후보들은 마케팅 접근 방식에서 차이가 있다.","exKo":"differ in(~에서 다르다)이 정답입니다."},
-{"q":"Payments are due ___ receipt of the invoice.","type":"전치사·접속사","choices":["upon","while","although","whether"],"a":0,"transKo":"대금은 송장 수령 즉시 지불해야 한다.","exKo":"upon receipt of(~을 받는 즉시)는 빈출 표현입니다."},
-{"q":"The two models are priced ___ , but features differ.","type":"어휘","choices":["similarly","likely","alike to","same"],"a":0,"transKo":"두 모델은 가격은 비슷하지만 기능은 다르다.","exKo":"비슷하게는 부사 similarly입니다."},
-{"q":"The chef will ___ the recipe to serve fifty guests.","type":"어휘","choices":["scale up","scale off","stand up","step off"],"a":0,"transKo":"셰프는 50인분에 맞게 레시피 양을 늘릴 것이다.","exKo":"규모를 키우다는 scale up입니다."},
-{"q":"The audit ___ a gap between orders and inventory.","type":"어휘","choices":["revealed","concealed","reversed","recalled"],"a":0,"transKo":"감사 결과 주문량과 재고 간의 차이가 드러났다.","exKo":"드러내다는 reveal입니다."},
-{"q":"The city will ___ residents about the zoning change.","type":"어휘","choices":["consult","counsel to","confer","commune"],"a":0,"transKo":"시는 용도 지역 변경에 대해 주민들과 협의할 것이다.","exKo":"consult + 대상(~와 상의하다)이 정답입니다."},
-{"q":"The team must ___ the causes of the delay.","type":"어휘","choices":["determine","terminate","exterminate","germinate"],"a":0,"transKo":"팀은 지연의 원인을 규명해야 한다.","exKo":"알아내다·규명하다는 determine입니다. 유사 철자 함정 문제입니다."},
-{"q":"The hotel ___ a shuttle to the convention center.","type":"어휘","choices":["operates","behaves","performs","acts on"],"a":0,"transKo":"호텔은 컨벤션 센터행 셔틀을 운행한다.","exKo":"운행하다는 operate입니다."},
-{"q":"The memo outlines steps to ___ printing costs.","type":"어휘","choices":["reduce","shorten","narrow to","abbreviate"],"a":0,"transKo":"회람에는 인쇄 비용을 줄이기 위한 조치들이 정리되어 있다.","exKo":"비용을 줄이다는 reduce입니다."},
-{"q":"Ms. Vo was ___ to regional director last month.","type":"어휘","choices":["promoted","provided","proposed","protected"],"a":0,"transKo":"보 씨는 지난달 지역 이사로 승진했다.","exKo":"승진하다는 be promoted to입니다."},
-{"q":"Suppliers must ___ samples for inspection.","type":"어휘","choices":["furnish","furniture","flourish","finish to"],"a":0,"transKo":"공급업체는 검사용 샘플을 제공해야 한다.","exKo":"공식적으로 제공하다는 furnish입니다."},
-{"q":"The show was ___ due to low ticket sales.","type":"어휘","choices":["canceled","erased","deleted","removed"],"a":0,"transKo":"티켓 판매 부진으로 공연이 취소되었다.","exKo":"행사를 취소하다는 cancel입니다."},
-{"q":"The app ___ users when their package is nearby.","type":"어휘","choices":["alerts","alarms to","warns of","signals on"],"a":0,"transKo":"그 앱은 소포가 근처에 오면 사용자에게 알린다.","exKo":"alert + 목적어(~에게 알리다) 구조가 정답입니다."},
-{"q":"The report ___ light on shifting consumer habits.","type":"어휘","choices":["sheds","throws off","drops","spills"],"a":0,"transKo":"그 보고서는 변화하는 소비 습관을 조명한다.","exKo":"shed light on(~을 밝히다)은 빈출 표현입니다."},
-{"q":"We will ___ the missing part at our expense.","type":"어휘","choices":["ship","sail","float","drift"],"a":0,"transKo":"누락된 부품은 저희 부담으로 배송해 드리겠습니다.","exKo":"발송하다는 ship입니다."},
-{"q":"Ms. Kang will ___ as interim director until June.","type":"어휘","choices":["serve","work on","perform","function to"],"a":0,"transKo":"강 씨는 6월까지 임시 이사로 재직할 것이다.","exKo":"serve as(~로 재직하다)가 정답입니다."},
-{"q":"The library ___ late fees for damaged cards.","type":"어휘","choices":["waives","waves","weaves","wavers"],"a":0,"transKo":"도서관은 카드가 손상된 경우 연체료를 면제해 준다.","exKo":"면제하다는 waive입니다. 철자 함정 문제입니다."},
-{"q":"The panel will ___ the top three startups.","type":"어휘","choices":["select","collect","elect on","erect"],"a":0,"transKo":"심사단은 상위 세 개 스타트업을 선정할 것이다.","exKo":"선정하다는 select입니다."},
-{"q":"The company aims to ___ its carbon emissions by 2030.","type":"어휘","choices":["halve","half","behalf","halt on"],"a":0,"transKo":"그 회사는 2030년까지 탄소 배출을 절반으로 줄이는 것을 목표로 한다.","exKo":"절반으로 줄이다는 동사 halve입니다."},
-{"q":"Managers will ___ the new policy at Friday's briefing.","type":"어휘","choices":["explain","express to","expose","explode"],"a":0,"transKo":"관리자들은 금요일 브리핑에서 새 정책을 설명할 것이다.","exKo":"설명하다는 explain입니다."},
-{"q":"The design must ___ safety standards in all markets.","type":"어휘","choices":["meet","greet","join","fill on"],"a":0,"transKo":"그 디자인은 모든 시장의 안전 기준을 충족해야 한다.","exKo":"meet standards(기준을 충족하다)는 빈출 연어입니다."},
-{"q":"The board will ___ the CEO's performance annually.","type":"어휘","choices":["evaluate","valuate on","value to","avail"],"a":0,"transKo":"이사회는 매년 CEO의 성과를 평가할 것이다.","exKo":"평가하다는 evaluate입니다."},
-{"q":"The outage ___ from a failed backup generator.","type":"어휘","choices":["resulted","caused","effected","reasoned"],"a":0,"transKo":"정전은 예비 발전기 고장에서 비롯되었다.","exKo":"result from(~에서 비롯되다)이 정답입니다. cause는 능동으로 '~을 일으키다'입니다."},
-{"q":"Please ___ these documents through the shredder.","type":"어휘","choices":["run","walk","pass by","move off"],"a":0,"transKo":"이 문서들을 파쇄기에 넣어 처리해 주세요.","exKo":"run A through B(A를 B에 통과시키다)가 자연스럽습니다."},
-{"q":"The recall aims to ___ potential safety risks.","type":"어휘","choices":["eliminate","illuminate","eliminate to","luminate"],"a":0,"transKo":"리콜은 잠재적 안전 위험을 제거하는 것을 목표로 한다.","exKo":"제거하다는 eliminate입니다. illuminate(비추다)와의 철자 함정 문제입니다."},
-{"q":"The firm will ___ candidates within two weeks.","type":"어휘","choices":["contact","connect","communicate","touch on"],"a":0,"transKo":"회사는 2주 이내에 후보자들에게 연락할 것이다.","exKo":"contact + 목적어(~에게 연락하다)가 정답입니다."},
-{"q":"The training covers how to ___ customer objections.","type":"어휘","choices":["overcome","become","income","outcome"],"a":0,"transKo":"이 교육은 고객의 반대 의견을 극복하는 방법을 다룬다.","exKo":"극복하다는 overcome입니다."}
-]}
+{
+ "items": [
+  {
+   "q": "The auditors praised the ___ kept expense records.",
+   "type": "품사",
+   "choices": [
+    "careful",
+    "carefully",
+    "carefulness",
+    "caring"
+   ],
+   "a": 1,
+   "transKo": "감사관들은 꼼꼼하게 관리된 지출 기록을 칭찬했다.",
+   "exKo": "과거분사 kept를 수식하는 부사 carefully가 정답입니다.",
+   "why": [
+    "형용사 — 과거분사 kept를 수식할 수 없음",
+    "부사 — 뒤의 분사 kept를 수식하는 자리",
+    "명사 — 수식어 자리에 명사가 올 수 없음",
+    "현재분사·형용사 — kept와 나란히 수식 불가"
+   ]
+  },
+  {
+   "q": "The device includes a two-year ___ against defects.",
+   "type": "품사",
+   "choices": [
+    "warrant",
+    "warranty",
+    "warranted",
+    "warranting"
+   ],
+   "a": 1,
+   "transKo": "이 기기에는 결함에 대한 2년 보증이 포함되어 있다.",
+   "exKo": "관사 a 뒤의 명사 자리이므로 warranty(보증)가 정답입니다.",
+   "why": [
+    "명사·동사 영장·보증하다 — 의미가 맞지 않음",
+    "명사 보증서 — 관사 a 뒤의 명사 자리",
+    "과거분사 — 관사 뒤 단독 명사 자리 불가",
+    "현재분사 — 명사 자리에 올 수 없음"
+   ]
+  },
+  {
+   "q": "The transition to the new system went ___ smoothly.",
+   "type": "품사",
+   "choices": [
+    "remark",
+    "remarkable",
+    "remarkably",
+    "remarked"
+   ],
+   "a": 2,
+   "transKo": "새 시스템으로의 전환은 놀랄 만큼 순조롭게 진행되었다.",
+   "exKo": "부사 smoothly를 수식하는 부사 remarkably가 정답입니다.",
+   "why": [
+    "명사·동사 — 부사 자리에 올 수 없음",
+    "형용사 — 부사 smoothly를 수식하지 못함",
+    "부사 — 뒤의 부사 smoothly를 수식하는 자리",
+    "과거분사 — 부사를 수식할 수 없음"
+   ]
+  },
+  {
+   "q": "Her ___ in three markets makes her a strong candidate.",
+   "type": "품사",
+   "choices": [
+    "experience",
+    "experienced",
+    "experiential",
+    "experiencing"
+   ],
+   "a": 0,
+   "transKo": "세 개 시장에서의 경력이 그녀를 유력한 후보로 만든다.",
+   "exKo": "소유격 Her 뒤 주어가 되는 명사 experience가 정답입니다.",
+   "why": [
+    "명사 경험 — 소유격 Her 뒤 주어가 되는 자리",
+    "형용사 노련한 — 주어 명사 자리에 불가",
+    "형용사 경험적인 — 명사 자리에 올 수 없음",
+    "동명사·분사 — 소유격 뒤 주어로 어색함"
+   ]
+  },
+  {
+   "q": "The document must be signed in the ___ of a witness.",
+   "type": "품사",
+   "choices": [
+    "present",
+    "presence",
+    "presently",
+    "presented"
+   ],
+   "a": 1,
+   "transKo": "그 문서는 증인이 보는 앞에서 서명되어야 한다.",
+   "exKo": "in the presence of(~가 있는 자리에서)가 빈출 표현입니다.",
+   "why": [
+    "형용사·동사 — the와 of 사이 명사 자리 불가",
+    "명사 — in the presence of 빈출 표현 완성",
+    "부사 — 관사 뒤 명사 자리에 올 수 없음",
+    "과거분사 — the ~ of 구조의 명사 자리 불가"
+   ]
+  },
+  {
+   "q": "The training made new hires ___ productive sooner.",
+   "type": "품사",
+   "choices": [
+    "notice",
+    "noticeably",
+    "noticeable",
+    "noticing"
+   ],
+   "a": 1,
+   "transKo": "교육 덕분에 신입 사원들이 눈에 띄게 더 빨리 성과를 냈다.",
+   "exKo": "형용사 productive를 수식하는 부사 noticeably가 정답입니다.",
+   "why": [
+    "명사·동사 — 형용사를 수식할 수 없음",
+    "부사 — 형용사 productive를 수식하는 자리",
+    "형용사 — 다른 형용사를 수식하지 못함",
+    "현재분사 — 형용사 수식 기능이 없음"
+   ]
+  },
+  {
+   "q": "The chef's ___ of local produce sets the menu apart.",
+   "type": "품사",
+   "choices": [
+    "use",
+    "useful",
+    "usable",
+    "usefully"
+   ],
+   "a": 0,
+   "transKo": "지역 농산물을 활용한다는 점이 그 메뉴를 돋보이게 한다.",
+   "exKo": "소유격 뒤 명사 자리이므로 use(사용)가 정답입니다.",
+   "why": [
+    "명사 사용 — 소유격 chef's 뒤 주어 명사 자리",
+    "형용사 유용한 — 주어 명사 자리에 불가",
+    "형용사 사용 가능한 — 명사 자리에 올 수 없음",
+    "부사 — 소유격 뒤 주어 자리에 올 수 없음"
+   ]
+  },
+  {
+   "q": "The line expanded to meet ___ demand overseas.",
+   "type": "품사",
+   "choices": [
+    "rise",
+    "risen",
+    "rising",
+    "raised of"
+   ],
+   "a": 2,
+   "transKo": "해외의 증가하는 수요에 맞추기 위해 생산 라인이 확장되었다.",
+   "exKo": "명사 demand를 수식하는 현재분사 rising이 정답입니다.",
+   "why": [
+    "동사원형·명사 — 명사 demand를 수식 불가",
+    "과거분사 — rise는 자동사라 수동 수식 불가",
+    "현재분사 — 명사 demand를 수식하는 자리",
+    "과거분사에 of가 붙은 형태로 성립하지 않음"
+   ]
+  },
+  {
+   "q": "The seminar registration closed ___ early this year.",
+   "type": "품사",
+   "choices": [
+    "usual",
+    "unusual",
+    "unusually",
+    "usually of"
+   ],
+   "a": 2,
+   "transKo": "올해 세미나 등록은 이례적으로 일찍 마감되었다.",
+   "exKo": "부사 early를 수식하는 부사 unusually가 정답입니다.",
+   "why": [
+    "형용사 — 부사 early를 수식할 수 없음",
+    "형용사 — 부사를 수식하는 기능이 없음",
+    "부사 — 뒤의 부사 early를 수식하는 자리",
+    "부사에 of가 붙은 형태로 성립하지 않음"
+   ]
+  },
+  {
+   "q": "The manual includes ___ diagrams for each step.",
+   "type": "품사",
+   "choices": [
+    "help",
+    "helpful",
+    "helpfully",
+    "helped"
+   ],
+   "a": 1,
+   "transKo": "설명서에는 각 단계에 대한 유용한 도해가 포함되어 있다.",
+   "exKo": "명사 diagrams를 수식하는 형용사 helpful이 정답입니다.",
+   "why": [
+    "명사·동사 — 명사 앞 수식어 자리에 부적합",
+    "형용사 — 명사 diagrams를 수식하는 자리",
+    "부사 — 명사를 수식할 수 없음",
+    "과거분사 도움받은 — 의미상 어울리지 않음"
+   ]
+  },
+  {
+   "q": "The retreat aims to strengthen ___ among departments.",
+   "type": "품사",
+   "choices": [
+    "collaborate",
+    "collaborative",
+    "collaboration",
+    "collaboratively"
+   ],
+   "a": 2,
+   "transKo": "워크숍은 부서 간 협업을 강화하는 것을 목표로 한다.",
+   "exKo": "동사 strengthen의 목적어인 명사 collaboration이 정답입니다.",
+   "why": [
+    "동사원형 — 목적어 자리에 올 수 없음",
+    "형용사 — 목적어가 되는 명사 자리 불가",
+    "명사 — 동사 strengthen의 목적어 자리",
+    "부사 — 목적어 역할을 할 수 없음"
+   ]
+  },
+  {
+   "q": "The council approved the plan ___ after a long debate.",
+   "type": "품사",
+   "choices": [
+    "unanimous",
+    "unanimously",
+    "unanimity",
+    "unanimousness"
+   ],
+   "a": 1,
+   "transKo": "의회는 긴 토론 끝에 그 계획을 만장일치로 승인했다.",
+   "exKo": "동사 approved를 수식하는 부사 unanimously가 정답입니다.",
+   "why": [
+    "형용사 — 동사 approved를 수식할 수 없음",
+    "부사 — 동사 approved를 수식하는 자리",
+    "명사 만장일치 — 수식어 자리에 불가",
+    "명사형 — 부사 자리에 올 수 없음"
+   ]
+  },
+  {
+   "q": "Renew early to avoid a ___ in your coverage.",
+   "type": "품사",
+   "choices": [
+    "lapse",
+    "lapsed",
+    "lapsing",
+    "elapse"
+   ],
+   "a": 0,
+   "transKo": "보장 공백을 피하려면 일찍 갱신하세요.",
+   "exKo": "관사 a 뒤의 명사 자리이므로 lapse(공백)가 정답입니다.",
+   "why": [
+    "명사 공백·중단 — 관사 a 뒤의 명사 자리",
+    "과거분사 — 관사 뒤 단독 명사 자리 불가",
+    "현재분사 — 명사 자리에 올 수 없음",
+    "동사 시간이 지나다 — 철자 유사 함정 보기"
+   ]
+  },
+  {
+   "q": "The team's ___ response prevented a larger outage.",
+   "type": "품사",
+   "choices": [
+    "swift",
+    "swiftly",
+    "swiftness",
+    "swifter of"
+   ],
+   "a": 0,
+   "transKo": "팀의 신속한 대응이 더 큰 장애를 막았다.",
+   "exKo": "명사 response를 수식하는 형용사 swift가 정답입니다.",
+   "why": [
+    "형용사 신속한 — 명사 response를 수식하는 자리",
+    "부사 — 명사를 수식할 수 없음",
+    "명사 — 명사 앞 수식어 자리에 불가",
+    "비교급에 of가 붙은 형태로 성립하지 않음"
+   ]
+  },
+  {
+   "q": "The venue can be booked ___ for private events.",
+   "type": "품사",
+   "choices": [
+    "exclusive",
+    "exclusively",
+    "exclusivity",
+    "excluded"
+   ],
+   "a": 1,
+   "transKo": "그 행사장은 비공개 행사를 위해 단독으로 대관할 수 있다.",
+   "exKo": "동사구 be booked를 수식하는 부사 exclusively가 정답입니다.",
+   "why": [
+    "형용사 — 수동태 동사구를 수식할 수 없음",
+    "부사 — 동사구 be booked를 수식하는 자리",
+    "명사 독점성 — 수식어 자리에 올 수 없음",
+    "과거분사 제외된 — 의미상 부적절"
+   ]
+  },
+  {
+   "q": "The shipment ___ in transit for over a week now.",
+   "type": "시제·형태",
+   "choices": [
+    "is",
+    "has been",
+    "was being",
+    "will be"
+   ],
+   "a": 1,
+   "transKo": "그 화물은 벌써 일주일 넘게 운송 중이다.",
+   "exKo": "for over a week now와 함께 계속을 나타내는 현재완료 has been이 정답입니다.",
+   "why": [
+    "현재형 — for over a week now와 시제 불일치",
+    "현재완료 — 지금까지의 계속을 나타내는 형태",
+    "과거진행형 — now와 함께 쓸 수 없음",
+    "미래형 — 이미 지속된 기간 표현과 안 맞음"
+   ]
+  },
+  {
+   "q": "The director wants the summary ___ by noon.",
+   "type": "시제·형태",
+   "choices": [
+    "finish",
+    "finished",
+    "finishing",
+    "to finishing"
+   ],
+   "a": 1,
+   "transKo": "이사는 정오까지 요약본이 완성되기를 원한다.",
+   "exKo": "want + 목적어 + 과거분사(~된 상태를 원하다) 구조이므로 finished가 정답입니다.",
+   "why": [
+    "동사원형 — want의 목적격보어로 쓰이지 않음",
+    "과거분사 — 요약본이 완료되는 수동 관계",
+    "현재분사 — 능동 의미라 문맥에 맞지 않음",
+    "to부정사 형태 오류 — 어법상 성립하지 않음"
+   ]
+  },
+  {
+   "q": "___ in advance, the tickets cost 20 percent less.",
+   "type": "시제·형태",
+   "choices": [
+    "Purchase",
+    "Purchasing",
+    "Purchased",
+    "To purchase"
+   ],
+   "a": 2,
+   "transKo": "미리 구매하면 티켓 가격이 20% 저렴하다.",
+   "exKo": "티켓은 구매되는 대상이므로 수동 분사구문 Purchased가 정답입니다.",
+   "why": [
+    "동사원형 — 명령문이 되어 뒤 절과 충돌함",
+    "현재분사 — 티켓이 구매하는 능동이 되어 오류",
+    "과거분사 — 티켓은 구매되는 수동 분사구문",
+    "to부정사 — 주어 tickets와 의미 연결이 어색"
+   ]
+  },
+  {
+   "q": "The policy requires that every refund ___ documented.",
+   "type": "시제·형태",
+   "choices": [
+    "is",
+    "be",
+    "was",
+    "were"
+   ],
+   "a": 1,
+   "transKo": "그 정책은 모든 환불이 문서로 기록될 것을 요구한다.",
+   "exKo": "require that절에는 (should 생략) 동사원형을 쓰므로 be documented의 be가 정답입니다.",
+   "why": [
+    "현재형 — require의 that절에는 쓰지 않음",
+    "동사원형 — require that절의 should 생략형",
+    "과거형 — 가정법 현재 자리에 시제 불일치",
+    "과거형 복수 — every refund와 수도 맞지 않음"
+   ]
+  },
+  {
+   "q": "Ms. Sung would rather ___ the early flight.",
+   "type": "시제·형태",
+   "choices": [
+    "take",
+    "to take",
+    "taking",
+    "took"
+   ],
+   "a": 0,
+   "transKo": "성 씨는 이른 항공편을 타는 편을 선호한다.",
+   "exKo": "would rather + 동사원형 구조이므로 take가 정답입니다.",
+   "why": [
+    "동사원형 — would rather 뒤에 오는 형태",
+    "to부정사 — would rather 뒤에 올 수 없음",
+    "동명사·분사 — 조동사 뒤 형태로 불가",
+    "과거형 — would rather 뒤에는 원형만 가능"
+   ]
+  },
+  {
+   "q": "The store keeps customers ___ about restock dates.",
+   "type": "시제·형태",
+   "choices": [
+    "inform",
+    "informed",
+    "informing",
+    "to inform"
+   ],
+   "a": 1,
+   "transKo": "매장은 재입고 날짜에 대해 고객들에게 계속 알린다.",
+   "exKo": "keep + 목적어 + 과거분사(계속 ~된 상태로 두다) 구조이므로 informed가 정답입니다.",
+   "why": [
+    "동사원형 — keep의 목적격보어로 쓰일 수 없음",
+    "과거분사 — 고객이 통보받는 수동 관계",
+    "현재분사 — 능동 의미라 문맥에 맞지 않음",
+    "to부정사 — keep 뒤 목적격보어로 쓰이지 않음"
+   ]
+  },
+  {
+   "q": "It is worth ___ the terms before renewing.",
+   "type": "시제·형태",
+   "choices": [
+    "review",
+    "to review",
+    "reviewing",
+    "reviewed"
+   ],
+   "a": 2,
+   "transKo": "갱신 전에 조건을 검토해 볼 가치가 있다.",
+   "exKo": "be worth -ing(~할 가치가 있다) 구조이므로 reviewing이 정답입니다.",
+   "why": [
+    "동사원형 — be worth 뒤에 원형은 올 수 없음",
+    "to부정사 — worth는 to부정사를 취하지 않음",
+    "동명사 — be worth -ing(~할 가치가 있다) 구조",
+    "과거분사 — 뒤의 목적어 the terms를 받을 수 없음"
+   ]
+  },
+  {
+   "q": "The samples appear ___ during shipping.",
+   "type": "시제·형태",
+   "choices": [
+    "damage",
+    "to have been damaged",
+    "damaging",
+    "damages"
+   ],
+   "a": 1,
+   "transKo": "샘플들은 운송 중에 손상된 것으로 보인다.",
+   "exKo": "appear to have p.p.(~했던 것으로 보이다)의 수동형 to have been damaged가 정답입니다.",
+   "why": [
+    "동사원형 — appear 뒤에는 to부정사가 와야 함",
+    "완료형 수동 부정사 — 앞서 손상된 일을 나타냄",
+    "현재분사 — appear 뒤 보어 자리에 올 수 없음",
+    "3인칭 단수 동사 — 본동사 appear가 이미 있음"
+   ]
+  },
+  {
+   "q": "Should the printer fail again, a technician ___ dispatched.",
+   "type": "시제·형태",
+   "choices": [
+    "is",
+    "will be",
+    "was",
+    "has been"
+   ],
+   "a": 1,
+   "transKo": "프린터가 다시 고장 나면 기사가 파견될 것입니다.",
+   "exKo": "Should 도치 조건문의 주절에는 미래시제 will be가 자연스럽습니다.",
+   "why": [
+    "현재형 be동사 — 아직 일어나지 않은 일에 부적합",
+    "Should 도치 조건문의 주절 → 미래시제 will be",
+    "과거형 — 미래 조건과 시제가 맞지 않음",
+    "현재완료 — 이미 완료된 일이 되어 의미 불일치"
+   ]
+  },
+  {
+   "q": "The firm spent two years ___ the new headquarters.",
+   "type": "시제·형태",
+   "choices": [
+    "design",
+    "designing",
+    "designed",
+    "to design"
+   ],
+   "a": 1,
+   "transKo": "그 회사는 2년에 걸쳐 새 본사를 설계했다.",
+   "exKo": "spend + 시간 + -ing(~하는 데 시간을 쓰다) 구조이므로 designing이 정답입니다.",
+   "why": [
+    "동사원형 — spend + 시간 뒤에 원형은 불가",
+    "동명사 — spend + 시간 + -ing 구조의 자리",
+    "과거분사 — 능동 의미 자리에 형태가 맞지 않음",
+    "to부정사 — spend 구문은 -ing만 취함"
+   ]
+  },
+  {
+   "q": "___ for his patience, Mr. Reo received a service credit.",
+   "type": "시제·형태",
+   "choices": [
+    "Thank",
+    "Thanked",
+    "Thanking",
+    "To thank"
+   ],
+   "a": 1,
+   "transKo": "기다려 준 데 대한 감사로 레오 씨는 서비스 크레딧을 받았다.",
+   "exKo": "주어가 감사를 '받는' 수동 관계이므로 과거분사 분사구문 Thanked가 정답입니다.",
+   "why": [
+    "동사원형 — 명령문이 되어 뒤 주절과 연결 불가",
+    "과거분사 분사구문 — 주어가 감사를 받는 수동 관계",
+    "현재분사 — 주어가 감사하는 능동이 되어 의미 불일치",
+    "to부정사 — 목적 의미가 되어 문맥에 맞지 않음"
+   ]
+  },
+  {
+   "q": "___ the road work, the bus is taking a detour.",
+   "type": "전치사·접속사",
+   "choices": [
+    "Due to",
+    "Since",
+    "Although",
+    "Now that"
+   ],
+   "a": 0,
+   "transKo": "도로 공사 때문에 버스가 우회 운행 중이다.",
+   "exKo": "뒤에 명사구가 오므로 전치사구 Due to가 정답입니다.",
+   "why": [
+    "전치사구 — 뒤의 명사구 the road work를 받음",
+    "접속사 — 뒤에 주어+동사의 절이 와야 함",
+    "접속사 — 절이 필요하고 양보 의미도 부적합",
+    "접속사 — 뒤에 절이 필요해 명사구를 못 받음"
+   ]
+  },
+  {
+   "q": "Employees may not share client data, ___ with family.",
+   "type": "전치사·접속사",
+   "choices": [
+    "not even",
+    "despite",
+    "except that",
+    "without"
+   ],
+   "a": 0,
+   "transKo": "직원들은 고객 정보를 가족에게조차 공유해서는 안 된다.",
+   "exKo": "not even(심지어 ~조차 아닌)이 문맥상 정답입니다.",
+   "why": [
+    "부정 강조 부사 — 가족과조차 안 된다는 의미",
+    "전치사 — 양보 의미라 문맥에 맞지 않음",
+    "접속사 — 뒤에 주어+동사 절이 와야 함",
+    "전치사 — ~없이 라는 뜻이라 의미 불일치"
+   ]
+  },
+  {
+   "q": "The bid was rejected ___ it arrived after the deadline.",
+   "type": "전치사·접속사",
+   "choices": [
+    "because",
+    "because of",
+    "due to",
+    "owing to"
+   ],
+   "a": 0,
+   "transKo": "입찰서가 마감 후에 도착해서 거부되었다.",
+   "exKo": "뒤에 절이 오므로 접속사 because가 정답입니다. 나머지는 전치사(구)입니다.",
+   "why": [
+    "접속사 — 뒤에 절 it arrived가 이어짐",
+    "전치사구 — 뒤에 명사구만 올 수 있음",
+    "전치사구 — 절을 이끌 수 없는 형태",
+    "전치사구 — 절 앞에는 쓸 수 없음"
+   ]
+  },
+  {
+   "q": "___ signing the lease, tenants receive two sets of keys.",
+   "type": "전치사·접속사",
+   "choices": [
+    "Upon",
+    "While",
+    "Whenever",
+    "As long as"
+   ],
+   "a": 0,
+   "transKo": "임대 계약 서명과 동시에 세입자는 열쇠 두 세트를 받는다.",
+   "exKo": "Upon + 동명사(~하자마자)가 정답입니다.",
+   "why": [
+    "전치사 — Upon + 동명사(~하자마자) 구조",
+    "접속사 — 동시 진행 의미라 문맥에 부적합",
+    "접속사 — 뒤에 주어+동사 절이 와야 함",
+    "접속사 — 절이 필요하고 조건 의미도 불일치"
+   ]
+  },
+  {
+   "q": "The park stays open late ___ the summer festival.",
+   "type": "전치사·접속사",
+   "choices": [
+    "throughout",
+    "while",
+    "since",
+    "whereas"
+   ],
+   "a": 0,
+   "transKo": "여름 축제 기간 내내 공원은 늦게까지 개방된다.",
+   "exKo": "뒤에 명사구가 오므로 전치사 throughout(~ 내내)이 정답입니다.",
+   "why": [
+    "전치사 — 명사구 앞에서 ~ 내내를 뜻함",
+    "접속사 — 뒤에 주어+동사 절이 필요함",
+    "접속사 겸 전치사 — 시점 기준이라 기간 의미 불가",
+    "접속사 — 대조 의미이고 절이 필요함"
+   ]
+  },
+  {
+   "q": "Wear your badge ___ times inside the facility.",
+   "type": "전치사·접속사",
+   "choices": [
+    "at all",
+    "in all",
+    "on all",
+    "for all"
+   ],
+   "a": 0,
+   "transKo": "시설 내에서는 항상 사원증을 착용하세요.",
+   "exKo": "at all times(항상)는 빈출 표현입니다.",
+   "why": [
+    "at all times(항상)로 굳어진 빈출 전치사구",
+    "in all은 총계를 뜻해 times와 결합하지 않음",
+    "on all times는 존재하지 않는 전치사 조합",
+    "for all은 ~에도 불구하고 뜻이라 문맥 불일치"
+   ]
+  },
+  {
+   "q": "The upgrade will proceed ___ planned this weekend.",
+   "type": "전치사·접속사",
+   "choices": [
+    "as",
+    "like to",
+    "such as",
+    "so"
+   ],
+   "a": 0,
+   "transKo": "업그레이드는 이번 주말 계획대로 진행될 것이다.",
+   "exKo": "as planned(계획대로)가 빈출 표현입니다.",
+   "why": [
+    "접속사 as — as planned(계획대로) 빈출 표현",
+    "like는 전치사라 뒤에 to를 붙일 수 없음",
+    "such as는 예시 나열용이라 이 자리에 부적합",
+    "접속사 so는 결과를 뜻해 의미가 맞지 않음"
+   ]
+  },
+  {
+   "q": "___ a decision is made, all work on the site must pause.",
+   "type": "전치사·접속사",
+   "choices": [
+    "Until",
+    "By",
+    "Within",
+    "Toward"
+   ],
+   "a": 0,
+   "transKo": "결정이 내려질 때까지 현장의 모든 작업은 중단되어야 한다.",
+   "exKo": "뒤에 절이 오고 '~할 때까지'의 의미인 접속사 Until이 정답입니다.",
+   "why": [
+    "접속사 — 뒤에 절이 오고 ~할 때까지를 뜻함",
+    "전치사 — 뒤에 절이 올 수 없는 형태",
+    "전치사 — 절 불가하고 기간 명사가 필요함",
+    "전치사 — 방향을 뜻하며 절을 이끌 수 없음"
+   ]
+  },
+  {
+   "q": "The candidates differ ___ their approach to marketing.",
+   "type": "전치사·접속사",
+   "choices": [
+    "in",
+    "of",
+    "at",
+    "among to"
+   ],
+   "a": 0,
+   "transKo": "후보들은 마케팅 접근 방식에서 차이가 있다.",
+   "exKo": "differ in(~에서 다르다)이 정답입니다.",
+   "why": [
+    "differ in(~에서 다르다)의 고정 전치사",
+    "differ of는 쓰지 않는 잘못된 전치사 조합",
+    "differ at는 성립하지 않는 전치사 조합",
+    "전치사 두 개가 겹쳐 문법적으로 불가능함"
+   ]
+  },
+  {
+   "q": "Payments are due ___ receipt of the invoice.",
+   "type": "전치사·접속사",
+   "choices": [
+    "upon",
+    "while",
+    "although",
+    "whether"
+   ],
+   "a": 0,
+   "transKo": "대금은 송장 수령 즉시 지불해야 한다.",
+   "exKo": "upon receipt of(~을 받는 즉시)는 빈출 표현입니다.",
+   "why": [
+    "전치사 — upon receipt of(받는 즉시) 빈출 표현",
+    "접속사 — 뒤에 주어+동사 절이 와야 함",
+    "접속사 — 양보 의미이고 절이 필요함",
+    "접속사 — 명사절을 이끄는 말이라 부적합"
+   ]
+  },
+  {
+   "q": "The two models are priced ___ , but features differ.",
+   "type": "어휘",
+   "choices": [
+    "similarly",
+    "likely",
+    "alike to",
+    "same"
+   ],
+   "a": 0,
+   "transKo": "두 모델은 가격은 비슷하지만 기능은 다르다.",
+   "exKo": "비슷하게는 부사 similarly입니다.",
+   "why": [
+    "부사 — 수동태 동사 are priced를 수식함",
+    "likely는 아마도라는 뜻이라 의미가 다름",
+    "alike는 서술 형용사라 to와 결합할 수 없음",
+    "형용사 — the가 필요하고 부사 자리에 못 옴"
+   ]
+  },
+  {
+   "q": "The chef will ___ the recipe to serve fifty guests.",
+   "type": "어휘",
+   "choices": [
+    "scale up",
+    "scale off",
+    "stand up",
+    "step off"
+   ],
+   "a": 0,
+   "transKo": "셰프는 50인분에 맞게 레시피 양을 늘릴 것이다.",
+   "exKo": "규모를 키우다는 scale up입니다.",
+   "why": [
+    "scale up — 규모를 키우다, 분량 확대에 적합",
+    "scale off는 존재하지 않는 구동사 조합",
+    "stand up — 일어서다, 문맥과 무관함",
+    "step off — 내려서다, 레시피와 어울리지 않음"
+   ]
+  },
+  {
+   "q": "The audit ___ a gap between orders and inventory.",
+   "type": "어휘",
+   "choices": [
+    "revealed",
+    "concealed",
+    "reversed",
+    "recalled"
+   ],
+   "a": 0,
+   "transKo": "감사 결과 주문량과 재고 간의 차이가 드러났다.",
+   "exKo": "드러내다는 reveal입니다.",
+   "why": [
+    "reveal — 드러내다, 감사가 차이를 밝힘",
+    "conceal — 숨기다, 정반대 의미라 오답",
+    "reverse — 뒤집다, 격차와 어울리지 않음",
+    "recall — 회수하다·기억하다, 문맥 불일치"
+   ]
+  },
+  {
+   "q": "The city will ___ residents about the zoning change.",
+   "type": "어휘",
+   "choices": [
+    "consult",
+    "counsel to",
+    "confer",
+    "commune"
+   ],
+   "a": 0,
+   "transKo": "시는 용도 지역 변경에 대해 주민들과 협의할 것이다.",
+   "exKo": "consult + 대상(~와 상의하다)이 정답입니다.",
+   "why": [
+    "consult — 상의하다, 목적어를 바로 취함",
+    "counsel — 조언하다, to 없이 목적어를 취함",
+    "confer — 협의하다, with가 반드시 필요함",
+    "commune — 교감하다, with 필요하고 의미도 다름"
+   ]
+  },
+  {
+   "q": "The team must ___ the causes of the delay.",
+   "type": "어휘",
+   "choices": [
+    "determine",
+    "terminate",
+    "exterminate",
+    "germinate"
+   ],
+   "a": 0,
+   "transKo": "팀은 지연의 원인을 규명해야 한다.",
+   "exKo": "알아내다·규명하다는 determine입니다. 유사 철자 함정 문제입니다.",
+   "why": [
+    "determine — 규명하다, 원인 파악에 적합함",
+    "terminate — 종료하다, 철자 유사 함정 보기",
+    "exterminate — 박멸하다, 철자 유사 함정 보기",
+    "germinate — 발아하다, 철자 유사 함정 보기"
+   ]
+  },
+  {
+   "q": "The hotel ___ a shuttle to the convention center.",
+   "type": "어휘",
+   "choices": [
+    "operates",
+    "behaves",
+    "performs",
+    "acts on"
+   ],
+   "a": 0,
+   "transKo": "호텔은 컨벤션 센터행 셔틀을 운행한다.",
+   "exKo": "운행하다는 operate입니다.",
+   "why": [
+    "operate — 운행하다, 셔틀 운영에 쓰는 동사",
+    "behave — 행동하다, 목적어를 취하지 못함",
+    "perform — 수행하다, 교통편 운행 의미가 없음",
+    "act on — ~에 따라 행동하다, 문맥 불일치"
+   ]
+  },
+  {
+   "q": "The memo outlines steps to ___ printing costs.",
+   "type": "어휘",
+   "choices": [
+    "reduce",
+    "shorten",
+    "narrow to",
+    "abbreviate"
+   ],
+   "a": 0,
+   "transKo": "회람에는 인쇄 비용을 줄이기 위한 조치들이 정리되어 있다.",
+   "exKo": "비용을 줄이다는 reduce입니다.",
+   "why": [
+    "reduce — 줄이다, 비용과 어울리는 동사",
+    "shorten — 길이·기간을 줄이다, 비용엔 안 씀",
+    "narrow — 좁히다, to가 붙어 범위 축소를 뜻함",
+    "abbreviate — 축약하다, 단어·표현에만 씀"
+   ]
+  },
+  {
+   "q": "Ms. Vo was ___ to regional director last month.",
+   "type": "어휘",
+   "choices": [
+    "promoted",
+    "provided",
+    "proposed",
+    "protected"
+   ],
+   "a": 0,
+   "transKo": "보 씨는 지난달 지역 이사로 승진했다.",
+   "exKo": "승진하다는 be promoted to입니다.",
+   "why": [
+    "promote — 승진시키다, be promoted to 구조",
+    "provide — 제공하다, 직책 이동 의미가 없음",
+    "propose — 제안하다, 철자 유사 함정 보기",
+    "protect — 보호하다, 문맥과 맞지 않음"
+   ]
+  },
+  {
+   "q": "Suppliers must ___ samples for inspection.",
+   "type": "어휘",
+   "choices": [
+    "furnish",
+    "furniture",
+    "flourish",
+    "finish to"
+   ],
+   "a": 0,
+   "transKo": "공급업체는 검사용 샘플을 제공해야 한다.",
+   "exKo": "공식적으로 제공하다는 furnish입니다.",
+   "why": [
+    "furnish — 제공하다, 공식 제출에 적합한 동사",
+    "furniture — 명사 가구, 동사 자리에 올 수 없음",
+    "flourish — 번창하다, 자동사이며 철자 함정",
+    "finish — 끝내다, to부정사를 취하지 못함"
+   ]
+  },
+  {
+   "q": "The show was ___ due to low ticket sales.",
+   "type": "어휘",
+   "choices": [
+    "canceled",
+    "erased",
+    "deleted",
+    "removed"
+   ],
+   "a": 0,
+   "transKo": "티켓 판매 부진으로 공연이 취소되었다.",
+   "exKo": "행사를 취소하다는 cancel입니다.",
+   "why": [
+    "cancel — 취소하다, 공연·행사에 쓰는 동사",
+    "erase — 지우다, 표면의 글씨에 쓰는 말",
+    "delete — 삭제하다, 데이터·파일에 쓰는 말",
+    "remove — 제거하다, 행사 취소 의미가 아님"
+   ]
+  },
+  {
+   "q": "The app ___ users when their package is nearby.",
+   "type": "어휘",
+   "choices": [
+    "alerts",
+    "alarms to",
+    "warns of",
+    "signals on"
+   ],
+   "a": 0,
+   "transKo": "그 앱은 소포가 근처에 오면 사용자에게 알린다.",
+   "exKo": "alert + 목적어(~에게 알리다) 구조가 정답입니다.",
+   "why": [
+    "alert — 알리다, 목적어 users를 바로 취함",
+    "alarm — 놀라게 하다, to와 결합할 수 없음",
+    "warn of — 경고하다, of 뒤엔 위험 대상이 와야 함",
+    "signal — 신호하다, on과 결합하지 않는 형태"
+   ]
+  },
+  {
+   "q": "The report ___ light on shifting consumer habits.",
+   "type": "어휘",
+   "choices": [
+    "sheds",
+    "throws off",
+    "drops",
+    "spills"
+   ],
+   "a": 0,
+   "transKo": "그 보고서는 변화하는 소비 습관을 조명한다.",
+   "exKo": "shed light on(~을 밝히다)은 빈출 표현입니다.",
+   "why": [
+    "shed light on — ~을 밝히다, 빈출 관용 표현",
+    "throw off — 떨쳐내다, light와 결합하지 않음",
+    "drop — 떨어뜨리다, 관용구 형태가 아님",
+    "spill — 쏟다, 액체에 쓰며 light와 안 어울림"
+   ]
+  },
+  {
+   "q": "We will ___ the missing part at our expense.",
+   "type": "어휘",
+   "choices": [
+    "ship",
+    "sail",
+    "float",
+    "drift"
+   ],
+   "a": 0,
+   "transKo": "누락된 부품은 저희 부담으로 배송해 드리겠습니다.",
+   "exKo": "발송하다는 ship입니다.",
+   "why": [
+    "ship — 발송하다, 부품 배송에 적합한 동사",
+    "sail — 항해하다, 자동사이며 문맥 불일치",
+    "float — 뜨다·띄우다, 배송 의미가 없음",
+    "drift — 표류하다, 문맥과 전혀 맞지 않음"
+   ]
+  },
+  {
+   "q": "Ms. Kang will ___ as interim director until June.",
+   "type": "어휘",
+   "choices": [
+    "serve",
+    "work on",
+    "perform",
+    "function to"
+   ],
+   "a": 0,
+   "transKo": "강 씨는 6월까지 임시 이사로 재직할 것이다.",
+   "exKo": "serve as(~로 재직하다)가 정답입니다.",
+   "why": [
+    "serve as — ~로 재직하다, 직책 표현의 정석",
+    "work on — ~에 매달리다, 직책 표현이 아님",
+    "perform — 수행하다, as와 함께 직책을 뜻하지 않음",
+    "function — 기능하다, as를 써야 하고 to는 불가"
+   ]
+  },
+  {
+   "q": "The library ___ late fees for damaged cards.",
+   "type": "어휘",
+   "choices": [
+    "waives",
+    "waves",
+    "weaves",
+    "wavers"
+   ],
+   "a": 0,
+   "transKo": "도서관은 카드가 손상된 경우 연체료를 면제해 준다.",
+   "exKo": "면제하다는 waive입니다. 철자 함정 문제입니다.",
+   "why": [
+    "waive — 면제하다, 요금·수수료와 어울림",
+    "wave — 흔들다, 철자 유사 함정 보기",
+    "weave — 짜다·엮다, 철자 유사 함정 보기",
+    "waver — 흔들리다·망설이다, 철자 유사 함정"
+   ]
+  },
+  {
+   "q": "The panel will ___ the top three startups.",
+   "type": "어휘",
+   "choices": [
+    "select",
+    "collect",
+    "elect on",
+    "erect"
+   ],
+   "a": 0,
+   "transKo": "심사단은 상위 세 개 스타트업을 선정할 것이다.",
+   "exKo": "선정하다는 select입니다.",
+   "why": [
+    "select — 선정하다, 심사 결과 고르기에 적합",
+    "collect — 수집하다, 선발 의미가 아님",
+    "elect — 선출하다, on과 결합할 수 없음",
+    "erect — 세우다, 철자 유사 함정 보기"
+   ]
+  },
+  {
+   "q": "The company aims to ___ its carbon emissions by 2030.",
+   "type": "어휘",
+   "choices": [
+    "halve",
+    "half",
+    "behalf",
+    "halt on"
+   ],
+   "a": 0,
+   "transKo": "그 회사는 2030년까지 탄소 배출을 절반으로 줄이는 것을 목표로 한다.",
+   "exKo": "절반으로 줄이다는 동사 halve입니다.",
+   "why": [
+    "halve — 동사 절반으로 줄이다, 목적어를 취함",
+    "half — 명사·형용사, 동사 자리 불가한 철자 함정",
+    "behalf — 명사 이익, on behalf of로만 쓰임",
+    "halt — 멈추다, on과 결합하지 않는 형태"
+   ]
+  },
+  {
+   "q": "Managers will ___ the new policy at Friday's briefing.",
+   "type": "어휘",
+   "choices": [
+    "explain",
+    "express to",
+    "expose",
+    "explode"
+   ],
+   "a": 0,
+   "transKo": "관리자들은 금요일 브리핑에서 새 정책을 설명할 것이다.",
+   "exKo": "설명하다는 explain입니다.",
+   "why": [
+    "explain — 설명하다, 정책 안내에 적합한 동사",
+    "express — 표현하다, 목적어가 to보다 앞에 와야 함",
+    "expose — 노출시키다, 철자 유사 함정 보기",
+    "explode — 폭발하다, 철자 유사 함정 보기"
+   ]
+  },
+  {
+   "q": "The design must ___ safety standards in all markets.",
+   "type": "어휘",
+   "choices": [
+    "meet",
+    "greet",
+    "join",
+    "fill on"
+   ],
+   "a": 0,
+   "transKo": "그 디자인은 모든 시장의 안전 기준을 충족해야 한다.",
+   "exKo": "meet standards(기준을 충족하다)는 빈출 연어입니다.",
+   "why": [
+    "meet standards — 기준을 충족하다, 빈출 연어",
+    "greet — 인사하다, 철자 유사 함정 보기",
+    "join — 합류하다, 기준과 어울리지 않음",
+    "fill — 채우다, on과 결합하지 않는 형태"
+   ]
+  },
+  {
+   "q": "The board will ___ the CEO's performance annually.",
+   "type": "어휘",
+   "choices": [
+    "evaluate",
+    "valuate on",
+    "value to",
+    "avail"
+   ],
+   "a": 0,
+   "transKo": "이사회는 매년 CEO의 성과를 평가할 것이다.",
+   "exKo": "평가하다는 evaluate입니다.",
+   "why": [
+    "evaluate — 평가하다, 실적 평가에 적합한 동사",
+    "valuate — 가치를 산정하다, on과 결합 불가",
+    "value — 소중히 여기다, to를 붙일 수 없음",
+    "avail — 도움이 되다, 평가 의미가 전혀 없음"
+   ]
+  },
+  {
+   "q": "The outage ___ from a failed backup generator.",
+   "type": "어휘",
+   "choices": [
+    "resulted",
+    "caused",
+    "effected",
+    "reasoned"
+   ],
+   "a": 0,
+   "transKo": "정전은 예비 발전기 고장에서 비롯되었다.",
+   "exKo": "result from(~에서 비롯되다)이 정답입니다. cause는 능동으로 '~을 일으키다'입니다.",
+   "why": [
+    "result from — '~에서 비롯되다', 전치사 from과 짝을 이룸",
+    "cause — 동사 '야기하다', 목적어를 직접 취하므로 from 불가",
+    "effect — 동사 '실행하다', from과 결합하지 않음",
+    "reason — 동사 '추론하다', 원인 표현으로 쓰지 않음"
+   ]
+  },
+  {
+   "q": "Please ___ these documents through the shredder.",
+   "type": "어휘",
+   "choices": [
+    "run",
+    "walk",
+    "pass by",
+    "move off"
+   ],
+   "a": 0,
+   "transKo": "이 문서들을 파쇄기에 넣어 처리해 주세요.",
+   "exKo": "run A through B(A를 B에 통과시키다)가 자연스럽습니다.",
+   "why": [
+    "run A through B — 'A를 B에 통과시키다'의 빈출 표현",
+    "walk — 걷다, 서류를 목적어로 취할 수 없음",
+    "pass by — 지나치다, through와 의미가 겹치고 부자연",
+    "move off — 자리를 뜨다, 자동사구라 목적어 불가"
+   ]
+  },
+  {
+   "q": "The recall aims to ___ potential safety risks.",
+   "type": "어휘",
+   "choices": [
+    "eliminate",
+    "illuminate",
+    "eliminate to",
+    "luminate"
+   ],
+   "a": 0,
+   "transKo": "리콜은 잠재적 안전 위험을 제거하는 것을 목표로 한다.",
+   "exKo": "제거하다는 eliminate입니다. illuminate(비추다)와의 철자 함정 문제입니다.",
+   "why": [
+    "eliminate — 제거하다, risks를 목적어로 바로 취하는 타동사",
+    "illuminate — 비추다, 철자 유사 함정이며 문맥 불일치",
+    "eliminate는 타동사라 전치사 to가 붙을 수 없음",
+    "luminate — 존재하지 않는 단어, 철자 유사 함정"
+   ]
+  },
+  {
+   "q": "The firm will ___ candidates within two weeks.",
+   "type": "어휘",
+   "choices": [
+    "contact",
+    "connect",
+    "communicate",
+    "touch on"
+   ],
+   "a": 0,
+   "transKo": "회사는 2주 이내에 후보자들에게 연락할 것이다.",
+   "exKo": "contact + 목적어(~에게 연락하다)가 정답입니다.",
+   "why": [
+    "contact — 타동사 '연락하다', 목적어를 바로 취함",
+    "connect — 연결하다, 사람에게 연락은 connect with 필요",
+    "communicate — 소통하다, communicate with 형태여야 함",
+    "touch on — 주제를 언급하다, 사람 목적어에 부적합"
+   ]
+  },
+  {
+   "q": "The training covers how to ___ customer objections.",
+   "type": "어휘",
+   "choices": [
+    "overcome",
+    "become",
+    "income",
+    "outcome"
+   ],
+   "a": 0,
+   "transKo": "이 교육은 고객의 반대 의견을 극복하는 방법을 다룬다.",
+   "exKo": "극복하다는 overcome입니다.",
+   "why": [
+    "overcome — 극복하다, objections와 자연스럽게 어울림",
+    "become — ~이 되다, 반대 의견을 목적어로 못 취함",
+    "income — 명사 '수입', to 뒤 동사원형 자리에 올 수 없음",
+    "outcome — 명사 '결과', 동사가 아닌 철자 유사 함정"
+   ]
+  }
+ ]
+}

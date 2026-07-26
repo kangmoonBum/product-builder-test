@@ -1,17 +1,289 @@
-{"items": [
-{"q":"The night tour offers a ___ view of the city lights.","type":"품사","choices":["spectacle","spectacular","spectacularly","spectate"],"a":1,"transKo":"야간 투어에서는 도시 야경의 장관을 볼 수 있다.","exKo":"명사 view를 수식하는 형용사 spectacular가 정답입니다."},
-{"q":"Type your password ___ to avoid errors.","type":"품사","choices":["correct","correctly","correction","corrected"],"a":1,"transKo":"오류를 피하려면 비밀번호를 정확하게 입력하세요.","exKo":"동사 Type을 수식하는 부사 correctly가 정답입니다."},
-{"q":"The clinic sent a ___ about tomorrow's checkup.","type":"품사","choices":["notify","notification","notified","notifying"],"a":1,"transKo":"병원에서 내일 검진에 대한 알림을 보냈다.","exKo":"관사 a 뒤의 명사 자리이므로 notification이 정답입니다."},
-{"q":"The lobby renovation made the space look more ___ .","type":"품사","choices":["invite","inviting","invitation","invited"],"a":1,"transKo":"로비 보수 공사로 공간이 더 매력적으로 보이게 되었다.","exKo":"look의 보어 자리이며 '매력적인'이라는 뜻의 현재분사형 형용사 inviting이 정답입니다."},
-{"q":"The tickets sold out ___ after the announcement.","type":"품사","choices":["quick","quickly","quickness","quicker"],"a":1,"transKo":"발표 직후 티켓이 순식간에 매진되었다.","exKo":"동사구 sold out을 수식하는 부사 quickly가 정답입니다."},
-{"q":"The kitchen staff ___ the ovens before each shift.","type":"시제·형태","choices":["inspect","inspects","inspecting","is inspected"],"a":0,"transKo":"주방 직원들은 매 근무 전에 오븐을 점검한다.","exKo":"주어 staff가 복수 취급되는 문맥이므로 동사원형 inspect가 정답입니다."},
-{"q":"The package ___ when I got home yesterday.","type":"시제·형태","choices":["arrives","had already arrived","arrives at","will arrive"],"a":1,"transKo":"어제 집에 도착했을 때 소포는 이미 와 있었다.","exKo":"과거 시점보다 더 앞선 일이므로 과거완료 had already arrived가 정답입니다."},
-{"q":"New members ___ a tour of the gym on their first visit.","type":"시제·형태","choices":["give","are given","giving","gave to"],"a":1,"transKo":"신규 회원은 첫 방문 때 체육관 투어를 받는다.","exKo":"회원은 투어를 '받는' 대상이므로 수동태 are given이 정답입니다."},
-{"q":"We ___ the picnic if the weather stays clear.","type":"시제·형태","choices":["hold","held","will hold","holding"],"a":2,"transKo":"날씨가 계속 맑으면 야유회를 열 것이다.","exKo":"조건절의 현재시제와 짝을 이루는 주절의 미래시제 will hold가 정답입니다."},
-{"q":"Enjoy a drink ___ you wait for your table.","type":"전치사·접속사","choices":["while","during","among","despite"],"a":0,"transKo":"자리를 기다리시는 동안 음료를 즐기세요.","exKo":"뒤에 절이 오므로 접속사 while이 정답입니다."},
-{"q":"The store is right ___ the street from the station.","type":"전치사·접속사","choices":["across","along","between","behind of"],"a":0,"transKo":"그 가게는 역에서 길 바로 건너편에 있다.","exKo":"across the street from(~에서 길 건너편에)이 정답입니다."},
-{"q":"Bring a jacket, ___ it gets cold at night.","type":"전치사·접속사","choices":["because","despite","during","without"],"a":0,"transKo":"밤에는 추워지니 재킷을 가져오세요.","exKo":"뒤에 절이 오고 이유의 의미인 접속사 because가 정답입니다."},
-{"q":"Please ___ your booking number when you call.","type":"어휘","choices":["mention","talk","discuss to","comment"],"a":0,"transKo":"전화하실 때 예약 번호를 말씀해 주세요.","exKo":"언급하다는 mention이 자연스럽습니다."},
-{"q":"The barista will ___ your name when the order is ready.","type":"어휘","choices":["call","shout to","speak","shout at"],"a":0,"transKo":"주문이 준비되면 바리스타가 이름을 부를 것입니다.","exKo":"이름을 부르다는 call입니다."},
-{"q":"Guests can ___ towels at the pool entrance.","type":"어휘","choices":["borrow","lend","loan out","rent to"],"a":0,"transKo":"손님들은 수영장 입구에서 수건을 빌릴 수 있다.","exKo":"빌리다는 borrow입니다. lend는 빌려주다입니다."}
-]}
+{
+ "items": [
+  {
+   "q": "The night tour offers a ___ view of the city lights.",
+   "type": "품사",
+   "choices": [
+    "spectacle",
+    "spectacular",
+    "spectacularly",
+    "spectate"
+   ],
+   "a": 1,
+   "transKo": "야간 투어에서는 도시 야경의 장관을 볼 수 있다.",
+   "exKo": "명사 view를 수식하는 형용사 spectacular가 정답입니다.",
+   "why": [
+    "spectacle — 명사로 장관, 명사 view 앞 수식어 자리에 부적합",
+    "관사 a와 명사 view 사이는 형용사 자리이므로 spectacular",
+    "spectacularly — 부사, 명사 view를 수식할 수 없음",
+    "spectate — 동사원형으로 관람하다, 수식어 자리 불가"
+   ]
+  },
+  {
+   "q": "Type your password ___ to avoid errors.",
+   "type": "품사",
+   "choices": [
+    "correct",
+    "correctly",
+    "correction",
+    "corrected"
+   ],
+   "a": 1,
+   "transKo": "오류를 피하려면 비밀번호를 정확하게 입력하세요.",
+   "exKo": "동사 Type을 수식하는 부사 correctly가 정답입니다.",
+   "why": [
+    "correct — 형용사로 올바른, 동사 Type을 수식할 수 없음",
+    "동사 Type을 수식하는 자리이므로 부사 correctly가 정답",
+    "correction — 명사로 수정, 수식어 자리에 올 수 없음",
+    "corrected — 과거분사, 명령문 동사 뒤 수식어로 부적합"
+   ]
+  },
+  {
+   "q": "The clinic sent a ___ about tomorrow's checkup.",
+   "type": "품사",
+   "choices": [
+    "notify",
+    "notification",
+    "notified",
+    "notifying"
+   ],
+   "a": 1,
+   "transKo": "병원에서 내일 검진에 대한 알림을 보냈다.",
+   "exKo": "관사 a 뒤의 명사 자리이므로 notification이 정답입니다.",
+   "why": [
+    "notify — 동사원형, 관사 a 뒤 명사 자리에 올 수 없음",
+    "관사 a 뒤 목적어 명사 자리이므로 notification이 정답",
+    "notified — 과거분사, 뒤에 명사가 없어 단독으로 불가",
+    "notifying — 현재분사, 관사 뒤 단독 명사 역할 불가"
+   ]
+  },
+  {
+   "q": "The lobby renovation made the space look more ___ .",
+   "type": "품사",
+   "choices": [
+    "invite",
+    "inviting",
+    "invitation",
+    "invited"
+   ],
+   "a": 1,
+   "transKo": "로비 보수 공사로 공간이 더 매력적으로 보이게 되었다.",
+   "exKo": "look의 보어 자리이며 '매력적인'이라는 뜻의 현재분사형 형용사 inviting이 정답입니다.",
+   "why": [
+    "invite — 동사원형, more 뒤 보어 형용사 자리에 못 옴",
+    "look의 보어 자리, 매력적인이라는 뜻의 형용사 inviting",
+    "invitation — 명사로 초대장, 보어 의미가 문맥과 불일치",
+    "invited — 과거분사로 초대받은, 공간에는 쓸 수 없음"
+   ]
+  },
+  {
+   "q": "The tickets sold out ___ after the announcement.",
+   "type": "품사",
+   "choices": [
+    "quick",
+    "quickly",
+    "quickness",
+    "quicker"
+   ],
+   "a": 1,
+   "transKo": "발표 직후 티켓이 순식간에 매진되었다.",
+   "exKo": "동사구 sold out을 수식하는 부사 quickly가 정답입니다.",
+   "why": [
+    "quick — 형용사, 동사구 sold out을 수식할 수 없음",
+    "동사구 sold out을 수식하는 자리이므로 부사 quickly",
+    "quickness — 명사로 신속함, 수식어 자리에 올 수 없음",
+    "quicker — 비교급, 비교 대상 than절이 없어 부적합"
+   ]
+  },
+  {
+   "q": "The kitchen staff ___ the ovens before each shift.",
+   "type": "시제·형태",
+   "choices": [
+    "inspect",
+    "inspects",
+    "inspecting",
+    "is inspected"
+   ],
+   "a": 0,
+   "transKo": "주방 직원들은 매 근무 전에 오븐을 점검한다.",
+   "exKo": "주어 staff가 복수 취급되는 문맥이므로 동사원형 inspect가 정답입니다.",
+   "why": [
+    "staff는 복수 취급되는 집합명사라 복수동사 inspect가 정답",
+    "inspects — 3인칭 단수 동사, 복수 주어와 수가 불일치",
+    "inspecting — 현재분사, 단독으로 본동사가 될 수 없음",
+    "is inspected — 수동태, 주어가 점검하는 주체라 능동 필요"
+   ]
+  },
+  {
+   "q": "The package ___ when I got home yesterday.",
+   "type": "시제·형태",
+   "choices": [
+    "arrives",
+    "had already arrived",
+    "arrives at",
+    "will arrive"
+   ],
+   "a": 1,
+   "transKo": "어제 집에 도착했을 때 소포는 이미 와 있었다.",
+   "exKo": "과거 시점보다 더 앞선 일이므로 과거완료 had already arrived가 정답입니다.",
+   "why": [
+    "arrives — 현재형, yesterday라는 과거 시점과 시제 불일치",
+    "과거보다 앞선 일을 나타내는 과거완료 had already arrived",
+    "arrives at — 현재형이고 arrive at 뒤 목적어도 없음",
+    "will arrive — 미래형, 과거 문맥과 시제가 맞지 않음"
+   ]
+  },
+  {
+   "q": "New members ___ a tour of the gym on their first visit.",
+   "type": "시제·형태",
+   "choices": [
+    "give",
+    "are given",
+    "giving",
+    "gave to"
+   ],
+   "a": 1,
+   "transKo": "신규 회원은 첫 방문 때 체육관 투어를 받는다.",
+   "exKo": "회원은 투어를 '받는' 대상이므로 수동태 are given이 정답입니다.",
+   "why": [
+    "give — 능동태, 회원이 투어를 제공하는 주체가 아님",
+    "회원은 투어를 받는 대상이므로 수동태 are given이 정답",
+    "giving — 현재분사, 단독으로 본동사가 될 수 없음",
+    "gave to — 능동 과거형에 전치사까지 붙어 태와 어순 모두 오류"
+   ]
+  },
+  {
+   "q": "We ___ the picnic if the weather stays clear.",
+   "type": "시제·형태",
+   "choices": [
+    "hold",
+    "held",
+    "will hold",
+    "holding"
+   ],
+   "a": 2,
+   "transKo": "날씨가 계속 맑으면 야유회를 열 것이다.",
+   "exKo": "조건절의 현재시제와 짝을 이루는 주절의 미래시제 will hold가 정답입니다.",
+   "why": [
+    "hold — 현재형, 조건이 충족되면 일어날 미래 의미가 없음",
+    "held — 과거형, 미래를 가정하는 조건문과 시제 불일치",
+    "조건절의 현재시제와 짝을 이루는 주절 미래시제 will hold",
+    "holding — 현재분사, 단독으로 본동사가 될 수 없음"
+   ]
+  },
+  {
+   "q": "Enjoy a drink ___ you wait for your table.",
+   "type": "전치사·접속사",
+   "choices": [
+    "while",
+    "during",
+    "among",
+    "despite"
+   ],
+   "a": 0,
+   "transKo": "자리를 기다리시는 동안 음료를 즐기세요.",
+   "exKo": "뒤에 절이 오므로 접속사 while이 정답입니다.",
+   "why": [
+    "뒤에 you wait이라는 절이 오므로 접속사 while이 정답",
+    "during — 전치사, 뒤에 명사만 오고 절은 이끌 수 없음",
+    "among — 전치사로 ~사이에, 절을 이끌 수 없음",
+    "despite — 전치사로 ~에도 불구하고, 절을 이끌 수 없음"
+   ]
+  },
+  {
+   "q": "The store is right ___ the street from the station.",
+   "type": "전치사·접속사",
+   "choices": [
+    "across",
+    "along",
+    "between",
+    "behind of"
+   ],
+   "a": 0,
+   "transKo": "그 가게는 역에서 길 바로 건너편에 있다.",
+   "exKo": "across the street from(~에서 길 건너편에)이 정답입니다.",
+   "why": [
+    "across the street from은 ~에서 길 건너편에라는 빈출 표현",
+    "along — ~을 따라, 길을 건넌다는 위치 의미가 없음",
+    "between — ~사이에, 두 개의 대상이 제시되어야 함",
+    "behind of — behind는 of와 결합하지 않는 형태 오류"
+   ]
+  },
+  {
+   "q": "Bring a jacket, ___ it gets cold at night.",
+   "type": "전치사·접속사",
+   "choices": [
+    "because",
+    "despite",
+    "during",
+    "without"
+   ],
+   "a": 0,
+   "transKo": "밤에는 추워지니 재킷을 가져오세요.",
+   "exKo": "뒤에 절이 오고 이유의 의미인 접속사 because가 정답입니다.",
+   "why": [
+    "뒤에 it gets cold라는 절이 오고 이유를 뜻하는 접속사 because",
+    "despite — 전치사, 뒤에 절이 올 수 없고 뜻도 양보",
+    "during — 전치사, 명사만 취하므로 절을 이끌 수 없음",
+    "without — 전치사로 ~없이, 절을 이끌 수 없음"
+   ]
+  },
+  {
+   "q": "Please ___ your booking number when you call.",
+   "type": "어휘",
+   "choices": [
+    "mention",
+    "talk",
+    "discuss to",
+    "comment"
+   ],
+   "a": 0,
+   "transKo": "전화하실 때 예약 번호를 말씀해 주세요.",
+   "exKo": "언급하다는 mention이 자연스럽습니다.",
+   "why": [
+    "mention — 언급하다, 전치사 없이 목적어를 바로 취하는 타동사",
+    "talk — 말하다, 자동사라 about 같은 전치사가 필요함",
+    "discuss to — discuss는 타동사라 to가 붙는 것은 형태 오류",
+    "comment — 논평하다, 자동사라 on이 있어야 목적어를 취함"
+   ]
+  },
+  {
+   "q": "The barista will ___ your name when the order is ready.",
+   "type": "어휘",
+   "choices": [
+    "call",
+    "shout to",
+    "speak",
+    "shout at"
+   ],
+   "a": 0,
+   "transKo": "주문이 준비되면 바리스타가 이름을 부를 것입니다.",
+   "exKo": "이름을 부르다는 call입니다.",
+   "why": [
+    "call — 이름을 부르다, 타동사로 목적어를 바로 취함",
+    "shout to — 멀리서 소리쳐 부르다, 이름을 목적어로 못 취함",
+    "speak — 말하다, 자동사라 name을 목적어로 취할 수 없음",
+    "shout at — 화내며 소리치다, 주문 호출 문맥에 부적절"
+   ]
+  },
+  {
+   "q": "Guests can ___ towels at the pool entrance.",
+   "type": "어휘",
+   "choices": [
+    "borrow",
+    "lend",
+    "loan out",
+    "rent to"
+   ],
+   "a": 0,
+   "transKo": "손님들은 수영장 입구에서 수건을 빌릴 수 있다.",
+   "exKo": "빌리다는 borrow입니다. lend는 빌려주다입니다.",
+   "why": [
+    "borrow — 빌려서 쓰다, 손님이 받는 쪽이므로 문맥에 맞음",
+    "lend — 빌려주다, 주는 쪽이라 방향이 반대",
+    "loan out — 대여해 주다, 역시 빌려주는 방향이라 부적절",
+    "rent to — ~에게 임대해 주다, 방향이 반대이고 유료 개념"
+   ]
+  }
+ ]
+}
