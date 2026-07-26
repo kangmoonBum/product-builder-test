@@ -1,104 +1,644 @@
 {
-"passages": [
-{
-"kind": "이메일",
-"title": "호텔 예약 확정 메일",
-"passage": "From: Harbor View Hotel\nTo: Susan Choi\nSubject: Your Reservation\n\nDear Ms. Choi,\n\nYour room is confirmed for two nights, April 10 to April 12. Check-in starts at 3 p.m., and checkout is by 11 a.m.\n\nBreakfast is served in the first-floor restaurant from 7 to 10 a.m. and is included in your rate. If you need an airport shuttle, please book it one day in advance.\n\nWe look forward to your stay.\n\nHarbor View Hotel",
-"questions": [
-{"q": "What is the purpose of the email?", "type": "주제·목적", "choices": ["To confirm a hotel reservation", "To cancel a booking", "To advertise a restaurant", "To request a payment"], "a": 0, "exKo": "4월 10일부터 2박 예약이 확정되었음을 알리는 메일입니다."},
-{"q": "What is included in the room rate?", "type": "세부사항", "choices": ["Breakfast", "Airport shuttle", "Late checkout", "Dinner"], "a": 0, "exKo": "Breakfast ... is included in your rate라고 명시되어 있습니다."},
-{"q": "What should Ms. Choi do to use the shuttle?", "type": "세부사항", "choices": ["Book it one day in advance", "Pay at check-in", "Call the airport", "Ask at breakfast"], "a": 0, "exKo": "셔틀은 하루 전에 예약해야 한다고 안내합니다."}
-]
-},
-{
-"kind": "이메일",
-"title": "웹사이트 오류 신고 접수 메일",
-"passage": "From: Customer Support\nTo: Ben Adams\nSubject: We Received Your Report\n\nDear Mr. Adams,\n\nThank you for reporting the error on our order page. Our technical team is working on it now, and we expect the page to work normally by tomorrow morning.\n\nAs an apology, we have added a $10 coupon to your account. It can be used on any order this month.\n\nSorry for the trouble, and thank you for your patience.\n\nCustomer Support Team",
-"questions": [
-{"q": "Why was the email sent?", "type": "주제·목적", "choices": ["To respond to an error report", "To announce a new page", "To ask for payment", "To close an account"], "a": 0, "exKo": "고객이 신고한 주문 페이지 오류에 대한 접수 및 답변 메일입니다."},
-{"q": "When is the page expected to work normally?", "type": "세부사항", "choices": ["By tomorrow morning", "By tonight", "Next month", "In one hour"], "a": 0, "exKo": "by tomorrow morning이라고 예상 시점을 밝힙니다."},
-{"q": "What did the company give Mr. Adams?", "type": "세부사항", "choices": ["A $10 coupon", "A free order", "A phone call", "A new account"], "a": 0, "exKo": "사과의 뜻으로 10달러 쿠폰을 계정에 넣어 주었다고 안내합니다."}
-]
-},
-{
-"kind": "공지",
-"title": "셔틀버스 노선 추가 공지",
-"passage": "NOTICE — NEW SHUTTLE STOP\n\nFrom Monday, the company shuttle will add a stop at Riverside Station. The morning shuttle leaves the station at 8:10 and arrives at the office at 8:35.\n\nThe evening shuttle leaves the office at 6:15. Seats are first come, first served. Show your employee badge when boarding.\n\nGeneral Affairs Team",
-"questions": [
-{"q": "What is the notice about?", "type": "주제·목적", "choices": ["A new shuttle stop", "A change in work hours", "A closed train station", "A parking rule"], "a": 0, "exKo": "월요일부터 셔틀버스에 Riverside역 정류장이 추가된다는 공지입니다."},
-{"q": "What time does the morning shuttle reach the office?", "type": "세부사항", "choices": ["8:35", "8:10", "6:15", "9:00"], "a": 0, "exKo": "arrives at the office at 8:35라고 명시되어 있습니다."},
-{"q": "What must riders show when boarding?", "type": "세부사항", "choices": ["An employee badge", "A ticket", "A phone app", "A seat number"], "a": 0, "exKo": "Show your employee badge when boarding에서 확인됩니다."}
-]
-},
-{
-"kind": "공지",
-"title": "건물 소방 훈련 공지",
-"passage": "FIRE DRILL NOTICE\n\nA fire drill will be held this Thursday at 2 p.m. When the alarm sounds, please stop working, leave your belongings, and walk to the parking lot across the street using the stairs.\n\nDo not use the elevators. Team leaders will check that everyone has left the building. The drill takes about 15 minutes.\n\nSafety Office",
-"questions": [
-{"q": "What will happen on Thursday?", "type": "주제·목적", "choices": ["A fire drill", "A building repair", "An elevator inspection", "A safety class"], "a": 0, "exKo": "목요일 오후 2시에 소방 대피 훈련이 실시된다는 공지입니다."},
-{"q": "Where should employees go during the drill?", "type": "세부사항", "choices": ["The parking lot across the street", "The first-floor lobby", "The roof", "The stairway"], "a": 0, "exKo": "walk to the parking lot across the street라고 안내합니다."},
-{"q": "What should employees NOT do?", "type": "세부사항", "choices": ["Use the elevators", "Use the stairs", "Leave their belongings", "Stop working"], "a": 0, "exKo": "Do not use the elevators라고 명확히 금지하고 있습니다."}
-]
-},
-{
-"kind": "광고",
-"title": "드라이클리닝 배달 서비스 광고",
-"passage": "CLEAN & GO — WE PICK UP YOUR CLOTHES!\n\nToo busy to visit the dry cleaner? Clean & Go picks up your clothes from your home or office and returns them within 48 hours.\n\nFirst-time customers get 30% off. Order through our app and track your clothes at every step. We serve all downtown areas, Monday through Saturday.\n\nClean clothes without the trip!",
-"questions": [
-{"q": "What service is advertised?", "type": "주제·목적", "choices": ["Dry cleaning with pickup and delivery", "A clothing store", "A laundry machine rental", "A downtown taxi service"], "a": 0, "exKo": "옷을 수거해 세탁 후 배달해 주는 드라이클리닝 서비스 광고입니다."},
-{"q": "How long does the service take?", "type": "세부사항", "choices": ["Within 48 hours", "Within 24 hours", "One week", "Same day"], "a": 0, "exKo": "returns them within 48 hours라고 명시합니다."},
-{"q": "What do first-time customers receive?", "type": "세부사항", "choices": ["30% off", "Free pickup", "A free app", "A free suit cleaning"], "a": 0, "exKo": "First-time customers get 30% off에서 확인됩니다."}
-]
-},
-{
-"kind": "광고",
-"title": "중고 사무가구 판매 광고",
-"passage": "OFFICE FURNITURE SALE — EVERYTHING MUST GO!\n\nGreenline Consulting is moving to a smaller office. We are selling desks, chairs, bookshelves, and filing cabinets at low prices.\n\nAll items are less than three years old and in good condition. Visit us at 45 Bay Street this Friday and Saturday, 10 a.m. to 4 p.m. Cash only. Buyers must carry items out themselves.",
-"questions": [
-{"q": "Why is the furniture being sold?", "type": "주제·목적", "choices": ["The company is moving to a smaller office", "The company is closing", "The furniture is broken", "New furniture arrived"], "a": 0, "exKo": "더 작은 사무실로 이사하게 되어 가구를 판매하는 것입니다."},
-{"q": "What is stated about the items?", "type": "세부사항", "choices": ["They are less than three years old", "They are brand new", "They can be delivered", "They are free"], "a": 0, "exKo": "less than three years old and in good condition이라고 설명합니다."},
-{"q": "How can buyers pay?", "type": "세부사항", "choices": ["Cash only", "Card only", "Bank transfer", "Any method"], "a": 0, "exKo": "Cash only라고 명시되어 있습니다."}
-]
-},
-{
-"kind": "기사",
-"title": "커피 트럭 인기 기사",
-"passage": "BAYSIDE — A small coffee truck called Bean Wheels has become a morning favorite in the business district. Owner Carla Diaz parks near the harbor office towers every weekday from 7 to 11 a.m.\n\nDiaz roasts her beans at home and offers just five drinks on her menu. \"Simple keeps the line moving,\" she says. Many customers order ahead by text message to skip the wait.",
-"questions": [
-{"q": "What is the article about?", "type": "주제·목적", "choices": ["A popular coffee truck", "A new office tower", "A harbor festival", "A coffee bean farm"], "a": 0, "exKo": "업무 지구에서 인기를 끄는 커피 트럭에 관한 기사입니다."},
-{"q": "Why does Ms. Diaz keep her menu small?", "type": "세부사항", "choices": ["To keep the line moving", "To save money on beans", "Because her truck is small", "Because customers asked for it"], "a": 0, "exKo": "Simple keeps the line moving이라는 말에서 이유를 알 수 있습니다."},
-{"q": "How do many customers avoid waiting?", "type": "세부사항", "choices": ["They order ahead by text message", "They come after 11 a.m.", "They pay by card", "They bring their own cups"], "a": 0, "exKo": "order ahead by text message to skip the wait에서 확인됩니다."}
-]
-},
-{
-"kind": "기사",
-"title": "은행 지점 토요일 영업 기사",
-"passage": "ELMWOOD — Northgate Bank will open its Elmwood branch on Saturday mornings starting next week. The branch will operate from 9 a.m. to noon.\n\nBranch manager Paul Ito said many customers cannot visit during the week. Two tellers and one loan officer will be on duty. Saturday visitors can also learn about the bank's new mobile application at a help desk near the entrance.",
-"questions": [
-{"q": "What is the main topic of the article?", "type": "주제·목적", "choices": ["A bank branch opening on Saturdays", "A new bank mobile app", "A bank hiring more tellers", "A branch moving to Elmwood"], "a": 0, "exKo": "은행 지점이 토요일 오전 영업을 시작한다는 소식입니다."},
-{"q": "What are the Saturday hours?", "type": "세부사항", "choices": ["9 a.m. to noon", "9 a.m. to 5 p.m.", "10 a.m. to 2 p.m.", "8 a.m. to noon"], "a": 0, "exKo": "operate from 9 a.m. to noon이라고 명시합니다."},
-{"q": "What can visitors do at the help desk?", "type": "세부사항", "choices": ["Learn about the mobile application", "Open a loan", "Exchange money", "Meet the manager"], "a": 0, "exKo": "learn about the bank's new mobile application at a help desk에서 확인됩니다."}
-]
-},
-{
-"kind": "문자메시지",
-"title": "점심 주문 취합 문자",
-"passage": "Dana Lee (11:20 A.M.)\nHi all, I'm ordering sandwiches from Corner Deli for the team meeting. What would you like?\n\nSam Ortiz (11:22 A.M.)\nTurkey on wheat for me, please.\n\nPriya Nair (11:23 A.M.)\nVeggie sandwich, no onions. Thanks, Dana!\n\nDana Lee (11:25 A.M.)\nGot it. Two more people haven't replied — I'll give them until 11:40, then order.\n\nSam Ortiz (11:26 A.M.)\nSounds good. I'll set up the meeting room.",
-"questions": [
-{"q": "What is Ms. Lee doing?", "type": "주제·목적", "choices": ["Collecting lunch orders", "Booking a restaurant", "Canceling a meeting", "Sharing a recipe"], "a": 0, "exKo": "팀 회의를 위해 샌드위치 주문을 취합하고 있습니다."},
-{"q": "What does Ms. Nair ask for?", "type": "세부사항", "choices": ["A veggie sandwich without onions", "A turkey sandwich", "A salad", "Extra onions"], "a": 0, "exKo": "Veggie sandwich, no onions라고 요청합니다."},
-{"q": "What will Mr. Ortiz do?", "type": "세부사항", "choices": ["Set up the meeting room", "Pick up the food", "Pay for the order", "Call the deli"], "a": 0, "exKo": "I'll set up the meeting room이라고 말합니다."}
-]
-},
-{
-"kind": "문자메시지",
-"title": "택배 부재중 안내 문자",
-"passage": "Speed Courier (1:12 P.M.)\nWe tried to deliver your package at 1:10 P.M., but no one answered at your address.\n\nSpeed Courier (1:12 P.M.)\nReply 1 to redeliver tomorrow, or reply 2 to pick it up at our center on King Road.\n\nHelen Park (1:30 P.M.)\n1, please. I'll be home after 2 P.M. tomorrow.\n\nSpeed Courier (1:31 P.M.)\nThank you. Your package will be redelivered tomorrow between 2 and 6 P.M.",
-"questions": [
-{"q": "Why did the courier send the first message?", "type": "주제·목적", "choices": ["A delivery attempt failed", "A package was lost", "A payment is due", "An address was wrong"], "a": 0, "exKo": "1시 10분에 배달을 시도했으나 부재중이었음을 알리는 메시지입니다."},
-{"q": "What does replying 2 mean?", "type": "세부사항", "choices": ["Picking up the package at the center", "Redelivery tomorrow", "Canceling the order", "Talking to an agent"], "a": 0, "exKo": "reply 2 to pick it up at our center에서 확인됩니다."},
-{"q": "When will the package be redelivered?", "type": "세부사항", "choices": ["Tomorrow between 2 and 6 P.M.", "Today at 6 P.M.", "Tomorrow morning", "In two days"], "a": 0, "exKo": "redelivered tomorrow between 2 and 6 P.M.이라고 안내합니다."}
-]
-}
-]
+ "passages": [
+  {
+   "kind": "이메일",
+   "title": "호텔 예약 확정 메일",
+   "passage": "From: Harbor View Hotel\nTo: Susan Choi\nSubject: Your Reservation\n\nDear Ms. Choi,\n\nYour room is confirmed for two nights, April 10 to April 12. Check-in starts at 3 p.m., and checkout is by 11 a.m.\n\nBreakfast is served in the first-floor restaurant from 7 to 10 a.m. and is included in your rate. If you need an airport shuttle, please book it one day in advance.\n\nWe look forward to your stay.\n\nHarbor View Hotel",
+   "questions": [
+    {
+     "q": "What is the purpose of the email?",
+     "type": "주제·목적",
+     "choices": [
+      "To confirm a hotel reservation",
+      "To cancel a booking",
+      "To advertise a restaurant",
+      "To request a payment"
+     ],
+     "a": 0,
+     "exKo": "4월 10일부터 2박 예약이 확정되었음을 알리는 메일입니다.",
+     "why": [
+      "'Your room is confirmed'가 예약 확정 통보임을 보여줌",
+      "취소가 아니라 확정 안내이므로 지문과 반대",
+      "restaurant는 조식 장소일 뿐 광고 아님(단어 반복 함정)",
+      "결제나 요금 청구 요청은 지문에 언급 없음"
+     ],
+     "ev": "Your room is confirmed for two nights, April 10 to April 12."
+    },
+    {
+     "q": "What is included in the room rate?",
+     "type": "세부사항",
+     "choices": [
+      "Breakfast",
+      "Airport shuttle",
+      "Late checkout",
+      "Dinner"
+     ],
+     "a": 0,
+     "exKo": "Breakfast ... is included in your rate라고 명시되어 있습니다.",
+     "why": [
+      "조식이 객실 요금에 포함된다고 직접 명시함",
+      "셔틀은 따로 예약해야 하는 항목이지 포함 아님",
+      "체크아웃은 11시까지이며 연장 언급 없음",
+      "제공되는 식사는 조식뿐, 저녁 언급 없음"
+     ],
+     "ev": "Breakfast is served in the first-floor restaurant from 7 to 10 a.m. and is included in your rate."
+    },
+    {
+     "q": "What should Ms. Choi do to use the shuttle?",
+     "type": "세부사항",
+     "choices": [
+      "Book it one day in advance",
+      "Pay at check-in",
+      "Call the airport",
+      "Ask at breakfast"
+     ],
+     "a": 0,
+     "exKo": "셔틀은 하루 전에 예약해야 한다고 안내합니다.",
+     "why": [
+      "'book it one day in advance'가 하루 전 예약을 뜻함",
+      "체크인 때 결제하라는 안내는 지문에 없음",
+      "공항에 전화하라는 내용은 언급 없음",
+      "조식 시간에 문의하라는 안내 없음"
+     ],
+     "ev": "If you need an airport shuttle, please book it one day in advance."
+    }
+   ]
+  },
+  {
+   "kind": "이메일",
+   "title": "웹사이트 오류 신고 접수 메일",
+   "passage": "From: Customer Support\nTo: Ben Adams\nSubject: We Received Your Report\n\nDear Mr. Adams,\n\nThank you for reporting the error on our order page. Our technical team is working on it now, and we expect the page to work normally by tomorrow morning.\n\nAs an apology, we have added a $10 coupon to your account. It can be used on any order this month.\n\nSorry for the trouble, and thank you for your patience.\n\nCustomer Support Team",
+   "questions": [
+    {
+     "q": "Why was the email sent?",
+     "type": "주제·목적",
+     "choices": [
+      "To respond to an error report",
+      "To announce a new page",
+      "To ask for payment",
+      "To close an account"
+     ],
+     "a": 0,
+     "exKo": "고객이 신고한 주문 페이지 오류에 대한 접수 및 답변 메일입니다.",
+     "why": [
+      "신고한 오류에 대한 접수와 답변이 메일의 목적",
+      "새 페이지 개설이 아니라 기존 페이지 오류 수정",
+      "결제 요청 내용은 지문에 언급 없음",
+      "계정에 쿠폰을 넣었을 뿐 해지 언급 없음"
+     ],
+     "ev": "Thank you for reporting the error on our order page."
+    },
+    {
+     "q": "When is the page expected to work normally?",
+     "type": "세부사항",
+     "choices": [
+      "By tomorrow morning",
+      "By tonight",
+      "Next month",
+      "In one hour"
+     ],
+     "a": 0,
+     "exKo": "by tomorrow morning이라고 예상 시점을 밝힙니다.",
+     "why": [
+      "'by tomorrow morning'이 정상화 예상 시점을 밝힘",
+      "오늘 밤이라는 시점은 지문에 없음",
+      "다음 달은 쿠폰 기한과 혼동한 함정",
+      "한 시간 내 복구라는 언급 없음"
+     ],
+     "ev": "we expect the page to work normally by tomorrow morning"
+    },
+    {
+     "q": "What did the company give Mr. Adams?",
+     "type": "세부사항",
+     "choices": [
+      "A $10 coupon",
+      "A free order",
+      "A phone call",
+      "A new account"
+     ],
+     "a": 0,
+     "exKo": "사과의 뜻으로 10달러 쿠폰을 계정에 넣어 주었다고 안내합니다.",
+     "why": [
+      "사과의 표시로 10달러 쿠폰을 지급했다고 명시",
+      "무료 주문이 아니라 할인 쿠폰이므로 일부만 맞음",
+      "전화 연락을 했다는 내용은 언급 없음",
+      "기존 계정에 적립했을 뿐 새 계정 아님"
+     ],
+     "ev": "we have added a $10 coupon to your account"
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "셔틀버스 노선 추가 공지",
+   "passage": "NOTICE — NEW SHUTTLE STOP\n\nFrom Monday, the company shuttle will add a stop at Riverside Station. The morning shuttle leaves the station at 8:10 and arrives at the office at 8:35.\n\nThe evening shuttle leaves the office at 6:15. Seats are first come, first served. Show your employee badge when boarding.\n\nGeneral Affairs Team",
+   "questions": [
+    {
+     "q": "What is the notice about?",
+     "type": "주제·목적",
+     "choices": [
+      "A new shuttle stop",
+      "A change in work hours",
+      "A closed train station",
+      "A parking rule"
+     ],
+     "a": 0,
+     "exKo": "월요일부터 셔틀버스에 Riverside역 정류장이 추가된다는 공지입니다.",
+     "why": [
+      "정류장 추가가 공지의 핵심 내용임을 보여줌",
+      "근무 시간 변경은 지문에 언급 없음",
+      "역이 폐쇄가 아니라 새로 정차하므로 반대",
+      "주차 규정에 대한 내용은 없음"
+     ],
+     "ev": "From Monday, the company shuttle will add a stop at Riverside Station."
+    },
+    {
+     "q": "What time does the morning shuttle reach the office?",
+     "type": "세부사항",
+     "choices": [
+      "8:35",
+      "8:10",
+      "6:15",
+      "9:00"
+     ],
+     "a": 0,
+     "exKo": "arrives at the office at 8:35라고 명시되어 있습니다.",
+     "why": [
+      "'arrives at the office at 8:35'가 도착 시각",
+      "8:10은 역에서 출발하는 시각이라 혼동 함정",
+      "6:15는 저녁 셔틀 출발 시각",
+      "9:00은 지문에 나오지 않는 시각"
+     ],
+     "ev": "The morning shuttle leaves the station at 8:10 and arrives at the office at 8:35."
+    },
+    {
+     "q": "What must riders show when boarding?",
+     "type": "세부사항",
+     "choices": [
+      "An employee badge",
+      "A ticket",
+      "A phone app",
+      "A seat number"
+     ],
+     "a": 0,
+     "exKo": "Show your employee badge when boarding에서 확인됩니다.",
+     "why": [
+      "탑승 시 사원증을 제시하라고 직접 지시함",
+      "표를 구입하거나 제시하라는 언급 없음",
+      "휴대폰 앱 이용에 대한 언급 없음",
+      "좌석은 선착순이라 좌석 번호가 없음"
+     ],
+     "ev": "Show your employee badge when boarding."
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "건물 소방 훈련 공지",
+   "passage": "FIRE DRILL NOTICE\n\nA fire drill will be held this Thursday at 2 p.m. When the alarm sounds, please stop working, leave your belongings, and walk to the parking lot across the street using the stairs.\n\nDo not use the elevators. Team leaders will check that everyone has left the building. The drill takes about 15 minutes.\n\nSafety Office",
+   "questions": [
+    {
+     "q": "What will happen on Thursday?",
+     "type": "주제·목적",
+     "choices": [
+      "A fire drill",
+      "A building repair",
+      "An elevator inspection",
+      "A safety class"
+     ],
+     "a": 0,
+     "exKo": "목요일 오후 2시에 소방 대피 훈련이 실시된다는 공지입니다.",
+     "why": [
+      "목요일 오후 2시 소방 훈련 실시가 공지 내용",
+      "건물 수리에 대한 언급은 지문에 없음",
+      "엘리베이터는 사용 금지일 뿐 점검 아님",
+      "강의가 아니라 실제 대피 훈련임"
+     ],
+     "ev": "A fire drill will be held this Thursday at 2 p.m."
+    },
+    {
+     "q": "Where should employees go during the drill?",
+     "type": "세부사항",
+     "choices": [
+      "The parking lot across the street",
+      "The first-floor lobby",
+      "The roof",
+      "The stairway"
+     ],
+     "a": 0,
+     "exKo": "walk to the parking lot across the street라고 안내합니다.",
+     "why": [
+      "길 건너 주차장으로 이동하라고 명시함",
+      "1층 로비 집결은 지문에 언급 없음",
+      "옥상으로 가라는 지시는 없음",
+      "계단은 이동 수단일 뿐 목적지 아님"
+     ],
+     "ev": "walk to the parking lot across the street using the stairs"
+    },
+    {
+     "q": "What should employees NOT do?",
+     "type": "세부사항",
+     "choices": [
+      "Use the elevators",
+      "Use the stairs",
+      "Leave their belongings",
+      "Stop working"
+     ],
+     "a": 0,
+     "exKo": "Do not use the elevators라고 명확히 금지하고 있습니다.",
+     "why": [
+      "엘리베이터 사용을 명확히 금지하고 있음",
+      "계단은 이용하라고 했으므로 지문과 반대",
+      "소지품은 두고 가라고 했으므로 지문과 반대",
+      "일을 멈추라고 지시했으므로 지문과 반대"
+     ],
+     "ev": "Do not use the elevators."
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "드라이클리닝 배달 서비스 광고",
+   "passage": "CLEAN & GO — WE PICK UP YOUR CLOTHES!\n\nToo busy to visit the dry cleaner? Clean & Go picks up your clothes from your home or office and returns them within 48 hours.\n\nFirst-time customers get 30% off. Order through our app and track your clothes at every step. We serve all downtown areas, Monday through Saturday.\n\nClean clothes without the trip!",
+   "questions": [
+    {
+     "q": "What service is advertised?",
+     "type": "주제·목적",
+     "choices": [
+      "Dry cleaning with pickup and delivery",
+      "A clothing store",
+      "A laundry machine rental",
+      "A downtown taxi service"
+     ],
+     "a": 0,
+     "exKo": "옷을 수거해 세탁 후 배달해 주는 드라이클리닝 서비스 광고입니다.",
+     "why": [
+      "수거와 배달이 포함된 세탁 서비스임을 보여줌",
+      "옷을 판매하는 매장이 아니라 세탁 서비스",
+      "세탁기 대여에 대한 언급은 없음",
+      "downtown은 서비스 지역일 뿐 택시 아님"
+     ],
+     "ev": "Clean & Go picks up your clothes from your home or office and returns them within 48 hours."
+    },
+    {
+     "q": "How long does the service take?",
+     "type": "세부사항",
+     "choices": [
+      "Within 48 hours",
+      "Within 24 hours",
+      "One week",
+      "Same day"
+     ],
+     "a": 0,
+     "exKo": "returns them within 48 hours라고 명시합니다.",
+     "why": [
+      "'within 48 hours'가 소요 기간을 그대로 밝힘",
+      "24시간이라는 수치는 지문에 없음",
+      "일주일이 걸린다는 언급 없음",
+      "당일 반환이 아니라 48시간 이내"
+     ],
+     "ev": "returns them within 48 hours"
+    },
+    {
+     "q": "What do first-time customers receive?",
+     "type": "세부사항",
+     "choices": [
+      "30% off",
+      "Free pickup",
+      "A free app",
+      "A free suit cleaning"
+     ],
+     "a": 0,
+     "exKo": "First-time customers get 30% off에서 확인됩니다.",
+     "why": [
+      "첫 이용 고객에게 30% 할인을 준다고 명시",
+      "수거는 기본 서비스일 뿐 무료 혜택 언급 없음",
+      "앱은 주문 수단일 뿐 혜택이 아님",
+      "정장 무료 세탁은 지문에 언급 없음"
+     ],
+     "ev": "First-time customers get 30% off."
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "중고 사무가구 판매 광고",
+   "passage": "OFFICE FURNITURE SALE — EVERYTHING MUST GO!\n\nGreenline Consulting is moving to a smaller office. We are selling desks, chairs, bookshelves, and filing cabinets at low prices.\n\nAll items are less than three years old and in good condition. Visit us at 45 Bay Street this Friday and Saturday, 10 a.m. to 4 p.m. Cash only. Buyers must carry items out themselves.",
+   "questions": [
+    {
+     "q": "Why is the furniture being sold?",
+     "type": "주제·목적",
+     "choices": [
+      "The company is moving to a smaller office",
+      "The company is closing",
+      "The furniture is broken",
+      "New furniture arrived"
+     ],
+     "a": 0,
+     "exKo": "더 작은 사무실로 이사하게 되어 가구를 판매하는 것입니다.",
+     "why": [
+      "더 작은 사무실로 이전하는 것이 판매의 이유",
+      "폐업이 아니라 사무실 이전이므로 다른 내용",
+      "in good condition이라 했으므로 지문과 반대",
+      "새 가구가 들어온다는 언급은 없음"
+     ],
+     "ev": "Greenline Consulting is moving to a smaller office."
+    },
+    {
+     "q": "What is stated about the items?",
+     "type": "세부사항",
+     "choices": [
+      "They are less than three years old",
+      "They are brand new",
+      "They can be delivered",
+      "They are free"
+     ],
+     "a": 0,
+     "exKo": "less than three years old and in good condition이라고 설명합니다.",
+     "why": [
+      "3년 미만 사용 물품이라고 직접 서술함",
+      "새 제품이 아니라 사용 3년 미만 중고",
+      "구매자가 직접 운반해야 하므로 지문과 반대",
+      "저렴한 가격에 판매하는 것이지 무료 아님"
+     ],
+     "ev": "All items are less than three years old and in good condition."
+    },
+    {
+     "q": "How can buyers pay?",
+     "type": "세부사항",
+     "choices": [
+      "Cash only",
+      "Card only",
+      "Bank transfer",
+      "Any method"
+     ],
+     "a": 0,
+     "exKo": "Cash only라고 명시되어 있습니다.",
+     "why": [
+      "결제는 현금만 가능하다고 명시함",
+      "카드 결제는 불가하므로 지문과 반대",
+      "계좌 이체에 대한 언급은 없음",
+      "모든 수단 가능은 현금 한정과 반대"
+     ],
+     "ev": "Cash only."
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "커피 트럭 인기 기사",
+   "passage": "BAYSIDE — A small coffee truck called Bean Wheels has become a morning favorite in the business district. Owner Carla Diaz parks near the harbor office towers every weekday from 7 to 11 a.m.\n\nDiaz roasts her beans at home and offers just five drinks on her menu. \"Simple keeps the line moving,\" she says. Many customers order ahead by text message to skip the wait.",
+   "questions": [
+    {
+     "q": "What is the article about?",
+     "type": "주제·목적",
+     "choices": [
+      "A popular coffee truck",
+      "A new office tower",
+      "A harbor festival",
+      "A coffee bean farm"
+     ],
+     "a": 0,
+     "exKo": "업무 지구에서 인기를 끄는 커피 트럭에 관한 기사입니다.",
+     "why": [
+      "인기를 끈 커피 트럭 소개가 기사 주제임",
+      "office towers는 주차 위치일 뿐 신축 아님",
+      "harbor는 위치 표현이고 축제 언급 없음",
+      "집에서 원두를 볶을 뿐 농장 이야기 아님"
+     ],
+     "ev": "A small coffee truck called Bean Wheels has become a morning favorite in the business district."
+    },
+    {
+     "q": "Why does Ms. Diaz keep her menu small?",
+     "type": "세부사항",
+     "choices": [
+      "To keep the line moving",
+      "To save money on beans",
+      "Because her truck is small",
+      "Because customers asked for it"
+     ],
+     "a": 0,
+     "exKo": "Simple keeps the line moving이라는 말에서 이유를 알 수 있습니다.",
+     "why": [
+      "메뉴를 단순히 해 줄을 빠르게 한다는 뜻",
+      "원두 비용 절감은 지문에 언급 없음",
+      "트럭이 작아서라는 설명은 나오지 않음",
+      "고객 요청 때문이라는 언급 없음"
+     ],
+     "ev": "Simple keeps the line moving"
+    },
+    {
+     "q": "How do many customers avoid waiting?",
+     "type": "세부사항",
+     "choices": [
+      "They order ahead by text message",
+      "They come after 11 a.m.",
+      "They pay by card",
+      "They bring their own cups"
+     ],
+     "a": 0,
+     "exKo": "order ahead by text message to skip the wait에서 확인됩니다.",
+     "why": [
+      "문자로 미리 주문해 대기를 피한다고 명시",
+      "영업은 7~11시이며 이후 방문 언급 없음",
+      "결제 수단에 대한 언급은 지문에 없음",
+      "개인 컵 지참에 대한 언급 없음"
+     ],
+     "ev": "Many customers order ahead by text message to skip the wait."
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "은행 지점 토요일 영업 기사",
+   "passage": "ELMWOOD — Northgate Bank will open its Elmwood branch on Saturday mornings starting next week. The branch will operate from 9 a.m. to noon.\n\nBranch manager Paul Ito said many customers cannot visit during the week. Two tellers and one loan officer will be on duty. Saturday visitors can also learn about the bank's new mobile application at a help desk near the entrance.",
+   "questions": [
+    {
+     "q": "What is the main topic of the article?",
+     "type": "주제·목적",
+     "choices": [
+      "A bank branch opening on Saturdays",
+      "A new bank mobile app",
+      "A bank hiring more tellers",
+      "A branch moving to Elmwood"
+     ],
+     "a": 0,
+     "exKo": "은행 지점이 토요일 오전 영업을 시작한다는 소식입니다.",
+     "why": [
+      "토요일 오전 영업 개시가 기사의 핵심 내용",
+      "모바일 앱은 부수 정보로 다른 문항의 정답",
+      "직원이 근무할 뿐 추가 채용 언급 없음",
+      "지점 이전이 아니라 영업일 확대임"
+     ],
+     "ev": "Northgate Bank will open its Elmwood branch on Saturday mornings starting next week."
+    },
+    {
+     "q": "What are the Saturday hours?",
+     "type": "세부사항",
+     "choices": [
+      "9 a.m. to noon",
+      "9 a.m. to 5 p.m.",
+      "10 a.m. to 2 p.m.",
+      "8 a.m. to noon"
+     ],
+     "a": 0,
+     "exKo": "operate from 9 a.m. to noon이라고 명시합니다.",
+     "why": [
+      "9시부터 정오까지라고 그대로 명시함",
+      "오후 5시까지라는 언급은 지문에 없음",
+      "10시~2시는 지문에 없는 시간대",
+      "8시 개점은 지문 내용과 다름"
+     ],
+     "ev": "The branch will operate from 9 a.m. to noon."
+    },
+    {
+     "q": "What can visitors do at the help desk?",
+     "type": "세부사항",
+     "choices": [
+      "Learn about the mobile application",
+      "Open a loan",
+      "Exchange money",
+      "Meet the manager"
+     ],
+     "a": 0,
+     "exKo": "learn about the bank's new mobile application at a help desk에서 확인됩니다.",
+     "why": [
+      "안내 데스크에서 새 모바일 앱을 알아볼 수 있음",
+      "대출 담당자는 근무자일 뿐 데스크 업무 아님",
+      "환전 서비스는 지문에 언급 없음",
+      "지점장은 발언자일 뿐 면담 언급 없음"
+     ],
+     "ev": "Saturday visitors can also learn about the bank's new mobile application at a help desk near the entrance."
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "점심 주문 취합 문자",
+   "passage": "Dana Lee (11:20 A.M.)\nHi all, I'm ordering sandwiches from Corner Deli for the team meeting. What would you like?\n\nSam Ortiz (11:22 A.M.)\nTurkey on wheat for me, please.\n\nPriya Nair (11:23 A.M.)\nVeggie sandwich, no onions. Thanks, Dana!\n\nDana Lee (11:25 A.M.)\nGot it. Two more people haven't replied — I'll give them until 11:40, then order.\n\nSam Ortiz (11:26 A.M.)\nSounds good. I'll set up the meeting room.",
+   "questions": [
+    {
+     "q": "What is Ms. Lee doing?",
+     "type": "주제·목적",
+     "choices": [
+      "Collecting lunch orders",
+      "Booking a restaurant",
+      "Canceling a meeting",
+      "Sharing a recipe"
+     ],
+     "a": 0,
+     "exKo": "팀 회의를 위해 샌드위치 주문을 취합하고 있습니다.",
+     "why": [
+      "회의용 샌드위치 주문을 취합 중임을 보여줌",
+      "델리에 주문할 뿐 식당 예약은 아님",
+      "회의는 예정대로 진행되므로 지문과 반대",
+      "조리법 공유에 대한 언급은 없음"
+     ],
+     "ev": "I'm ordering sandwiches from Corner Deli for the team meeting."
+    },
+    {
+     "q": "What does Ms. Nair ask for?",
+     "type": "세부사항",
+     "choices": [
+      "A veggie sandwich without onions",
+      "A turkey sandwich",
+      "A salad",
+      "Extra onions"
+     ],
+     "a": 0,
+     "exKo": "Veggie sandwich, no onions라고 요청합니다.",
+     "why": [
+      "양파를 뺀 채식 샌드위치를 요청하고 있음",
+      "터키 샌드위치는 Ortiz가 주문한 것",
+      "샐러드를 요청했다는 언급은 없음",
+      "양파를 빼달라 했으므로 지문과 반대"
+     ],
+     "ev": "Veggie sandwich, no onions."
+    },
+    {
+     "q": "What will Mr. Ortiz do?",
+     "type": "세부사항",
+     "choices": [
+      "Set up the meeting room",
+      "Pick up the food",
+      "Pay for the order",
+      "Call the deli"
+     ],
+     "a": 0,
+     "exKo": "I'll set up the meeting room이라고 말합니다.",
+     "why": [
+      "회의실을 준비하겠다고 직접 말하고 있음",
+      "음식을 찾아온다는 언급은 지문에 없음",
+      "비용 지불에 대한 언급은 없음",
+      "주문 전화는 Lee가 하므로 다른 사람의 역할"
+     ],
+     "ev": "I'll set up the meeting room."
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "택배 부재중 안내 문자",
+   "passage": "Speed Courier (1:12 P.M.)\nWe tried to deliver your package at 1:10 P.M., but no one answered at your address.\n\nSpeed Courier (1:12 P.M.)\nReply 1 to redeliver tomorrow, or reply 2 to pick it up at our center on King Road.\n\nHelen Park (1:30 P.M.)\n1, please. I'll be home after 2 P.M. tomorrow.\n\nSpeed Courier (1:31 P.M.)\nThank you. Your package will be redelivered tomorrow between 2 and 6 P.M.",
+   "questions": [
+    {
+     "q": "Why did the courier send the first message?",
+     "type": "주제·목적",
+     "choices": [
+      "A delivery attempt failed",
+      "A package was lost",
+      "A payment is due",
+      "An address was wrong"
+     ],
+     "a": 0,
+     "exKo": "1시 10분에 배달을 시도했으나 부재중이었음을 알리는 메시지입니다.",
+     "why": [
+      "부재로 배달이 실패했음을 알리는 메시지임",
+      "분실이 아니라 부재로 인한 배달 실패",
+      "요금 청구에 대한 언급은 지문에 없음",
+      "주소 오류가 아니라 응답이 없었던 것"
+     ],
+     "ev": "We tried to deliver your package at 1:10 P.M., but no one answered at your address."
+    },
+    {
+     "q": "What does replying 2 mean?",
+     "type": "세부사항",
+     "choices": [
+      "Picking up the package at the center",
+      "Redelivery tomorrow",
+      "Canceling the order",
+      "Talking to an agent"
+     ],
+     "a": 0,
+     "exKo": "reply 2 to pick it up at our center에서 확인됩니다.",
+     "why": [
+      "2번은 센터에서 직접 수령하는 선택지임",
+      "재배송은 1번이므로 번호가 바뀐 함정",
+      "주문 취소라는 선택지는 제시되지 않음",
+      "상담원 연결에 대한 언급은 없음"
+     ],
+     "ev": "reply 2 to pick it up at our center on King Road"
+    },
+    {
+     "q": "When will the package be redelivered?",
+     "type": "세부사항",
+     "choices": [
+      "Tomorrow between 2 and 6 P.M.",
+      "Today at 6 P.M.",
+      "Tomorrow morning",
+      "In two days"
+     ],
+     "a": 0,
+     "exKo": "redelivered tomorrow between 2 and 6 P.M.이라고 안내합니다.",
+     "why": [
+      "내일 2시에서 6시 사이 재배송이라고 명시",
+      "오늘이 아니라 내일 재배송이므로 반대",
+      "고객이 2시 이후 귀가하므로 오전 아님",
+      "이틀 후라는 언급은 지문에 없음"
+     ],
+     "ev": "Your package will be redelivered tomorrow between 2 and 6 P.M."
+    }
+   ]
+  }
+ ]
 }

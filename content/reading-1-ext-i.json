@@ -1,104 +1,644 @@
 {
-"passages": [
-{
-"kind": "이메일",
-"title": "세미나 자료 공유 메일",
-"passage": "From: Julia Grant\nTo: Marketing Department\nSubject: Slides from Monday's Seminar\n\nHi everyone,\n\nThank you to those who attended the social media seminar on Monday. As promised, the slides are attached to this email.\n\nA recording of the talk will be posted on the team drive by Wednesday. If you would like the speaker's book list, just reply to me and I'll forward it.\n\nBest,\nJulia",
-"questions": [
-{"q": "What is attached to the email?", "type": "세부사항", "choices": ["Seminar slides", "A recording", "A book list", "Photos"], "a": 0, "exKo": "the slides are attached to this email라고 명시합니다."},
-{"q": "What will be posted by Wednesday?", "type": "세부사항", "choices": ["A recording of the talk", "The slides", "A survey", "A schedule"], "a": 0, "exKo": "A recording ... will be posted on the team drive by Wednesday에서 확인됩니다."},
-{"q": "How can staff get the book list?", "type": "세부사항", "choices": ["By replying to Julia", "By visiting the drive", "By emailing the speaker", "By attending again"], "a": 0, "exKo": "just reply to me and I'll forward it라고 안내합니다."}
-]
-},
-{
-"kind": "이메일",
-"title": "봄맞이 창문 청소 안내 메일",
-"passage": "From: Building Office\nTo: All Tenants\nSubject: Window Cleaning Next Week\n\nDear tenants,\n\nOutside window cleaning will take place next Monday through Wednesday. Workers will hang from ropes outside the building, so you may see them at your window.\n\nPlease keep windows locked during this period and remove items from window ledges. No entry into offices is required. Work stops if it rains and continues the next clear day.\n\nBuilding Office",
-"questions": [
-{"q": "What will happen next week?", "type": "주제·목적", "choices": ["Outside window cleaning", "Office painting", "Rope installation", "A building inspection"], "a": 0, "exKo": "다음 주에 건물 외부 창문 청소가 진행된다는 안내입니다."},
-{"q": "What should tenants do?", "type": "세부사항", "choices": ["Keep windows locked and clear the ledges", "Leave their offices", "Open their windows", "Sign a permission form"], "a": 0, "exKo": "keep windows locked ... remove items from window ledges라고 요청합니다."},
-{"q": "What happens if it rains?", "type": "세부사항", "choices": ["Work stops and continues the next clear day", "Work continues anyway", "Work moves indoors", "Work is canceled for the year"], "a": 0, "exKo": "Work stops if it rains and continues the next clear day에서 확인됩니다."}
-]
-},
-{
-"kind": "공지",
-"title": "주말 전력 점검 공지",
-"passage": "POWER SHUTDOWN NOTICE\n\nElectricity in the building will be shut off this Saturday from 7 a.m. to 3 p.m. for yearly safety testing. Lights, elevators, and wall outlets will not work.\n\nPlease turn off computers before leaving on Friday. The server room has backup power, so email and shared drives will stay online. Weekend workers should plan to work from home.\n\nFacilities Team",
-"questions": [
-{"q": "Why will power be shut off?", "type": "세부사항", "choices": ["For yearly safety testing", "To save energy", "Because of a storm", "To install new lights"], "a": 0, "exKo": "for yearly safety testing이 정전의 이유입니다."},
-{"q": "What should staff do before leaving Friday?", "type": "세부사항", "choices": ["Turn off computers", "Unplug the servers", "Lock the elevators", "Take laptops home"], "a": 0, "exKo": "turn off computers before leaving on Friday라고 안내합니다."},
-{"q": "What will stay online during the shutdown?", "type": "세부사항", "choices": ["Email and shared drives", "The elevators", "Wall outlets", "Office lights"], "a": 0, "exKo": "서버실은 예비 전원이 있어 이메일과 공유 드라이브는 유지됩니다."}
-]
-},
-{
-"kind": "공지",
-"title": "탕비실 커피머신 교체 공지",
-"passage": "COFFEE MACHINE UPDATE\n\nThe old coffee machine in the 3rd-floor break room has been replaced with a new model. The new machine offers ten drink choices, including hot chocolate and tea.\n\nUse is free, but please bring your own cup — paper cups are no longer provided, to reduce waste. A short how-to video is posted on the intranet. Report any problems to extension 350.\n\nAdmin Team",
-"questions": [
-{"q": "What is new in the break room?", "type": "주제·목적", "choices": ["A coffee machine", "A water heater", "A snack bar", "A recycling bin"], "a": 0, "exKo": "3층 탕비실 커피머신이 새 모델로 교체되었다는 공지입니다."},
-{"q": "Why are paper cups no longer provided?", "type": "세부사항", "choices": ["To reduce waste", "To save money", "They sold out", "Cups were stolen"], "a": 0, "exKo": "to reduce waste라고 이유를 밝힙니다."},
-{"q": "Where can staff learn how to use the machine?", "type": "세부사항", "choices": ["A video on the intranet", "A paper manual", "Extension 350", "The admin office"], "a": 0, "exKo": "A short how-to video is posted on the intranet에서 확인됩니다."}
-]
-},
-{
-"kind": "광고",
-"title": "실내 골프 연습장 광고",
-"passage": "SWING CITY — INDOOR GOLF FOR BUSY PEOPLE\n\nPractice your golf swing rain or shine! Swing City has 12 screen golf booths open from 6 a.m. to midnight.\n\nWeekday morning rates start at just $15 per hour, clubs included. Beginners can book a 30-minute lesson with a pro for $20. Two blocks from City Hall Station, Exit 4.",
-"questions": [
-{"q": "What is Swing City?", "type": "주제·목적", "choices": ["An indoor golf practice center", "A golf course", "A sports shop", "A weather service"], "a": 0, "exKo": "실내 스크린 골프 연습장을 홍보하는 광고입니다."},
-{"q": "What is included in the weekday morning rate?", "type": "세부사항", "choices": ["Clubs", "A lesson", "Shoes", "Drinks"], "a": 0, "exKo": "$15 per hour, clubs included라고 명시합니다."},
-{"q": "How much is a beginner lesson?", "type": "세부사항", "choices": ["$20 for 30 minutes", "$15 per hour", "Free", "$12 per hour"], "a": 0, "exKo": "a 30-minute lesson with a pro for $20에서 확인됩니다."}
-]
-},
-{
-"kind": "광고",
-"title": "열쇠·도장 즉석 제작 광고",
-"passage": "QUICK KEYS & STAMPS\n\nNeed a spare key or a name stamp? We make them while you wait — most keys in 5 minutes, stamps in 20 minutes.\n\nOffice orders welcome: we engrave door signs and desk nameplates too. Show this ad for 10% off any order over $10. Open Monday to Saturday inside Union Market, near the north entrance.",
-"questions": [
-{"q": "What does the shop make?", "type": "주제·목적", "choices": ["Keys, stamps, and nameplates", "Furniture", "Market signs only", "Locks only"], "a": 0, "exKo": "열쇠, 도장, 명패 등을 즉석 제작하는 가게 광고입니다."},
-{"q": "How long does a stamp take?", "type": "세부사항", "choices": ["20 minutes", "5 minutes", "One day", "One hour"], "a": 0, "exKo": "stamps in 20 minutes라고 안내합니다."},
-{"q": "How can customers get 10% off?", "type": "세부사항", "choices": ["By showing the ad on orders over $10", "By ordering ten keys", "By paying cash", "By visiting on Saturday"], "a": 0, "exKo": "Show this ad for 10% off any order over $10에서 확인됩니다."}
-]
-},
-{
-"kind": "기사",
-"title": "폐교 활용 창업 공간 기사",
-"passage": "DALEVILLE — An elementary school that closed three years ago has reopened as a startup center. Twelve young companies now rent former classrooms at low cost.\n\nThe gym hosts monthly markets where the startups show their products to residents. \"The building is full of life again,\" said project director Han Solmin. Applications for the five remaining rooms open next month.",
-"questions": [
-{"q": "What is the article about?", "type": "주제·목적", "choices": ["A closed school reopened as a startup center", "A school reunion", "A new gym", "A monthly market closing"], "a": 0, "exKo": "폐교가 창업 지원 공간으로 다시 문을 열었다는 기사입니다."},
-{"q": "What happens in the gym?", "type": "세부사항", "choices": ["Monthly markets", "Basketball games", "Startup interviews", "School classes"], "a": 0, "exKo": "The gym hosts monthly markets라고 명시합니다."},
-{"q": "What opens next month?", "type": "세부사항", "choices": ["Applications for remaining rooms", "A new school", "Five new startups", "A resident survey"], "a": 0, "exKo": "Applications for the five remaining rooms open next month에서 확인됩니다."}
-]
-},
-{
-"kind": "기사",
-"title": "직장인 아침 운동 모임 기사",
-"passage": "PORTVIEW — Every Tuesday and Thursday at 7 a.m., about 50 office workers meet in Harbor Park for a free 30-minute workout before work. The group, called Morning Movers, started with just six friends a year ago.\n\nA local sports store sponsors the group and provides free water. Organizer Dan Foley says the secret is simple: \"Short, fun, and done before your first meeting.\"",
-"questions": [
-{"q": "What is Morning Movers?", "type": "주제·목적", "choices": ["A free morning workout group", "A sports store", "A running race", "A breakfast club"], "a": 0, "exKo": "출근 전 무료 아침 운동 모임에 관한 기사입니다."},
-{"q": "How did the group begin?", "type": "세부사항", "choices": ["With six friends a year ago", "As a store event", "With 50 members", "As a park program"], "a": 0, "exKo": "started with just six friends a year ago라고 설명합니다."},
-{"q": "What does the sponsor provide?", "type": "세부사항", "choices": ["Free water", "Sports shoes", "Coffee", "Park passes"], "a": 0, "exKo": "provides free water에서 확인됩니다."}
-]
-},
-{
-"kind": "문자메시지",
-"title": "USB 놓고 간 물건 문자",
-"passage": "Ryan Tate (4:12 P.M.)\nHi Chloe, did I leave a silver USB drive in Meeting Room 5? I can't find it anywhere.\n\nChloe Bennett (4:15 P.M.)\nLet me check... Yes! It was next to the whiteboard.\n\nRyan Tate (4:16 P.M.)\nPhew! It has today's client files. Could you hold onto it?\n\nChloe Bennett (4:17 P.M.)\nSure, it's in my top drawer. I'm here until 6.\n\nRyan Tate (4:18 P.M.)\nI'll come by at 5. Thanks a million!",
-"questions": [
-{"q": "What did Mr. Tate lose?", "type": "세부사항", "choices": ["A silver USB drive", "A phone", "Client papers", "A whiteboard marker"], "a": 0, "exKo": "a silver USB drive를 찾고 있습니다."},
-{"q": "Why is the USB drive important?", "type": "세부사항", "choices": ["It has today's client files", "It was expensive", "It belongs to Chloe", "It is the only one"], "a": 0, "exKo": "It has today's client files라고 설명합니다."},
-{"q": "Where is the USB drive now?", "type": "세부사항", "choices": ["In Ms. Bennett's top drawer", "Next to the whiteboard", "In Meeting Room 5", "At lost and found"], "a": 0, "exKo": "it's in my top drawer에서 확인됩니다."}
-]
-},
-{
-"kind": "문자메시지",
-"title": "화상회의 링크 오류 문자",
-"passage": "Zoe Kang (10:58 A.M.)\nHi Victor, the video call link for the 11 o'clock meeting isn't working. It says 'meeting not found.'\n\nVictor Reed (10:59 A.M.)\nSorry! I moved the meeting to a new room. Sending the new link now.\n\nZoe Kang (11:00 A.M.)\nGot it — I'm in. The client hasn't joined yet.\n\nVictor Reed (11:01 A.M.)\nI'll email them the new link right away. Start with the agenda if I'm two minutes late.",
-"questions": [
-{"q": "What problem does Ms. Kang report?", "type": "주제·목적", "choices": ["The meeting link does not work", "The client canceled", "Her camera is broken", "The agenda is missing"], "a": 0, "exKo": "11시 회의 링크가 열리지 않는 문제를 알리고 있습니다."},
-{"q": "Why did the link fail?", "type": "세부사항", "choices": ["The meeting was moved to a new room", "The internet was down", "The link expired", "The meeting was canceled"], "a": 0, "exKo": "I moved the meeting to a new room이라고 설명합니다."},
-{"q": "What will Mr. Reed do for the client?", "type": "세부사항", "choices": ["Email them the new link", "Call them", "Reschedule the meeting", "Visit their office"], "a": 0, "exKo": "I'll email them the new link right away에서 확인됩니다."}
-]
-}
-]
+ "passages": [
+  {
+   "kind": "이메일",
+   "title": "세미나 자료 공유 메일",
+   "passage": "From: Julia Grant\nTo: Marketing Department\nSubject: Slides from Monday's Seminar\n\nHi everyone,\n\nThank you to those who attended the social media seminar on Monday. As promised, the slides are attached to this email.\n\nA recording of the talk will be posted on the team drive by Wednesday. If you would like the speaker's book list, just reply to me and I'll forward it.\n\nBest,\nJulia",
+   "questions": [
+    {
+     "q": "What is attached to the email?",
+     "type": "세부사항",
+     "choices": [
+      "Seminar slides",
+      "A recording",
+      "A book list",
+      "Photos"
+     ],
+     "a": 0,
+     "exKo": "the slides are attached to this email라고 명시합니다.",
+     "why": [
+      "'the slides are attached to this email'가 첨부물을 명시",
+      "녹화본은 수요일에 드라이브에 게시, 첨부물 아님",
+      "도서 목록은 요청 시 따로 전달, 첨부 아님",
+      "사진 첨부는 지문에 언급 없음"
+     ],
+     "ev": "As promised, the slides are attached to this email."
+    },
+    {
+     "q": "What will be posted by Wednesday?",
+     "type": "세부사항",
+     "choices": [
+      "A recording of the talk",
+      "The slides",
+      "A survey",
+      "A schedule"
+     ],
+     "a": 0,
+     "exKo": "A recording ... will be posted on the team drive by Wednesday에서 확인됩니다.",
+     "why": [
+      "강연 녹화본이 수요일까지 팀 드라이브에 게시됨",
+      "슬라이드는 이미 메일에 첨부됨, 게시 대상 아님",
+      "설문 조사는 지문에 언급 없음",
+      "일정표 게시는 지문에 언급 없음"
+     ],
+     "ev": "A recording of the talk will be posted on the team drive by Wednesday."
+    },
+    {
+     "q": "How can staff get the book list?",
+     "type": "세부사항",
+     "choices": [
+      "By replying to Julia",
+      "By visiting the drive",
+      "By emailing the speaker",
+      "By attending again"
+     ],
+     "a": 0,
+     "exKo": "just reply to me and I'll forward it라고 안내합니다.",
+     "why": [
+      "'just reply to me'가 Julia에게 회신하라는 뜻",
+      "드라이브에 올라가는 것은 녹화본이지 도서 목록 아님",
+      "연사에게 직접 연락하라는 언급 없음",
+      "세미나 재참석 방법은 언급 없음"
+     ],
+     "ev": "If you would like the speaker's book list, just reply to me and I'll forward it."
+    }
+   ]
+  },
+  {
+   "kind": "이메일",
+   "title": "봄맞이 창문 청소 안내 메일",
+   "passage": "From: Building Office\nTo: All Tenants\nSubject: Window Cleaning Next Week\n\nDear tenants,\n\nOutside window cleaning will take place next Monday through Wednesday. Workers will hang from ropes outside the building, so you may see them at your window.\n\nPlease keep windows locked during this period and remove items from window ledges. No entry into offices is required. Work stops if it rains and continues the next clear day.\n\nBuilding Office",
+   "questions": [
+    {
+     "q": "What will happen next week?",
+     "type": "주제·목적",
+     "choices": [
+      "Outside window cleaning",
+      "Office painting",
+      "Rope installation",
+      "A building inspection"
+     ],
+     "a": 0,
+     "exKo": "다음 주에 건물 외부 창문 청소가 진행된다는 안내입니다.",
+     "why": [
+      "다음 주 월~수 건물 외부 창문 청소가 예정됨",
+      "사무실 페인트칠은 지문에 언급 없음",
+      "밧줄은 작업 방식일 뿐 설치 공사가 아님",
+      "건물 점검은 지문에 언급 없음"
+     ],
+     "ev": "Outside window cleaning will take place next Monday through Wednesday."
+    },
+    {
+     "q": "What should tenants do?",
+     "type": "세부사항",
+     "choices": [
+      "Keep windows locked and clear the ledges",
+      "Leave their offices",
+      "Open their windows",
+      "Sign a permission form"
+     ],
+     "a": 0,
+     "exKo": "keep windows locked ... remove items from window ledges라고 요청합니다.",
+     "why": [
+      "창문 잠금과 창턱 물건 치우기를 그대로 요청",
+      "사무실 출입은 불필요하므로 나갈 이유 없음",
+      "창문을 잠그라 했으므로 지문과 반대",
+      "허가서 서명은 지문에 언급 없음"
+     ],
+     "ev": "Please keep windows locked during this period and remove items from window ledges."
+    },
+    {
+     "q": "What happens if it rains?",
+     "type": "세부사항",
+     "choices": [
+      "Work stops and continues the next clear day",
+      "Work continues anyway",
+      "Work moves indoors",
+      "Work is canceled for the year"
+     ],
+     "a": 0,
+     "exKo": "Work stops if it rains and continues the next clear day에서 확인됩니다.",
+     "why": [
+      "비가 오면 중단하고 맑은 다음 날 재개함",
+      "비에도 계속한다는 것은 지문과 반대",
+      "실내로 옮긴다는 언급 없음",
+      "올해 전면 취소는 과도한 확대 해석"
+     ],
+     "ev": "Work stops if it rains and continues the next clear day."
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "주말 전력 점검 공지",
+   "passage": "POWER SHUTDOWN NOTICE\n\nElectricity in the building will be shut off this Saturday from 7 a.m. to 3 p.m. for yearly safety testing. Lights, elevators, and wall outlets will not work.\n\nPlease turn off computers before leaving on Friday. The server room has backup power, so email and shared drives will stay online. Weekend workers should plan to work from home.\n\nFacilities Team",
+   "questions": [
+    {
+     "q": "Why will power be shut off?",
+     "type": "세부사항",
+     "choices": [
+      "For yearly safety testing",
+      "To save energy",
+      "Because of a storm",
+      "To install new lights"
+     ],
+     "a": 0,
+     "exKo": "for yearly safety testing이 정전의 이유입니다.",
+     "why": [
+      "'for yearly safety testing'이 정전 목적을 밝힘",
+      "에너지 절약 목적은 지문에 언급 없음",
+      "폭풍 때문이라는 언급 없음",
+      "조명은 작동 정지 대상일 뿐 설치 언급 없음"
+     ],
+     "ev": "Electricity in the building will be shut off this Saturday from 7 a.m. to 3 p.m. for yearly safety testing."
+    },
+    {
+     "q": "What should staff do before leaving Friday?",
+     "type": "세부사항",
+     "choices": [
+      "Turn off computers",
+      "Unplug the servers",
+      "Lock the elevators",
+      "Take laptops home"
+     ],
+     "a": 0,
+     "exKo": "turn off computers before leaving on Friday라고 안내합니다.",
+     "why": [
+      "금요일 퇴근 전 컴퓨터를 끄라고 그대로 요청",
+      "서버는 예비 전원으로 유지되므로 지문과 반대",
+      "엘리베이터 잠금은 지문에 언급 없음",
+      "노트북을 집에 가져가라는 언급 없음"
+     ],
+     "ev": "Please turn off computers before leaving on Friday."
+    },
+    {
+     "q": "What will stay online during the shutdown?",
+     "type": "세부사항",
+     "choices": [
+      "Email and shared drives",
+      "The elevators",
+      "Wall outlets",
+      "Office lights"
+     ],
+     "a": 0,
+     "exKo": "서버실은 예비 전원이 있어 이메일과 공유 드라이브는 유지됩니다.",
+     "why": [
+      "이메일과 공유 드라이브는 계속 사용 가능함",
+      "엘리베이터는 작동하지 않는다고 나옴",
+      "벽면 콘센트도 사용 불가로 명시됨",
+      "사무실 조명 역시 작동하지 않음"
+     ],
+     "ev": "The server room has backup power, so email and shared drives will stay online."
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "탕비실 커피머신 교체 공지",
+   "passage": "COFFEE MACHINE UPDATE\n\nThe old coffee machine in the 3rd-floor break room has been replaced with a new model. The new machine offers ten drink choices, including hot chocolate and tea.\n\nUse is free, but please bring your own cup — paper cups are no longer provided, to reduce waste. A short how-to video is posted on the intranet. Report any problems to extension 350.\n\nAdmin Team",
+   "questions": [
+    {
+     "q": "What is new in the break room?",
+     "type": "주제·목적",
+     "choices": [
+      "A coffee machine",
+      "A water heater",
+      "A snack bar",
+      "A recycling bin"
+     ],
+     "a": 0,
+     "exKo": "3층 탕비실 커피머신이 새 모델로 교체되었다는 공지입니다.",
+     "why": [
+      "낡은 커피머신이 새 모델로 교체되었다고 명시",
+      "온수기 교체는 지문에 언급 없음",
+      "간식 코너 설치는 언급 없음",
+      "재활용통은 언급 없음"
+     ],
+     "ev": "The old coffee machine in the 3rd-floor break room has been replaced with a new model."
+    },
+    {
+     "q": "Why are paper cups no longer provided?",
+     "type": "세부사항",
+     "choices": [
+      "To reduce waste",
+      "To save money",
+      "They sold out",
+      "Cups were stolen"
+     ],
+     "a": 0,
+     "exKo": "to reduce waste라고 이유를 밝힙니다.",
+     "why": [
+      "'to reduce waste'가 종이컵 미제공 이유",
+      "비용 절감이 아니라 쓰레기 감축이 이유",
+      "품절되었다는 언급 없음",
+      "도난 때문이라는 언급 없음"
+     ],
+     "ev": "paper cups are no longer provided, to reduce waste"
+    },
+    {
+     "q": "Where can staff learn how to use the machine?",
+     "type": "세부사항",
+     "choices": [
+      "A video on the intranet",
+      "A paper manual",
+      "Extension 350",
+      "The admin office"
+     ],
+     "a": 0,
+     "exKo": "A short how-to video is posted on the intranet에서 확인됩니다.",
+     "why": [
+      "사내망에 사용법 영상이 올라와 있다고 안내",
+      "종이 설명서는 지문에 언급 없음",
+      "내선 350은 고장 신고용(단어 반복 함정)",
+      "총무팀 사무실 방문 안내는 없음"
+     ],
+     "ev": "A short how-to video is posted on the intranet."
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "실내 골프 연습장 광고",
+   "passage": "SWING CITY — INDOOR GOLF FOR BUSY PEOPLE\n\nPractice your golf swing rain or shine! Swing City has 12 screen golf booths open from 6 a.m. to midnight.\n\nWeekday morning rates start at just $15 per hour, clubs included. Beginners can book a 30-minute lesson with a pro for $20. Two blocks from City Hall Station, Exit 4.",
+   "questions": [
+    {
+     "q": "What is Swing City?",
+     "type": "주제·목적",
+     "choices": [
+      "An indoor golf practice center",
+      "A golf course",
+      "A sports shop",
+      "A weather service"
+     ],
+     "a": 0,
+     "exKo": "실내 스크린 골프 연습장을 홍보하는 광고입니다.",
+     "why": [
+      "스크린 골프 부스 12개를 갖춘 실내 연습 시설",
+      "실내 스크린 골프이므로 야외 골프장이 아님",
+      "클럽은 대여 포함일 뿐 용품 판매점 아님",
+      "rain or shine은 홍보 문구, 기상 서비스 아님"
+     ],
+     "ev": "Swing City has 12 screen golf booths open from 6 a.m. to midnight."
+    },
+    {
+     "q": "What is included in the weekday morning rate?",
+     "type": "세부사항",
+     "choices": [
+      "Clubs",
+      "A lesson",
+      "Shoes",
+      "Drinks"
+     ],
+     "a": 0,
+     "exKo": "$15 per hour, clubs included라고 명시합니다.",
+     "why": [
+      "'clubs included'가 클럽 대여 포함을 뜻함",
+      "레슨은 20달러 별도 항목(다른 문항의 정답)",
+      "신발 제공은 지문에 언급 없음",
+      "음료 제공은 지문에 언급 없음"
+     ],
+     "ev": "Weekday morning rates start at just $15 per hour, clubs included."
+    },
+    {
+     "q": "How much is a beginner lesson?",
+     "type": "세부사항",
+     "choices": [
+      "$20 for 30 minutes",
+      "$15 per hour",
+      "Free",
+      "$12 per hour"
+     ],
+     "a": 0,
+     "exKo": "a 30-minute lesson with a pro for $20에서 확인됩니다.",
+     "why": [
+      "30분 프로 레슨이 20달러라고 그대로 제시",
+      "시간당 15달러는 평일 오전 부스 이용료",
+      "무료라는 언급은 지문에 없음",
+      "12달러라는 금액은 지문에 없음"
+     ],
+     "ev": "Beginners can book a 30-minute lesson with a pro for $20."
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "열쇠·도장 즉석 제작 광고",
+   "passage": "QUICK KEYS & STAMPS\n\nNeed a spare key or a name stamp? We make them while you wait — most keys in 5 minutes, stamps in 20 minutes.\n\nOffice orders welcome: we engrave door signs and desk nameplates too. Show this ad for 10% off any order over $10. Open Monday to Saturday inside Union Market, near the north entrance.",
+   "questions": [
+    {
+     "q": "What does the shop make?",
+     "type": "주제·목적",
+     "choices": [
+      "Keys, stamps, and nameplates",
+      "Furniture",
+      "Market signs only",
+      "Locks only"
+     ],
+     "a": 0,
+     "exKo": "열쇠, 도장, 명패 등을 즉석 제작하는 가게 광고입니다.",
+     "why": [
+      "열쇠·도장을 즉석 제작하고 명패도 새겨 준다고 이어짐",
+      "가구 제작은 지문에 언급 없음",
+      "도어 사인도 만들지만 '표지판만'은 일부만 맞음",
+      "자물쇠 제작은 지문에 언급 없음"
+     ],
+     "ev": "Need a spare key or a name stamp? We make them while you wait"
+    },
+    {
+     "q": "How long does a stamp take?",
+     "type": "세부사항",
+     "choices": [
+      "20 minutes",
+      "5 minutes",
+      "One day",
+      "One hour"
+     ],
+     "a": 0,
+     "exKo": "stamps in 20 minutes라고 안내합니다.",
+     "why": [
+      "'stamps in 20 minutes'가 도장 소요 시간",
+      "5분은 열쇠 제작 시간(단어 반복 함정)",
+      "하루가 걸린다는 언급 없음",
+      "한 시간이라는 언급 없음"
+     ],
+     "ev": "most keys in 5 minutes, stamps in 20 minutes"
+    },
+    {
+     "q": "How can customers get 10% off?",
+     "type": "세부사항",
+     "choices": [
+      "By showing the ad on orders over $10",
+      "By ordering ten keys",
+      "By paying cash",
+      "By visiting on Saturday"
+     ],
+     "a": 0,
+     "exKo": "Show this ad for 10% off any order over $10에서 확인됩니다.",
+     "why": [
+      "광고 제시와 10달러 초과 주문이 할인 조건",
+      "열쇠 열 개 주문 조건은 언급 없음",
+      "현금 결제 조건은 언급 없음",
+      "토요일은 영업일일 뿐 할인 조건 아님"
+     ],
+     "ev": "Show this ad for 10% off any order over $10."
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "폐교 활용 창업 공간 기사",
+   "passage": "DALEVILLE — An elementary school that closed three years ago has reopened as a startup center. Twelve young companies now rent former classrooms at low cost.\n\nThe gym hosts monthly markets where the startups show their products to residents. \"The building is full of life again,\" said project director Han Solmin. Applications for the five remaining rooms open next month.",
+   "questions": [
+    {
+     "q": "What is the article about?",
+     "type": "주제·목적",
+     "choices": [
+      "A closed school reopened as a startup center",
+      "A school reunion",
+      "A new gym",
+      "A monthly market closing"
+     ],
+     "a": 0,
+     "exKo": "폐교가 창업 지원 공간으로 다시 문을 열었다는 기사입니다.",
+     "why": [
+      "폐교한 초등학교가 창업 센터로 재개장했다고 밝힘",
+      "동창회 개최는 지문에 언급 없음",
+      "체육관은 기존 시설이지 새로 지은 것이 아님",
+      "장터는 매달 열리므로 폐지는 지문과 반대"
+     ],
+     "ev": "An elementary school that closed three years ago has reopened as a startup center."
+    },
+    {
+     "q": "What happens in the gym?",
+     "type": "세부사항",
+     "choices": [
+      "Monthly markets",
+      "Basketball games",
+      "Startup interviews",
+      "School classes"
+     ],
+     "a": 0,
+     "exKo": "The gym hosts monthly markets라고 명시합니다.",
+     "why": [
+      "체육관에서 매달 장터가 열린다고 명시",
+      "농구 경기는 지문에 언급 없음",
+      "입주 면접 진행은 언급 없음",
+      "폐교라서 수업은 진행되지 않음"
+     ],
+     "ev": "The gym hosts monthly markets where the startups show their products to residents."
+    },
+    {
+     "q": "What opens next month?",
+     "type": "세부사항",
+     "choices": [
+      "Applications for remaining rooms",
+      "A new school",
+      "Five new startups",
+      "A resident survey"
+     ],
+     "a": 0,
+     "exKo": "Applications for the five remaining rooms open next month에서 확인됩니다.",
+     "why": [
+      "남은 5개 공간의 신청이 다음 달 시작됨",
+      "학교 재개교가 아니라 창업 센터 운영",
+      "다섯은 남은 방 수이지 신규 기업 수가 아님",
+      "주민 설문은 지문에 언급 없음"
+     ],
+     "ev": "Applications for the five remaining rooms open next month."
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "직장인 아침 운동 모임 기사",
+   "passage": "PORTVIEW — Every Tuesday and Thursday at 7 a.m., about 50 office workers meet in Harbor Park for a free 30-minute workout before work. The group, called Morning Movers, started with just six friends a year ago.\n\nA local sports store sponsors the group and provides free water. Organizer Dan Foley says the secret is simple: \"Short, fun, and done before your first meeting.\"",
+   "questions": [
+    {
+     "q": "What is Morning Movers?",
+     "type": "주제·목적",
+     "choices": [
+      "A free morning workout group",
+      "A sports store",
+      "A running race",
+      "A breakfast club"
+     ],
+     "a": 0,
+     "exKo": "출근 전 무료 아침 운동 모임에 관한 기사입니다.",
+     "why": [
+      "출근 전 무료 30분 운동 모임이라고 설명",
+      "스포츠용품점은 후원사일 뿐(단어 반복 함정)",
+      "달리기 대회 개최는 언급 없음",
+      "아침 식사 모임이라는 언급 없음"
+     ],
+     "ev": "about 50 office workers meet in Harbor Park for a free 30-minute workout before work"
+    },
+    {
+     "q": "How did the group begin?",
+     "type": "세부사항",
+     "choices": [
+      "With six friends a year ago",
+      "As a store event",
+      "With 50 members",
+      "As a park program"
+     ],
+     "a": 0,
+     "exKo": "started with just six friends a year ago라고 설명합니다.",
+     "why": [
+      "1년 전 친구 6명으로 시작했다고 명시",
+      "매장 행사로 시작했다는 언급 없음",
+      "50명은 현재 참가 규모지 시작 인원 아님",
+      "공원 프로그램으로 출발한 것이 아님"
+     ],
+     "ev": "The group, called Morning Movers, started with just six friends a year ago."
+    },
+    {
+     "q": "What does the sponsor provide?",
+     "type": "세부사항",
+     "choices": [
+      "Free water",
+      "Sports shoes",
+      "Coffee",
+      "Park passes"
+     ],
+     "a": 0,
+     "exKo": "provides free water에서 확인됩니다.",
+     "why": [
+      "후원 업체가 무료 생수를 제공한다고 명시",
+      "운동화 제공은 지문에 언급 없음",
+      "커피 제공은 지문에 언급 없음",
+      "공원 이용권 제공은 언급 없음"
+     ],
+     "ev": "A local sports store sponsors the group and provides free water."
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "USB 놓고 간 물건 문자",
+   "passage": "Ryan Tate (4:12 P.M.)\nHi Chloe, did I leave a silver USB drive in Meeting Room 5? I can't find it anywhere.\n\nChloe Bennett (4:15 P.M.)\nLet me check... Yes! It was next to the whiteboard.\n\nRyan Tate (4:16 P.M.)\nPhew! It has today's client files. Could you hold onto it?\n\nChloe Bennett (4:17 P.M.)\nSure, it's in my top drawer. I'm here until 6.\n\nRyan Tate (4:18 P.M.)\nI'll come by at 5. Thanks a million!",
+   "questions": [
+    {
+     "q": "What did Mr. Tate lose?",
+     "type": "세부사항",
+     "choices": [
+      "A silver USB drive",
+      "A phone",
+      "Client papers",
+      "A whiteboard marker"
+     ],
+     "a": 0,
+     "exKo": "a silver USB drive를 찾고 있습니다.",
+     "why": [
+      "은색 USB를 두고 왔는지 묻는 것이 분실물",
+      "휴대전화 분실은 지문에 언급 없음",
+      "고객 파일은 USB 안의 내용물이지 물건 자체가 아님",
+      "화이트보드는 USB가 놓여 있던 위치일 뿐"
+     ],
+     "ev": "Hi Chloe, did I leave a silver USB drive in Meeting Room 5?"
+    },
+    {
+     "q": "Why is the USB drive important?",
+     "type": "세부사항",
+     "choices": [
+      "It has today's client files",
+      "It was expensive",
+      "It belongs to Chloe",
+      "It is the only one"
+     ],
+     "a": 0,
+     "exKo": "It has today's client files라고 설명합니다.",
+     "why": [
+      "오늘 고객 파일이 들어 있어 중요하다고 말함",
+      "값이 비싸다는 언급은 지문에 없음",
+      "Chloe가 아니라 Tate의 물건이므로 지문과 반대",
+      "하나뿐이라는 언급은 지문에 없음"
+     ],
+     "ev": "It has today's client files."
+    },
+    {
+     "q": "Where is the USB drive now?",
+     "type": "세부사항",
+     "choices": [
+      "In Ms. Bennett's top drawer",
+      "Next to the whiteboard",
+      "In Meeting Room 5",
+      "At lost and found"
+     ],
+     "a": 0,
+     "exKo": "it's in my top drawer에서 확인됩니다.",
+     "why": [
+      "Bennett의 맨 위 서랍에 보관 중이라고 답함",
+      "화이트보드 옆은 발견 당시의 위치",
+      "회의실 5는 분실 장소이며 현재 위치가 아님",
+      "분실물 센터는 지문에 언급 없음"
+     ],
+     "ev": "Sure, it's in my top drawer."
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "화상회의 링크 오류 문자",
+   "passage": "Zoe Kang (10:58 A.M.)\nHi Victor, the video call link for the 11 o'clock meeting isn't working. It says 'meeting not found.'\n\nVictor Reed (10:59 A.M.)\nSorry! I moved the meeting to a new room. Sending the new link now.\n\nZoe Kang (11:00 A.M.)\nGot it — I'm in. The client hasn't joined yet.\n\nVictor Reed (11:01 A.M.)\nI'll email them the new link right away. Start with the agenda if I'm two minutes late.",
+   "questions": [
+    {
+     "q": "What problem does Ms. Kang report?",
+     "type": "주제·목적",
+     "choices": [
+      "The meeting link does not work",
+      "The client canceled",
+      "Her camera is broken",
+      "The agenda is missing"
+     ],
+     "a": 0,
+     "exKo": "11시 회의 링크가 열리지 않는 문제를 알리고 있습니다.",
+     "why": [
+      "화상 회의 링크가 열리지 않는다고 알림",
+      "고객이 취소했다는 언급은 없음",
+      "카메라 고장은 지문에 언급 없음",
+      "안건은 회의 시작 방법으로 언급됨(단어 반복 함정)"
+     ],
+     "ev": "the video call link for the 11 o'clock meeting isn't working"
+    },
+    {
+     "q": "Why did the link fail?",
+     "type": "세부사항",
+     "choices": [
+      "The meeting was moved to a new room",
+      "The internet was down",
+      "The link expired",
+      "The meeting was canceled"
+     ],
+     "a": 0,
+     "exKo": "I moved the meeting to a new room이라고 설명합니다.",
+     "why": [
+      "회의를 새 방으로 옮겨 기존 링크가 무효가 됨",
+      "인터넷 장애는 지문에 언급 없음",
+      "링크 만료라는 언급은 없음",
+      "회의는 그대로 진행되므로 지문과 반대"
+     ],
+     "ev": "I moved the meeting to a new room."
+    },
+    {
+     "q": "What will Mr. Reed do for the client?",
+     "type": "세부사항",
+     "choices": [
+      "Email them the new link",
+      "Call them",
+      "Reschedule the meeting",
+      "Visit their office"
+     ],
+     "a": 0,
+     "exKo": "I'll email them the new link right away에서 확인됩니다.",
+     "why": [
+      "고객에게 새 링크를 즉시 메일로 보내겠다고 함",
+      "전화하겠다는 언급은 지문에 없음",
+      "일정 변경이 아니라 회의 방만 바뀜",
+      "고객사 방문은 지문에 언급 없음"
+     ],
+     "ev": "I'll email them the new link right away."
+    }
+   ]
+  }
+ ]
 }

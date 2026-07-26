@@ -1,104 +1,476 @@
 {
-"passages": [
-{
-"kind": "이메일",
-"title": "송년회 장소 안내 메일",
-"passage": "From: Events Committee\nTo: All Staff\nSubject: Year-End Party Details\n\nDear colleagues,\n\nOur year-end party will be held on Friday, December 19, at the Riverside Grand Hall, starting at 6:30 p.m. Dinner, games, and a prize drawing are planned.\n\nFamily members are welcome; please add their names when you sign up by December 10. Buses will leave from the office at 6 p.m. sharp.\n\nEvents Committee",
-"questions": [
-{"q": "What is the email about?", "type": "주제·목적", "choices": ["Details of a year-end party", "A change in work hours", "A prize winner announcement", "A bus schedule change"], "a": 0, "exKo": "12월 19일 송년회 세부 사항을 알리는 메일입니다."},
-{"q": "What should staff do by December 10?", "type": "세부사항", "choices": ["Sign up with family members' names", "Buy dinner tickets", "Book a bus seat", "Send prize ideas"], "a": 0, "exKo": "12월 10일까지 가족 이름을 포함해 신청하라고 안내합니다."},
-{"q": "When do the buses leave the office?", "type": "세부사항", "choices": ["6 p.m.", "6:30 p.m.", "7 p.m.", "5:30 p.m."], "a": 0, "exKo": "Buses will leave from the office at 6 p.m. sharp에서 확인됩니다."}
-]
-},
-{
-"kind": "이메일",
-"title": "인터넷 요금제 변경 확인 메일",
-"passage": "From: FastNet Internet\nTo: Olivia Grant\nSubject: Plan Change Confirmed\n\nDear Ms. Grant,\n\nYour internet plan has been changed from Basic to Premium, effective today. Your new monthly charge is $45, starting with next month's bill.\n\nPremium gives you twice the speed and a free security package. Your router does not need to be replaced. If you did not request this change, call us within 7 days.\n\nFastNet Billing Team",
-"questions": [
-{"q": "What does the email confirm?", "type": "주제·목적", "choices": ["An internet plan change", "A canceled account", "A router purchase", "A repair visit"], "a": 0, "exKo": "요금제가 Basic에서 Premium으로 변경되었음을 확인하는 메일입니다."},
-{"q": "What is included with Premium?", "type": "세부사항", "choices": ["Twice the speed and a free security package", "A new router", "A lower bill", "Free movie channels"], "a": 0, "exKo": "twice the speed and a free security package라고 명시합니다."},
-{"q": "What should Ms. Grant do if she did not request the change?", "type": "세부사항", "choices": ["Call within 7 days", "Return the router", "Pay $45", "Visit a store"], "a": 0, "exKo": "call us within 7 days라고 안내되어 있습니다."}
-]
-},
-{
-"kind": "공지",
-"title": "사내 독감 예방접종 공지",
-"passage": "FLU SHOT NOTICE\n\nFree flu shots will be offered to all employees on Tuesday, October 8, in the health room next to the cafeteria. No appointment is needed; just bring your employee card.\n\nHours are 10 a.m. to 4 p.m., closed for lunch from 12 to 1. The shot takes about five minutes, and nurses ask you to rest for ten minutes afterward.\n\nHealth & Safety Team",
-"questions": [
-{"q": "What is being offered on October 8?", "type": "주제·목적", "choices": ["Free flu shots", "Free lunches", "Health room tours", "Employee cards"], "a": 0, "exKo": "10월 8일 전 직원 대상 무료 독감 예방접종 안내입니다."},
-{"q": "What should employees bring?", "type": "세부사항", "choices": ["Their employee card", "An appointment slip", "A health form", "Payment"], "a": 0, "exKo": "just bring your employee card라고 안내합니다."},
-{"q": "What are employees asked to do after the shot?", "type": "세부사항", "choices": ["Rest for ten minutes", "Return to work at once", "Skip lunch", "Sign a form"], "a": 0, "exKo": "rest for ten minutes afterward라고 요청합니다."}
-]
-},
-{
-"kind": "공지",
-"title": "도서 대여 코너 신설 공지",
-"passage": "NEW BOOK CORNER\n\nA small lending library has opened in the 5th-floor lounge. Take any book freely and return it within one month. To donate books, place them in the box marked 'Donations.'\n\nThe corner starts with 150 books, including novels, business titles, and travel guides. A list of all books is posted on the company intranet. Happy reading!\n\nCulture Committee",
-"questions": [
-{"q": "What has opened in the lounge?", "type": "주제·목적", "choices": ["A book lending corner", "A coffee bar", "A travel agency", "A study room"], "a": 0, "exKo": "5층 라운지에 도서 대여 코너가 생겼다는 공지입니다."},
-{"q": "How long can a book be borrowed?", "type": "세부사항", "choices": ["One month", "One week", "Three days", "As long as needed"], "a": 0, "exKo": "return it within one month라고 명시합니다."},
-{"q": "Where can people see the full book list?", "type": "세부사항", "choices": ["On the company intranet", "In the donation box", "At the front desk", "In the lounge only"], "a": 0, "exKo": "A list of all books is posted on the company intranet에서 확인됩니다."}
-]
-},
-{
-"kind": "광고",
-"title": "겨울 타이어 교체 광고",
-"passage": "WINTER IS COMING — IS YOUR CAR READY?\n\nAt Summit Auto Center, get winter tires installed from $240 for a set of four, including balancing and a free brake check.\n\nBook online and skip the line: most installations take under 40 minutes. We store your summer tires for $8 a month. Offer runs through November 30.",
-"questions": [
-{"q": "What is the advertisement mainly for?", "type": "주제·목적", "choices": ["Winter tire installation", "A new car sale", "Brake replacement", "Car washing"], "a": 0, "exKo": "겨울용 타이어 장착 서비스를 홍보하는 광고입니다."},
-{"q": "What is included in the $240 price?", "type": "세부사항", "choices": ["Balancing and a free brake check", "Free tire storage", "An oil change", "A car wash"], "a": 0, "exKo": "including balancing and a free brake check라고 명시합니다."},
-{"q": "How much does tire storage cost?", "type": "세부사항", "choices": ["$8 a month", "$240 a year", "It is free", "$40 a month"], "a": 0, "exKo": "store your summer tires for $8 a month에서 확인됩니다."}
-]
-},
-{
-"kind": "광고",
-"title": "주말 브런치 뷔페 광고",
-"passage": "WEEKEND BRUNCH AT THE GARDEN TABLE\n\nJoin us every Saturday and Sunday from 10 a.m. to 2 p.m. for our brunch buffet. Enjoy fresh salads, eggs made to order, and twenty kinds of dessert.\n\nAdults $22, children under 10 half price. Book a window seat early — they go fast! Reservations by phone only. Free parking behind the restaurant.",
-"questions": [
-{"q": "What is being advertised?", "type": "주제·목적", "choices": ["A weekend brunch buffet", "A dessert shop", "A cooking class", "A garden tour"], "a": 0, "exKo": "주말 브런치 뷔페를 홍보하는 광고입니다."},
-{"q": "How much do children under 10 pay?", "type": "세부사항", "choices": ["Half price", "$22", "Nothing", "$20"], "a": 0, "exKo": "children under 10 half price라고 명시되어 있습니다."},
-{"q": "How can customers make a reservation?", "type": "세부사항", "choices": ["By phone only", "Online only", "By email", "In person only"], "a": 0, "exKo": "Reservations by phone only에서 확인됩니다."}
-]
-},
-{
-"kind": "기사",
-"title": "중앙역 안내 로봇 시범 운영 기사",
-"passage": "CENTRAL CITY — A friendly guide robot named Milo began working at Central Station this week. Milo answers questions about train times, platforms, and nearby buses in four languages.\n\nDuring the three-month trial, staff will watch how travelers use the robot. Early feedback is positive, though some older passengers still prefer the information desk, which will stay open as usual.",
-"questions": [
-{"q": "What is the article about?", "type": "주제·목적", "choices": ["A trial of a station guide robot", "A new train line", "Ticket price changes", "A language school"], "a": 0, "exKo": "중앙역에서 안내 로봇 Milo가 시범 운영된다는 기사입니다."},
-{"q": "What can Milo do?", "type": "세부사항", "choices": ["Answer travel questions in four languages", "Carry luggage", "Sell tickets", "Drive a bus"], "a": 0, "exKo": "열차 시간, 승강장, 버스 정보를 4개 언어로 안내합니다."},
-{"q": "What is stated about the information desk?", "type": "세부사항", "choices": ["It will stay open as usual", "It will close next month", "It moved to another floor", "It is run by robots"], "a": 0, "exKo": "the information desk, which will stay open as usual에서 확인됩니다."}
-]
-},
-{
-"kind": "기사",
-"title": "사내 텃밭 프로그램 기사",
-"passage": "LAKESIDE — Insurance firm Harbor Mutual turned its roof into a vegetable garden this spring. Forty employees signed up to care for tomato, lettuce, and herb beds during lunch breaks.\n\nThe harvest goes to the staff cafeteria, cutting its vegetable costs. \"Ten minutes of gardening clears my head better than coffee,\" said accountant Lisa Cho. The company will add ten more garden beds next year.",
-"questions": [
-{"q": "What did Harbor Mutual do?", "type": "주제·목적", "choices": ["Turned its roof into a vegetable garden", "Opened a new cafeteria", "Hired forty gardeners", "Built a coffee shop"], "a": 0, "exKo": "보험사가 옥상을 채소 텃밭으로 바꿨다는 기사입니다."},
-{"q": "Where does the harvest go?", "type": "세부사항", "choices": ["To the staff cafeteria", "To a local market", "To employees' homes", "To a charity"], "a": 0, "exKo": "The harvest goes to the staff cafeteria라고 명시합니다."},
-{"q": "What is planned for next year?", "type": "세부사항", "choices": ["Ten more garden beds", "A bigger cafeteria", "A gardening contest", "A new roof"], "a": 0, "exKo": "add ten more garden beds next year에서 확인됩니다."}
-]
-},
-{
-"kind": "문자메시지",
-"title": "공항 마중 확인 문자",
-"passage": "Hana Sato (7:15 A.M.)\nGood morning! I've landed at Gate 12. Where should I go?\n\nDriver Kim (7:16 A.M.)\nWelcome! I'm waiting at Exit 3, holding a sign with your name. I'm wearing a blue cap.\n\nHana Sato (7:18 A.M.)\nGot it. I need about 15 minutes to pick up my suitcase.\n\nDriver Kim (7:19 A.M.)\nNo problem. Traffic to your hotel is light — about 25 minutes. Take your time.",
-"questions": [
-{"q": "Where is Driver Kim waiting?", "type": "세부사항", "choices": ["At Exit 3", "At Gate 12", "At the hotel", "In the parking lot"], "a": 0, "exKo": "waiting at Exit 3, holding a sign이라고 안내합니다."},
-{"q": "Why does Ms. Sato need 15 minutes?", "type": "세부사항", "choices": ["To pick up her suitcase", "To buy a ticket", "To find Exit 3", "To make a call"], "a": 0, "exKo": "pick up my suitcase에서 이유를 알 수 있습니다."},
-{"q": "How long is the drive to the hotel?", "type": "세부사항", "choices": ["About 25 minutes", "About 15 minutes", "About an hour", "About 5 minutes"], "a": 0, "exKo": "Traffic ... about 25 minutes라고 알려 줍니다."}
-]
-},
-{
-"kind": "문자메시지",
-"title": "재고 라벨 프린터 대여 문자",
-"passage": "Gary Lin (3:20 P.M.)\nHi Wendy, our label printer died in the middle of inventory. Does your team have one we could borrow today?\n\nWendy Cruz (3:23 P.M.)\nYes, we have a spare. You can pick it up from our storage on the 2nd floor.\n\nGary Lin (3:24 P.M.)\nLifesaver! We'll return it by Thursday.\n\nWendy Cruz (3:25 P.M.)\nNo rush. Ask for Danny — he'll sign it out for you.",
-"questions": [
-{"q": "Why does Mr. Lin contact Ms. Cruz?", "type": "주제·목적", "choices": ["To borrow a label printer", "To report broken storage", "To help with inventory", "To find Danny"], "a": 0, "exKo": "재고 조사 중 라벨 프린터가 고장 나 빌리려는 것입니다."},
-{"q": "Where is the spare printer?", "type": "세부사항", "choices": ["In the 2nd-floor storage", "At Danny's desk", "In the inventory room", "On the 3rd floor"], "a": 0, "exKo": "pick it up from our storage on the 2nd floor라고 안내합니다."},
-{"q": "Who will sign out the printer?", "type": "세부사항", "choices": ["Danny", "Wendy", "Gary", "The manager"], "a": 0, "exKo": "Ask for Danny — he'll sign it out for you에서 확인됩니다."}
-]
-}
-]
+ "passages": [
+  {
+   "kind": "이메일",
+   "title": "송년회 장소 안내 메일",
+   "passage": "From: Events Committee\nTo: All Staff\nSubject: Year-End Party Details\n\nDear colleagues,\n\nOur year-end party will be held on Friday, December 19, at the Riverside Grand Hall, starting at 6:30 p.m. Dinner, games, and a prize drawing are planned.\n\nFamily members are welcome; please add their names when you sign up by December 10. Buses will leave from the office at 6 p.m. sharp.\n\nEvents Committee",
+   "questions": [
+    {
+     "q": "What is the email about?",
+     "type": "주제·목적",
+     "choices": [
+      "Details of a year-end party",
+      "A change in work hours",
+      "A prize winner announcement",
+      "A bus schedule change"
+     ],
+     "a": 0,
+     "exKo": "12월 19일 송년회 세부 사항을 알리는 메일입니다."
+    },
+    {
+     "q": "What should staff do by December 10?",
+     "type": "세부사항",
+     "choices": [
+      "Sign up with family members' names",
+      "Buy dinner tickets",
+      "Book a bus seat",
+      "Send prize ideas"
+     ],
+     "a": 0,
+     "exKo": "12월 10일까지 가족 이름을 포함해 신청하라고 안내합니다."
+    },
+    {
+     "q": "When do the buses leave the office?",
+     "type": "세부사항",
+     "choices": [
+      "6 p.m.",
+      "6:30 p.m.",
+      "7 p.m.",
+      "5:30 p.m."
+     ],
+     "a": 0,
+     "exKo": "Buses will leave from the office at 6 p.m. sharp에서 확인됩니다."
+    }
+   ]
+  },
+  {
+   "kind": "이메일",
+   "title": "인터넷 요금제 변경 확인 메일",
+   "passage": "From: FastNet Internet\nTo: Olivia Grant\nSubject: Plan Change Confirmed\n\nDear Ms. Grant,\n\nYour internet plan has been changed from Basic to Premium, effective today. Your new monthly charge is $45, starting with next month's bill.\n\nPremium gives you twice the speed and a free security package. Your router does not need to be replaced. If you did not request this change, call us within 7 days.\n\nFastNet Billing Team",
+   "questions": [
+    {
+     "q": "What does the email confirm?",
+     "type": "주제·목적",
+     "choices": [
+      "An internet plan change",
+      "A canceled account",
+      "A router purchase",
+      "A repair visit"
+     ],
+     "a": 0,
+     "exKo": "요금제가 Basic에서 Premium으로 변경되었음을 확인하는 메일입니다."
+    },
+    {
+     "q": "What is included with Premium?",
+     "type": "세부사항",
+     "choices": [
+      "Twice the speed and a free security package",
+      "A new router",
+      "A lower bill",
+      "Free movie channels"
+     ],
+     "a": 0,
+     "exKo": "twice the speed and a free security package라고 명시합니다."
+    },
+    {
+     "q": "What should Ms. Grant do if she did not request the change?",
+     "type": "세부사항",
+     "choices": [
+      "Call within 7 days",
+      "Return the router",
+      "Pay $45",
+      "Visit a store"
+     ],
+     "a": 0,
+     "exKo": "call us within 7 days라고 안내되어 있습니다."
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "사내 독감 예방접종 공지",
+   "passage": "FLU SHOT NOTICE\n\nFree flu shots will be offered to all employees on Tuesday, October 8, in the health room next to the cafeteria. No appointment is needed; just bring your employee card.\n\nHours are 10 a.m. to 4 p.m., closed for lunch from 12 to 1. The shot takes about five minutes, and nurses ask you to rest for ten minutes afterward.\n\nHealth & Safety Team",
+   "questions": [
+    {
+     "q": "What is being offered on October 8?",
+     "type": "주제·목적",
+     "choices": [
+      "Free flu shots",
+      "Free lunches",
+      "Health room tours",
+      "Employee cards"
+     ],
+     "a": 0,
+     "exKo": "10월 8일 전 직원 대상 무료 독감 예방접종 안내입니다."
+    },
+    {
+     "q": "What should employees bring?",
+     "type": "세부사항",
+     "choices": [
+      "Their employee card",
+      "An appointment slip",
+      "A health form",
+      "Payment"
+     ],
+     "a": 0,
+     "exKo": "just bring your employee card라고 안내합니다."
+    },
+    {
+     "q": "What are employees asked to do after the shot?",
+     "type": "세부사항",
+     "choices": [
+      "Rest for ten minutes",
+      "Return to work at once",
+      "Skip lunch",
+      "Sign a form"
+     ],
+     "a": 0,
+     "exKo": "rest for ten minutes afterward라고 요청합니다."
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "도서 대여 코너 신설 공지",
+   "passage": "NEW BOOK CORNER\n\nA small lending library has opened in the 5th-floor lounge. Take any book freely and return it within one month. To donate books, place them in the box marked 'Donations.'\n\nThe corner starts with 150 books, including novels, business titles, and travel guides. A list of all books is posted on the company intranet. Happy reading!\n\nCulture Committee",
+   "questions": [
+    {
+     "q": "What has opened in the lounge?",
+     "type": "주제·목적",
+     "choices": [
+      "A book lending corner",
+      "A coffee bar",
+      "A travel agency",
+      "A study room"
+     ],
+     "a": 0,
+     "exKo": "5층 라운지에 도서 대여 코너가 생겼다는 공지입니다."
+    },
+    {
+     "q": "How long can a book be borrowed?",
+     "type": "세부사항",
+     "choices": [
+      "One month",
+      "One week",
+      "Three days",
+      "As long as needed"
+     ],
+     "a": 0,
+     "exKo": "return it within one month라고 명시합니다."
+    },
+    {
+     "q": "Where can people see the full book list?",
+     "type": "세부사항",
+     "choices": [
+      "On the company intranet",
+      "In the donation box",
+      "At the front desk",
+      "In the lounge only"
+     ],
+     "a": 0,
+     "exKo": "A list of all books is posted on the company intranet에서 확인됩니다."
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "겨울 타이어 교체 광고",
+   "passage": "WINTER IS COMING — IS YOUR CAR READY?\n\nAt Summit Auto Center, get winter tires installed from $240 for a set of four, including balancing and a free brake check.\n\nBook online and skip the line: most installations take under 40 minutes. We store your summer tires for $8 a month. Offer runs through November 30.",
+   "questions": [
+    {
+     "q": "What is the advertisement mainly for?",
+     "type": "주제·목적",
+     "choices": [
+      "Winter tire installation",
+      "A new car sale",
+      "Brake replacement",
+      "Car washing"
+     ],
+     "a": 0,
+     "exKo": "겨울용 타이어 장착 서비스를 홍보하는 광고입니다."
+    },
+    {
+     "q": "What is included in the $240 price?",
+     "type": "세부사항",
+     "choices": [
+      "Balancing and a free brake check",
+      "Free tire storage",
+      "An oil change",
+      "A car wash"
+     ],
+     "a": 0,
+     "exKo": "including balancing and a free brake check라고 명시합니다."
+    },
+    {
+     "q": "How much does tire storage cost?",
+     "type": "세부사항",
+     "choices": [
+      "$8 a month",
+      "$240 a year",
+      "It is free",
+      "$40 a month"
+     ],
+     "a": 0,
+     "exKo": "store your summer tires for $8 a month에서 확인됩니다."
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "주말 브런치 뷔페 광고",
+   "passage": "WEEKEND BRUNCH AT THE GARDEN TABLE\n\nJoin us every Saturday and Sunday from 10 a.m. to 2 p.m. for our brunch buffet. Enjoy fresh salads, eggs made to order, and twenty kinds of dessert.\n\nAdults $22, children under 10 half price. Book a window seat early — they go fast! Reservations by phone only. Free parking behind the restaurant.",
+   "questions": [
+    {
+     "q": "What is being advertised?",
+     "type": "주제·목적",
+     "choices": [
+      "A weekend brunch buffet",
+      "A dessert shop",
+      "A cooking class",
+      "A garden tour"
+     ],
+     "a": 0,
+     "exKo": "주말 브런치 뷔페를 홍보하는 광고입니다."
+    },
+    {
+     "q": "How much do children under 10 pay?",
+     "type": "세부사항",
+     "choices": [
+      "Half price",
+      "$22",
+      "Nothing",
+      "$20"
+     ],
+     "a": 0,
+     "exKo": "children under 10 half price라고 명시되어 있습니다."
+    },
+    {
+     "q": "How can customers make a reservation?",
+     "type": "세부사항",
+     "choices": [
+      "By phone only",
+      "Online only",
+      "By email",
+      "In person only"
+     ],
+     "a": 0,
+     "exKo": "Reservations by phone only에서 확인됩니다."
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "중앙역 안내 로봇 시범 운영 기사",
+   "passage": "CENTRAL CITY — A friendly guide robot named Milo began working at Central Station this week. Milo answers questions about train times, platforms, and nearby buses in four languages.\n\nDuring the three-month trial, staff will watch how travelers use the robot. Early feedback is positive, though some older passengers still prefer the information desk, which will stay open as usual.",
+   "questions": [
+    {
+     "q": "What is the article about?",
+     "type": "주제·목적",
+     "choices": [
+      "A trial of a station guide robot",
+      "A new train line",
+      "Ticket price changes",
+      "A language school"
+     ],
+     "a": 0,
+     "exKo": "중앙역에서 안내 로봇 Milo가 시범 운영된다는 기사입니다."
+    },
+    {
+     "q": "What can Milo do?",
+     "type": "세부사항",
+     "choices": [
+      "Answer travel questions in four languages",
+      "Carry luggage",
+      "Sell tickets",
+      "Drive a bus"
+     ],
+     "a": 0,
+     "exKo": "열차 시간, 승강장, 버스 정보를 4개 언어로 안내합니다."
+    },
+    {
+     "q": "What is stated about the information desk?",
+     "type": "세부사항",
+     "choices": [
+      "It will stay open as usual",
+      "It will close next month",
+      "It moved to another floor",
+      "It is run by robots"
+     ],
+     "a": 0,
+     "exKo": "the information desk, which will stay open as usual에서 확인됩니다."
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "사내 텃밭 프로그램 기사",
+   "passage": "LAKESIDE — Insurance firm Harbor Mutual turned its roof into a vegetable garden this spring. Forty employees signed up to care for tomato, lettuce, and herb beds during lunch breaks.\n\nThe harvest goes to the staff cafeteria, cutting its vegetable costs. \"Ten minutes of gardening clears my head better than coffee,\" said accountant Lisa Cho. The company will add ten more garden beds next year.",
+   "questions": [
+    {
+     "q": "What did Harbor Mutual do?",
+     "type": "주제·목적",
+     "choices": [
+      "Turned its roof into a vegetable garden",
+      "Opened a new cafeteria",
+      "Hired forty gardeners",
+      "Built a coffee shop"
+     ],
+     "a": 0,
+     "exKo": "보험사가 옥상을 채소 텃밭으로 바꿨다는 기사입니다."
+    },
+    {
+     "q": "Where does the harvest go?",
+     "type": "세부사항",
+     "choices": [
+      "To the staff cafeteria",
+      "To a local market",
+      "To employees' homes",
+      "To a charity"
+     ],
+     "a": 0,
+     "exKo": "The harvest goes to the staff cafeteria라고 명시합니다."
+    },
+    {
+     "q": "What is planned for next year?",
+     "type": "세부사항",
+     "choices": [
+      "Ten more garden beds",
+      "A bigger cafeteria",
+      "A gardening contest",
+      "A new roof"
+     ],
+     "a": 0,
+     "exKo": "add ten more garden beds next year에서 확인됩니다."
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "공항 마중 확인 문자",
+   "passage": "Hana Sato (7:15 A.M.)\nGood morning! I've landed at Gate 12. Where should I go?\n\nDriver Kim (7:16 A.M.)\nWelcome! I'm waiting at Exit 3, holding a sign with your name. I'm wearing a blue cap.\n\nHana Sato (7:18 A.M.)\nGot it. I need about 15 minutes to pick up my suitcase.\n\nDriver Kim (7:19 A.M.)\nNo problem. Traffic to your hotel is light — about 25 minutes. Take your time.",
+   "questions": [
+    {
+     "q": "Where is Driver Kim waiting?",
+     "type": "세부사항",
+     "choices": [
+      "At Exit 3",
+      "At Gate 12",
+      "At the hotel",
+      "In the parking lot"
+     ],
+     "a": 0,
+     "exKo": "waiting at Exit 3, holding a sign이라고 안내합니다.",
+     "why": [
+      "'waiting at Exit 3'가 기사의 대기 장소를 그대로 명시",
+      "Gate 12는 Sato가 도착한 곳 — 단어 반복 함정",
+      "호텔은 이동할 목적지이지 대기 장소가 아님",
+      "주차장에서 기다린다는 언급이 지문에 없음"
+     ],
+     "ev": "I'm waiting at Exit 3, holding a sign with your name."
+    },
+    {
+     "q": "Why does Ms. Sato need 15 minutes?",
+     "type": "세부사항",
+     "choices": [
+      "To pick up her suitcase",
+      "To buy a ticket",
+      "To find Exit 3",
+      "To make a call"
+     ],
+     "a": 0,
+     "exKo": "pick up my suitcase에서 이유를 알 수 있습니다.",
+     "why": [
+      "'to pick up my suitcase'가 15분이 필요한 이유",
+      "표를 산다는 언급이 지문에 없음",
+      "Exit 3은 만날 장소일 뿐 — 단어 반복 함정",
+      "전화를 건다는 언급이 지문에 없음"
+     ],
+     "ev": "I need about 15 minutes to pick up my suitcase."
+    },
+    {
+     "q": "How long is the drive to the hotel?",
+     "type": "세부사항",
+     "choices": [
+      "About 25 minutes",
+      "About 15 minutes",
+      "About an hour",
+      "About 5 minutes"
+     ],
+     "a": 0,
+     "exKo": "Traffic ... about 25 minutes라고 알려 줍니다.",
+     "why": [
+      "'about 25 minutes'가 호텔까지 소요 시간",
+      "15분은 짐 찾는 시간 — 다른 문항의 정답",
+      "한 시간이 걸린다는 언급이 지문에 없음",
+      "5분이라는 시간은 지문에 언급 없음"
+     ],
+     "ev": "Traffic to your hotel is light — about 25 minutes."
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "재고 라벨 프린터 대여 문자",
+   "passage": "Gary Lin (3:20 P.M.)\nHi Wendy, our label printer died in the middle of inventory. Does your team have one we could borrow today?\n\nWendy Cruz (3:23 P.M.)\nYes, we have a spare. You can pick it up from our storage on the 2nd floor.\n\nGary Lin (3:24 P.M.)\nLifesaver! We'll return it by Thursday.\n\nWendy Cruz (3:25 P.M.)\nNo rush. Ask for Danny — he'll sign it out for you.",
+   "questions": [
+    {
+     "q": "Why does Mr. Lin contact Ms. Cruz?",
+     "type": "주제·목적",
+     "choices": [
+      "To borrow a label printer",
+      "To report broken storage",
+      "To help with inventory",
+      "To find Danny"
+     ],
+     "a": 0,
+     "exKo": "재고 조사 중 라벨 프린터가 고장 나 빌리려는 것입니다.",
+     "why": [
+      "프린터 고장으로 'borrow'를 요청하는 것이 목적",
+      "고장 난 것은 프린터이지 창고가 아님",
+      "재고 조사는 자기 팀 상황이지 도움 제안 아님",
+      "Danny는 대여 처리 담당 — 다른 문항의 정답"
+     ],
+     "ev": "our label printer died in the middle of inventory. Does your team have one we could borrow today?"
+    },
+    {
+     "q": "Where is the spare printer?",
+     "type": "세부사항",
+     "choices": [
+      "In the 2nd-floor storage",
+      "At Danny's desk",
+      "In the inventory room",
+      "On the 3rd floor"
+     ],
+     "a": 0,
+     "exKo": "pick it up from our storage on the 2nd floor라고 안내합니다.",
+     "why": [
+      "'storage on the 2nd floor'가 여분 프린터 보관 장소",
+      "Danny는 서명해 줄 사람이지 보관 장소가 아님",
+      "재고 조사실이라는 장소는 지문에 언급 없음",
+      "2층이라고 했으므로 3층은 지문과 다름"
+     ],
+     "ev": "You can pick it up from our storage on the 2nd floor."
+    },
+    {
+     "q": "Who will sign out the printer?",
+     "type": "세부사항",
+     "choices": [
+      "Danny",
+      "Wendy",
+      "Gary",
+      "The manager"
+     ],
+     "a": 0,
+     "exKo": "Ask for Danny — he'll sign it out for you에서 확인됩니다.",
+     "why": [
+      "'he'll sign it out'의 he가 Danny를 가리킴",
+      "Wendy는 대여를 허락하고 안내만 해 줌",
+      "Gary는 프린터를 빌리는 쪽이지 처리자 아님",
+      "매니저가 서명한다는 언급이 지문에 없음"
+     ],
+     "ev": "Ask for Danny — he'll sign it out for you."
+    }
+   ]
+  }
+ ]
 }
