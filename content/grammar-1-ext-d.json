@@ -1,61 +1,783 @@
-{"items": [
-{"q":"The city bus offers a ___ ride to the stadium.","type":"품사","choices":["convenience","convenient","conveniently","convene"],"a":1,"transKo":"시내버스는 경기장까지 편리한 이동 수단을 제공한다.","exKo":"명사 ride를 수식하는 형용사 convenient가 정답입니다."},
-{"q":"The package arrived ___ this morning.","type":"품사","choices":["safe","safely","safety","safest"],"a":1,"transKo":"소포는 오늘 아침 무사히 도착했다.","exKo":"동사 arrived를 수식하는 부사 safely가 정답입니다."},
-{"q":"Your ___ is important to us—please rate our service.","type":"품사","choices":["opine","opinion","opinions of","opinionated"],"a":1,"transKo":"고객님의 의견은 저희에게 중요합니다. 서비스를 평가해 주세요.","exKo":"소유격 Your 뒤의 명사 자리이므로 opinion이 정답입니다."},
-{"q":"Umbrellas are ___ at the front desk on rainy days.","type":"품사","choices":["availability","available","availably","avail"],"a":1,"transKo":"비 오는 날에는 프런트에서 우산을 이용하실 수 있습니다.","exKo":"be동사 뒤 보어 자리이므로 형용사 available이 정답입니다."},
-{"q":"The store clerk counted the change ___ .","type":"품사","choices":["accurate","accurately","accuracy","accurateness"],"a":1,"transKo":"점원은 거스름돈을 정확하게 세었다.","exKo":"동사 counted를 수식하는 부사 accurately가 정답입니다."},
-{"q":"There is no ___ fee for the first month.","type":"품사","choices":["member","membership","members","membering"],"a":1,"transKo":"첫 달에는 회비가 없습니다.","exKo":"fee와 결합하는 복합 명사 membership fee(회비)가 정답입니다."},
-{"q":"The hall was ___ decorated for the party.","type":"품사","choices":["beauty","beautiful","beautifully","beautify"],"a":2,"transKo":"홀은 파티를 위해 아름답게 장식되었다.","exKo":"과거분사 decorated를 수식하는 부사 beautifully가 정답입니다."},
-{"q":"Fill out the ___ form to open an account.","type":"품사","choices":["apply","application","applies","applicant of"],"a":1,"transKo":"계좌를 개설하려면 신청 양식을 작성하세요.","exKo":"form과 결합하는 복합 명사 application form(신청서)이 정답입니다."},
-{"q":"The trainer spoke in a ___ voice.","type":"품사","choices":["cheer","cheerful","cheerfully","cheering of"],"a":1,"transKo":"트레이너는 쾌활한 목소리로 말했다.","exKo":"명사 voice를 수식하는 형용사 cheerful이 정답입니다."},
-{"q":"The show starts ___ at eight, so don't be late.","type":"품사","choices":["precise","precisely","precision","preciseness"],"a":1,"transKo":"공연은 정확히 8시에 시작하니 늦지 마세요.","exKo":"시각을 강조하는 부사 precisely가 정답입니다."},
-{"q":"The ___ from the airport takes forty minutes.","type":"품사","choices":["drive","driven","drove","drivable"],"a":0,"transKo":"공항에서 차로 40분 걸린다.","exKo":"관사 The 뒤 주어 명사 자리이며 '차로 가는 거리'를 뜻하는 명사 drive가 정답입니다."},
-{"q":"Keep this coupon in a ___ place.","type":"품사","choices":["safety","safe","safely","saving"],"a":1,"transKo":"이 쿠폰을 안전한 곳에 보관하세요.","exKo":"명사 place를 수식하는 형용사 safe가 정답입니다."},
-{"q":"The team responded to the ___ change of plans.","type":"품사","choices":["sudden","suddenly","suddenness","sudden of"],"a":0,"transKo":"팀은 갑작스러운 계획 변경에 대응했다.","exKo":"명사구 change of plans를 수식하는 형용사 sudden이 정답입니다."},
-{"q":"The bakery's ___ opening attracted a long line.","type":"품사","choices":["official","officially","office","officer"],"a":0,"transKo":"그 빵집의 공식 개장에 긴 줄이 늘어섰다.","exKo":"명사 opening을 수식하는 형용사 official이 정답입니다."},
-{"q":"Handle the glassware ___ when unpacking it.","type":"품사","choices":["gentle","gently","gentleness","gentler"],"a":1,"transKo":"유리 제품을 개봉할 때는 조심스럽게 다루세요.","exKo":"동사 Handle을 수식하는 부사 gently가 정답입니다."},
-{"q":"The dance class ___ every Wednesday at six.","type":"시제·형태","choices":["meet","meets","meeting","is met"],"a":1,"transKo":"댄스 수업은 매주 수요일 6시에 모인다.","exKo":"반복 일정을 나타내는 현재시제이며 주어가 단수이므로 meets가 정답입니다."},
-{"q":"The courier ___ the documents an hour ago.","type":"시제·형태","choices":["drops off","dropped off","will drop off","dropping off"],"a":1,"transKo":"택배 기사가 한 시간 전에 서류를 두고 갔다.","exKo":"an hour ago라는 과거 표현이 있으므로 과거시제 dropped off가 정답입니다."},
-{"q":"The IT team ___ the server right now, so email is down.","type":"시제·형태","choices":["updates","updated","is updating","has updated"],"a":2,"transKo":"IT팀이 지금 서버를 업데이트하고 있어서 이메일이 중단되었다.","exKo":"right now와 함께 진행 중인 동작이므로 현재진행형 is updating이 정답입니다."},
-{"q":"All rooms ___ daily by the housekeeping staff.","type":"시제·형태","choices":["clean","cleaned","are cleaned","cleaning"],"a":2,"transKo":"모든 객실은 매일 청소 직원들에 의해 청소된다.","exKo":"객실은 청소되는 대상이므로 수동태 are cleaned가 정답입니다."},
-{"q":"Ms. Duval ___ three languages fluently.","type":"시제·형태","choices":["speak","speaks","speaking","is spoken"],"a":1,"transKo":"듀발 씨는 3개 국어를 유창하게 구사한다.","exKo":"일반적 사실의 현재시제이며 주어가 단수이므로 speaks가 정답입니다."},
-{"q":"___ your receipt if you want a refund later.","type":"시제·형태","choices":["Keep","Keeps","Keeping","Kept"],"a":0,"transKo":"나중에 환불을 원하시면 영수증을 보관하세요.","exKo":"명령문이므로 동사원형 Keep이 정답입니다."},
-{"q":"We ___ for the airport as soon as the taxi arrives.","type":"시제·형태","choices":["leave","left","will leave","leaving"],"a":2,"transKo":"택시가 도착하는 대로 우리는 공항으로 출발할 것이다.","exKo":"as soon as절의 현재시제와 함께 미래를 나타내는 will leave가 정답입니다."},
-{"q":"The garden ___ by a local volunteer group.","type":"시제·형태","choices":["maintains","is maintained","maintaining","maintain"],"a":1,"transKo":"그 정원은 지역 자원봉사 단체가 관리한다.","exKo":"정원은 관리되는 대상이므로 수동태 is maintained가 정답입니다."},
-{"q":"I ___ my badge at home, so I need a visitor pass.","type":"시제·형태","choices":["leave","am leaving","left","will leave"],"a":2,"transKo":"사원증을 집에 두고 와서 방문증이 필요합니다.","exKo":"이미 일어난 과거의 일이므로 과거시제 left가 정답입니다."},
-{"q":"The choir practices ___ singing at the festival.","type":"시제·형태","choices":["before","befores","to before","befored"],"a":0,"transKo":"합창단은 축제에서 노래하기 전에 연습한다.","exKo":"동명사 singing을 이끄는 전치사 before가 정답입니다."},
-{"q":"The shuttle runs ___ the hotel and the convention hall.","type":"전치사·접속사","choices":["between","among","during","across on"],"a":0,"transKo":"셔틀은 호텔과 컨벤션 홀 사이를 운행한다.","exKo":"between A and B 구문의 between이 정답입니다."},
-{"q":"The pharmacy is open ___ midnight on weekends.","type":"전치사·접속사","choices":["until","by","within","across"],"a":0,"transKo":"약국은 주말에는 자정까지 문을 연다.","exKo":"상태가 지속되는 시점을 나타내는 until(~까지)이 정답입니다."},
-{"q":"Your order will ship ___ 24 hours.","type":"전치사·접속사","choices":["within","until","at","onto"],"a":0,"transKo":"주문하신 상품은 24시간 이내에 발송됩니다.","exKo":"'~ 이내에'를 뜻하는 within이 정답입니다."},
-{"q":"___ the elevator is repaired, please use the stairs.","type":"전치사·접속사","choices":["While","During","Despite","Among"],"a":0,"transKo":"엘리베이터가 수리되는 동안 계단을 이용해 주세요.","exKo":"뒤에 절이 오므로 접속사 While이 정답입니다."},
-{"q":"The picnic will go ahead ___ it rains.","type":"전치사·접속사","choices":["even if","despite","due to","in case of"],"a":0,"transKo":"비가 오더라도 야유회는 진행될 것이다.","exKo":"뒤에 절이 오고 양보의 의미인 even if(설령 ~하더라도)가 정답입니다."},
-{"q":"Payment can be made ___ cash or card.","type":"전치사·접속사","choices":["by","on","at","from"],"a":0,"transKo":"현금이나 카드로 결제하실 수 있습니다.","exKo":"수단을 나타내는 전치사 by가 정답입니다."},
-{"q":"___ of the noise, we moved to another table.","type":"전치사·접속사","choices":["Because","Although","Since","If"],"a":0,"transKo":"소음 때문에 우리는 다른 자리로 옮겼다.","exKo":"뒤의 of와 결합하는 Because of(~ 때문에)가 정답입니다. 나머지는 절을 이끕니다."},
-{"q":"Leave your key card ___ the box at the exit.","type":"전치사·접속사","choices":["in","of","among","toward"],"a":0,"transKo":"출구에 있는 상자 안에 키 카드를 넣어 주세요.","exKo":"'~ 안에'를 나타내는 전치사 in이 정답입니다."},
-{"q":"The band will play ___ the fireworks begin.","type":"전치사·접속사","choices":["until","by","during","within"],"a":0,"transKo":"불꽃놀이가 시작될 때까지 밴드가 연주할 것이다.","exKo":"뒤에 절이 오고 '~할 때까지'의 의미인 접속사 until이 정답입니다."},
-{"q":"Seats fill up quickly, ___ arrive early.","type":"전치사·접속사","choices":["so","because","although","despite"],"a":0,"transKo":"자리가 빨리 차니 일찍 도착하세요.","exKo":"결과를 이끄는 등위접속사 so가 정답입니다."},
-{"q":"Guests can ___ their bags at the cloakroom.","type":"어휘","choices":["store","spend","save up","supply"],"a":0,"transKo":"손님들은 물품 보관소에 가방을 맡길 수 있다.","exKo":"보관하다의 의미인 store가 정답입니다."},
-{"q":"Please ___ the volume after 10 p.m.","type":"어휘","choices":["lower","fall","drop off","descend"],"a":0,"transKo":"오후 10시 이후에는 음량을 낮춰 주세요.","exKo":"음량을 낮추다는 타동사 lower가 정답입니다."},
-{"q":"The tailor can ___ the pants by Friday.","type":"어휘","choices":["alter","change up","vary","switch on"],"a":0,"transKo":"재단사가 금요일까지 바지를 수선해 드릴 수 있습니다.","exKo":"옷을 수선하다는 alter입니다."},
-{"q":"We need to ___ more staff for the holiday season.","type":"어휘","choices":["hire","rent","lease","borrow"],"a":0,"transKo":"연휴 시즌을 위해 직원을 더 고용해야 한다.","exKo":"사람을 고용하다는 hire입니다. rent/lease는 물건에 씁니다."},
-{"q":"Please ___ the stairs; the elevator is out of order.","type":"어휘","choices":["take","ride on","drive","catch up"],"a":0,"transKo":"엘리베이터가 고장이니 계단을 이용해 주세요.","exKo":"take the stairs(계단을 이용하다)가 자연스럽습니다."},
-{"q":"The cashier will ___ you your change.","type":"어휘","choices":["hand","reach","deliver on","point"],"a":0,"transKo":"계산원이 거스름돈을 건네드릴 것입니다.","exKo":"hand A B(A에게 B를 건네다) 구문이 정답입니다."},
-{"q":"The notice ___ that the pool opens in June.","type":"어휘","choices":["says","tells","speaks","talks"],"a":0,"transKo":"공지에는 수영장이 6월에 문을 연다고 쓰여 있다.","exKo":"문서가 '~라고 쓰여 있다'는 say를 씁니다. tell은 대상이 필요합니다."},
-{"q":"Drivers should ___ down near the school.","type":"어휘","choices":["slow","lower","reduce on","decline"],"a":0,"transKo":"운전자들은 학교 근처에서 속도를 줄여야 한다.","exKo":"slow down(속도를 줄이다)이 정답입니다."},
-{"q":"The clinic will ___ your test results by phone.","type":"어휘","choices":["share","divide","spread on","scatter"],"a":0,"transKo":"병원에서 검사 결과를 전화로 알려 드립니다.","exKo":"정보를 공유하다는 share가 자연스럽습니다."},
-{"q":"Volunteers helped ___ chairs after the event.","type":"어휘","choices":["put away","put off","put on","put out"],"a":0,"transKo":"행사 후 자원봉사자들이 의자 치우는 것을 도왔다.","exKo":"치우다의 의미인 put away가 정답입니다."},
-{"q":"The waiter ___ the daily specials to us.","type":"어휘","choices":["described","told about","said","spoke"],"a":0,"transKo":"종업원이 오늘의 특선 요리를 설명해 주었다.","exKo":"describe + 목적어(설명하다) 구조가 자연스럽습니다."},
-{"q":"Passengers may ___ seats after takeoff.","type":"어휘","choices":["change","turn","shift on","vary"],"a":0,"transKo":"승객들은 이륙 후 좌석을 바꿀 수 있다.","exKo":"change seats(자리를 바꾸다)가 자연스럽습니다."},
-{"q":"Please ___ the office if you will be absent.","type":"어휘","choices":["notify","announce","declare","publish"],"a":0,"transKo":"결근할 경우 사무실에 알려 주세요.","exKo":"notify + 대상(~에게 알리다) 구조가 맞습니다. announce는 대상을 바로 취하지 않습니다."},
-{"q":"The janitor ___ the hallway every morning.","type":"어휘","choices":["mops","soaks","dips","floats"],"a":0,"transKo":"관리인은 매일 아침 복도를 걸레질한다.","exKo":"바닥과 어울리는 동사는 mops(대걸레로 닦다)입니다."},
-{"q":"Would you ___ me the salt, please?","type":"어휘","choices":["pass","cross","move on","carry on"],"a":0,"transKo":"소금 좀 건네주시겠어요?","exKo":"pass A B(A에게 B를 건네다)가 정답입니다."},
-{"q":"The security guard ___ the doors at 11 p.m.","type":"어휘","choices":["locks","closes on","blocks","seals to"],"a":0,"transKo":"경비원은 밤 11시에 문을 잠근다.","exKo":"문을 잠그다는 locks입니다."},
-{"q":"The airline lets you ___ your seat online.","type":"어휘","choices":["select","elect","vote","appoint"],"a":0,"transKo":"그 항공사는 온라인으로 좌석을 선택할 수 있게 해 준다.","exKo":"좌석을 고르다는 select입니다. elect/vote는 선거에 씁니다."},
-{"q":"Please ___ the survey before you leave.","type":"어휘","choices":["complete","achieve","accomplish to","conclude on"],"a":0,"transKo":"떠나기 전에 설문지를 작성해 주세요.","exKo":"complete a survey(설문을 작성하다)가 빈출 표현입니다."},
-{"q":"The band will ___ two more songs tonight.","type":"어휘","choices":["perform","act","behave","conduct to"],"a":0,"transKo":"밴드는 오늘 밤 두 곡을 더 연주할 것이다.","exKo":"공연하다의 의미인 perform이 정답입니다."},
-{"q":"Use this card to ___ the office after hours.","type":"어휘","choices":["enter","join","attend","insert"],"a":0,"transKo":"업무 시간 외에는 이 카드로 사무실에 들어가세요.","exKo":"공간에 들어가다는 enter입니다."},
-{"q":"The airline will ___ passengers for the delay.","type":"어휘","choices":["compensate","pay off","refund to","reward on"],"a":0,"transKo":"항공사는 지연에 대해 승객들에게 보상할 것이다.","exKo":"compensate A for B(B에 대해 A에게 보상하다)가 정답입니다."},
-{"q":"Could you ___ the printer paper when it runs out?","type":"어휘","choices":["refill","recharge","renew","repay"],"a":0,"transKo":"용지가 떨어지면 프린터 용지를 채워 주시겠어요?","exKo":"다시 채우다는 refill입니다."},
-{"q":"The map will help visitors ___ the museum.","type":"어휘","choices":["navigate","sail","drive to","steer on"],"a":0,"transKo":"지도는 방문객들이 박물관에서 길을 찾는 데 도움이 될 것이다.","exKo":"길을 찾아다니다의 의미인 navigate가 정답입니다."},
-{"q":"Please ___ off the meeting room lights after use.","type":"어휘","choices":["switch","close","stop","end"],"a":0,"transKo":"사용 후 회의실 불을 꺼 주세요.","exKo":"switch off(끄다)가 정답입니다."}
-]}
+{
+ "items": [
+  {
+   "q": "The city bus offers a ___ ride to the stadium.",
+   "type": "품사",
+   "choices": [
+    "convenience",
+    "convenient",
+    "conveniently",
+    "convene"
+   ],
+   "a": 1,
+   "transKo": "시내버스는 경기장까지 편리한 이동 수단을 제공한다.",
+   "exKo": "명사 ride를 수식하는 형용사 convenient가 정답입니다.",
+   "why": [
+    "명사 convenience — 관사와 명사 사이 수식어 자리에 못 옴",
+    "형용사 convenient — 뒤의 명사 ride를 앞에서 수식",
+    "부사 conveniently — 명사를 수식할 수 없음",
+    "동사원형 convene — '소집하다', 철자 유사 함정"
+   ]
+  },
+  {
+   "q": "The package arrived ___ this morning.",
+   "type": "품사",
+   "choices": [
+    "safe",
+    "safely",
+    "safety",
+    "safest"
+   ],
+   "a": 1,
+   "transKo": "소포는 오늘 아침 무사히 도착했다.",
+   "exKo": "동사 arrived를 수식하는 부사 safely가 정답입니다.",
+   "why": [
+    "형용사 safe — 완전한 1형식 문장의 동사를 수식 못 함",
+    "부사 safely — 자동사 arrived를 수식하는 자리",
+    "명사 safety — '안전', 수식어 자리에 올 수 없음",
+    "최상급 형용사 safest — the가 필요하고 동사 수식 불가"
+   ]
+  },
+  {
+   "q": "Your ___ is important to us—please rate our service.",
+   "type": "품사",
+   "choices": [
+    "opine",
+    "opinion",
+    "opinions of",
+    "opinionated"
+   ],
+   "a": 1,
+   "transKo": "고객님의 의견은 저희에게 중요합니다. 서비스를 평가해 주세요.",
+   "exKo": "소유격 Your 뒤의 명사 자리이므로 opinion이 정답입니다."
+  },
+  {
+   "q": "Umbrellas are ___ at the front desk on rainy days.",
+   "type": "품사",
+   "choices": [
+    "availability",
+    "available",
+    "availably",
+    "avail"
+   ],
+   "a": 1,
+   "transKo": "비 오는 날에는 프런트에서 우산을 이용하실 수 있습니다.",
+   "exKo": "be동사 뒤 보어 자리이므로 형용사 available이 정답입니다."
+  },
+  {
+   "q": "The store clerk counted the change ___ .",
+   "type": "품사",
+   "choices": [
+    "accurate",
+    "accurately",
+    "accuracy",
+    "accurateness"
+   ],
+   "a": 1,
+   "transKo": "점원은 거스름돈을 정확하게 세었다.",
+   "exKo": "동사 counted를 수식하는 부사 accurately가 정답입니다."
+  },
+  {
+   "q": "There is no ___ fee for the first month.",
+   "type": "품사",
+   "choices": [
+    "member",
+    "membership",
+    "members",
+    "membering"
+   ],
+   "a": 1,
+   "transKo": "첫 달에는 회비가 없습니다.",
+   "exKo": "fee와 결합하는 복합 명사 membership fee(회비)가 정답입니다."
+  },
+  {
+   "q": "The hall was ___ decorated for the party.",
+   "type": "품사",
+   "choices": [
+    "beauty",
+    "beautiful",
+    "beautifully",
+    "beautify"
+   ],
+   "a": 2,
+   "transKo": "홀은 파티를 위해 아름답게 장식되었다.",
+   "exKo": "과거분사 decorated를 수식하는 부사 beautifully가 정답입니다."
+  },
+  {
+   "q": "Fill out the ___ form to open an account.",
+   "type": "품사",
+   "choices": [
+    "apply",
+    "application",
+    "applies",
+    "applicant of"
+   ],
+   "a": 1,
+   "transKo": "계좌를 개설하려면 신청 양식을 작성하세요.",
+   "exKo": "form과 결합하는 복합 명사 application form(신청서)이 정답입니다."
+  },
+  {
+   "q": "The trainer spoke in a ___ voice.",
+   "type": "품사",
+   "choices": [
+    "cheer",
+    "cheerful",
+    "cheerfully",
+    "cheering of"
+   ],
+   "a": 1,
+   "transKo": "트레이너는 쾌활한 목소리로 말했다.",
+   "exKo": "명사 voice를 수식하는 형용사 cheerful이 정답입니다."
+  },
+  {
+   "q": "The show starts ___ at eight, so don't be late.",
+   "type": "품사",
+   "choices": [
+    "precise",
+    "precisely",
+    "precision",
+    "preciseness"
+   ],
+   "a": 1,
+   "transKo": "공연은 정확히 8시에 시작하니 늦지 마세요.",
+   "exKo": "시각을 강조하는 부사 precisely가 정답입니다."
+  },
+  {
+   "q": "The ___ from the airport takes forty minutes.",
+   "type": "품사",
+   "choices": [
+    "drive",
+    "driven",
+    "drove",
+    "drivable"
+   ],
+   "a": 0,
+   "transKo": "공항에서 차로 40분 걸린다.",
+   "exKo": "관사 The 뒤 주어 명사 자리이며 '차로 가는 거리'를 뜻하는 명사 drive가 정답입니다."
+  },
+  {
+   "q": "Keep this coupon in a ___ place.",
+   "type": "품사",
+   "choices": [
+    "safety",
+    "safe",
+    "safely",
+    "saving"
+   ],
+   "a": 1,
+   "transKo": "이 쿠폰을 안전한 곳에 보관하세요.",
+   "exKo": "명사 place를 수식하는 형용사 safe가 정답입니다."
+  },
+  {
+   "q": "The team responded to the ___ change of plans.",
+   "type": "품사",
+   "choices": [
+    "sudden",
+    "suddenly",
+    "suddenness",
+    "sudden of"
+   ],
+   "a": 0,
+   "transKo": "팀은 갑작스러운 계획 변경에 대응했다.",
+   "exKo": "명사구 change of plans를 수식하는 형용사 sudden이 정답입니다."
+  },
+  {
+   "q": "The bakery's ___ opening attracted a long line.",
+   "type": "품사",
+   "choices": [
+    "official",
+    "officially",
+    "office",
+    "officer"
+   ],
+   "a": 0,
+   "transKo": "그 빵집의 공식 개장에 긴 줄이 늘어섰다.",
+   "exKo": "명사 opening을 수식하는 형용사 official이 정답입니다."
+  },
+  {
+   "q": "Handle the glassware ___ when unpacking it.",
+   "type": "품사",
+   "choices": [
+    "gentle",
+    "gently",
+    "gentleness",
+    "gentler"
+   ],
+   "a": 1,
+   "transKo": "유리 제품을 개봉할 때는 조심스럽게 다루세요.",
+   "exKo": "동사 Handle을 수식하는 부사 gently가 정답입니다."
+  },
+  {
+   "q": "The dance class ___ every Wednesday at six.",
+   "type": "시제·형태",
+   "choices": [
+    "meet",
+    "meets",
+    "meeting",
+    "is met"
+   ],
+   "a": 1,
+   "transKo": "댄스 수업은 매주 수요일 6시에 모인다.",
+   "exKo": "반복 일정을 나타내는 현재시제이며 주어가 단수이므로 meets가 정답입니다."
+  },
+  {
+   "q": "The courier ___ the documents an hour ago.",
+   "type": "시제·형태",
+   "choices": [
+    "drops off",
+    "dropped off",
+    "will drop off",
+    "dropping off"
+   ],
+   "a": 1,
+   "transKo": "택배 기사가 한 시간 전에 서류를 두고 갔다.",
+   "exKo": "an hour ago라는 과거 표현이 있으므로 과거시제 dropped off가 정답입니다."
+  },
+  {
+   "q": "The IT team ___ the server right now, so email is down.",
+   "type": "시제·형태",
+   "choices": [
+    "updates",
+    "updated",
+    "is updating",
+    "has updated"
+   ],
+   "a": 2,
+   "transKo": "IT팀이 지금 서버를 업데이트하고 있어서 이메일이 중단되었다.",
+   "exKo": "right now와 함께 진행 중인 동작이므로 현재진행형 is updating이 정답입니다."
+  },
+  {
+   "q": "All rooms ___ daily by the housekeeping staff.",
+   "type": "시제·형태",
+   "choices": [
+    "clean",
+    "cleaned",
+    "are cleaned",
+    "cleaning"
+   ],
+   "a": 2,
+   "transKo": "모든 객실은 매일 청소 직원들에 의해 청소된다.",
+   "exKo": "객실은 청소되는 대상이므로 수동태 are cleaned가 정답입니다."
+  },
+  {
+   "q": "Ms. Duval ___ three languages fluently.",
+   "type": "시제·형태",
+   "choices": [
+    "speak",
+    "speaks",
+    "speaking",
+    "is spoken"
+   ],
+   "a": 1,
+   "transKo": "듀발 씨는 3개 국어를 유창하게 구사한다.",
+   "exKo": "일반적 사실의 현재시제이며 주어가 단수이므로 speaks가 정답입니다."
+  },
+  {
+   "q": "___ your receipt if you want a refund later.",
+   "type": "시제·형태",
+   "choices": [
+    "Keep",
+    "Keeps",
+    "Keeping",
+    "Kept"
+   ],
+   "a": 0,
+   "transKo": "나중에 환불을 원하시면 영수증을 보관하세요.",
+   "exKo": "명령문이므로 동사원형 Keep이 정답입니다."
+  },
+  {
+   "q": "We ___ for the airport as soon as the taxi arrives.",
+   "type": "시제·형태",
+   "choices": [
+    "leave",
+    "left",
+    "will leave",
+    "leaving"
+   ],
+   "a": 2,
+   "transKo": "택시가 도착하는 대로 우리는 공항으로 출발할 것이다.",
+   "exKo": "as soon as절의 현재시제와 함께 미래를 나타내는 will leave가 정답입니다."
+  },
+  {
+   "q": "The garden ___ by a local volunteer group.",
+   "type": "시제·형태",
+   "choices": [
+    "maintains",
+    "is maintained",
+    "maintaining",
+    "maintain"
+   ],
+   "a": 1,
+   "transKo": "그 정원은 지역 자원봉사 단체가 관리한다.",
+   "exKo": "정원은 관리되는 대상이므로 수동태 is maintained가 정답입니다."
+  },
+  {
+   "q": "I ___ my badge at home, so I need a visitor pass.",
+   "type": "시제·형태",
+   "choices": [
+    "leave",
+    "am leaving",
+    "left",
+    "will leave"
+   ],
+   "a": 2,
+   "transKo": "사원증을 집에 두고 와서 방문증이 필요합니다.",
+   "exKo": "이미 일어난 과거의 일이므로 과거시제 left가 정답입니다."
+  },
+  {
+   "q": "The choir practices ___ singing at the festival.",
+   "type": "시제·형태",
+   "choices": [
+    "before",
+    "befores",
+    "to before",
+    "befored"
+   ],
+   "a": 0,
+   "transKo": "합창단은 축제에서 노래하기 전에 연습한다.",
+   "exKo": "동명사 singing을 이끄는 전치사 before가 정답입니다."
+  },
+  {
+   "q": "The shuttle runs ___ the hotel and the convention hall.",
+   "type": "전치사·접속사",
+   "choices": [
+    "between",
+    "among",
+    "during",
+    "across on"
+   ],
+   "a": 0,
+   "transKo": "셔틀은 호텔과 컨벤션 홀 사이를 운행한다.",
+   "exKo": "between A and B 구문의 between이 정답입니다."
+  },
+  {
+   "q": "The pharmacy is open ___ midnight on weekends.",
+   "type": "전치사·접속사",
+   "choices": [
+    "until",
+    "by",
+    "within",
+    "across"
+   ],
+   "a": 0,
+   "transKo": "약국은 주말에는 자정까지 문을 연다.",
+   "exKo": "상태가 지속되는 시점을 나타내는 until(~까지)이 정답입니다."
+  },
+  {
+   "q": "Your order will ship ___ 24 hours.",
+   "type": "전치사·접속사",
+   "choices": [
+    "within",
+    "until",
+    "at",
+    "onto"
+   ],
+   "a": 0,
+   "transKo": "주문하신 상품은 24시간 이내에 발송됩니다.",
+   "exKo": "'~ 이내에'를 뜻하는 within이 정답입니다."
+  },
+  {
+   "q": "___ the elevator is repaired, please use the stairs.",
+   "type": "전치사·접속사",
+   "choices": [
+    "While",
+    "During",
+    "Despite",
+    "Among"
+   ],
+   "a": 0,
+   "transKo": "엘리베이터가 수리되는 동안 계단을 이용해 주세요.",
+   "exKo": "뒤에 절이 오므로 접속사 While이 정답입니다."
+  },
+  {
+   "q": "The picnic will go ahead ___ it rains.",
+   "type": "전치사·접속사",
+   "choices": [
+    "even if",
+    "despite",
+    "due to",
+    "in case of"
+   ],
+   "a": 0,
+   "transKo": "비가 오더라도 야유회는 진행될 것이다.",
+   "exKo": "뒤에 절이 오고 양보의 의미인 even if(설령 ~하더라도)가 정답입니다."
+  },
+  {
+   "q": "Payment can be made ___ cash or card.",
+   "type": "전치사·접속사",
+   "choices": [
+    "by",
+    "on",
+    "at",
+    "from"
+   ],
+   "a": 0,
+   "transKo": "현금이나 카드로 결제하실 수 있습니다.",
+   "exKo": "수단을 나타내는 전치사 by가 정답입니다."
+  },
+  {
+   "q": "___ of the noise, we moved to another table.",
+   "type": "전치사·접속사",
+   "choices": [
+    "Because",
+    "Although",
+    "Since",
+    "If"
+   ],
+   "a": 0,
+   "transKo": "소음 때문에 우리는 다른 자리로 옮겼다.",
+   "exKo": "뒤의 of와 결합하는 Because of(~ 때문에)가 정답입니다. 나머지는 절을 이끕니다."
+  },
+  {
+   "q": "Leave your key card ___ the box at the exit.",
+   "type": "전치사·접속사",
+   "choices": [
+    "in",
+    "of",
+    "among",
+    "toward"
+   ],
+   "a": 0,
+   "transKo": "출구에 있는 상자 안에 키 카드를 넣어 주세요.",
+   "exKo": "'~ 안에'를 나타내는 전치사 in이 정답입니다."
+  },
+  {
+   "q": "The band will play ___ the fireworks begin.",
+   "type": "전치사·접속사",
+   "choices": [
+    "until",
+    "by",
+    "during",
+    "within"
+   ],
+   "a": 0,
+   "transKo": "불꽃놀이가 시작될 때까지 밴드가 연주할 것이다.",
+   "exKo": "뒤에 절이 오고 '~할 때까지'의 의미인 접속사 until이 정답입니다."
+  },
+  {
+   "q": "Seats fill up quickly, ___ arrive early.",
+   "type": "전치사·접속사",
+   "choices": [
+    "so",
+    "because",
+    "although",
+    "despite"
+   ],
+   "a": 0,
+   "transKo": "자리가 빨리 차니 일찍 도착하세요.",
+   "exKo": "결과를 이끄는 등위접속사 so가 정답입니다."
+  },
+  {
+   "q": "Guests can ___ their bags at the cloakroom.",
+   "type": "어휘",
+   "choices": [
+    "store",
+    "spend",
+    "save up",
+    "supply"
+   ],
+   "a": 0,
+   "transKo": "손님들은 물품 보관소에 가방을 맡길 수 있다.",
+   "exKo": "보관하다의 의미인 store가 정답입니다."
+  },
+  {
+   "q": "Please ___ the volume after 10 p.m.",
+   "type": "어휘",
+   "choices": [
+    "lower",
+    "fall",
+    "drop off",
+    "descend"
+   ],
+   "a": 0,
+   "transKo": "오후 10시 이후에는 음량을 낮춰 주세요.",
+   "exKo": "음량을 낮추다는 타동사 lower가 정답입니다."
+  },
+  {
+   "q": "The tailor can ___ the pants by Friday.",
+   "type": "어휘",
+   "choices": [
+    "alter",
+    "change up",
+    "vary",
+    "switch on"
+   ],
+   "a": 0,
+   "transKo": "재단사가 금요일까지 바지를 수선해 드릴 수 있습니다.",
+   "exKo": "옷을 수선하다는 alter입니다."
+  },
+  {
+   "q": "We need to ___ more staff for the holiday season.",
+   "type": "어휘",
+   "choices": [
+    "hire",
+    "rent",
+    "lease",
+    "borrow"
+   ],
+   "a": 0,
+   "transKo": "연휴 시즌을 위해 직원을 더 고용해야 한다.",
+   "exKo": "사람을 고용하다는 hire입니다. rent/lease는 물건에 씁니다."
+  },
+  {
+   "q": "Please ___ the stairs; the elevator is out of order.",
+   "type": "어휘",
+   "choices": [
+    "take",
+    "ride on",
+    "drive",
+    "catch up"
+   ],
+   "a": 0,
+   "transKo": "엘리베이터가 고장이니 계단을 이용해 주세요.",
+   "exKo": "take the stairs(계단을 이용하다)가 자연스럽습니다."
+  },
+  {
+   "q": "The cashier will ___ you your change.",
+   "type": "어휘",
+   "choices": [
+    "hand",
+    "reach",
+    "deliver on",
+    "point"
+   ],
+   "a": 0,
+   "transKo": "계산원이 거스름돈을 건네드릴 것입니다.",
+   "exKo": "hand A B(A에게 B를 건네다) 구문이 정답입니다."
+  },
+  {
+   "q": "The notice ___ that the pool opens in June.",
+   "type": "어휘",
+   "choices": [
+    "says",
+    "tells",
+    "speaks",
+    "talks"
+   ],
+   "a": 0,
+   "transKo": "공지에는 수영장이 6월에 문을 연다고 쓰여 있다.",
+   "exKo": "문서가 '~라고 쓰여 있다'는 say를 씁니다. tell은 대상이 필요합니다."
+  },
+  {
+   "q": "Drivers should ___ down near the school.",
+   "type": "어휘",
+   "choices": [
+    "slow",
+    "lower",
+    "reduce on",
+    "decline"
+   ],
+   "a": 0,
+   "transKo": "운전자들은 학교 근처에서 속도를 줄여야 한다.",
+   "exKo": "slow down(속도를 줄이다)이 정답입니다."
+  },
+  {
+   "q": "The clinic will ___ your test results by phone.",
+   "type": "어휘",
+   "choices": [
+    "share",
+    "divide",
+    "spread on",
+    "scatter"
+   ],
+   "a": 0,
+   "transKo": "병원에서 검사 결과를 전화로 알려 드립니다.",
+   "exKo": "정보를 공유하다는 share가 자연스럽습니다."
+  },
+  {
+   "q": "Volunteers helped ___ chairs after the event.",
+   "type": "어휘",
+   "choices": [
+    "put away",
+    "put off",
+    "put on",
+    "put out"
+   ],
+   "a": 0,
+   "transKo": "행사 후 자원봉사자들이 의자 치우는 것을 도왔다.",
+   "exKo": "치우다의 의미인 put away가 정답입니다."
+  },
+  {
+   "q": "The waiter ___ the daily specials to us.",
+   "type": "어휘",
+   "choices": [
+    "described",
+    "told about",
+    "said",
+    "spoke"
+   ],
+   "a": 0,
+   "transKo": "종업원이 오늘의 특선 요리를 설명해 주었다.",
+   "exKo": "describe + 목적어(설명하다) 구조가 자연스럽습니다."
+  },
+  {
+   "q": "Passengers may ___ seats after takeoff.",
+   "type": "어휘",
+   "choices": [
+    "change",
+    "turn",
+    "shift on",
+    "vary"
+   ],
+   "a": 0,
+   "transKo": "승객들은 이륙 후 좌석을 바꿀 수 있다.",
+   "exKo": "change seats(자리를 바꾸다)가 자연스럽습니다."
+  },
+  {
+   "q": "Please ___ the office if you will be absent.",
+   "type": "어휘",
+   "choices": [
+    "notify",
+    "announce",
+    "declare",
+    "publish"
+   ],
+   "a": 0,
+   "transKo": "결근할 경우 사무실에 알려 주세요.",
+   "exKo": "notify + 대상(~에게 알리다) 구조가 맞습니다. announce는 대상을 바로 취하지 않습니다."
+  },
+  {
+   "q": "The janitor ___ the hallway every morning.",
+   "type": "어휘",
+   "choices": [
+    "mops",
+    "soaks",
+    "dips",
+    "floats"
+   ],
+   "a": 0,
+   "transKo": "관리인은 매일 아침 복도를 걸레질한다.",
+   "exKo": "바닥과 어울리는 동사는 mops(대걸레로 닦다)입니다."
+  },
+  {
+   "q": "Would you ___ me the salt, please?",
+   "type": "어휘",
+   "choices": [
+    "pass",
+    "cross",
+    "move on",
+    "carry on"
+   ],
+   "a": 0,
+   "transKo": "소금 좀 건네주시겠어요?",
+   "exKo": "pass A B(A에게 B를 건네다)가 정답입니다."
+  },
+  {
+   "q": "The security guard ___ the doors at 11 p.m.",
+   "type": "어휘",
+   "choices": [
+    "locks",
+    "closes on",
+    "blocks",
+    "seals to"
+   ],
+   "a": 0,
+   "transKo": "경비원은 밤 11시에 문을 잠근다.",
+   "exKo": "문을 잠그다는 locks입니다."
+  },
+  {
+   "q": "The airline lets you ___ your seat online.",
+   "type": "어휘",
+   "choices": [
+    "select",
+    "elect",
+    "vote",
+    "appoint"
+   ],
+   "a": 0,
+   "transKo": "그 항공사는 온라인으로 좌석을 선택할 수 있게 해 준다.",
+   "exKo": "좌석을 고르다는 select입니다. elect/vote는 선거에 씁니다."
+  },
+  {
+   "q": "Please ___ the survey before you leave.",
+   "type": "어휘",
+   "choices": [
+    "complete",
+    "achieve",
+    "accomplish to",
+    "conclude on"
+   ],
+   "a": 0,
+   "transKo": "떠나기 전에 설문지를 작성해 주세요.",
+   "exKo": "complete a survey(설문을 작성하다)가 빈출 표현입니다."
+  },
+  {
+   "q": "The band will ___ two more songs tonight.",
+   "type": "어휘",
+   "choices": [
+    "perform",
+    "act",
+    "behave",
+    "conduct to"
+   ],
+   "a": 0,
+   "transKo": "밴드는 오늘 밤 두 곡을 더 연주할 것이다.",
+   "exKo": "공연하다의 의미인 perform이 정답입니다."
+  },
+  {
+   "q": "Use this card to ___ the office after hours.",
+   "type": "어휘",
+   "choices": [
+    "enter",
+    "join",
+    "attend",
+    "insert"
+   ],
+   "a": 0,
+   "transKo": "업무 시간 외에는 이 카드로 사무실에 들어가세요.",
+   "exKo": "공간에 들어가다는 enter입니다."
+  },
+  {
+   "q": "The airline will ___ passengers for the delay.",
+   "type": "어휘",
+   "choices": [
+    "compensate",
+    "pay off",
+    "refund to",
+    "reward on"
+   ],
+   "a": 0,
+   "transKo": "항공사는 지연에 대해 승객들에게 보상할 것이다.",
+   "exKo": "compensate A for B(B에 대해 A에게 보상하다)가 정답입니다."
+  },
+  {
+   "q": "Could you ___ the printer paper when it runs out?",
+   "type": "어휘",
+   "choices": [
+    "refill",
+    "recharge",
+    "renew",
+    "repay"
+   ],
+   "a": 0,
+   "transKo": "용지가 떨어지면 프린터 용지를 채워 주시겠어요?",
+   "exKo": "다시 채우다는 refill입니다."
+  },
+  {
+   "q": "The map will help visitors ___ the museum.",
+   "type": "어휘",
+   "choices": [
+    "navigate",
+    "sail",
+    "drive to",
+    "steer on"
+   ],
+   "a": 0,
+   "transKo": "지도는 방문객들이 박물관에서 길을 찾는 데 도움이 될 것이다.",
+   "exKo": "길을 찾아다니다의 의미인 navigate가 정답입니다."
+  },
+  {
+   "q": "Please ___ off the meeting room lights after use.",
+   "type": "어휘",
+   "choices": [
+    "switch",
+    "close",
+    "stop",
+    "end"
+   ],
+   "a": 0,
+   "transKo": "사용 후 회의실 불을 꺼 주세요.",
+   "exKo": "switch off(끄다)가 정답입니다."
+  }
+ ]
+}

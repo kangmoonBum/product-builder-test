@@ -34,6 +34,19 @@ REL_KINDS = {"파생", "동의", "반의", "숙어"}
 POS = {"명사", "동사", "형용사", "부사", "구동사", "숙어", "전치사", "접속사"}
 CATS = {"채용·인사", "회의", "계약·법무", "마케팅", "재무·회계", "출장·여행", "배송·주문", "시설·사무"}
 
+def check_why(why, choices, where, allow_missing=True):
+    """보기별 정오답 이유 배열 검증. 통과하면 리스트, 없으면 None."""
+    if why is None:
+        if not allow_missing: err(f"{where}: why 누락")
+        return None
+    if not isinstance(why, list) or len(why) != len(choices):
+        err(f"{where}: why 길이가 보기 수({len(choices)})와 다름"); return None
+    for i, t in enumerate(why):
+        if not isinstance(t, str) or len(t.strip()) < 4:
+            err(f"{where}.why[{i}]: 너무 짧거나 문자열이 아님"); return None
+        no_html(t, f"{where}.why[{i}]")
+    return [t.strip() for t in why]
+
 # ---- vocab ----
 vocab = []
 seen_w = {}
@@ -66,6 +79,10 @@ for lv in (1, 2, 3):
                     no_html(v["ex"], where + ".ex", allow_b=True)
                     no_html(v["exKo"], where + ".exKo")
                     entry["ex"] = v["ex"]; entry["exKo"] = v["exKo"]
+            if v.get("ety"):
+                no_html(v["ety"], where + ".ety"); entry["ety"] = v["ety"].strip()
+            if v.get("mnem"):
+                no_html(v["mnem"], where + ".mnem"); entry["mnem"] = v["mnem"].strip()
             no_html(v["m"], where + ".m")
             rel = v.get("rel") or []
             for j, r in enumerate(rel):
@@ -119,8 +136,11 @@ for lv in (1, 2, 3):
         seen_gq.add(qkey)
         for c in g["choices"]: no_html(c, where + ".choice")
         no_html(g["transKo"], where); no_html(g["exKo"], where)
-        grammar.append({"id": f"g{lv}{i+1:02d}", "lv": lv, "type": g["type"], "q": g["q"],
-                        "choices": g["choices"], "a": g["a"], "transKo": g["transKo"], "exKo": g["exKo"]})
+        g_why = check_why(g.get("why"), g["choices"], where)
+        g_entry = {"id": f"g{lv}{i+1:02d}", "lv": lv, "type": g["type"], "q": g["q"],
+                   "choices": g["choices"], "a": g["a"], "transKo": g["transKo"], "exKo": g["exKo"]}
+        if g_why: g_entry["why"] = g_why
+        grammar.append(g_entry)
     print(f"  type mix: {counts}")
 
 # ---- reading ----
@@ -153,7 +173,17 @@ for lv in (1, 2, 3):
             if len(set(q["choices"])) != 4: err(f"{qw}: duplicate choices")
             no_html(q["q"], qw); no_html(q["exKo"], qw)
             for c in q["choices"]: no_html(c, qw + ".choice")
-            qs.append({"q": q["q"], "type": q["type"], "choices": q["choices"], "a": q["a"], "exKo": q["exKo"]})
+            q_entry = {"q": q["q"], "type": q["type"], "choices": q["choices"], "a": q["a"], "exKo": q["exKo"]}
+            r_why = check_why(q.get("why"), q["choices"], qw)
+            if r_why: q_entry["why"] = r_why
+            if q.get("ev"):
+                no_html(q["ev"], qw + ".ev")
+                norm = lambda t: " ".join(t.split())
+                if norm(q["ev"]) not in norm(r["passage"]):
+                    err(f"{qw}.ev: 근거 문장이 지문에 없음")
+                else:
+                    q_entry["ev"] = norm(q["ev"])
+            qs.append(q_entry)
         reading.append({"id": f"r{lv}{i+1:02d}", "lv": lv, "kind": r["kind"], "title": r["title"],
                         "passage": r["passage"], "questions": qs})
 
@@ -176,8 +206,13 @@ for lv in (1, 2, 3):
         if len(set(l["choices"])) != 3: err(f"{where}: duplicate choices")
         no_html(l["q"], where); no_html(l["exKo"], where)
         for c in l["choices"]: no_html(c, where + ".choice")
-        listening.append({"id": f"l{lv}{i+1:02d}", "lv": lv, "qType": l["qType"], "q": l["q"],
-                          "choices": l["choices"], "a": l["a"], "exKo": l["exKo"]})
+        l_entry = {"id": f"l{lv}{i+1:02d}", "lv": lv, "qType": l["qType"], "q": l["q"],
+                   "choices": l["choices"], "a": l["a"], "exKo": l["exKo"]}
+        l_why = check_why(l.get("why"), l["choices"], where)
+        if l_why: l_entry["why"] = l_why
+        if l.get("transKo"):
+            no_html(l["transKo"], where + ".transKo"); l_entry["transKo"] = l["transKo"].strip()
+        listening.append(l_entry)
 
 if errors:
     print(f"\n== {len(errors)} VALIDATION ERRORS ==")
@@ -185,6 +220,13 @@ if errors:
     if len(errors) > 60: print(f" ... and {len(errors)-60} more")
     sys.exit(1)
 
+ety_n = sum(1 for v in vocab if v.get("ety"))
+mnem_n = sum(1 for v in vocab if v.get("mnem"))
+gw_n = sum(1 for g in grammar if g.get("why"))
+rw_n = sum(1 for r in reading for q in r["questions"] if q.get("why"))
+rev_n = sum(1 for r in reading for q in r["questions"] if q.get("ev"))
+lw_n = sum(1 for l in listening if l.get("why"))
+print(f"해설 강화: 어원 {ety_n} · 연상 {mnem_n} · 구문why {gw_n} · 독해why {rw_n} · 독해근거 {rev_n} · 듣기why {lw_n}")
 print(f"\nTotals: vocab={len(vocab)} (+{rel_total} rel) grammar={len(grammar)} reading={len(reading)} listening={len(listening)}")
 
 def js(obj):
