@@ -13,7 +13,9 @@
     }
    ],
    "ex": "She is <b>keen</b> to join the overseas project.",
-   "exKo": "그녀는 해외 프로젝트에 참여하기를 열망합니다."
+   "exKo": "그녀는 해외 프로젝트에 참여하기를 열망합니다.",
+   "ety": "고대영어 cene(용감한·날카로운) → 날이 선 마음과 눈 → 열망하는, 예리한",
+   "mnem": "'킨'하게 날 선 칼날 같은 눈빛으로 하고 싶어 안달 → 예리한, 열망하는"
   },
   {
    "w": "labor",
@@ -33,7 +35,9 @@
     }
    ],
    "ex": "Rising <b>labor</b> costs affected our pricing.",
-   "exKo": "인건비 상승이 우리의 가격 책정에 영향을 주었습니다."
+   "exKo": "인건비 상승이 우리의 가격 책정에 영향을 주었습니다.",
+   "ety": "라틴 labor(수고·힘든 일) → 힘써 일함 → 노동(력) (같은 어근: laboratory 실험실)",
+   "mnem": "미국 9월 첫 월요일 '레이버 데이(Labor Day)'가 곧 노동절 → 노동(력)"
   },
   {
    "w": "landmark",
@@ -48,7 +52,9 @@
     }
    ],
    "ex": "The tower is the city's most famous <b>landmark</b>.",
-   "exKo": "그 타워는 도시에서 가장 유명한 랜드마크입니다."
+   "exKo": "그 타워는 도시에서 가장 유명한 랜드마크입니다.",
+   "ety": "land(땅) + mark(표시) → 땅에 찍어 둔 눈에 띄는 표시 → 랜드마크, 획기적 사건",
+   "mnem": "땅(land)에 딱 찍힌 표시(mark), 남산타워처럼 멀리서도 보이죠 → 랜드마크, 획기적 사건"
   },
   {
    "w": "largely",
@@ -63,7 +69,9 @@
     }
    ],
    "ex": "The delay was <b>largely</b> due to bad weather.",
-   "exKo": "지연은 주로 악천후 때문이었습니다."
+   "exKo": "지연은 주로 악천후 때문이었습니다.",
+   "ety": "large(큰) + -ly(부사) → 큰 부분에서 → 주로, 대체로",
+   "mnem": "전체 중 큰(large) 덩어리가 그렇다면 자잘한 건 넘어가고 → 주로, 대체로"
   },
   {
    "w": "latest",
@@ -78,7 +86,9 @@
     }
    ],
    "ex": "Visit our website for the <b>latest</b> product news.",
-   "exKo": "최신 제품 소식은 저희 웹사이트에서 확인하세요."
+   "exKo": "최신 제품 소식은 저희 웹사이트에서 확인하세요.",
+   "ety": "late(늦은) + -est(최상급) → 가장 늦게 나온 → 최신의",
+   "mnem": "매장에 가장 늦게(late) 들어온 물건이 곧 최신 모델 → 최신의"
   },
   {
    "w": "latter",
@@ -93,7 +103,9 @@
     }
    ],
    "ex": "Of the two plans, I prefer the <b>latter</b>.",
-   "exKo": "두 계획 중에서 저는 후자를 선호합니다."
+   "exKo": "두 계획 중에서 저는 후자를 선호합니다.",
+   "ety": "late(늦은) + -er(비교급) → 더 뒤에 온 것 → 후자",
+   "mnem": "둘 중 더 늦게(late) 나온 쪽, 앞의 former와 짝지어 외우기 → 후자"
   },
   {
    "w": "lead time",
@@ -101,7 +113,8 @@
    "m": "(주문~배송) 소요 기간",
    "cat": "배송·주문",
    "ex": "The <b>lead time</b> for custom orders is three weeks.",
-   "exKo": "주문 제작품의 소요 기간은 3주입니다."
+   "exKo": "주문 제작품의 소요 기간은 3주입니다.",
+   "mnem": "주문이 배송까지 리드(이끌려) 가는 데 걸리는 타임 → 소요 기간"
   },
   {
    "w": "leading",
@@ -116,7 +129,9 @@
     }
    ],
    "ex": "She joined a <b>leading</b> electronics company.",
-   "exKo": "그녀는 선도적인 전자 회사에 입사했습니다."
+   "exKo": "그녀는 선도적인 전자 회사에 입사했습니다.",
+   "ety": "lead(이끌다) + -ing(~하는) → 앞에서 이끄는 → 선도적인",
+   "mnem": "마라톤에서 맨 앞을 리드(lead)하는 주자가 곧 업계 1등 → 선도적인, 일류의"
   },
   {
    "w": "lease",
@@ -136,7 +151,9 @@
     }
    ],
    "ex": "The office <b>lease</b> expires at the end of June.",
-   "exKo": "사무실 임대차 계약은 6월 말에 만료됩니다."
+   "exKo": "사무실 임대차 계약은 6월 말에 만료됩니다.",
+   "ety": "라틴 laxare(느슨하게 풀다) → 손에서 풀어 남에게 넘겨 줌 → 임대차 계약",
+   "mnem": "차를 '리스'로 몇 년간 빌려 타는 그 계약 그대로 → 임대차 계약"
   },
   {
    "w": "leisure",
@@ -151,7 +168,9 @@
     }
    ],
    "ex": "The hotel has a pool for guests' <b>leisure</b> time.",
-   "exKo": "그 호텔에는 투숙객의 여가를 위한 수영장이 있습니다."
+   "exKo": "그 호텔에는 투숙객의 여가를 위한 수영장이 있습니다.",
+   "ety": "lic/lis(허락되다) + -ure → 해도 된다고 허락된 시간 → 여가 (같은 어근: license 허가증)",
+   "mnem": "주말에 '레저 스포츠' 즐기라고 허락된 시간 → 여가"
   },
   {
    "w": "license",
@@ -171,7 +190,9 @@
     }
    ],
    "ex": "A valid driver's <b>license</b> is required for this job.",
-   "exKo": "이 직무에는 유효한 운전면허가 필요합니다."
+   "exKo": "이 직무에는 유효한 운전면허가 필요합니다.",
+   "ety": "lic(허락되다) + -ence(~함) → 허락받음 → 면허(증)",
+   "mnem": "게임도 '라이선스' 있어야 정품, 운전도 허락증이 있어야 하죠 → 면허(증)"
   },
   {
    "w": "likewise",
@@ -186,7 +207,9 @@
     }
    ],
    "ex": "The Seoul branch grew; the Busan office did <b>likewise</b>.",
-   "exKo": "서울 지점이 성장했고, 부산 사무소도 마찬가지였습니다."
+   "exKo": "서울 지점이 성장했고, 부산 사무소도 마찬가지였습니다.",
+   "ety": "like(같은) + wise(방식) → 같은 방식으로 → 마찬가지로",
+   "mnem": "like(같은) 방식(wise)으로, 앞사람 한 대로 나도 똑같이 → 마찬가지로"
   },
   {
    "w": "literature",
@@ -201,7 +224,9 @@
     }
    ],
    "ex": "Product <b>literature</b> is available at the front desk.",
-   "exKo": "제품 홍보물은 안내 데스크에 비치되어 있습니다."
+   "exKo": "제품 홍보물은 안내 데스크에 비치되어 있습니다.",
+   "ety": "liter(글자) + -ature(~것) → 글자로 된 것 → 인쇄물, 문헌 (같은 어근: literal 문자 그대로의)",
+   "mnem": "레터(letter, 글자) 뭉치가 곧 문학이자 매장에 쌓인 홍보 책자 → 인쇄물, 문헌"
   },
   {
    "w": "logistics",
@@ -216,7 +241,9 @@
     }
    ],
    "ex": "She manages <b>logistics</b> for all overseas shipments.",
-   "exKo": "그녀는 모든 해외 배송 물류를 관리합니다."
+   "exKo": "그녀는 모든 해외 배송 물류를 관리합니다.",
+   "ety": "그리스 log(계산·헤아림) + -istics(기술) → 셈해서 보급하는 기술 → 물류",
+   "mnem": "택배 회사 이름에 흔한 '로지스틱스', 물건을 계산해 옮기는 일 → 물류"
   },
   {
    "w": "maintain",
@@ -231,7 +258,9 @@
     }
    ],
    "ex": "Technicians <b>maintain</b> the elevators every quarter.",
-   "exKo": "기술자들이 분기마다 엘리베이터를 정비합니다."
+   "exKo": "기술자들이 분기마다 엘리베이터를 정비합니다.",
+   "ety": "main(손) + tain(잡다) → 손으로 붙잡고 있다 → 유지하다 (같은 어근: contain 담다)",
+   "mnem": "'메인터넌스(정비)'의 동사형, 손에 꽉 쥐고 놓지 않는 관리 → 유지하다, 정비하다"
   },
   {
    "w": "majority",
@@ -251,7 +280,9 @@
     }
    ],
    "ex": "The <b>majority</b> of staff voted for flexible hours.",
-   "exKo": "직원 다수가 유연 근무제에 찬성했습니다."
+   "exKo": "직원 다수가 유연 근무제에 찬성했습니다.",
+   "ety": "major(더 큰) + -ity(~함) → 더 큰 쪽 → 다수, 과반수",
+   "mnem": "메이저(major) 리그 쪽에 사람이 훨씬 더 몰려 있다 → 다수, 과반수"
   },
   {
    "w": "manner",
@@ -266,7 +297,9 @@
     }
    ],
    "ex": "Please handle complaints in a professional <b>manner</b>.",
-   "exKo": "불만 사항은 전문가다운 방식으로 처리해 주세요."
+   "exKo": "불만 사항은 전문가다운 방식으로 처리해 주세요.",
+   "ety": "man(손) + -er(방법) → 손으로 다루는 방식 → 방식, 태도 (같은 어근: manual 손의)",
+   "mnem": "'매너 좋다'는 말이 곧 태도가 좋다는 뜻으로 쓰이죠 → 방식, 태도"
   },
   {
    "w": "manuscript",
@@ -281,7 +314,9 @@
     }
    ],
    "ex": "The editor returned the <b>manuscript</b> with comments.",
-   "exKo": "편집자가 의견을 달아 원고를 돌려보냈습니다."
+   "exKo": "편집자가 의견을 달아 원고를 돌려보냈습니다.",
+   "ety": "manu(손) + script(쓰다) → 손으로 쓴 것 → 원고 (같은 어근: manual 수동의)",
+   "mnem": "타자기 전엔 손(manu)으로 쓴(script) 종이 뭉치를 출판사에 넘겼죠 → 원고"
   },
   {
    "w": "margin",
@@ -296,7 +331,9 @@
     }
    ],
    "ex": "Profit <b>margins</b> improved after the cost cuts.",
-   "exKo": "비용 절감 후 이윤 폭이 개선되었습니다."
+   "exKo": "비용 절감 후 이윤 폭이 개선되었습니다.",
+   "ety": "라틴 margo(가장자리) → 가장자리에 남은 것 → 여백, 이윤 폭",
+   "mnem": "노트 '마진(여백)'만큼 회사에 남는 것이 곧 이익 → 이윤 폭, 여백"
   },
   {
    "w": "mass",
@@ -311,7 +348,9 @@
     }
    ],
    "ex": "The factory switched to <b>mass</b> production last year.",
-   "exKo": "그 공장은 작년에 대량 생산으로 전환했습니다."
+   "exKo": "그 공장은 작년에 대량 생산으로 전환했습니다.",
+   "ety": "그리스 maza(반죽 덩어리) → 뭉쳐진 큰 덩어리 → 대량의, 대중의",
+   "mnem": "운동회 '매스게임'은 수백 명이 한 덩어리로 움직이죠 → 대량의, 대중의"
   },
   {
    "w": "massive",
@@ -326,7 +365,9 @@
     }
    ],
    "ex": "The mall is holding a <b>massive</b> clearance sale.",
-   "exKo": "그 쇼핑몰은 대규모 재고 정리 세일을 하고 있습니다."
+   "exKo": "그 쇼핑몰은 대규모 재고 정리 세일을 하고 있습니다.",
+   "ety": "mass(덩어리) + -ive(~한) → 덩어리진 → 거대한, 대규모의",
+   "mnem": "mass(덩어리)에 -ive만 붙으면 스케일이 확 커진다 → 거대한, 대규모의"
   },
   {
    "w": "measure",
@@ -346,7 +387,9 @@
     }
    ],
    "ex": "We took extra <b>measures</b> to protect customer data.",
-   "exKo": "고객 데이터를 보호하기 위해 추가 조치를 취했습니다."
+   "exKo": "고객 데이터를 보호하기 위해 추가 조치를 취했습니다.",
+   "ety": "라틴 mensura(잼) → 재다, 재서 취하는 것 → 측정, 조치 (같은 어근: dimension 치수)",
+   "mnem": "줄자로 재보고(measure) 나서 손을 쓰는 것까지 → 측정, 조치"
   },
   {
    "w": "mechanic",
@@ -361,7 +404,9 @@
     }
    ],
    "ex": "The <b>mechanic</b> inspected the delivery van.",
-   "exKo": "정비공이 배송용 밴을 점검했습니다."
+   "exKo": "정비공이 배송용 밴을 점검했습니다.",
+   "ety": "mechan(기계) + -ic(사람) → 기계를 다루는 사람 → 정비공",
+   "mnem": "게임 직업 '메카닉'은 늘 기계를 뜯어 고치죠 → 정비공"
   },
   {
    "w": "media",
@@ -381,7 +426,9 @@
     }
    ],
    "ex": "The launch attracted wide <b>media</b> attention.",
-   "exKo": "그 출시는 언론의 큰 주목을 받았습니다."
+   "exKo": "그 출시는 언론의 큰 주목을 받았습니다.",
+   "ety": "medi(중간) + -a(복수) → 중간에서 전달하는 것들 → 매체, 언론",
+   "mnem": "'미디어'는 소식과 나 사이 중간(medi)에 낀 전달자 → 매체, 언론"
   },
   {
    "w": "memorable",
@@ -396,7 +443,9 @@
     }
    ],
    "ex": "The gala dinner was a <b>memorable</b> evening.",
-   "exKo": "갈라 만찬은 기억에 남는 저녁이었습니다."
+   "exKo": "갈라 만찬은 기억에 남는 저녁이었습니다.",
+   "ety": "memor(기억) + -able(할 만한) → 기억할 만한 → 기억에 남는 (같은 어근: memory 기억)",
+   "mnem": "메모리(memory)에 따로 저장해 둘 만한 순간 → 기억에 남는"
   },
   {
    "w": "mentor",
@@ -411,7 +460,9 @@
     }
    ],
    "ex": "Each new hire is paired with a <b>mentor</b>.",
-   "exKo": "신입 사원마다 멘토가 배정됩니다."
+   "exKo": "신입 사원마다 멘토가 배정됩니다.",
+   "ety": "그리스 신화 Mentor(오디세우스가 아들을 맡긴 스승) → 이끌어 주는 사람 → 조언자",
+   "mnem": "'멘토-멘티'라고 한국에서도 그대로 씁니다 → 멘토, 조언자"
   },
   {
    "w": "merge",
@@ -431,7 +482,9 @@
     }
    ],
    "ex": "The two banks will <b>merge</b> next spring.",
-   "exKo": "두 은행은 내년 봄에 합병할 예정입니다."
+   "exKo": "두 은행은 내년 봄에 합병할 예정입니다.",
+   "ety": "라틴 mergere(잠기다) → 물속에 잠겨 하나가 되다 → 합병하다 (같은 어근: emerge 나타나다)",
+   "mnem": "도로 'MERGE' 표지판에서 두 차선이 한 줄로 합쳐지죠 → 합병하다"
   },
   {
    "w": "merit",
@@ -446,7 +499,9 @@
     }
    ],
    "ex": "Each proposal is judged on its own <b>merits</b>.",
-   "exKo": "각 제안은 그 자체의 장점으로 평가됩니다."
+   "exKo": "각 제안은 그 자체의 장점으로 평가됩니다.",
+   "ety": "라틴 merere(받을 만하다) + -it → 받을 자격이 있는 점 → 장점, 가치",
+   "mnem": "'그 회사 메리트 있어?'를 한국어로도 장점 있냐는 뜻으로 쓰죠 → 장점, 가치"
   },
   {
    "w": "method",
@@ -461,7 +516,9 @@
     }
    ],
    "ex": "We updated our payment <b>methods</b> to include mobile pay.",
-   "exKo": "결제 방법에 모바일 결제를 추가했습니다."
+   "exKo": "결제 방법에 모바일 결제를 추가했습니다.",
+   "ety": "meta-(따라) + hod(길) → 길을 따라가는 절차 → 방법",
+   "mnem": "'메소드 연기'는 정해진 길을 따라 파고드는 방식 → 방법"
   },
   {
    "w": "minimize",
@@ -476,7 +533,9 @@
     }
    ],
    "ex": "Backups <b>minimize</b> the risk of losing data.",
-   "exKo": "백업은 데이터 손실 위험을 최소화합니다."
+   "exKo": "백업은 데이터 손실 위험을 최소화합니다.",
+   "ety": "mini(작은) + -ize(만들다) → 가장 작게 만들다 → 최소화하다",
+   "mnem": "컴퓨터 창 오른쪽 위 '최소화' 버튼 이름이 바로 minimize → 최소화하다"
   },
   {
    "w": "minimum",
@@ -496,7 +555,9 @@
     }
    ],
    "ex": "The <b>minimum</b> order for free shipping is fifty dollars.",
-   "exKo": "무료 배송 최소 주문 금액은 50달러입니다."
+   "exKo": "무료 배송 최소 주문 금액은 50달러입니다.",
+   "ety": "min(작은) + -imum(가장 ~한) → 가장 작은 것 → 최소(한)",
+   "mnem": "배달앱의 '미니멈 주문 금액 15000원' 안내 그대로 → 최소(한)"
   },
   {
    "w": "minor",
@@ -511,7 +572,9 @@
     }
    ],
    "ex": "The schedule needs only <b>minor</b> changes.",
-   "exKo": "일정에는 사소한 수정만 필요합니다."
+   "exKo": "일정에는 사소한 수정만 필요합니다.",
+   "ety": "라틴 minor(더 작은) → 더 작은 쪽 → 사소한, 경미한 (같은 어근: minus 빼기)",
+   "mnem": "마이너(minor) 리그는 규모도 사고도 작다 → 사소한, 경미한"
   },
   {
    "w": "mission",

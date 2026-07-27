@@ -977,7 +977,9 @@
     }
    ],
    "ex": "The factory will <b>cease</b> production of the old model.",
-   "exKo": "그 공장은 구형 모델 생산을 중단할 예정입니다."
+   "exKo": "그 공장은 구형 모델 생산을 중단할 예정입니다.",
+   "ety": "cess/ced(가다, 물러나다) → 하던 자리에서 물러나다 → 중단하다 (같은 어근: recede 물러나다)",
+   "mnem": "휴전 협정을 뜻하는 'cease-fire(정전)'에 그대로 들어 있죠 → 하던 것을 중단하다"
   },
   {
    "w": "chairperson",
@@ -992,7 +994,9 @@
     }
    ],
    "ex": "The <b>chairperson</b> opened the meeting with a summary.",
-   "exKo": "의장이 요약 보고로 회의를 시작했습니다."
+   "exKo": "의장이 요약 보고로 회의를 시작했습니다.",
+   "ety": "chair(앉는 자리, 그리스 kathedra) + person(사람) → 그 자리에 앉는 사람 → 의장",
+   "mnem": "회의실에서 가장 가운데 chair(의자)를 차지하고 앉은 person → 의장"
   },
   {
    "w": "characteristic",
@@ -1007,7 +1011,9 @@
     }
    ],
    "ex": "Durability is a key <b>characteristic</b> of this fabric.",
-   "exKo": "내구성은 이 원단의 핵심 특징입니다."
+   "exKo": "내구성은 이 원단의 핵심 특징입니다.",
+   "ety": "charact(새겨 넣은 표식) + -istic(~의 성질) → 새겨진 고유 표식 → 특징 (같은 어근: character 성격)",
+   "mnem": "게임 캐릭터(character)마다 다르게 새겨진 고유 능력치 → 그것만의 특징"
   },
   {
    "w": "circulate",
@@ -1022,7 +1028,9 @@
     }
    ],
    "ex": "Please <b>circulate</b> the agenda before the meeting.",
-   "exKo": "회의 전에 안건을 회람해 주세요."
+   "exKo": "회의 전에 안건을 회람해 주세요.",
+   "ety": "circ(원) + -ul(작은) + -ate(~하다) → 빙 돌리다 → 회람시키다, 유포되다 (같은 어근: circle 원)",
+   "mnem": "서류를 서클(circle) 돌듯 자리마다 한 바퀴 넘김 → 회람시키다, 소문이 퍼지다"
   },
   {
    "w": "circumstance",
@@ -1037,7 +1045,9 @@
     }
    ],
    "ex": "Under no <b>circumstances</b> should the door be left open.",
-   "exKo": "어떤 상황에서도 문을 열어 두어서는 안 됩니다."
+   "exKo": "어떤 상황에서도 문을 열어 두어서는 안 됩니다.",
+   "ety": "circum-(둘레에) + st(서다) + -ance(명사) → 나를 둘러싸고 서 있는 것 → 상황 (같은 어근: stand 서다)",
+   "mnem": "내 둘레(circum)에 버티고 선(stance) 조건들 → 지금의 상황, 사정"
   },
   {
    "w": "cite",
@@ -1052,7 +1062,9 @@
     }
    ],
    "ex": "The report <b>cites</b> rising costs as the main reason.",
-   "exKo": "보고서는 비용 상승을 주된 이유로 들고 있습니다."
+   "exKo": "보고서는 비용 상승을 주된 이유로 들고 있습니다.",
+   "ety": "cit(불러내다) → 남의 말을 불러내 오다 → 인용하다, 이유로 들다 (같은 어근: excite 불러 일으키다)",
+   "mnem": "발음이 사이트(site)와 같죠. 남의 사이트 문장을 그대로 불러와 붙임 → 인용하다"
   },
   {
    "w": "clarify",
@@ -1067,7 +1079,9 @@
     }
    ],
    "ex": "Could you <b>clarify</b> the payment terms?",
-   "exKo": "결제 조건을 명확히 설명해 주시겠어요?"
+   "exKo": "결제 조건을 명확히 설명해 주시겠어요?",
+   "ety": "clar(맑은, 밝은) + -ify(~하게 만들다) → 맑게 만들다 → 명확히 하다 (같은 어근: clear 맑은)",
+   "mnem": "뿌연 흙탕물을 클리어(clear)하게 걸러내듯 애매한 말을 정리 → 명확히 하다"
   },
   {
    "w": "classify",
@@ -1087,7 +1101,9 @@
     }
    ],
    "ex": "Please <b>classify</b> the files by year and department.",
-   "exKo": "파일을 연도와 부서별로 분류해 주세요."
+   "exKo": "파일을 연도와 부서별로 분류해 주세요.",
+   "ety": "class(부류, 등급) + -ify(~하게 만들다) → 부류로 갈라 넣다 → 분류하다 (같은 어근: class 학급)",
+   "mnem": "신입생을 1반 2반 class로 갈라 넣는 작업 → 분류하다"
   },
   {
    "w": "clause",
@@ -1102,7 +1118,9 @@
     }
    ],
    "ex": "The contract includes a cancellation <b>clause</b>.",
-   "exKo": "그 계약에는 해지 조항이 포함되어 있습니다."
+   "exKo": "그 계약에는 해지 조항이 포함되어 있습니다.",
+   "ety": "claus(닫다) → 하나로 닫아 묶은 문장 덩어리 → 계약 조항 (같은 어근: close 닫다)",
+   "mnem": "발음이 클로즈. 계약서에서 딱 닫아 못 박아 둔 한 줄 → 조항"
   },
   {
    "w": "collaborate",
@@ -1122,7 +1140,9 @@
     }
    ],
    "ex": "Our team will <b>collaborate</b> with the design firm.",
-   "exKo": "우리 팀은 그 디자인 회사와 협업할 것입니다."
+   "exKo": "우리 팀은 그 디자인 회사와 협업할 것입니다.",
+   "ety": "col-(함께) + labor(일하다) + -ate(~하다) → 함께 일하다 → 협업하다 (같은 어근: labor 노동)",
+   "mnem": "가수들 콜라보(collabo) 앨범 = 둘이 같이 노동(labor)한 결과물 → 협업하다"
   },
   {
    "w": "commitment",
@@ -1142,7 +1162,9 @@
     }
    ],
    "ex": "We appreciate your <b>commitment</b> to quality.",
-   "exKo": "품질에 대한 여러분의 헌신에 감사드립니다."
+   "exKo": "품질에 대한 여러분의 헌신에 감사드립니다.",
+   "ety": "com-(강조) + mit(보내다) + -ment(명사) → 자신을 통째로 내보내 맡김 → 헌신, 약속 (같은 어근: submit 제출하다)",
+   "mnem": "커밋(commit) 버튼을 누르면 되돌릴 수 없듯 나를 걸어버림 → 헌신, 약속"
   },
   {
    "w": "compensation",
@@ -1162,7 +1184,9 @@
     }
    ],
    "ex": "The job offers excellent <b>compensation</b> and benefits.",
-   "exKo": "그 일자리는 훌륭한 보수와 복리후생을 제공합니다."
+   "exKo": "그 일자리는 훌륭한 보수와 복리후생을 제공합니다.",
+   "ety": "com-(함께) + pens(무게를 달다) + -ation(명사) → 저울을 맞춰 채워줌 → 보상, 급여 (같은 어근: expense 지출)",
+   "mnem": "한쪽으로 기운 저울에 돈을 얹어 수평을 맞춰 줌 → 보상, 급여"
   },
   {
    "w": "complement",
@@ -1177,7 +1201,9 @@
     }
    ],
    "ex": "The new dessert menu <b>complements</b> our coffee selection.",
-   "exKo": "새 디저트 메뉴는 우리의 커피 라인업을 보완합니다."
+   "exKo": "새 디저트 메뉴는 우리의 커피 라인업을 보완합니다.",
+   "ety": "com-(완전히) + ple(채우다) + -ment(명사) → 빈 곳을 채워 완성함 → 보완하다 (같은 어근: complete 완전한)",
+   "mnem": "칭찬 compliment과 헷갈리죠. e가 든 쪽은 comPLEte(채우다) 소속 → 보완하다"
   },
   {
    "w": "complex",
@@ -1197,7 +1223,9 @@
     }
    ],
    "ex": "The refund process is too <b>complex</b> for customers.",
-   "exKo": "환불 절차가 고객에게 너무 복잡합니다."
+   "exKo": "환불 절차가 고객에게 너무 복잡합니다.",
+   "ety": "com-(함께) + plex(엮다, 접다) → 여러 겹으로 얽혀 있다 → 복잡한 (같은 어근: perplex 당황하게 하다)",
+   "mnem": "아파트 콤플렉스 = 건물 여러 동이 얽힌 단지 → 복잡한"
   },
   {
    "w": "component",
@@ -1212,7 +1240,9 @@
     }
    ],
    "ex": "Each <b>component</b> is tested before assembly.",
-   "exKo": "각 부품은 조립 전에 검사를 거칩니다."
+   "exKo": "각 부품은 조립 전에 검사를 거칩니다.",
+   "ety": "com-(함께) + pon(놓다) + -ent(~하는 것) → 함께 놓여 하나를 이루는 것 → 부품 (같은 어근: postpone 미루다)",
+   "mnem": "PC 견적 낼 때 컴포넌트라 부르는 그 조각들 → 부품, 구성 요소"
   },
   {
    "w": "comprehensive",
@@ -1227,7 +1257,9 @@
     }
    ],
    "ex": "The manual gives a <b>comprehensive</b> overview of the system.",
-   "exKo": "그 설명서는 시스템에 대한 종합적인 개요를 제공합니다."
+   "exKo": "그 설명서는 시스템에 대한 종합적인 개요를 제공합니다.",
+   "ety": "com-(모두) + prehens(붙잡다) + -ive(~한) → 전부 붙잡아 안는 → 포괄적인 (같은 어근: comprehend 이해하다)",
+   "mnem": "범위 전체를 빠짐없이 다 붙잡아 담은 시험 → 종합적인, 포괄적인"
   },
   {
    "w": "compromise",
@@ -1242,7 +1274,9 @@
     }
    ],
    "ex": "After long talks, both sides reached a <b>compromise</b>.",
-   "exKo": "긴 협상 끝에 양측은 타협에 도달했습니다."
+   "exKo": "긴 협상 끝에 양측은 타협에 도달했습니다.",
+   "ety": "com-(함께) + promis(약속하다) → 서로 한 발씩 물러나 약속하다 → 타협 (같은 어근: promise 약속)",
+   "mnem": "com(같이) + promise(약속) → 둘 다 조금씩 손해 보고 맺는 약속 → 타협"
   },
   {
    "w": "concentrate",
@@ -1262,7 +1296,9 @@
     }
    ],
    "ex": "I <b>concentrate</b> better in the quiet meeting room.",
-   "exKo": "조용한 회의실에서 더 잘 집중이 됩니다."
+   "exKo": "조용한 회의실에서 더 잘 집중이 됩니다.",
+   "ety": "con-(함께) + centr(중심) + -ate(~하다) → 한 중심으로 모으다 → 집중하다 (같은 어근: center 중심)",
+   "mnem": "흩어진 신경을 센터(center) 한 점으로 싹 끌어모으기 → 집중하다"
   },
   {
    "w": "conduct",
@@ -1277,7 +1313,9 @@
     }
    ],
    "ex": "We will <b>conduct</b> a customer survey next week.",
-   "exKo": "다음 주에 고객 설문 조사를 실시할 예정입니다."
+   "exKo": "다음 주에 고객 설문 조사를 실시할 예정입니다.",
+   "ety": "con-(함께) + duct(이끌다) → 사람들을 이끌어 일을 끌고 가다 → 실시하다 (같은 어근: introduce 소개하다)",
+   "mnem": "오케스트라 컨덕터(conductor)가 연주를 끝까지 끌고 가듯 → 실시하다, 수행하다"
   },
   {
    "w": "conference call",
@@ -1292,7 +1330,9 @@
     }
    ],
    "ex": "The <b>conference call</b> with the Tokyo office starts at nine.",
-   "exKo": "도쿄 지사와의 전화 회의는 9시에 시작합니다."
+   "exKo": "도쿄 지사와의 전화 회의는 9시에 시작합니다.",
+   "ety": "con-(함께) + fer(나르다) + -ence(명사) → 말을 서로 옮기는 자리 + call(통화) → 전화 회의",
+   "mnem": "학회를 뜻하는 콘퍼런스를 모이지 않고 call(통화)로 처리 → 전화 회의"
   },
   {
    "w": "confidence",
@@ -1307,7 +1347,9 @@
     }
    ],
    "ex": "The training gave her <b>confidence</b> in public speaking.",
-   "exKo": "그 교육은 그녀에게 발표에 대한 자신감을 주었습니다."
+   "exKo": "그 교육은 그녀에게 발표에 대한 자신감을 주었습니다.",
+   "ety": "con-(완전히) + fid(믿다) + -ence(명사) → 완전히 믿는 상태 → 자신감, 신뢰 (같은 어근: fidelity 충실)",
+   "mnem": "친한 사이에만 쓰는 confidential(비밀의)도 믿음이 바탕 → 자신감, 신뢰"
   },
   {
    "w": "conflict",
@@ -1322,7 +1364,9 @@
     }
    ],
    "ex": "The meeting time <b>conflicts</b> with my client visit.",
-   "exKo": "회의 시간이 제 고객 방문과 겹칩니다."
+   "exKo": "회의 시간이 제 고객 방문과 겹칩니다.",
+   "ety": "con-(서로) + flict(치다, 때리다) → 서로 마주 때리다 → 충돌, 상충 (같은 어근: afflict 괴롭히다)",
+   "mnem": "두 일정이 정면으로 부딪쳐 플릭 소리를 내며 겹침 → 충돌, 상충"
   },
   {
    "w": "consent",
@@ -1337,7 +1381,9 @@
     }
    ],
    "ex": "Written <b>consent</b> is required before sharing customer data.",
-   "exKo": "고객 데이터를 공유하려면 서면 동의가 필요합니다."
+   "exKo": "고객 데이터를 공유하려면 서면 동의가 필요합니다.",
+   "ety": "con-(함께) + sent(느끼다) → 같은 마음으로 느끼다 → 동의, 허락 (같은 어근: sense 감각)",
+   "mnem": "상대와 센스(sense)가 나란히 통했다는 신호 → 동의, 허락"
   },
   {
    "w": "consequence",
@@ -1357,7 +1403,9 @@
     }
    ],
    "ex": "Missing the deadline had serious <b>consequences</b>.",
-   "exKo": "마감을 놓친 것은 심각한 결과를 낳았습니다."
+   "exKo": "마감을 놓친 것은 심각한 결과를 낳았습니다.",
+   "ety": "con-(뒤따라) + sequ(따르다) + -ence(명사) → 뒤에 따라오는 것 → 결과 (같은 어근: sequence 순서)",
+   "mnem": "시퀀스(sequence)처럼 행동 뒤에 줄줄이 따라 붙는 것 → 결과"
   },
   {
    "w": "conserve",
@@ -1372,7 +1420,9 @@
     }
    ],
    "ex": "Turn off monitors overnight to <b>conserve</b> energy.",
-   "exKo": "에너지를 아끼기 위해 밤에는 모니터를 꺼 주세요."
+   "exKo": "에너지를 아끼기 위해 밤에는 모니터를 꺼 주세요.",
+   "ety": "con-(완전히) + serv(지키다) → 끝까지 지켜 두다 → 아끼다, 보존하다 (같은 어근: preserve 보존하다)",
+   "mnem": "보수적인 conservative가 옛것을 끝까지 지키듯 → 아끼다, 보존하다"
   },
   {
    "w": "considerably",
@@ -1387,7 +1437,9 @@
     }
    ],
    "ex": "Shipping costs rose <b>considerably</b> this year.",
-   "exKo": "올해 배송비가 상당히 올랐습니다."
+   "exKo": "올해 배송비가 상당히 올랐습니다.",
+   "ety": "con-(강조) + sider(별) + -ably(~하게) → 별을 뜯어볼 만큼 눈에 띄게 → 상당히 (같은 어근: desire 소망하다)",
+   "mnem": "고려(consider)해 볼 가치가 있을 만큼 양이 크다 → 상당히"
   },
   {
    "w": "consist",
@@ -1407,7 +1459,9 @@
     }
    ],
    "ex": "The kit <b>consists</b> of a manual and three tools.",
-   "exKo": "그 키트는 설명서와 도구 세 개로 구성됩니다."
+   "exKo": "그 키트는 설명서와 도구 세 개로 구성됩니다.",
+   "ety": "con-(함께) + sist(서다) → 여럿이 함께 서서 하나를 이루다 → 구성되다 (같은 어근: assist 돕다)",
+   "mnem": "멤버들이 어깨 나란히 함께 서(sist) 있어야 팀이 됨 → ~로 구성되다"
   },
   {
    "w": "consistent",
@@ -1427,7 +1481,9 @@
     }
    ],
    "ex": "Our bakery is known for <b>consistent</b> quality.",
-   "exKo": "저희 빵집은 한결같은 품질로 유명합니다."
+   "exKo": "저희 빵집은 한결같은 품질로 유명합니다.",
+   "ety": "con-(함께) + sist(서다) + -ent(~한) → 늘 같은 자리에 서 있는 → 일관된 (같은 어근: resist 저항하다)",
+   "mnem": "매일 같은 자리에 그대로 서 있는 편의점 간판 → 일관된, 한결같은"
   },
   {
    "w": "construct",
@@ -1442,7 +1498,9 @@
     }
    ],
    "ex": "The city will <b>construct</b> a new bridge next year.",
-   "exKo": "시는 내년에 새 다리를 건설할 예정입니다."
+   "exKo": "시는 내년에 새 다리를 건설할 예정입니다.",
+   "ety": "con-(함께) + struct(쌓다, 세우다) → 함께 쌓아 올리다 → 건설하다 (같은 어근: structure 구조)",
+   "mnem": "구조물(structure)을 con(같이) 쌓아 올리는 공사 현장 → 건설하다"
   },
   {
    "w": "consult",
@@ -1462,7 +1520,9 @@
     }
    ],
    "ex": "Please <b>consult</b> the handbook before asking HR.",
-   "exKo": "인사팀에 문의하기 전에 편람을 참고해 주세요."
+   "exKo": "인사팀에 문의하기 전에 편람을 참고해 주세요.",
+   "ety": "con-(함께) + sult(의논하다) → 머리를 맞대고 묻다 → 상담하다, 참고하다 (같은 어근: counsel 조언)",
+   "mnem": "컨설팅 받으러 간다는 그 말 그대로 → 상담하다, 자료를 찾아 참고하다"
   },
   {
    "w": "consume",
@@ -1482,7 +1542,9 @@
     }
    ],
    "ex": "The new lights <b>consume</b> far less electricity.",
-   "exKo": "새 조명은 전기를 훨씬 적게 소비합니다."
+   "exKo": "새 조명은 전기를 훨씬 적게 소비합니다.",
+   "ety": "con-(완전히) + sum(취하다) → 남김없이 취해 써 버리다 → 소비하다 (같은 어근: assume 떠맡다)",
+   "mnem": "컨슈머(consumer)가 소비자니까, 그가 하는 행동 → 소비하다"
   },
   {
    "w": "contemporary",
@@ -1497,7 +1559,9 @@
     }
    ],
    "ex": "The lobby was redesigned in a <b>contemporary</b> style.",
-   "exKo": "로비는 현대적인 스타일로 재설계되었습니다."
+   "exKo": "로비는 현대적인 스타일로 재설계되었습니다.",
+   "ety": "con-(같은) + tempor(시간) + -ary(~의) → 같은 시간을 사는 → 현대의, 동시대의 (같은 어근: temporary 일시적인)",
+   "mnem": "템포(tempo)를 나란히 맞춰 같은 시대를 사는 사람들 → 동시대의, 현대의"
   },
   {
    "w": "contribute",
@@ -1517,7 +1581,9 @@
     }
    ],
    "ex": "Everyone <b>contributed</b> ideas to the campaign.",
-   "exKo": "모두가 캠페인에 아이디어를 보탰습니다."
+   "exKo": "모두가 캠페인에 아이디어를 보탰습니다.",
+   "ety": "con-(함께) + tribute(주다, 바치다) → 함께 내놓다 → 기여하다 (같은 어근: tribute 공물)",
+   "mnem": "회비를 다 같이 걷어 내놓는 장면 → 기여하다, 글을 내놓으면 기고하다"
   },
   {
    "w": "convert",
@@ -1537,7 +1603,9 @@
     }
    ],
    "ex": "We plan to <b>convert</b> the storage room into an office.",
-   "exKo": "창고를 사무실로 개조할 계획입니다."
+   "exKo": "창고를 사무실로 개조할 계획입니다.",
+   "ety": "con-(완전히) + vert(돌리다) → 방향을 통째로 돌려놓다 → 전환하다 (같은 어근: advertise 광고하다)",
+   "mnem": "파일을 컨버팅해 형식을 확 돌려버리는 그 동작 → 전환하다, 개조하다"
   },
   {
    "w": "convince",
@@ -1557,7 +1625,9 @@
     }
    ],
    "ex": "The demo <b>convinced</b> the client to sign the deal.",
-   "exKo": "그 시연이 고객을 설득해 계약을 성사시켰습니다."
+   "exKo": "그 시연이 고객을 설득해 계약을 성사시켰습니다.",
+   "ety": "con-(완전히) + vinc(이기다) → 상대를 완전히 이겨 넘어오게 하다 → 설득하다 (같은 어근: victory 승리)",
+   "mnem": "논쟁에서 완승(victory)해야 상대가 넘어옴 → 설득하다, 확신시키다"
   },
   {
    "w": "coordinate",
@@ -1577,7 +1647,9 @@
     }
    ],
    "ex": "She will <b>coordinate</b> the schedules of both teams.",
-   "exKo": "그녀가 두 팀의 일정을 조율할 것입니다."
+   "exKo": "그녀가 두 팀의 일정을 조율할 것입니다.",
+   "ety": "co-(함께) + ordin(순서, 질서) + -ate(~하다) → 여럿을 같은 질서로 놓다 → 조율하다 (같은 어근: order 순서)",
+   "mnem": "옷 코디가 상하의 톤을 맞추듯 일정과 사람을 맞춤 → 조율하다, 조정하다"
   },
   {
    "w": "corporation",
@@ -1597,7 +1669,9 @@
     }
    ],
    "ex": "The <b>corporation</b> owns factories in five countries.",
-   "exKo": "그 기업은 5개국에 공장을 소유하고 있습니다."
+   "exKo": "그 기업은 5개국에 공장을 소유하고 있습니다.",
+   "ety": "corpor(몸, 신체) + -ation(명사) → 여럿이 한 몸을 이룬 조직 → 기업, 법인 (같은 어근: corps 부대)",
+   "mnem": "법이 몸(corpus)을 만들어 준 가짜 사람 → 그래서 법인, 기업"
   },
   {
    "w": "correspond",
@@ -1617,7 +1691,9 @@
     }
    ],
    "ex": "We <b>correspond</b> with overseas clients mainly by email.",
-   "exKo": "우리는 해외 고객과 주로 이메일로 서신을 주고받습니다."
+   "exKo": "우리는 해외 고객과 주로 이메일로 서신을 주고받습니다.",
+   "ety": "cor-(서로) + re-(되돌려) + spond(답하다) → 서로 주고받아 답하다 → 서신 왕래하다, 일치하다 (같은 어근: response 응답)",
+   "mnem": "서로(cor) 응답(respond)을 계속 주고받다 → 편지를 왕래하다, 딱 들어맞다"
   },
   {
    "w": "critical",
@@ -1637,7 +1713,9 @@
     }
    ],
    "ex": "Customer feedback is <b>critical</b> to product design.",
-   "exKo": "고객 피드백은 제품 설계에 매우 중요합니다."
+   "exKo": "고객 피드백은 제품 설계에 매우 중요합니다.",
+   "ety": "crit(가려내다, 판단하다) + -ical(~한) → 갈라 판단해야 할 → 중대한, 비판적인 (같은 어근: criticize 비판하다)",
+   "mnem": "환자 상태가 크리티컬하다 = 생사가 갈리는 고비 → 중대한, 날 선 비판의"
   },
   {
    "w": "crucial",
@@ -1652,7 +1730,9 @@
     }
    ],
    "ex": "The next quarter is <b>crucial</b> for our expansion plan.",
-   "exKo": "다음 분기는 우리의 확장 계획에 결정적입니다."
+   "exKo": "다음 분기는 우리의 확장 계획에 결정적입니다.",
+   "ety": "cruc(십자, 갈림길) + -ial(~한) → 길이 갈리는 지점의 → 결정적인, 중대한 (같은 어근: cross 십자)",
+   "mnem": "십자(cross) 갈림길 한복판, 어디로 트느냐가 전부 → 결정적인, 중대한"
   },
   {
    "w": "cuisine",
@@ -1667,7 +1747,9 @@
     }
    ],
    "ex": "The hotel restaurant serves French <b>cuisine</b>.",
-   "exKo": "그 호텔 식당은 프랑스 요리를 제공합니다."
+   "exKo": "그 호텔 식당은 프랑스 요리를 제공합니다.",
+   "ety": "cuis(익히다, 요리하다) + -ine(명사) → 부엌에서 나온 것 → 요리 (같은 어근: kitchen 부엌)",
+   "mnem": "발음이 퀴진. 이름이 퀴즈처럼 어려운 코스가 줄줄이 나오는 정식 → 요리(양식)"
   },
   {
    "w": "curb",
@@ -1682,7 +1764,9 @@
     }
    ],
    "ex": "New rules aim to <b>curb</b> unnecessary spending.",
-   "exKo": "새 규정은 불필요한 지출을 억제하는 것이 목적입니다."
+   "exKo": "새 규정은 불필요한 지출을 억제하는 것이 목적입니다.",
+   "ety": "curv/curb(구부리다) → 뻗어 나가는 것을 구부려 꺾다 → 억제하다 (같은 어근: curve 곡선)",
+   "mnem": "도로 가장자리 연석(curb)이 차가 못 넘어가게 막아섬 → 억제하다"
   },
   {
    "w": "custom",
@@ -1702,7 +1786,9 @@
     }
    ],
    "ex": "We offer <b>custom</b> furniture made to order.",
-   "exKo": "저희는 주문 제작 가구를 제공합니다."
+   "exKo": "저희는 주문 제작 가구를 제공합니다.",
+   "ety": "con-(강조) + suet(익숙해지다) → 그 사람에게 맞춰 굳어진 방식 → 주문 제작의 (같은 어근: customer 단골손님)",
+   "mnem": "커스텀 유니폼 = 내 몸 치수에 맞춰 따로 만든 것 → 주문 제작의"
   },
   {
    "w": "customs",
@@ -1722,7 +1808,9 @@
     }
    ],
    "ex": "The package was delayed at <b>customs</b> for two days.",
-   "exKo": "소포가 세관에서 이틀간 지연되었습니다."
+   "exKo": "소포가 세관에서 이틀간 지연되었습니다.",
+   "ety": "custom(관례, 관습) + -s → 나라마다 정해 놓은 관례적 통행세 → 세관 (같은 어근: custom 관습)",
+   "mnem": "s 하나 붙었을 뿐인데 공항 짐 검사대 표지판이 됨 → 세관"
   },
   {
    "w": "cutting-edge",
@@ -1737,7 +1825,8 @@
     }
    ],
    "ex": "The lab uses <b>cutting-edge</b> testing equipment.",
-   "exKo": "그 연구소는 최첨단 시험 장비를 사용합니다."
+   "exKo": "그 연구소는 최첨단 시험 장비를 사용합니다.",
+   "mnem": "칼(cutting)날(edge)이 갓 벼려져 제일 잘 드는 그 부분 → 최첨단의"
   },
   {
    "w": "dedicated",
@@ -1757,7 +1846,9 @@
     }
    ],
    "ex": "A <b>dedicated</b> support line is available for members.",
-   "exKo": "회원 전용 지원 회선이 운영됩니다."
+   "exKo": "회원 전용 지원 회선이 운영됩니다.",
+   "ety": "de-(완전히) + dic(선언하다) + -ated(~된) → 오직 이것에 바치겠다 선언한 → 헌신적인, 전용의 (같은 어근: dictionary 사전)",
+   "mnem": "이건 오직 너만 쓴다고 선언해 둔 서버 → 전용의, 그만큼 몸 바친 헌신적인"
   },
   {
    "w": "defective",
@@ -1772,7 +1863,9 @@
     }
    ],
    "ex": "Return <b>defective</b> items within thirty days.",
-   "exKo": "결함이 있는 상품은 30일 이내에 반품하세요."
+   "exKo": "결함이 있는 상품은 30일 이내에 반품하세요.",
+   "ety": "de-(모자라게) + fect(만들다) + -ive(~한) → 만들다 만 → 결함이 있는 (같은 어근: perfect 완벽한)",
+   "mnem": "perfect에서 per(완전히)가 de(모자람)로 갈아 끼워짐 → 결함이 있는"
   },
   {
    "w": "demand",
@@ -1792,7 +1885,9 @@
     }
    ],
    "ex": "<b>Demand</b> for electric cars keeps rising.",
-   "exKo": "전기차 수요가 계속 증가하고 있습니다."
+   "exKo": "전기차 수요가 계속 증가하고 있습니다.",
+   "ety": "de-(강하게) + mand(명령하다) → 세게 밀어붙여 요구하다 → 수요, 요구 (같은 어근: command 명령)",
+   "mnem": "손님이 내놓으라고 커맨드(command)를 날리는 힘 → 요구, 그게 모이면 수요"
   },
   {
    "w": "demonstrate",
@@ -1812,7 +1907,9 @@
     }
    ],
    "ex": "The staff will <b>demonstrate</b> the new blender at noon.",
-   "exKo": "직원이 정오에 새 블렌더를 시연할 것입니다."
+   "exKo": "직원이 정오에 새 블렌더를 시연할 것입니다.",
+   "ety": "de-(완전히) + monstr(보여주다) + -ate(~하다) → 눈앞에 다 펼쳐 보이다 → 시연하다 (같은 어근: monster 괴물)",
+   "mnem": "몬스터(monster)급 신제품을 무대에서 직접 꺼내 보임 → 시연하다, 입증하다"
   },
   {
    "w": "dependable",
@@ -1832,7 +1929,9 @@
     }
    ],
    "ex": "We need a <b>dependable</b> supplier for paper goods.",
-   "exKo": "종이 제품을 안정적으로 공급할 믿을 만한 업체가 필요합니다."
+   "exKo": "종이 제품을 안정적으로 공급할 믿을 만한 업체가 필요합니다.",
+   "ety": "de-(아래에) + pend(매달리다) + -able(~해도 되는) → 매달려도 되는 → 믿을 수 있는 (같은 어근: pendant 펜던트)",
+   "mnem": "내 몸무게를 통째로 매달아도 끊어지지 않는 줄 → 믿을 수 있는"
   },
   {
    "w": "deserve",
@@ -1847,7 +1946,9 @@
     }
    ],
    "ex": "The team <b>deserves</b> praise for the smooth launch.",
-   "exKo": "그 팀은 순조로운 출시에 대해 칭찬받을 만합니다."
+   "exKo": "그 팀은 순조로운 출시에 대해 칭찬받을 만합니다.",
+   "ety": "de-(충분히) + serv(섬기다, 봉사하다) → 충분히 섬겼으니 받을 만하다 → ~을 받을 만하다 (같은 어근: service 봉사)",
+   "mnem": "서브(serve)를 그만큼 열심히 했으니 대가는 당연 → ~을 받을 만하다"
   },
   {
    "w": "designate",
@@ -1862,7 +1963,9 @@
     }
    ],
    "ex": "This area is <b>designated</b> for visitor parking.",
-   "exKo": "이 구역은 방문객 주차용으로 지정되어 있습니다."
+   "exKo": "이 구역은 방문객 주차용으로 지정되어 있습니다.",
+   "ety": "de-(콕 집어) + sign(표시하다) + -ate(~하다) → 표시를 콕 찍어 두다 → 지정하다 (같은 어근: signal 신호)",
+   "mnem": "흡연 구역에 사인(sign)을 콕 박아 자리를 못 박음 → 지정하다"
   },
   {
    "w": "desirable",
@@ -1877,7 +1980,9 @@
     }
    ],
    "ex": "Experience with spreadsheets is <b>desirable</b> for this role.",
-   "exKo": "이 직무에는 스프레드시트 사용 경험이 있으면 좋습니다."
+   "exKo": "이 직무에는 스프레드시트 사용 경험이 있으면 좋습니다.",
+   "ety": "de-(~로부터) + sider(별) + -able(~할 만한) → 별을 보며 바랄 만한 → 바람직한 (같은 어근: consider 고려하다)",
+   "mnem": "별 보며 소원(desire) 빌 만큼 탐나는 조건 → 바람직한, 매력적인"
   },
   {
    "w": "determine",
@@ -1897,7 +2002,9 @@
     }
    ],
    "ex": "The survey will <b>determine</b> which design customers prefer.",
-   "exKo": "설문으로 고객이 선호하는 디자인을 알아낼 것입니다."
+   "exKo": "설문으로 고객이 선호하는 디자인을 알아낼 것입니다.",
+   "ety": "de-(완전히) + termin(경계, 끝) → 끝 선을 확실히 긋다 → 결정하다, 알아내다 (같은 어근: terminal 종착역)",
+   "mnem": "터미널(terminal)이 노선의 끝이듯 선을 끝까지 그음 → 결정하다, 밝혀내다"
   },
   {
    "w": "develop",
@@ -1917,7 +2024,9 @@
     }
    ],
    "ex": "The lab is <b>developing</b> a lighter battery.",
-   "exKo": "그 연구소는 더 가벼운 배터리를 개발하고 있습니다."
+   "exKo": "그 연구소는 더 가벼운 배터리를 개발하고 있습니다.",
+   "ety": "de-(반대로) + velop(감싸다) → 감싼 것을 풀어 펼치다 → 개발하다, 발전시키다 (같은 어근: envelope 봉투)",
+   "mnem": "엔벨로프(envelope) 봉투를 뜯어 속을 쫙 펼치기 → 개발하다, 발전시키다"
   },
   {
    "w": "device",
@@ -1932,7 +2041,9 @@
     }
    ],
    "ex": "Please silence all mobile <b>devices</b> during the talk.",
-   "exKo": "강연 중에는 모든 모바일 기기를 무음으로 해 주세요."
+   "exKo": "강연 중에는 모든 모바일 기기를 무음으로 해 주세요.",
+   "ety": "de-(따로) + vis(나누다) → 따로 떼어 궁리해 만든 물건 → 장치, 기기 (같은 어근: divide 나누다)",
+   "mnem": "IT 기사에서 그냥 디바이스라고 쓰죠 → 손에 드는 장치, 기기"
   },
   {
    "w": "devote",
@@ -1947,7 +2058,9 @@
     }
    ],
    "ex": "She <b>devotes</b> two hours a week to mentoring.",
-   "exKo": "그녀는 매주 두 시간을 멘토링에 쏟습니다."
+   "exKo": "그녀는 매주 두 시간을 멘토링에 쏟습니다.",
+   "ety": "de-(완전히) + vot(맹세하다) → 통째로 바치겠다 맹세하다 → 바치다, 쏟다 (같은 어근: vote 투표)",
+   "mnem": "가진 표(vote)를 몽땅 한 곳에 몰아 던짐 → 시간을 바치다, 쏟다"
   },
   {
    "w": "diagnose",
@@ -1962,7 +2075,9 @@
     }
    ],
    "ex": "The technician quickly <b>diagnosed</b> the network problem.",
-   "exKo": "기술자가 네트워크 문제를 신속히 진단했습니다."
+   "exKo": "기술자가 네트워크 문제를 신속히 진단했습니다.",
+   "ety": "dia-(꿰뚫어) + gnos(알다) → 속을 꿰뚫어 알아내다 → 진단하다 (같은 어근: know 알다)",
+   "mnem": "의사가 몸속을 꿰뚫어 보고 병명을 짚어냄 → 진단하다"
   },
   {
    "w": "dimension",
@@ -1977,7 +2092,9 @@
     }
    ],
    "ex": "Please check the <b>dimensions</b> of the box before shipping.",
-   "exKo": "배송 전에 상자 치수를 확인해 주세요."
+   "exKo": "배송 전에 상자 치수를 확인해 주세요.",
+   "ety": "di-(떨어져) + mens(재다) + -ion(명사) → 재어서 나온 크기 → 치수, 차원 (같은 어근: measure 측정하다)",
+   "mnem": "3D가 three dimensions, 가로세로높이를 잰 값 → 치수, 차원"
   },
   {
    "w": "diverse",
@@ -1997,7 +2114,9 @@
     }
    ],
    "ex": "Our team comes from <b>diverse</b> professional backgrounds.",
-   "exKo": "우리 팀은 다양한 직업적 배경을 가진 사람들로 구성되어 있습니다."
+   "exKo": "우리 팀은 다양한 직업적 배경을 가진 사람들로 구성되어 있습니다.",
+   "ety": "di-(따로) + vers(돌다, 향하다) → 제각기 다른 쪽으로 돌아선 → 다양한 (같은 어근: reverse 뒤집다)",
+   "mnem": "다이버(diver)들이 저마다 다른 방향으로 뛰어드는 장면 → 다양한"
   },
   {
    "w": "draft",
@@ -2017,7 +2136,9 @@
     }
    ],
    "ex": "Please review the first <b>draft</b> of the proposal.",
-   "exKo": "제안서 초안을 검토해 주세요."
+   "exKo": "제안서 초안을 검토해 주세요.",
+   "ety": "draft(draw 끌다의 변형) → 선을 대충 끌어 그어 본 것 → 초안 (같은 어근: draw 그리다)",
+   "mnem": "생맥주 draft처럼 통에서 처음 쭉 뽑아낸 한 잔, 다듬기 전 첫 버전 → 초안"
   },
   {
    "w": "dramatically",
@@ -2037,7 +2158,9 @@
     }
    ],
    "ex": "Online orders increased <b>dramatically</b> last quarter.",
-   "exKo": "지난 분기 온라인 주문이 급격히 증가했습니다."
+   "exKo": "지난 분기 온라인 주문이 급격히 증가했습니다.",
+   "ety": "dram(연극, 행하다) + -ically(~하게) → 연극처럼 확 뒤집히게 → 극적으로, 급격히 (같은 어근: drama 드라마)",
+   "mnem": "매출 그래프가 드라마 반전처럼 꺾여 올라감 → 극적으로, 급격히"
   },
   {
    "w": "due",
@@ -2057,7 +2180,9 @@
     }
    ],
    "ex": "The final payment is <b>due</b> on the fifteenth.",
-   "exKo": "잔금 지불 기일은 15일입니다."
+   "exKo": "잔금 지불 기일은 15일입니다.",
+   "ety": "du(빚지다) → 갚아야 할 때가 된 → 예정된, 지불 기일이 된 (같은 어근: debt 빚)",
+   "mnem": "과제 마감을 듀 데이트(due date)라 하죠 → 예정된, 지불 기일이 된"
   },
   {
    "w": "duration",
@@ -2072,7 +2197,9 @@
     }
    ],
    "ex": "Please stay seated for the <b>duration</b> of the demo.",
-   "exKo": "시연이 진행되는 동안 자리에 앉아 계세요."
+   "exKo": "시연이 진행되는 동안 자리에 앉아 계세요.",
+   "ety": "dur(지속하다, 단단하다) + -ation(명사) → 버티고 이어지는 시간 → 지속 기간 (같은 어근: endure 견디다)",
+   "mnem": "내구성 좋은 배터리가 끝까지 버티는 그 시간 길이 → 지속 기간"
   }
  ]
 }

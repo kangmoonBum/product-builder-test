@@ -1,104 +1,644 @@
 {
-"passages": [
-{
-"kind": "이메일",
-"title": "반품률 분석 결과 공유 메일",
-"passage": "From: Returns Analysis Team\nTo: E-Commerce Leadership\nSubject: Why Our Shoe Returns Doubled — Findings\n\nDear all,\n\nOur analysis of last quarter's footwear returns is complete. Returns rose from 18 to 34 percent after the new product photography launched — and the photos are the cause, indirectly.\n\nThe new images are so detailed that customers order their usual size with confidence instead of consulting the size chart, but this brand runs small. Sixty-two percent of returns cite 'too small,' and exchange orders for a half size larger confirm the pattern.\n\nRecommended fixes, in order of impact: display 'runs small — consider a half size up' directly under the size selector; add a two-question fit finder; and print the same guidance on the box for gift buyers. The Hollis brand did the first item alone last year and cut size-related returns by 40 percent.\n\nWe can implement the label change this week. Full deck attached.\n\nReturns Analysis Team",
-"questions": [
-{"q": "What indirectly caused returns to rise?", "type": "세부사항", "choices": ["Detailed photos made customers skip the size chart", "Poor product quality", "Slow delivery", "Wrong items shipped"], "a": 0, "exKo": "상세한 사진 덕에 고객들이 사이즈표를 보지 않고 평소 사이즈를 주문했기 때문입니다."},
-{"q": "What evidence confirms the sizing pattern?", "type": "세부사항", "choices": ["Exchanges for a half size larger", "Customer interviews", "Competitor data", "Photo view counts"], "a": 0, "exKo": "반 사이즈 큰 제품으로의 교환 주문이 패턴을 뒷받침합니다."},
-{"q": "Why is the size-selector label recommended first?", "type": "추론", "choices": ["A similar change cut another brand's returns 40 percent", "It is the cheapest option", "Customers requested it", "It requires no approval"], "a": 0, "exKo": "타 브랜드가 같은 조치만으로 사이즈 반품을 40% 줄인 실적이 있기 때문입니다."}
-]
-},
-{
-"kind": "이메일",
-"title": "출장 보고서 및 후속 조치 메일",
-"passage": "From: Karim Nasser\nTo: Export Sales Team\nSubject: Jakarta Trip Report — Three Follow-Ups\n\nTeam,\n\nBack from Jakarta. Summary of the five distributor meetings, with three actions needing owners this week.\n\nThe headline: PT Andalan, the market leader we have courted for two years, will trial our industrial pumps — 60 units across three sites, starting next month. They chose us over the incumbent for one reason: our 48-hour parts guarantee. That guarantee is now a promise we must keep flawlessly; one late shipment during the trial likely ends the relationship.\n\nActions: (1) Parts warehouse must confirm Jakarta routing meets 48 hours — needs testing before trial start, owner needed. (2) Their engineers want commissioning training in Indonesian; we should hire a technical interpreter rather than rely on their staff. (3) Two smaller distributors asked about consignment terms — finance needs to draft a position by Friday's call.\n\nFull notes in the CRM under each account. Grab an action in the thread, please.\n\nKarim",
-"questions": [
-{"q": "Why did PT Andalan choose the company?", "type": "세부사항", "choices": ["The 48-hour parts guarantee", "Lower prices", "A larger product range", "An old friendship"], "a": 0, "exKo": "48시간 부품 보증이 기존 업체 대신 선택한 유일한 이유였습니다."},
-{"q": "What does Mr. Nasser warn about the trial?", "type": "추론", "choices": ["One late shipment could end the relationship", "The units may fail", "Training is impossible", "Finance will object"], "a": 0, "exKo": "시험 기간 중 배송 지연 한 번이면 관계가 끝날 수 있다고 경고합니다."},
-{"q": "What is recommended for the training?", "type": "세부사항", "choices": ["Hiring a technical interpreter", "Using the client's staff", "English-only sessions", "Online videos"], "a": 0, "exKo": "상대 직원에게 의존하지 말고 기술 통역사를 고용하자고 제안합니다."}
-]
-},
-{
-"kind": "공지",
-"title": "동절기 재택 전환 기준 공지",
-"passage": "SEVERE WEATHER WORK ARRANGEMENTS\n\nWith winter approaching, here is how weather decisions work. By 6 a.m., the operations team checks transit status and road authority warnings. If the city declares a severe weather alert or main transit lines suspend service, a company-wide 'remote day' notice goes out by 6:30 through the emergency text system and the intranet banner.\n\nOn remote days, all meetings move online automatically, and customer-facing teams follow their winter coverage plans. The office stays open with minimal facilities staff for those who cannot work from home; the cafeteria operates a reduced menu.\n\nIf conditions worsen during a workday, an early-release notice may be issued — leave promptly, as building services reduce elevator and shuttle operations 90 minutes after the notice. Personal judgment always applies: if your route is unsafe, work remotely and inform your manager, notice or no notice.\n\nSafety before schedules, always.\n\nOperations Team",
-"questions": [
-{"q": "When does a remote day notice go out?", "type": "세부사항", "choices": ["By 6:30 a.m. via text and intranet", "At 8 a.m. by email", "The night before", "At 6 a.m. by phone"], "a": 0, "exKo": "기준 충족 시 6시 30분까지 비상 문자와 인트라넷으로 공지됩니다."},
-{"q": "What happens 90 minutes after an early-release notice?", "type": "세부사항", "choices": ["Elevator and shuttle operations are reduced", "The building locks", "Heating shuts off", "Managers leave"], "a": 0, "exKo": "통지 90분 후 엘리베이터·셔틀 운영이 축소되므로 신속히 떠나야 합니다."},
-{"q": "What does the notice say about personal judgment?", "type": "세부사항", "choices": ["Work remotely if your route is unsafe, notice or not", "Always follow the official notice", "Ask a manager first", "Use vacation days"], "a": 0, "exKo": "공지와 무관하게 경로가 위험하면 재택하고 관리자에게 알리면 됩니다."}
-]
-},
-{
-"kind": "공지",
-"title": "특허 출원 아이디어 신고 절차 공지",
-"passage": "INVENTION DISCLOSURE — PROTECT YOUR IDEAS EARLY\n\nEngineers and researchers: before you present, publish, or demo anything new outside the company, file an invention disclosure with the IP team. Public disclosure before a patent filing can permanently destroy patent rights in most countries — even a conference slide or a trade show demo counts.\n\nThe disclosure form takes about 30 minutes and asks what the invention does, how it differs from existing solutions, and who contributed. The IP team responds within two weeks with one of three outcomes: file a patent application, protect as a trade secret, or clear for open publication.\n\nInventors named on granted patents receive a $2,000 award and recognition at the annual technology day. Last year, 14 of 31 disclosures became patent filings — including one that began as a lunch conversation sketch.\n\nWhen in doubt, disclose. The form is under 'IP Center' on the intranet.\n\nIntellectual Property Team",
-"questions": [
-{"q": "Why must disclosure happen before external presentation?", "type": "세부사항", "choices": ["Public disclosure can destroy patent rights", "Marketing needs approval", "Competitors may copy slides", "It is a tax requirement"], "a": 0, "exKo": "출원 전 공개는 대부분 국가에서 특허권을 영구히 잃게 할 수 있습니다."},
-{"q": "What are the three possible outcomes of review?", "type": "세부사항", "choices": ["Patent filing, trade secret, or cleared publication", "Approval, rejection, or delay", "Award, bonus, or promotion", "File, sell, or license"], "a": 0, "exKo": "특허 출원, 영업비밀 보호, 공개 허용 중 하나로 회신합니다."},
-{"q": "What do inventors on granted patents receive?", "type": "세부사항", "choices": ["A $2,000 award and recognition", "Royalty payments", "Stock options", "A promotion"], "a": 0, "exKo": "등록 특허의 발명자는 2,000달러와 기술의 날 표창을 받습니다."}
-]
-},
-{
-"kind": "광고",
-"title": "B2B 결제 조건 관리 서비스 광고",
-"passage": "PAYTERM — GET PAID ON TIME, EVERY TIME\n\nSmall suppliers wait an average of 54 days for invoices due in 30. PayTerm fixes the gap without awkward phone calls.\n\nConnect your invoicing system, and PayTerm sends polite, escalating reminders on your letterhead at the intervals you choose — before the due date, on it, and after. Customers get a payment portal with every reminder: one click, paid. Overdue accounts can be offered installment plans you pre-approve, converting silent non-payers into steady payers.\n\nOur dashboard predicts which invoices will run late based on each customer's history, so you can plan cash flow on reality instead of due dates. Clients see average payment delays drop by 19 days within three months.\n\nNo percentage fees — flat $79 monthly for unlimited invoices. Your money, on schedule: payterm.io.",
-"questions": [
-{"q": "What problem does PayTerm address?", "type": "주제·목적", "choices": ["Invoices being paid weeks late", "High banking fees", "Lost invoices", "Currency exchange"], "a": 0, "exKo": "30일 조건 청구서가 평균 54일 만에 지급되는 문제를 해결합니다."},
-{"q": "What comes with every reminder?", "type": "세부사항", "choices": ["A one-click payment portal", "A phone call", "A discount offer", "A legal warning"], "a": 0, "exKo": "모든 독촉장에 원클릭 결제 포털이 포함됩니다."},
-{"q": "How does the dashboard help cash flow planning?", "type": "세부사항", "choices": ["It predicts late invoices from customer history", "It borrows money", "It delays your own bills", "It sets due dates"], "a": 0, "exKo": "고객별 이력으로 연체될 청구서를 예측해 현실적인 자금 계획을 돕습니다."}
-]
-},
-{
-"kind": "광고",
-"title": "야간 사무실 청소 서비스 광고",
-"passage": "NIGHTSHINE COMMERCIAL CLEANING — SPOTLESS BY SUNRISE\n\nYour team should never see us — only our work. NightShine cleans offices between 9 p.m. and 5 a.m., so mornings start with fresh desks, streak-free glass, and meeting rooms that smell like nothing at all.\n\nEvery crew is background-checked, badged, and trained on office security procedures: alarm codes are stored encrypted, and doors are photo-verified locked on exit. Our app shows you what was cleaned each night, flagged issues — a leaking pipe, a broken light — before your facilities team even arrives.\n\nWe bring eco-certified products at no extra charge, and our carpet program extends replacement cycles by years. Contracts flex monthly with your office footprint — pay for the space you actually use.\n\nRated 4.9 by 700 business clients. Get a walkthrough quote within 24 hours at nightshine.clean.",
-"questions": [
-{"q": "How is security handled on exit?", "type": "세부사항", "choices": ["Doors are photo-verified locked", "Guards inspect crews", "Clients stay present", "Alarms stay off"], "a": 0, "exKo": "퇴출 시 문 잠금 상태를 사진으로 검증합니다."},
-{"q": "What does the app report besides cleaning?", "type": "세부사항", "choices": ["Flagged issues like leaks or broken lights", "Employee attendance", "Energy usage", "Visitor logs"], "a": 0, "exKo": "누수나 고장 난 조명 같은 문제를 시설팀보다 먼저 알려 줍니다."},
-{"q": "How do contracts adjust?", "type": "세부사항", "choices": ["Monthly with the office footprint", "Annually only", "By employee count", "They are fixed"], "a": 0, "exKo": "실제 사용하는 공간에 맞춰 계약이 매월 조정됩니다."}
-]
-},
-{
-"kind": "기사",
-"title": "지방 양조장 수출 성공 기사",
-"passage": "EXPORT SPOTLIGHT — Craft brewery Stonefield Ales, employing 28 people in a town of 4,000, now ships a quarter of its production to three Asian markets — an outcome that began with a mistake. In 2023, a mislabeled pallet meant for a domestic chain reached a Singapore importer, who called not to complain but to reorder.\n\nExporting required reinvention: recipes were adjusted for longer shipping, labels redesigned for three languages, and the brewery joined a shared container program with two nearby food producers to make small shipments economical.\n\nRevenue per bottle abroad runs 30 percent higher than domestic wholesale, funding a canning line that adds six jobs this year. The founder's advice to rural producers: \"Small companies think export needs scale. It needs a product someone remembers — scale comes after.\"",
-"questions": [
-{"q": "How did exporting begin for Stonefield?", "type": "세부사항", "choices": ["A mislabeled pallet reached a Singapore importer", "A trade fair booth", "A government program", "An online campaign"], "a": 0, "exKo": "라벨이 잘못 붙은 화물이 싱가포르 수입상에게 갔고, 재주문으로 이어졌습니다."},
-{"q": "How were small shipments made economical?", "type": "세부사항", "choices": ["A shared container program with nearby producers", "Larger brew batches", "Air freight discounts", "A new warehouse"], "a": 0, "exKo": "인근 식품업체 두 곳과 컨테이너를 공유해 소량 수출을 가능하게 했습니다."},
-{"q": "What is the founder's message to rural producers?", "type": "추론", "choices": ["A memorable product matters more than initial scale", "Export requires big factories", "Avoid foreign markets", "Hire more staff first"], "a": 0, "exKo": "수출에 필요한 것은 규모가 아니라 기억에 남는 제품이라는 조언입니다."}
-]
-},
-{
-"kind": "기사",
-"title": "회의실 센서 데이터 활용 기사",
-"passage": "WORKPLACE TECH — Occupancy sensors installed for energy savings are quietly rewriting office floor plans. Consultancy SpaceMetric analyzed sensor data from 90 office buildings and found meeting rooms booked for eight people host an average of 2.7 — while phone-booth-style pods run near constant capacity with queues at peak hours.\n\nCompanies acting on the data report quick wins. One insurer converted half its large meeting rooms into clusters of pods and small two-person rooms; booking conflicts fell 60 percent, and the space freed equaled a full floor, deferring an expensive lease expansion.\n\nSensor data also ended a long-running office debate at several firms: the window seats employees fought over sit empty on hot afternoons, while shaded central desks are occupied all day. Designers now weight desirable seating by measured use, not floor-plan assumptions.\n\nPrivacy remains the boundary: the report stresses that all analyzed systems count presence anonymously, without identifying individuals.",
-"questions": [
-{"q": "What mismatch did the sensor data reveal?", "type": "세부사항", "choices": ["Large rooms host far fewer people than booked", "Pods sit empty", "Offices are overcrowded", "Bookings are too short"], "a": 0, "exKo": "8인실 예약의 실제 사용 인원은 평균 2.7명에 불과했습니다."},
-{"q": "What did the insurer gain by converting rooms?", "type": "세부사항", "choices": ["Space equal to a full floor, deferring expansion", "Higher rent income", "More visitors", "Fewer employees"], "a": 0, "exKo": "한 층 규모의 공간이 확보되어 값비싼 임대 확장을 미뤘습니다."},
-{"q": "What boundary does the report emphasize?", "type": "세부사항", "choices": ["Sensors count presence anonymously", "Data is sold to landlords", "Cameras record meetings", "Badges track individuals"], "a": 0, "exKo": "분석된 시스템은 개인 식별 없이 익명으로 재실만 감지합니다."}
-]
-},
-{
-"kind": "문자메시지",
-"title": "인쇄 사고 긴급 복구 문자",
-"passage": "Mara Diaz (7:12 A.M.)\nBad news — the conference programs came back from the printer with last year's agenda on page 2. All 800 copies.\n\nSam Ortega (7:15 A.M.)\nHow?! We proofed it twice.\n\nMara Diaz (7:16 A.M.)\nTheir prepress used a cached file. They admit fault and will reprint free — but reprints land tomorrow 6 P.M., and doors open tomorrow 9 A.M.\n\nSam Ortega (7:19 A.M.)\nOptions: QR code on a sign linking to the correct agenda, and a one-page insert we print in-house today?\n\nMara Diaz (7:21 A.M.)\nBoth. Our office printer does 2,000 pages before lunch if we start by 9. I'll fix the PDF now.\n\nSam Ortega (7:23 A.M.)\nI'll draft an apology line for the welcome speech — owning it beats hoping nobody notices page 2.\n\nMara Diaz (7:24 A.M.)\nAgreed. And I'm invoicing the printer for our paper and toner — they offered to cover reasonable costs.\n\nSam Ortega (7:25 A.M.)\nPerfect. See you at the office at 8.",
-"questions": [
-{"q": "What went wrong with the programs?", "type": "세부사항", "choices": ["Page 2 shows last year's agenda", "They never arrived", "The covers are torn", "The QR codes fail"], "a": 0, "exKo": "인쇄소가 캐시된 파일을 써서 800부 전부 작년 일정이 실렸습니다."},
-{"q": "Why won't the free reprint solve the problem?", "type": "세부사항", "choices": ["It arrives after the event opens", "It costs too much", "It repeats the error", "It is only 100 copies"], "a": 0, "exKo": "재인쇄본은 행사 시작(오전 9시) 다음 날 저녁에야 도착합니다."},
-{"q": "What is Mr. Ortega's view on the mistake?", "type": "추론", "choices": ["Acknowledging it openly is better than hiding it", "Nobody will notice", "The printer should apologize on stage", "The event should be delayed"], "a": 0, "exKo": "환영사에서 직접 언급하는 것이 모른 척하는 것보다 낫다고 봅니다."}
-]
-},
-{
-"kind": "문자메시지",
-"title": "구독 해지 사유 조사 문자",
-"passage": "Elif Demir (1:40 P.M.)\nChurn report done. Top cancellation reason last quarter surprised me — not price.\n\nNoah Kim (1:42 P.M.)\nWhat then?\n\nElif Demir (1:43 P.M.)\n'Didn't use it enough' — 41 percent. Price was second at 24. And here's the thing: cancelers who cited low usage logged in plenty during their first month, then dropped off after the onboarding emails ended.\n\nNoah Kim (1:46 P.M.)\nSo the product works for them, then we go silent and they drift.\n\nElif Demir (1:47 P.M.)\nExactly. I want to test a 'week 6 value recap' — an email showing each user what they accomplished and one feature they haven't tried.\n\nNoah Kim (1:49 P.M.)\nLet's A/B it against no email on 10,000 accounts. If retention moves 2 points, we roll it out.\n\nElif Demir (1:50 P.M.)\nDrafting the test plan today. Results in about five weeks.",
-"questions": [
-{"q": "What was the top cancellation reason?", "type": "세부사항", "choices": ["Not using the product enough", "Price", "Poor support", "Missing features"], "a": 0, "exKo": "가격(24%)이 아니라 '충분히 쓰지 않아서'가 41%로 1위였습니다."},
-{"q": "What pattern did low-usage cancelers show?", "type": "세부사항", "choices": ["Active first month, drop-off after onboarding ended", "Never logged in", "Complained early", "Used only one feature"], "a": 0, "exKo": "온보딩 메일이 끝난 뒤부터 접속이 줄어드는 패턴을 보였습니다."},
-{"q": "What decides a full rollout of the recap email?", "type": "세부사항", "choices": ["A 2-point retention improvement in the test", "Executive approval", "Customer requests", "Cost below budget"], "a": 0, "exKo": "1만 계정 A/B 테스트에서 유지율이 2%p 오르면 전면 도입합니다."}
-]
-}
-]
+ "passages": [
+  {
+   "kind": "이메일",
+   "title": "반품률 분석 결과 공유 메일",
+   "passage": "From: Returns Analysis Team\nTo: E-Commerce Leadership\nSubject: Why Our Shoe Returns Doubled — Findings\n\nDear all,\n\nOur analysis of last quarter's footwear returns is complete. Returns rose from 18 to 34 percent after the new product photography launched — and the photos are the cause, indirectly.\n\nThe new images are so detailed that customers order their usual size with confidence instead of consulting the size chart, but this brand runs small. Sixty-two percent of returns cite 'too small,' and exchange orders for a half size larger confirm the pattern.\n\nRecommended fixes, in order of impact: display 'runs small — consider a half size up' directly under the size selector; add a two-question fit finder; and print the same guidance on the box for gift buyers. The Hollis brand did the first item alone last year and cut size-related returns by 40 percent.\n\nWe can implement the label change this week. Full deck attached.\n\nReturns Analysis Team",
+   "questions": [
+    {
+     "q": "What indirectly caused returns to rise?",
+     "type": "세부사항",
+     "choices": [
+      "Detailed photos made customers skip the size chart",
+      "Poor product quality",
+      "Slow delivery",
+      "Wrong items shipped"
+     ],
+     "a": 0,
+     "exKo": "상세한 사진 덕에 고객들이 사이즈표를 보지 않고 평소 사이즈를 주문했기 때문입니다.",
+     "why": [
+      "상세 사진이 사이즈표 확인을 건너뛰게 만듦",
+      "반품 사유 62%가 '작다'이므로 품질 문제 아님",
+      "배송 지연은 지문에 전혀 언급 없음",
+      "오배송은 지문에 언급 없음"
+     ],
+     "ev": "The new images are so detailed that customers order their usual size with confidence instead of consulting the size chart, but this brand runs small."
+    },
+    {
+     "q": "What evidence confirms the sizing pattern?",
+     "type": "세부사항",
+     "choices": [
+      "Exchanges for a half size larger",
+      "Customer interviews",
+      "Competitor data",
+      "Photo view counts"
+     ],
+     "a": 0,
+     "exKo": "반 사이즈 큰 제품으로의 교환 주문이 패턴을 뒷받침합니다.",
+     "why": [
+      "반 사이즈 큰 교환 주문이 패턴을 확인해 줌",
+      "고객 인터뷰는 지문에 언급 없음",
+      "Hollis 자료는 해결책 근거, 다른 문항의 정답",
+      "사진 조회수 언급은 지문에 없음"
+     ],
+     "ev": "exchange orders for a half size larger confirm the pattern"
+    },
+    {
+     "q": "Why is the size-selector label recommended first?",
+     "type": "추론",
+     "choices": [
+      "A similar change cut another brand's returns 40 percent",
+      "It is the cheapest option",
+      "Customers requested it",
+      "It requires no approval"
+     ],
+     "a": 0,
+     "exKo": "타 브랜드가 같은 조치만으로 사이즈 반품을 40% 줄인 실적이 있기 때문입니다.",
+     "why": [
+      "타 브랜드가 그 조치만으로 40% 줄인 실적 근거",
+      "저렴함이 아니라 효과 순 정렬이라 했음",
+      "고객 요청이라는 언급은 지문에 없음",
+      "승인 불필요는 지문에 언급 없음"
+     ],
+     "ev": "The Hollis brand did the first item alone last year and cut size-related returns by 40 percent."
+    }
+   ]
+  },
+  {
+   "kind": "이메일",
+   "title": "출장 보고서 및 후속 조치 메일",
+   "passage": "From: Karim Nasser\nTo: Export Sales Team\nSubject: Jakarta Trip Report — Three Follow-Ups\n\nTeam,\n\nBack from Jakarta. Summary of the five distributor meetings, with three actions needing owners this week.\n\nThe headline: PT Andalan, the market leader we have courted for two years, will trial our industrial pumps — 60 units across three sites, starting next month. They chose us over the incumbent for one reason: our 48-hour parts guarantee. That guarantee is now a promise we must keep flawlessly; one late shipment during the trial likely ends the relationship.\n\nActions: (1) Parts warehouse must confirm Jakarta routing meets 48 hours — needs testing before trial start, owner needed. (2) Their engineers want commissioning training in Indonesian; we should hire a technical interpreter rather than rely on their staff. (3) Two smaller distributors asked about consignment terms — finance needs to draft a position by Friday's call.\n\nFull notes in the CRM under each account. Grab an action in the thread, please.\n\nKarim",
+   "questions": [
+    {
+     "q": "Why did PT Andalan choose the company?",
+     "type": "세부사항",
+     "choices": [
+      "The 48-hour parts guarantee",
+      "Lower prices",
+      "A larger product range",
+      "An old friendship"
+     ],
+     "a": 0,
+     "exKo": "48시간 부품 보증이 기존 업체 대신 선택한 유일한 이유였습니다.",
+     "why": [
+      "'for one reason'이 48시간 보증임을 못 박음",
+      "가격 우위는 지문에 전혀 언급 없음",
+      "제품군 규모 언급은 지문에 없음",
+      "2년간 공들였다는 내용과 문맥이 다름"
+     ],
+     "ev": "They chose us over the incumbent for one reason: our 48-hour parts guarantee."
+    },
+    {
+     "q": "What does Mr. Nasser warn about the trial?",
+     "type": "추론",
+     "choices": [
+      "One late shipment could end the relationship",
+      "The units may fail",
+      "Training is impossible",
+      "Finance will object"
+     ],
+     "a": 0,
+     "exKo": "시험 기간 중 배송 지연 한 번이면 관계가 끝날 수 있다고 경고합니다.",
+     "why": [
+      "배송 지연 한 번이 관계를 끝낸다는 경고",
+      "제품 고장 우려는 지문에 언급 없음",
+      "통역사 고용으로 교육 가능하므로 지문과 반대",
+      "재무는 위탁 조건 작성 담당, 반대 언급 없음"
+     ],
+     "ev": "one late shipment during the trial likely ends the relationship"
+    },
+    {
+     "q": "What is recommended for the training?",
+     "type": "세부사항",
+     "choices": [
+      "Hiring a technical interpreter",
+      "Using the client's staff",
+      "English-only sessions",
+      "Online videos"
+     ],
+     "a": 0,
+     "exKo": "상대 직원에게 의존하지 말고 기술 통역사를 고용하자고 제안합니다.",
+     "why": [
+      "기술 통역사 고용을 권고한 문장 그대로",
+      "'rather than'으로 배제된 선택지, 지문과 반대",
+      "인도네시아어 요청이므로 영어 진행은 반대",
+      "온라인 영상은 지문에 언급 없음"
+     ],
+     "ev": "we should hire a technical interpreter rather than rely on their staff"
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "동절기 재택 전환 기준 공지",
+   "passage": "SEVERE WEATHER WORK ARRANGEMENTS\n\nWith winter approaching, here is how weather decisions work. By 6 a.m., the operations team checks transit status and road authority warnings. If the city declares a severe weather alert or main transit lines suspend service, a company-wide 'remote day' notice goes out by 6:30 through the emergency text system and the intranet banner.\n\nOn remote days, all meetings move online automatically, and customer-facing teams follow their winter coverage plans. The office stays open with minimal facilities staff for those who cannot work from home; the cafeteria operates a reduced menu.\n\nIf conditions worsen during a workday, an early-release notice may be issued — leave promptly, as building services reduce elevator and shuttle operations 90 minutes after the notice. Personal judgment always applies: if your route is unsafe, work remotely and inform your manager, notice or no notice.\n\nSafety before schedules, always.\n\nOperations Team",
+   "questions": [
+    {
+     "q": "When does a remote day notice go out?",
+     "type": "세부사항",
+     "choices": [
+      "By 6:30 a.m. via text and intranet",
+      "At 8 a.m. by email",
+      "The night before",
+      "At 6 a.m. by phone"
+     ],
+     "a": 0,
+     "exKo": "기준 충족 시 6시 30분까지 비상 문자와 인트라넷으로 공지됩니다.",
+     "why": [
+      "6시 30분까지 문자·인트라넷 공지라는 서술 그대로",
+      "시각과 수단이 모두 지문과 다름",
+      "오전 6시 점검 후 결정이므로 전날 공지는 반대",
+      "6시는 점검 시각이고 수단도 전화가 아님"
+     ],
+     "ev": "a company-wide 'remote day' notice goes out by 6:30 through the emergency text system and the intranet banner"
+    },
+    {
+     "q": "What happens 90 minutes after an early-release notice?",
+     "type": "세부사항",
+     "choices": [
+      "Elevator and shuttle operations are reduced",
+      "The building locks",
+      "Heating shuts off",
+      "Managers leave"
+     ],
+     "a": 0,
+     "exKo": "통지 90분 후 엘리베이터·셔틀 운영이 축소되므로 신속히 떠나야 합니다.",
+     "why": [
+      "90분 후 엘리베이터·셔틀 축소를 그대로 명시",
+      "사무실은 계속 열려 있으므로 지문과 반대",
+      "난방 중단은 지문에 전혀 언급 없음",
+      "관리자 퇴근 언급은 지문에 없음"
+     ],
+     "ev": "building services reduce elevator and shuttle operations 90 minutes after the notice"
+    },
+    {
+     "q": "What does the notice say about personal judgment?",
+     "type": "세부사항",
+     "choices": [
+      "Work remotely if your route is unsafe, notice or not",
+      "Always follow the official notice",
+      "Ask a manager first",
+      "Use vacation days"
+     ],
+     "a": 0,
+     "exKo": "공지와 무관하게 경로가 위험하면 재택하고 관리자에게 알리면 됩니다.",
+     "why": [
+      "공지 유무와 무관하게 재택 가능함을 명시",
+      "개인 판단 우선이므로 공지 절대 준수는 반대",
+      "알리라는 것이지 사전 승인 요건은 아님",
+      "휴가 사용은 지문에 언급 없음"
+     ],
+     "ev": "if your route is unsafe, work remotely and inform your manager, notice or no notice"
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "특허 출원 아이디어 신고 절차 공지",
+   "passage": "INVENTION DISCLOSURE — PROTECT YOUR IDEAS EARLY\n\nEngineers and researchers: before you present, publish, or demo anything new outside the company, file an invention disclosure with the IP team. Public disclosure before a patent filing can permanently destroy patent rights in most countries — even a conference slide or a trade show demo counts.\n\nThe disclosure form takes about 30 minutes and asks what the invention does, how it differs from existing solutions, and who contributed. The IP team responds within two weeks with one of three outcomes: file a patent application, protect as a trade secret, or clear for open publication.\n\nInventors named on granted patents receive a $2,000 award and recognition at the annual technology day. Last year, 14 of 31 disclosures became patent filings — including one that began as a lunch conversation sketch.\n\nWhen in doubt, disclose. The form is under 'IP Center' on the intranet.\n\nIntellectual Property Team",
+   "questions": [
+    {
+     "q": "Why must disclosure happen before external presentation?",
+     "type": "세부사항",
+     "choices": [
+      "Public disclosure can destroy patent rights",
+      "Marketing needs approval",
+      "Competitors may copy slides",
+      "It is a tax requirement"
+     ],
+     "a": 0,
+     "exKo": "출원 전 공개는 대부분 국가에서 특허권을 영구히 잃게 할 수 있습니다.",
+     "why": [
+      "출원 전 공개가 특허권을 없앤다는 이유 제시",
+      "마케팅 승인은 지문에 전혀 언급 없음",
+      "슬라이드 단어만 같을 뿐 모방 우려는 언급 없음",
+      "세무 요건은 지문에 언급 없음"
+     ],
+     "ev": "Public disclosure before a patent filing can permanently destroy patent rights in most countries"
+    },
+    {
+     "q": "What are the three possible outcomes of review?",
+     "type": "세부사항",
+     "choices": [
+      "Patent filing, trade secret, or cleared publication",
+      "Approval, rejection, or delay",
+      "Award, bonus, or promotion",
+      "File, sell, or license"
+     ],
+     "a": 0,
+     "exKo": "특허 출원, 영업비밀 보호, 공개 허용 중 하나로 회신합니다.",
+     "why": [
+      "세 가지 결과를 나열한 문장과 그대로 일치",
+      "승인·거절·보류는 지문에 언급 없음",
+      "포상은 등록 특허 건, 다른 문항의 정답",
+      "판매·라이선스는 지문에 언급 없음"
+     ],
+     "ev": "file a patent application, protect as a trade secret, or clear for open publication"
+    },
+    {
+     "q": "What do inventors on granted patents receive?",
+     "type": "세부사항",
+     "choices": [
+      "A $2,000 award and recognition",
+      "Royalty payments",
+      "Stock options",
+      "A promotion"
+     ],
+     "a": 0,
+     "exKo": "등록 특허의 발명자는 2,000달러와 기술의 날 표창을 받습니다.",
+     "why": [
+      "2,000달러 포상과 기술의 날 표창을 그대로 명시",
+      "로열티 지급은 지문에 전혀 언급 없음",
+      "스톡옵션은 지문에 언급 없음",
+      "승진 관련 언급은 지문에 없음"
+     ],
+     "ev": "Inventors named on granted patents receive a $2,000 award and recognition at the annual technology day."
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "B2B 결제 조건 관리 서비스 광고",
+   "passage": "PAYTERM — GET PAID ON TIME, EVERY TIME\n\nSmall suppliers wait an average of 54 days for invoices due in 30. PayTerm fixes the gap without awkward phone calls.\n\nConnect your invoicing system, and PayTerm sends polite, escalating reminders on your letterhead at the intervals you choose — before the due date, on it, and after. Customers get a payment portal with every reminder: one click, paid. Overdue accounts can be offered installment plans you pre-approve, converting silent non-payers into steady payers.\n\nOur dashboard predicts which invoices will run late based on each customer's history, so you can plan cash flow on reality instead of due dates. Clients see average payment delays drop by 19 days within three months.\n\nNo percentage fees — flat $79 monthly for unlimited invoices. Your money, on schedule: payterm.io.",
+   "questions": [
+    {
+     "q": "What problem does PayTerm address?",
+     "type": "주제·목적",
+     "choices": [
+      "Invoices being paid weeks late",
+      "High banking fees",
+      "Lost invoices",
+      "Currency exchange"
+     ],
+     "a": 0,
+     "exKo": "30일 조건 청구서가 평균 54일 만에 지급되는 문제를 해결합니다.",
+     "why": [
+      "30일 조건이 평균 54일로 지연되는 문제 제시",
+      "수수료는 요금 안내 대목, 문맥이 다름",
+      "청구서 분실은 지문에 언급 없음",
+      "환전 문제는 지문에 전혀 언급 없음"
+     ],
+     "ev": "Small suppliers wait an average of 54 days for invoices due in 30."
+    },
+    {
+     "q": "What comes with every reminder?",
+     "type": "세부사항",
+     "choices": [
+      "A one-click payment portal",
+      "A phone call",
+      "A discount offer",
+      "A legal warning"
+     ],
+     "a": 0,
+     "exKo": "모든 독촉장에 원클릭 결제 포털이 포함됩니다.",
+     "why": [
+      "'with every reminder'가 매 독촉 포함을 뜻함",
+      "전화 없이 해결한다고 했으므로 지문과 반대",
+      "할인 제안이 아니라 분할 납부 옵션임",
+      "정중한 독촉이라 했으므로 법적 경고는 반대"
+     ],
+     "ev": "Customers get a payment portal with every reminder: one click, paid."
+    },
+    {
+     "q": "How does the dashboard help cash flow planning?",
+     "type": "세부사항",
+     "choices": [
+      "It predicts late invoices from customer history",
+      "It borrows money",
+      "It delays your own bills",
+      "It sets due dates"
+     ],
+     "a": 0,
+     "exKo": "고객별 이력으로 연체될 청구서를 예측해 현실적인 자금 계획을 돕습니다.",
+     "why": [
+      "고객 이력 기반 연체 예측을 그대로 서술",
+      "자금 대출 기능은 지문에 언급 없음",
+      "자사 지급 지연은 지문에 언급 없음",
+      "기한이 아닌 실제 이력 기준이므로 반대"
+     ],
+     "ev": "Our dashboard predicts which invoices will run late based on each customer's history"
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "야간 사무실 청소 서비스 광고",
+   "passage": "NIGHTSHINE COMMERCIAL CLEANING — SPOTLESS BY SUNRISE\n\nYour team should never see us — only our work. NightShine cleans offices between 9 p.m. and 5 a.m., so mornings start with fresh desks, streak-free glass, and meeting rooms that smell like nothing at all.\n\nEvery crew is background-checked, badged, and trained on office security procedures: alarm codes are stored encrypted, and doors are photo-verified locked on exit. Our app shows you what was cleaned each night, flagged issues — a leaking pipe, a broken light — before your facilities team even arrives.\n\nWe bring eco-certified products at no extra charge, and our carpet program extends replacement cycles by years. Contracts flex monthly with your office footprint — pay for the space you actually use.\n\nRated 4.9 by 700 business clients. Get a walkthrough quote within 24 hours at nightshine.clean.",
+   "questions": [
+    {
+     "q": "How is security handled on exit?",
+     "type": "세부사항",
+     "choices": [
+      "Doors are photo-verified locked",
+      "Guards inspect crews",
+      "Clients stay present",
+      "Alarms stay off"
+     ],
+     "a": 0,
+     "exKo": "퇴출 시 문 잠금 상태를 사진으로 검증합니다.",
+     "why": [
+      "퇴출 시 사진으로 잠금을 확인한다는 서술 그대로",
+      "경비원 검사 언급은 지문에 없음",
+      "직원이 볼 일 없다고 했으므로 지문과 반대",
+      "알람 코드는 암호화 보관, 지문과 반대"
+     ],
+     "ev": "doors are photo-verified locked on exit"
+    },
+    {
+     "q": "What does the app report besides cleaning?",
+     "type": "세부사항",
+     "choices": [
+      "Flagged issues like leaks or broken lights",
+      "Employee attendance",
+      "Energy usage",
+      "Visitor logs"
+     ],
+     "a": 0,
+     "exKo": "누수나 고장 난 조명 같은 문제를 시설팀보다 먼저 알려 줍니다.",
+     "why": [
+      "누수·조명 고장 등 문제 보고를 명시함",
+      "직원 근태 보고는 지문에 언급 없음",
+      "에너지 사용량은 지문에 언급 없음",
+      "방문자 기록은 지문에 전혀 언급 없음"
+     ],
+     "ev": "Our app shows you what was cleaned each night, flagged issues — a leaking pipe, a broken light — before your facilities team even arrives."
+    },
+    {
+     "q": "How do contracts adjust?",
+     "type": "세부사항",
+     "choices": [
+      "Monthly with the office footprint",
+      "Annually only",
+      "By employee count",
+      "They are fixed"
+     ],
+     "a": 0,
+     "exKo": "실제 사용하는 공간에 맞춰 계약이 매월 조정됩니다.",
+     "why": [
+      "'flex monthly'가 월 단위 조정을 뜻함",
+      "월 단위 조정이므로 연 단위는 지문과 반대",
+      "직원 수가 아니라 사용 공간 기준임",
+      "유연 계약이므로 고정이라는 말은 반대"
+     ],
+     "ev": "Contracts flex monthly with your office footprint — pay for the space you actually use."
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "지방 양조장 수출 성공 기사",
+   "passage": "EXPORT SPOTLIGHT — Craft brewery Stonefield Ales, employing 28 people in a town of 4,000, now ships a quarter of its production to three Asian markets — an outcome that began with a mistake. In 2023, a mislabeled pallet meant for a domestic chain reached a Singapore importer, who called not to complain but to reorder.\n\nExporting required reinvention: recipes were adjusted for longer shipping, labels redesigned for three languages, and the brewery joined a shared container program with two nearby food producers to make small shipments economical.\n\nRevenue per bottle abroad runs 30 percent higher than domestic wholesale, funding a canning line that adds six jobs this year. The founder's advice to rural producers: \"Small companies think export needs scale. It needs a product someone remembers — scale comes after.\"",
+   "questions": [
+    {
+     "q": "How did exporting begin for Stonefield?",
+     "type": "세부사항",
+     "choices": [
+      "A mislabeled pallet reached a Singapore importer",
+      "A trade fair booth",
+      "A government program",
+      "An online campaign"
+     ],
+     "a": 0,
+     "exKo": "라벨이 잘못 붙은 화물이 싱가포르 수입상에게 갔고, 재주문으로 이어졌습니다.",
+     "why": [
+      "잘못 배송된 화물이 재주문으로 이어진 계기",
+      "무역박람회 부스는 지문에 언급 없음",
+      "컨테이너 공유 프로그램과 혼동한 오답",
+      "온라인 캠페인은 지문에 언급 없음"
+     ],
+     "ev": "In 2023, a mislabeled pallet meant for a domestic chain reached a Singapore importer, who called not to complain but to reorder."
+    },
+    {
+     "q": "How were small shipments made economical?",
+     "type": "세부사항",
+     "choices": [
+      "A shared container program with nearby producers",
+      "Larger brew batches",
+      "Air freight discounts",
+      "A new warehouse"
+     ],
+     "a": 0,
+     "exKo": "인근 식품업체 두 곳과 컨테이너를 공유해 소량 수출을 가능하게 했습니다.",
+     "why": [
+      "컨테이너 공유로 소량 수출을 경제적으로 만듦",
+      "규모는 나중이라 했으므로 지문과 반대",
+      "항공 운임 할인은 지문에 언급 없음",
+      "캐닝 라인과 혼동, 창고 언급은 없음"
+     ],
+     "ev": "the brewery joined a shared container program with two nearby food producers to make small shipments economical"
+    },
+    {
+     "q": "What is the founder's message to rural producers?",
+     "type": "추론",
+     "choices": [
+      "A memorable product matters more than initial scale",
+      "Export requires big factories",
+      "Avoid foreign markets",
+      "Hire more staff first"
+     ],
+     "a": 0,
+     "exKo": "수출에 필요한 것은 규모가 아니라 기억에 남는 제품이라는 조언입니다.",
+     "why": [
+      "기억에 남는 제품이 먼저라는 조언 그대로",
+      "규모가 필요하다는 통념을 반박하므로 반대",
+      "수출을 권장하는 사례이므로 지문과 반대",
+      "채용은 결과일 뿐 조언 내용이 아님"
+     ],
+     "ev": "It needs a product someone remembers — scale comes after."
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "회의실 센서 데이터 활용 기사",
+   "passage": "WORKPLACE TECH — Occupancy sensors installed for energy savings are quietly rewriting office floor plans. Consultancy SpaceMetric analyzed sensor data from 90 office buildings and found meeting rooms booked for eight people host an average of 2.7 — while phone-booth-style pods run near constant capacity with queues at peak hours.\n\nCompanies acting on the data report quick wins. One insurer converted half its large meeting rooms into clusters of pods and small two-person rooms; booking conflicts fell 60 percent, and the space freed equaled a full floor, deferring an expensive lease expansion.\n\nSensor data also ended a long-running office debate at several firms: the window seats employees fought over sit empty on hot afternoons, while shaded central desks are occupied all day. Designers now weight desirable seating by measured use, not floor-plan assumptions.\n\nPrivacy remains the boundary: the report stresses that all analyzed systems count presence anonymously, without identifying individuals.",
+   "questions": [
+    {
+     "q": "What mismatch did the sensor data reveal?",
+     "type": "세부사항",
+     "choices": [
+      "Large rooms host far fewer people than booked",
+      "Pods sit empty",
+      "Offices are overcrowded",
+      "Bookings are too short"
+     ],
+     "a": 0,
+     "exKo": "8인실 예약의 실제 사용 인원은 평균 2.7명에 불과했습니다.",
+     "why": [
+      "8인 예약 회의실의 실제 사용이 평균 2.7명",
+      "pods는 상시 만석이라 지문과 반대",
+      "대형 회의실은 오히려 비어 지문과 반대",
+      "예약 시간 길이 언급 없음"
+     ],
+     "ev": "meeting rooms booked for eight people host an average of 2.7"
+    },
+    {
+     "q": "What did the insurer gain by converting rooms?",
+     "type": "세부사항",
+     "choices": [
+      "Space equal to a full floor, deferring expansion",
+      "Higher rent income",
+      "More visitors",
+      "Fewer employees"
+     ],
+     "a": 0,
+     "exKo": "한 층 규모의 공간이 확보되어 값비싼 임대 확장을 미뤘습니다.",
+     "why": [
+      "확보 공간이 한 층 규모라 임대 확장을 연기",
+      "임대 수입 창출 언급 없음",
+      "방문객 증가 언급 없음",
+      "직원 감축 언급 없음"
+     ],
+     "ev": "the space freed equaled a full floor, deferring an expensive lease expansion"
+    },
+    {
+     "q": "What boundary does the report emphasize?",
+     "type": "세부사항",
+     "choices": [
+      "Sensors count presence anonymously",
+      "Data is sold to landlords",
+      "Cameras record meetings",
+      "Badges track individuals"
+     ],
+     "a": 0,
+     "exKo": "분석된 시스템은 개인 식별 없이 익명으로 재실만 감지합니다.",
+     "why": [
+      "개인 식별 없이 익명으로 재실만 집계",
+      "데이터 판매 언급 없음",
+      "카메라 녹화 언급 없음",
+      "개인 추적은 하지 않으므로 지문과 반대"
+     ],
+     "ev": "all analyzed systems count presence anonymously, without identifying individuals"
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "인쇄 사고 긴급 복구 문자",
+   "passage": "Mara Diaz (7:12 A.M.)\nBad news — the conference programs came back from the printer with last year's agenda on page 2. All 800 copies.\n\nSam Ortega (7:15 A.M.)\nHow?! We proofed it twice.\n\nMara Diaz (7:16 A.M.)\nTheir prepress used a cached file. They admit fault and will reprint free — but reprints land tomorrow 6 P.M., and doors open tomorrow 9 A.M.\n\nSam Ortega (7:19 A.M.)\nOptions: QR code on a sign linking to the correct agenda, and a one-page insert we print in-house today?\n\nMara Diaz (7:21 A.M.)\nBoth. Our office printer does 2,000 pages before lunch if we start by 9. I'll fix the PDF now.\n\nSam Ortega (7:23 A.M.)\nI'll draft an apology line for the welcome speech — owning it beats hoping nobody notices page 2.\n\nMara Diaz (7:24 A.M.)\nAgreed. And I'm invoicing the printer for our paper and toner — they offered to cover reasonable costs.\n\nSam Ortega (7:25 A.M.)\nPerfect. See you at the office at 8.",
+   "questions": [
+    {
+     "q": "What went wrong with the programs?",
+     "type": "세부사항",
+     "choices": [
+      "Page 2 shows last year's agenda",
+      "They never arrived",
+      "The covers are torn",
+      "The QR codes fail"
+     ],
+     "a": 0,
+     "exKo": "인쇄소가 캐시된 파일을 써서 800부 전부 작년 일정이 실렸습니다.",
+     "why": [
+      "2페이지에 작년 일정이 실린 것이 문제",
+      "인쇄물은 도착했으므로 지문과 반대",
+      "표지 손상 언급 없음",
+      "QR은 해결책일 뿐 오류 대상 아님"
+     ],
+     "ev": "the conference programs came back from the printer with last year's agenda on page 2"
+    },
+    {
+     "q": "Why won't the free reprint solve the problem?",
+     "type": "세부사항",
+     "choices": [
+      "It arrives after the event opens",
+      "It costs too much",
+      "It repeats the error",
+      "It is only 100 copies"
+     ],
+     "a": 0,
+     "exKo": "재인쇄본은 행사 시작(오전 9시) 다음 날 저녁에야 도착합니다.",
+     "why": [
+      "도착 오후 6시가 개장 오전 9시보다 늦음",
+      "무료 재인쇄이므로 지문과 반대",
+      "같은 오류 반복 언급 없음",
+      "수량이 아니라 시점이 문제"
+     ],
+     "ev": "reprints land tomorrow 6 P.M., and doors open tomorrow 9 A.M."
+    },
+    {
+     "q": "What is Mr. Ortega's view on the mistake?",
+     "type": "추론",
+     "choices": [
+      "Acknowledging it openly is better than hiding it",
+      "Nobody will notice",
+      "The printer should apologize on stage",
+      "The event should be delayed"
+     ],
+     "a": 0,
+     "exKo": "환영사에서 직접 언급하는 것이 모른 척하는 것보다 낫다고 봅니다.",
+     "why": [
+      "인정하는 편이 숨기는 것보다 낫다는 입장",
+      "오히려 그가 부정한 태도라 지문과 반대",
+      "사과는 본인이 환영사에서 직접 함",
+      "행사 연기 언급 없음"
+     ],
+     "ev": "owning it beats hoping nobody notices page 2"
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "구독 해지 사유 조사 문자",
+   "passage": "Elif Demir (1:40 P.M.)\nChurn report done. Top cancellation reason last quarter surprised me — not price.\n\nNoah Kim (1:42 P.M.)\nWhat then?\n\nElif Demir (1:43 P.M.)\n'Didn't use it enough' — 41 percent. Price was second at 24. And here's the thing: cancelers who cited low usage logged in plenty during their first month, then dropped off after the onboarding emails ended.\n\nNoah Kim (1:46 P.M.)\nSo the product works for them, then we go silent and they drift.\n\nElif Demir (1:47 P.M.)\nExactly. I want to test a 'week 6 value recap' — an email showing each user what they accomplished and one feature they haven't tried.\n\nNoah Kim (1:49 P.M.)\nLet's A/B it against no email on 10,000 accounts. If retention moves 2 points, we roll it out.\n\nElif Demir (1:50 P.M.)\nDrafting the test plan today. Results in about five weeks.",
+   "questions": [
+    {
+     "q": "What was the top cancellation reason?",
+     "type": "세부사항",
+     "choices": [
+      "Not using the product enough",
+      "Price",
+      "Poor support",
+      "Missing features"
+     ],
+     "a": 0,
+     "exKo": "가격(24%)이 아니라 '충분히 쓰지 않아서'가 41%로 1위였습니다.",
+     "why": [
+      "41%로 1위를 차지한 해지 사유",
+      "가격은 24%로 2위라 순위가 틀림",
+      "고객 지원 불만 언급 없음",
+      "기능 부족 언급 없음"
+     ],
+     "ev": "'Didn't use it enough' — 41 percent. Price was second at 24."
+    },
+    {
+     "q": "What pattern did low-usage cancelers show?",
+     "type": "세부사항",
+     "choices": [
+      "Active first month, drop-off after onboarding ended",
+      "Never logged in",
+      "Complained early",
+      "Used only one feature"
+     ],
+     "a": 0,
+     "exKo": "온보딩 메일이 끝난 뒤부터 접속이 줄어드는 패턴을 보였습니다.",
+     "why": [
+      "첫 달 활발 후 온보딩 종료 시점에 이탈",
+      "첫 달엔 많이 접속했으므로 지문과 반대",
+      "조기 불만 제기 언급 없음",
+      "안 써본 기능은 해결책 쪽 내용"
+     ],
+     "ev": "logged in plenty during their first month, then dropped off after the onboarding emails ended"
+    },
+    {
+     "q": "What decides a full rollout of the recap email?",
+     "type": "세부사항",
+     "choices": [
+      "A 2-point retention improvement in the test",
+      "Executive approval",
+      "Customer requests",
+      "Cost below budget"
+     ],
+     "a": 0,
+     "exKo": "1만 계정 A/B 테스트에서 유지율이 2%p 오르면 전면 도입합니다.",
+     "why": [
+      "유지율 2%p 상승이 전면 도입 기준",
+      "경영진 승인 언급 없음",
+      "고객 요청 언급 없음",
+      "예산 기준 언급 없음"
+     ],
+     "ev": "If retention moves 2 points, we roll it out."
+    }
+   ]
+  }
+ ]
 }

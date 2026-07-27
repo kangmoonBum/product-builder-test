@@ -1,104 +1,623 @@
 {
-"passages": [
-{
-"kind": "이메일",
-"title": "사보 기고 요청 메일",
-"passage": "From: Internal Communications\nTo: Ravi Menon, Senior Engineer\nSubject: Would You Write for the Company Magazine?\n\nDear Ravi,\n\nThe next issue of our quarterly magazine focuses on 'projects that almost failed' — honest stories about recoveries, not just victories. Your bridge sensor project came up repeatedly when we asked around: three missed deadlines, a supplier collapse, and still a successful launch that customers now praise.\n\nWould you write 800 to 1,000 words on what went wrong and what turned it around? We want the real story, including the uncomfortable parts — our most-read article ever was an engineer describing a failed product test.\n\nThe deadline is the 25th, and our editor will help polish the draft, so please don't worry about writing style. Authors receive a small gift, and more importantly, these stories genuinely help junior colleagues feel safer admitting problems early.\n\nMay I count you in?\n\nSelin Kaya, Internal Communications",
-"questions": [
-{"q": "What is the magazine issue's theme?", "type": "세부사항", "choices": ["Projects that almost failed and recovered", "Award-winning products", "New employee profiles", "Company history"], "a": 0, "exKo": "실패 직전까지 갔다가 회복한 프로젝트의 솔직한 이야기가 주제입니다."},
-{"q": "Why should Ravi not worry about writing quality?", "type": "세부사항", "choices": ["An editor will help polish the draft", "The article is anonymous", "It will be short", "AI will write it"], "a": 0, "exKo": "편집자가 원고를 다듬어 주므로 문체 걱정은 필요 없습니다."},
-{"q": "What broader benefit do such stories provide?", "type": "추론", "choices": ["Juniors feel safer admitting problems early", "They attract customers", "They win awards", "They reduce deadlines"], "a": 0, "exKo": "후배들이 문제를 일찍 인정하는 것을 두려워하지 않게 돕습니다."}
-]
-},
-{
-"kind": "이메일",
-"title": "단골 고객 감사 프로그램 안내 메일",
-"passage": "From: Orchard Office Supplies\nTo: Valued Business Customers\nSubject: You Asked, We Built It — Introducing Orchard Priority\n\nDear Customer,\n\nAfter 40 interviews with our longest-standing business clients, we heard three wishes again and again: faster reordering, predictable delivery windows, and a human who knows your account. Orchard Priority, launching next month, delivers all three — free for any business ordering over $500 monthly.\n\nPriority members get one-click reordering from purchase history, guaranteed two-hour delivery windows you choose at checkout, and a named account contact reachable by direct line until 8 p.m. We are also adding a quarterly usage report that flags cheaper alternatives for your most-ordered items — yes, we will occasionally talk you into spending less. Loyalty should run both directions.\n\nYour account qualifies automatically; nothing to sign. Your contact, Maria Duarte, will call this week to introduce herself.\n\nThank you for eleven years of business.\n\nTom Orchard, Founder",
-"questions": [
-{"q": "How was the program designed?", "type": "세부사항", "choices": ["From interviews with long-standing clients", "By copying competitors", "From an employee contest", "By consultants"], "a": 0, "exKo": "오랜 고객 40곳 인터뷰에서 나온 세 가지 요청을 반영해 만들었습니다."},
-{"q": "What does the usage report do?", "type": "세부사항", "choices": ["Flags cheaper alternatives for frequent items", "Predicts stock-outs", "Tracks deliveries", "Ranks customers"], "a": 0, "exKo": "자주 주문하는 품목의 더 저렴한 대안을 알려 줍니다."},
-{"q": "What does 'Loyalty should run both directions' suggest?", "type": "추론", "choices": ["The company should also act in customers' interest", "Customers must order more", "Contracts bind both sides", "Prices will rise"], "a": 0, "exKo": "고객에게 돈을 덜 쓰게 권하더라도 회사도 신의로 보답한다는 뜻입니다."}
-]
-},
-{
-"kind": "공지",
-"title": "다과실 무인 판매대 정직 운영 공지",
-"passage": "HONOR MARKET — HOW IT'S GOING\n\nSix months ago we replaced the vending machines with the unstaffed Honor Market: take what you need, scan and pay at the kiosk. Time for a report.\n\nThe numbers: payment accuracy runs at 97 percent — better than we hoped, and the small gap is mostly forgotten scans rather than intent, based on camera-free shelf counts. Sales are double the vending machines', and the fresh food option means the fridge empties daily.\n\nWhat changes: the sandwich shelf grows, card-only payment ends — the kiosk now takes phone pay — and we are adding a 'pay it forward' button that buys a coffee credit for a colleague, anonymous by design.\n\nOne request: the market works because we trust each other, and 3 percent is the price of not searching bags. If you notice you forgot to scan, just scan twice next time. Nobody is watching; that is the point.\n\nWorkplace Committee",
-"questions": [
-{"q": "What explains most of the 3 percent payment gap?", "type": "세부사항", "choices": ["Forgotten scans rather than intent", "Deliberate theft", "Kiosk errors", "Price confusion"], "a": 0, "exKo": "고의가 아니라 스캔을 잊은 경우가 대부분으로 파악됩니다."},
-{"q": "What payment change is coming?", "type": "세부사항", "choices": ["Phone pay is added", "Cash is accepted", "Payment becomes monthly", "Prices drop"], "a": 0, "exKo": "카드 전용에서 휴대폰 결제 추가로 바뀝니다."},
-{"q": "What is the suggested remedy for a forgotten scan?", "type": "세부사항", "choices": ["Scan twice next time", "Report to security", "Pay a fine", "Email the committee"], "a": 0, "exKo": "다음에 두 번 스캔하면 된다고 안내합니다."}
-]
-},
-{
-"kind": "공지",
-"title": "장비 대여 라이브러리 운영 공지",
-"passage": "EQUIPMENT LIBRARY — BORROW, DON'T BUY\n\nBefore your team buys another projector that gets used twice a year, check the Equipment Library on floor 2. The library stocks items teams need occasionally but not constantly: portable projectors, presentation clickers, video kits, label printers, measurement tools, and six loaner laptops configured for guest use.\n\nBorrowing works like a book library: reserve online, pick up with your badge, return by the due date. Standard loans run one week, renewable twice unless someone is waiting. Popular items around quarter-end — projectors especially — should be reserved two weeks ahead.\n\nThe library saved teams an estimated $180,000 in avoided purchases last year. Suggest new items through the portal; anything requested by three or more teams gets evaluated at the monthly review. Broken or missing items should be reported immediately — no blame, we just need to know.\n\nAsset Management",
-"questions": [
-{"q": "What kind of items does the library stock?", "type": "세부사항", "choices": ["Occasionally needed equipment", "Daily-use computers", "Office furniture", "Personal devices"], "a": 0, "exKo": "가끔 필요하지만 상시 쓰지는 않는 장비를 갖추고 있습니다."},
-{"q": "When can a loan NOT be renewed?", "type": "세부사항", "choices": ["When someone is waiting for the item", "After one day", "During quarter-end", "On weekends"], "a": 0, "exKo": "대기자가 있으면 갱신할 수 없습니다."},
-{"q": "How do new items get added?", "type": "세부사항", "choices": ["Requests from three or more teams get evaluated", "Managers decide annually", "Vendors donate them", "The library buys bestsellers"], "a": 0, "exKo": "세 팀 이상이 요청한 품목은 월례 검토에서 평가됩니다."}
-]
-},
-{
-"kind": "광고",
-"title": "중소기업 IT 관리 대행 광고",
-"passage": "TECHGUARD — YOUR IT DEPARTMENT, WITHOUT THE DEPARTMENT\n\nAt 30 employees, you need real IT — but not a full-time hire. TechGuard manages laptops, accounts, security, and support for growing companies at a flat per-person monthly rate.\n\nNew hire starting Monday? We ship a configured laptop to their door with accounts ready. Someone leaves? One click locks every access. Our monitoring patches machines overnight and blocks the phishing links your busiest people will absolutely click on a Friday afternoon.\n\nSupport answers in under four minutes by chat, and our engineers explain fixes in plain language — clients rate 'no jargon' as their favorite feature after 'it just works.' Quarterly reviews keep your setup ahead of your growth, not behind it.\n\nFrom $45 per person monthly, 30-day exit clause, no hardware lock-in. The IT worry-free trial: techguard.io/start.",
-"questions": [
-{"q": "Who is TechGuard designed for?", "type": "주제·목적", "choices": ["Growing companies too small for full-time IT", "Large enterprises", "Home users", "IT professionals"], "a": 0, "exKo": "전담 IT 인력을 두기엔 작은 성장기 기업이 대상입니다."},
-{"q": "What happens when an employee leaves?", "type": "세부사항", "choices": ["One click locks every access", "The laptop is destroyed", "A month-long review", "Nothing automatic"], "a": 0, "exKo": "클릭 한 번으로 모든 접근 권한이 잠깁니다."},
-{"q": "What do clients like second best after reliability?", "type": "세부사항", "choices": ["Plain-language explanations", "The price", "The speed", "The app"], "a": 0, "exKo": "전문용어 없는 설명이 '그냥 잘 된다' 다음으로 좋아하는 특징입니다."}
-]
-},
-{
-"kind": "광고",
-"title": "재활용 굿즈 제작 업체 광고",
-"passage": "LOOPMADE — MERCH YOUR CUSTOMERS WON'T THROW AWAY\n\nBranded pens end up in drawers; branded landfill ends up in headlines. LoopMade makes promotional goods people actually keep — notebooks from coffee-cup paper, totes from banner vinyl, desk organizers from ocean-bound plastic.\n\nEvery item carries a scannable tag telling its material story — where the waste came from, what it became — turning giveaways into brand storytelling. Clients report event booth visitors keeping LoopMade items at triple the rate of standard merch.\n\nMinimums start at 250 units with three-week production; rush available. Your logo is applied with plant-based inks, and unavoidable offcuts return to our material stream — the loop in LoopMade is literal.\n\nB-Corp certified, carbon accounting on every invoice. Order samples at loopmade.eco — the sample box itself becomes a desk tray. Naturally.",
-"questions": [
-{"q": "What does the scannable tag show?", "type": "세부사항", "choices": ["The item's material origin story", "The price", "Reorder options", "The client's ads"], "a": 0, "exKo": "폐기물이 어디서 와서 무엇이 되었는지 소재 이력을 보여 줍니다."},
-{"q": "What result do clients report?", "type": "세부사항", "choices": ["Items kept at triple the rate of standard merch", "Lower costs", "Faster production", "More social posts"], "a": 0, "exKo": "일반 굿즈보다 3배 높은 비율로 방문객이 보관합니다."},
-{"q": "What is clever about the sample box?", "type": "세부사항", "choices": ["It converts into a desk tray", "It is free forever", "It plays a video", "It is edible"], "a": 0, "exKo": "샘플 상자 자체가 책상 정리함으로 변신합니다."}
-]
-},
-{
-"kind": "기사",
-"title": "사내 기술 자격 수당 경쟁 기사",
-"passage": "COMPENSATION TRENDS — Skill premiums are replacing annual raises as the retention tool of choice in technical industries, a salary survey of 12,000 workers indicates. Under these schemes, employees earn permanent pay increases — typically 3 to 8 percent — for certifying in specific skills their employer needs: cloud platforms, safety systems, additional languages.\n\nThe appeal for employers is precision: money flows to capabilities that fill actual gaps, rather than across-the-board increases. Workers like the control — \"My raise doesn't depend on my manager's budget mood; it depends on me passing an exam,\" one respondent wrote.\n\nMisfires happen: one utility offered a premium for a certification so difficult that nobody qualified for a year, and firms report 'certificate collecting' of skills never used. The fix, analysts say, is pairing premiums with rotation programs that put new skills to work within months — retention gains double when certified skills are actually exercised.",
-"questions": [
-{"q": "What are skill premiums?", "type": "주제·목적", "choices": ["Permanent raises for certifying in needed skills", "Annual bonuses", "Overtime payments", "Signing bonuses"], "a": 0, "exKo": "회사가 필요로 하는 기술 인증 취득 시 지급되는 영구 임금 인상입니다."},
-{"q": "Why do workers like the system?", "type": "세부사항", "choices": ["Raises depend on their own exam results", "Premiums are automatic", "Exams are easy", "Managers decide fast"], "a": 0, "exKo": "인상이 관리자 재량이 아니라 본인의 시험 통과에 달려 있기 때문입니다."},
-{"q": "When do retention gains double?", "type": "세부사항", "choices": ["When certified skills are put to actual use", "When premiums exceed 8 percent", "When exams are annual", "When everyone qualifies"], "a": 0, "exKo": "순환 프로그램으로 인증 기술을 실제 활용할 때 효과가 배가됩니다."}
-]
-},
-{
-"kind": "기사",
-"title": "관광지 비수기 워케이션 유치 기사",
-"passage": "REGIONAL ECONOMY — Seaside town Port Aria has turned its empty winter season into a remote-work destination, tripling November-to-March visitor revenue in two years. The 'Work by the Water' program bundles what remote workers actually need: certified fast internet in 60 participating cafes and guesthouses, a co-working hall in the renovated ferry terminal, and month-long lodging rates at half the summer price.\n\nThe town verified every venue's internet speed and posts live desk availability online — reliability, organizers found, matters more to remote workers than scenery. Local businesses adapted: restaurants added lunch specials on weekdays, the gym introduced monthly passes, and the ferry company converted a warehouse into event space for the visiting companies' team weeks.\n\nAverage stay is 24 days, and a fifth of winter workers return within a year — three have opened permanent businesses in town. Neighboring towns have sent delegations to copy the model, which Port Aria's mayor encourages: \"A remote-work coast helps every town on it.\"",
-"questions": [
-{"q": "What did organizers find matters most to remote workers?", "type": "세부사항", "choices": ["Reliable internet over scenery", "Cheap food", "Beach access", "Nightlife"], "a": 0, "exKo": "원격 근무자에게는 경치보다 인터넷 신뢰성이 중요했습니다."},
-{"q": "What sign of lasting impact does the article mention?", "type": "세부사항", "choices": ["Three visitors opened permanent businesses", "Hotels raised prices", "Summer visits fell", "The ferry line closed"], "a": 0, "exKo": "겨울 방문자 중 3명이 마을에 상시 사업체를 열었습니다."},
-{"q": "How does the mayor view neighboring towns copying the model?", "type": "추론", "choices": ["Positively — a remote-work region benefits everyone", "As unfair competition", "With legal concern", "Indifferently"], "a": 0, "exKo": "원격근무 해안이 형성되면 모든 마을에 이롭다며 환영합니다."}
-]
-},
-{
-"kind": "문자메시지",
-"title": "고객사 요구 사양 변경 협의 문자",
-"passage": "Anya Sokolova (10:30 A.M.)\nHeads-up: Delta Foods wants the jar labels waterproof now — their new filling line sprays mist. They asked if we can switch without moving the delivery date.\n\nBen Carter (10:34 A.M.)\nWaterproof stock we have. But their label design uses a foil accent — foil plus waterproof coating needs a different press, and that press is booked solid this week.\n\nAnya Sokolova (10:36 A.M.)\nOptions?\n\nBen Carter (10:38 A.M.)\nA: drop the foil, keep the date. B: keep foil, deliver four days late. C: split — plain waterproof labels for their first production run now, foil version for the rest next week.\n\nAnya Sokolova (10:40 A.M.)\nI'll pitch C. Their line test only needs 5,000 labels anyway.\n\nBen Carter (10:52 A.M.)\nDelta says yes to C. They called it 'the answer we hoped someone would think of.'\n\nAnya Sokolova (10:53 A.M.)\nBooking both runs now. Nice save, Ben.",
-"questions": [
-{"q": "Why can't the full order switch immediately?", "type": "세부사항", "choices": ["Foil plus waterproofing needs a fully booked press", "Waterproof stock ran out", "The design is lost", "Delta canceled"], "a": 0, "exKo": "포일 장식과 방수 코팅을 함께 하려면 이번 주 예약이 꽉 찬 인쇄기가 필요합니다."},
-{"q": "What does option C involve?", "type": "세부사항", "choices": ["Plain waterproof labels first, foil version later", "Canceling the foil forever", "A late full delivery", "Two suppliers"], "a": 0, "exKo": "1차 생산분은 방수 무포일로 먼저, 나머지는 다음 주 포일 버전으로 나눠 납품합니다."},
-{"q": "Why does option C work for Delta?", "type": "추론", "choices": ["Their line test needs only a small quantity", "They dislike foil", "They delayed their launch", "They found another vendor"], "a": 0, "exKo": "라인 테스트에는 5,000장이면 충분해 우선 물량으로 해결됩니다."}
-]
-},
-{
-"kind": "문자메시지",
-"title": "연말 결산 야근 식사 지원 문자",
-"passage": "Priya Shah (5:45 P.M.)\nClose week starts Monday. Finance will run late Tuesday through Thursday — can we set up meal support like last quarter?\n\nMax Weber (5:48 P.M.)\nYes. Same setup? Dinner delivered 7 P.M. for whoever's still in, taxi vouchers after 10?\n\nPriya Shah (5:50 P.M.)\nSame, plus one change — last time everyone ordered individually and food arrived over 40 minutes. Let's do two group platters instead, one vegetarian.\n\nMax Weber (5:52 P.M.)\nSmarter. Headcount?\n\nPriya Shah (5:53 P.M.)\nTwelve Tuesday, likely eight Wednesday, four or five Thursday. I'll confirm each day by 3 P.M.\n\nMax Weber (5:55 P.M.)\nBooked. And HR asked me to remind managers: close week doesn't waive the rest rules — anyone working past midnight starts after 10 the next morning.\n\nPriya Shah (5:56 P.M.)\nAlready in the team calendar. Thanks, Max.",
-"questions": [
-{"q": "What change is made from last quarter's setup?", "type": "세부사항", "choices": ["Group platters replace individual orders", "No taxi vouchers", "Earlier dinners", "Cash allowances"], "a": 0, "exKo": "개별 주문 대신 단체 플래터 2개(하나는 채식)로 바꿉니다."},
-{"q": "Why was the change made?", "type": "세부사항", "choices": ["Individual orders arrived over 40 minutes apart", "Costs were too high", "Food was wasted", "Staff complained about menus"], "a": 0, "exKo": "지난번 개별 주문은 도착까지 40분 넘게 걸렸기 때문입니다."},
-{"q": "What rule does HR emphasize?", "type": "세부사항", "choices": ["Working past midnight means starting after 10 next day", "No overtime pay", "Taxis only before 10", "Meals must be logged"], "a": 0, "exKo": "자정 넘겨 일하면 다음 날 10시 이후 출근하는 휴식 규정은 결산 주간에도 유효합니다."}
-]
-}
-]
+ "passages": [
+  {
+   "kind": "이메일",
+   "title": "사보 기고 요청 메일",
+   "passage": "From: Internal Communications\nTo: Ravi Menon, Senior Engineer\nSubject: Would You Write for the Company Magazine?\n\nDear Ravi,\n\nThe next issue of our quarterly magazine focuses on 'projects that almost failed' — honest stories about recoveries, not just victories. Your bridge sensor project came up repeatedly when we asked around: three missed deadlines, a supplier collapse, and still a successful launch that customers now praise.\n\nWould you write 800 to 1,000 words on what went wrong and what turned it around? We want the real story, including the uncomfortable parts — our most-read article ever was an engineer describing a failed product test.\n\nThe deadline is the 25th, and our editor will help polish the draft, so please don't worry about writing style. Authors receive a small gift, and more importantly, these stories genuinely help junior colleagues feel safer admitting problems early.\n\nMay I count you in?\n\nSelin Kaya, Internal Communications",
+   "questions": [
+    {
+     "q": "What is the magazine issue's theme?",
+     "type": "세부사항",
+     "choices": [
+      "Projects that almost failed and recovered",
+      "Award-winning products",
+      "New employee profiles",
+      "Company history"
+     ],
+     "a": 0,
+     "exKo": "실패 직전까지 갔다가 회복한 프로젝트의 솔직한 이야기가 주제입니다.",
+     "why": [
+      "실패 직전 프로젝트가 이번 호 주제",
+      "성공담만 다루지 않으므로 지문과 반대",
+      "신입 소개 언급 없음",
+      "회사 연혁 언급 없음"
+     ],
+     "ev": "The next issue of our quarterly magazine focuses on 'projects that almost failed'"
+    },
+    {
+     "q": "Why should Ravi not worry about writing quality?",
+     "type": "세부사항",
+     "choices": [
+      "An editor will help polish the draft",
+      "The article is anonymous",
+      "It will be short",
+      "AI will write it"
+     ],
+     "a": 0,
+     "exKo": "편집자가 원고를 다듬어 주므로 문체 걱정은 필요 없습니다.",
+     "why": [
+      "편집자가 원고를 다듬어 주기 때문",
+      "익명 게재 언급 없음",
+      "800~1,000단어는 분량일 뿐 이유 아님",
+      "AI 대필 언급 없음"
+     ],
+     "ev": "our editor will help polish the draft, so please don't worry about writing style"
+    },
+    {
+     "q": "What broader benefit do such stories provide?",
+     "type": "추론",
+     "choices": [
+      "Juniors feel safer admitting problems early",
+      "They attract customers",
+      "They win awards",
+      "They reduce deadlines"
+     ],
+     "a": 0,
+     "exKo": "후배들이 문제를 일찍 인정하는 것을 두려워하지 않게 돕습니다.",
+     "why": [
+      "후배가 문제를 일찍 인정하기 쉬워짐",
+      "사내 매거진이라 고객 유치와 무관",
+      "수상 언급 없음",
+      "마감 단어만 같고 문맥이 다름"
+     ],
+     "ev": "these stories genuinely help junior colleagues feel safer admitting problems early"
+    }
+   ]
+  },
+  {
+   "kind": "이메일",
+   "title": "단골 고객 감사 프로그램 안내 메일",
+   "passage": "From: Orchard Office Supplies\nTo: Valued Business Customers\nSubject: You Asked, We Built It — Introducing Orchard Priority\n\nDear Customer,\n\nAfter 40 interviews with our longest-standing business clients, we heard three wishes again and again: faster reordering, predictable delivery windows, and a human who knows your account. Orchard Priority, launching next month, delivers all three — free for any business ordering over $500 monthly.\n\nPriority members get one-click reordering from purchase history, guaranteed two-hour delivery windows you choose at checkout, and a named account contact reachable by direct line until 8 p.m. We are also adding a quarterly usage report that flags cheaper alternatives for your most-ordered items — yes, we will occasionally talk you into spending less. Loyalty should run both directions.\n\nYour account qualifies automatically; nothing to sign. Your contact, Maria Duarte, will call this week to introduce herself.\n\nThank you for eleven years of business.\n\nTom Orchard, Founder",
+   "questions": [
+    {
+     "q": "How was the program designed?",
+     "type": "세부사항",
+     "choices": [
+      "From interviews with long-standing clients",
+      "By copying competitors",
+      "From an employee contest",
+      "By consultants"
+     ],
+     "a": 0,
+     "exKo": "오랜 고객 40곳 인터뷰에서 나온 세 가지 요청을 반영해 만들었습니다.",
+     "why": [
+      "장기 고객 40곳 인터뷰 결과를 반영",
+      "경쟁사 모방 언급 없음",
+      "직원 공모 언급 없음",
+      "컨설턴트 관여 언급 없음"
+     ],
+     "ev": "After 40 interviews with our longest-standing business clients, we heard three wishes again and again"
+    },
+    {
+     "q": "What does the usage report do?",
+     "type": "세부사항",
+     "choices": [
+      "Flags cheaper alternatives for frequent items",
+      "Predicts stock-outs",
+      "Tracks deliveries",
+      "Ranks customers"
+     ],
+     "a": 0,
+     "exKo": "자주 주문하는 품목의 더 저렴한 대안을 알려 줍니다.",
+     "why": [
+      "자주 주문 품목의 저렴한 대안을 표시",
+      "재고 소진 예측 언급 없음",
+      "배송 추적은 다른 혜택과 혼동",
+      "고객 순위 매김 언급 없음"
+     ],
+     "ev": "a quarterly usage report that flags cheaper alternatives for your most-ordered items"
+    },
+    {
+     "q": "What does 'Loyalty should run both directions' suggest?",
+     "type": "추론",
+     "choices": [
+      "The company should also act in customers' interest",
+      "Customers must order more",
+      "Contracts bind both sides",
+      "Prices will rise"
+     ],
+     "a": 0,
+     "exKo": "고객에게 돈을 덜 쓰게 권하더라도 회사도 신의로 보답한다는 뜻입니다.",
+     "why": [
+      "고객이 덜 쓰도록 권할 만큼 회사도 보답",
+      "덜 쓰게 권하므로 지문과 반대",
+      "서명 불필요라 계약 구속과 무관",
+      "가격 인상 언급 없음"
+     ],
+     "ev": "yes, we will occasionally talk you into spending less. Loyalty should run both directions."
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "다과실 무인 판매대 정직 운영 공지",
+   "passage": "HONOR MARKET — HOW IT'S GOING\n\nSix months ago we replaced the vending machines with the unstaffed Honor Market: take what you need, scan and pay at the kiosk. Time for a report.\n\nThe numbers: payment accuracy runs at 97 percent — better than we hoped, and the small gap is mostly forgotten scans rather than intent, based on camera-free shelf counts. Sales are double the vending machines', and the fresh food option means the fridge empties daily.\n\nWhat changes: the sandwich shelf grows, card-only payment ends — the kiosk now takes phone pay — and we are adding a 'pay it forward' button that buys a coffee credit for a colleague, anonymous by design.\n\nOne request: the market works because we trust each other, and 3 percent is the price of not searching bags. If you notice you forgot to scan, just scan twice next time. Nobody is watching; that is the point.\n\nWorkplace Committee",
+   "questions": [
+    {
+     "q": "What explains most of the 3 percent payment gap?",
+     "type": "세부사항",
+     "choices": [
+      "Forgotten scans rather than intent",
+      "Deliberate theft",
+      "Kiosk errors",
+      "Price confusion"
+     ],
+     "a": 0,
+     "exKo": "고의가 아니라 스캔을 잊은 경우가 대부분으로 파악됩니다.",
+     "why": [
+      "고의가 아닌 스캔 누락이 대부분",
+      "고의 절도가 아니라 했으므로 지문과 반대",
+      "키오스크 오류 언급 없음",
+      "가격 혼동 언급 없음"
+     ],
+     "ev": "the small gap is mostly forgotten scans rather than intent"
+    },
+    {
+     "q": "What payment change is coming?",
+     "type": "세부사항",
+     "choices": [
+      "Phone pay is added",
+      "Cash is accepted",
+      "Payment becomes monthly",
+      "Prices drop"
+     ],
+     "a": 0,
+     "exKo": "카드 전용에서 휴대폰 결제 추가로 바뀝니다.",
+     "why": [
+      "카드 전용이 끝나고 휴대폰 결제 추가",
+      "현금 결제 언급 없음",
+      "월 단위 정산 언급 없음",
+      "가격 인하 언급 없음"
+     ],
+     "ev": "card-only payment ends — the kiosk now takes phone pay"
+    },
+    {
+     "q": "What is the suggested remedy for a forgotten scan?",
+     "type": "세부사항",
+     "choices": [
+      "Scan twice next time",
+      "Report to security",
+      "Pay a fine",
+      "Email the committee"
+     ],
+     "a": 0,
+     "exKo": "다음에 두 번 스캔하면 된다고 안내합니다.",
+     "why": [
+      "다음 이용 때 두 번 스캔하면 됨",
+      "감시하지 않는다 했으므로 지문과 반대",
+      "벌금 언급 없음",
+      "위원회 명의 글일 뿐 신고 요청 없음"
+     ],
+     "ev": "If you notice you forgot to scan, just scan twice next time."
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "장비 대여 라이브러리 운영 공지",
+   "passage": "EQUIPMENT LIBRARY — BORROW, DON'T BUY\n\nBefore your team buys another projector that gets used twice a year, check the Equipment Library on floor 2. The library stocks items teams need occasionally but not constantly: portable projectors, presentation clickers, video kits, label printers, measurement tools, and six loaner laptops configured for guest use.\n\nBorrowing works like a book library: reserve online, pick up with your badge, return by the due date. Standard loans run one week, renewable twice unless someone is waiting. Popular items around quarter-end — projectors especially — should be reserved two weeks ahead.\n\nThe library saved teams an estimated $180,000 in avoided purchases last year. Suggest new items through the portal; anything requested by three or more teams gets evaluated at the monthly review. Broken or missing items should be reported immediately — no blame, we just need to know.\n\nAsset Management",
+   "questions": [
+    {
+     "q": "What kind of items does the library stock?",
+     "type": "세부사항",
+     "choices": [
+      "Occasionally needed equipment",
+      "Daily-use computers",
+      "Office furniture",
+      "Personal devices"
+     ],
+     "a": 0,
+     "exKo": "가끔 필요하지만 상시 쓰지는 않는 장비를 갖추고 있습니다.",
+     "why": [
+      "상시가 아닌 가끔 필요한 장비를 보유",
+      "게스트용 대여 노트북은 상시용이 아님",
+      "사무용 가구 언급 없음",
+      "개인 기기 언급 없음"
+     ],
+     "ev": "The library stocks items teams need occasionally but not constantly"
+    },
+    {
+     "q": "When can a loan NOT be renewed?",
+     "type": "세부사항",
+     "choices": [
+      "When someone is waiting for the item",
+      "After one day",
+      "During quarter-end",
+      "On weekends"
+     ],
+     "a": 0,
+     "exKo": "대기자가 있으면 갱신할 수 없습니다.",
+     "why": [
+      "대기자가 있으면 갱신이 불가",
+      "기본 대여가 1주라 하루는 틀림",
+      "분기말은 사전 예약 권고일 뿐",
+      "주말 규정 언급 없음"
+     ],
+     "ev": "Standard loans run one week, renewable twice unless someone is waiting."
+    },
+    {
+     "q": "How do new items get added?",
+     "type": "세부사항",
+     "choices": [
+      "Requests from three or more teams get evaluated",
+      "Managers decide annually",
+      "Vendors donate them",
+      "The library buys bestsellers"
+     ],
+     "a": 0,
+     "exKo": "세 팀 이상이 요청한 품목은 월례 검토에서 평가됩니다.",
+     "why": [
+      "세 팀 이상 요청 시 월례 검토 대상",
+      "월례 검토이므로 연 1회는 지문과 반대",
+      "업체 기증 언급 없음",
+      "도서관 비유의 단어 반복 함정"
+     ],
+     "ev": "anything requested by three or more teams gets evaluated at the monthly review"
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "중소기업 IT 관리 대행 광고",
+   "passage": "TECHGUARD — YOUR IT DEPARTMENT, WITHOUT THE DEPARTMENT\n\nAt 30 employees, you need real IT — but not a full-time hire. TechGuard manages laptops, accounts, security, and support for growing companies at a flat per-person monthly rate.\n\nNew hire starting Monday? We ship a configured laptop to their door with accounts ready. Someone leaves? One click locks every access. Our monitoring patches machines overnight and blocks the phishing links your busiest people will absolutely click on a Friday afternoon.\n\nSupport answers in under four minutes by chat, and our engineers explain fixes in plain language — clients rate 'no jargon' as their favorite feature after 'it just works.' Quarterly reviews keep your setup ahead of your growth, not behind it.\n\nFrom $45 per person monthly, 30-day exit clause, no hardware lock-in. The IT worry-free trial: techguard.io/start.",
+   "questions": [
+    {
+     "q": "Who is TechGuard designed for?",
+     "type": "주제·목적",
+     "choices": [
+      "Growing companies too small for full-time IT",
+      "Large enterprises",
+      "Home users",
+      "IT professionals"
+     ],
+     "a": 0,
+     "exKo": "전담 IT 인력을 두기엔 작은 성장기 기업이 대상입니다.",
+     "why": [
+      "전담 채용은 부담인 성장기 기업이 대상",
+      "대기업 대상 언급 없음",
+      "가정 사용자 언급 없음",
+      "IT 인력이 없는 회사가 대상이라 반대"
+     ],
+     "ev": "At 30 employees, you need real IT — but not a full-time hire."
+    },
+    {
+     "q": "What happens when an employee leaves?",
+     "type": "세부사항",
+     "choices": [
+      "One click locks every access",
+      "The laptop is destroyed",
+      "A month-long review",
+      "Nothing automatic"
+     ],
+     "a": 0,
+     "exKo": "클릭 한 번으로 모든 접근 권한이 잠깁니다.",
+     "why": [
+      "퇴사 시 클릭 한 번으로 전 접근 차단",
+      "노트북 폐기 언급 없음",
+      "분기 점검과 혼동, 한 달 검토 언급 없음",
+      "즉시 자동 차단이므로 지문과 반대"
+     ],
+     "ev": "Someone leaves? One click locks every access."
+    },
+    {
+     "q": "What do clients like second best after reliability?",
+     "type": "세부사항",
+     "choices": [
+      "Plain-language explanations",
+      "The price",
+      "The speed",
+      "The app"
+     ],
+     "a": 0,
+     "exKo": "전문용어 없는 설명이 '그냥 잘 된다' 다음으로 좋아하는 특징입니다.",
+     "why": [
+      "전문용어 없는 설명이 두 번째 선호 요소",
+      "가격은 언급되나 선호 순위와 무관",
+      "4분 응답은 별개 항목",
+      "앱 언급 없음"
+     ],
+     "ev": "clients rate 'no jargon' as their favorite feature after 'it just works.'"
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "재활용 굿즈 제작 업체 광고",
+   "passage": "LOOPMADE — MERCH YOUR CUSTOMERS WON'T THROW AWAY\n\nBranded pens end up in drawers; branded landfill ends up in headlines. LoopMade makes promotional goods people actually keep — notebooks from coffee-cup paper, totes from banner vinyl, desk organizers from ocean-bound plastic.\n\nEvery item carries a scannable tag telling its material story — where the waste came from, what it became — turning giveaways into brand storytelling. Clients report event booth visitors keeping LoopMade items at triple the rate of standard merch.\n\nMinimums start at 250 units with three-week production; rush available. Your logo is applied with plant-based inks, and unavoidable offcuts return to our material stream — the loop in LoopMade is literal.\n\nB-Corp certified, carbon accounting on every invoice. Order samples at loopmade.eco — the sample box itself becomes a desk tray. Naturally.",
+   "questions": [
+    {
+     "q": "What does the scannable tag show?",
+     "type": "세부사항",
+     "choices": [
+      "The item's material origin story",
+      "The price",
+      "Reorder options",
+      "The client's ads"
+     ],
+     "a": 0,
+     "exKo": "폐기물이 어디서 와서 무엇이 되었는지 소재 이력을 보여 줍니다.",
+     "why": [
+      "폐기물 출처와 변신 과정을 보여 줌",
+      "가격 표시 언급 없음",
+      "재주문 기능 언급 없음",
+      "로고 인쇄와 혼동, 태그 내용 아님"
+     ],
+     "ev": "Every item carries a scannable tag telling its material story"
+    },
+    {
+     "q": "What result do clients report?",
+     "type": "세부사항",
+     "choices": [
+      "Items kept at triple the rate of standard merch",
+      "Lower costs",
+      "Faster production",
+      "More social posts"
+     ],
+     "a": 0,
+     "exKo": "일반 굿즈보다 3배 높은 비율로 방문객이 보관합니다.",
+     "why": [
+      "일반 굿즈 대비 3배 보관율을 보고",
+      "비용 절감 언급 없음",
+      "3주 생산은 조건일 뿐 성과 아님",
+      "SNS 게시 언급 없음"
+     ],
+     "ev": "Clients report event booth visitors keeping LoopMade items at triple the rate of standard merch."
+    },
+    {
+     "q": "What is clever about the sample box?",
+     "type": "세부사항",
+     "choices": [
+      "It converts into a desk tray",
+      "It is free forever",
+      "It plays a video",
+      "It is edible"
+     ],
+     "a": 0,
+     "exKo": "샘플 상자 자체가 책상 정리함으로 변신합니다.",
+     "why": [
+      "샘플 상자가 책상 정리함으로 재사용",
+      "영구 무료 언급 없음",
+      "영상 재생 언급 없음",
+      "식용 언급 없음"
+     ],
+     "ev": "the sample box itself becomes a desk tray"
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "사내 기술 자격 수당 경쟁 기사",
+   "passage": "COMPENSATION TRENDS — Skill premiums are replacing annual raises as the retention tool of choice in technical industries, a salary survey of 12,000 workers indicates. Under these schemes, employees earn permanent pay increases — typically 3 to 8 percent — for certifying in specific skills their employer needs: cloud platforms, safety systems, additional languages.\n\nThe appeal for employers is precision: money flows to capabilities that fill actual gaps, rather than across-the-board increases. Workers like the control — \"My raise doesn't depend on my manager's budget mood; it depends on me passing an exam,\" one respondent wrote.\n\nMisfires happen: one utility offered a premium for a certification so difficult that nobody qualified for a year, and firms report 'certificate collecting' of skills never used. The fix, analysts say, is pairing premiums with rotation programs that put new skills to work within months — retention gains double when certified skills are actually exercised.",
+   "questions": [
+    {
+     "q": "What are skill premiums?",
+     "type": "주제·목적",
+     "choices": [
+      "Permanent raises for certifying in needed skills",
+      "Annual bonuses",
+      "Overtime payments",
+      "Signing bonuses"
+     ],
+     "a": 0,
+     "exKo": "회사가 필요로 하는 기술 인증 취득 시 지급되는 영구 임금 인상입니다.",
+     "why": [
+      "필요 기술 인증 시 받는 영구 인상분",
+      "연례 인상을 대체하는 제도라 반대",
+      "초과근무 수당 언급 없음",
+      "입사 보너스 언급 없음"
+     ],
+     "ev": "employees earn permanent pay increases — typically 3 to 8 percent — for certifying in specific skills their employer needs"
+    },
+    {
+     "q": "Why do workers like the system?",
+     "type": "세부사항",
+     "choices": [
+      "Raises depend on their own exam results",
+      "Premiums are automatic",
+      "Exams are easy",
+      "Managers decide fast"
+     ],
+     "a": 0,
+     "exKo": "인상이 관리자 재량이 아니라 본인의 시험 통과에 달려 있기 때문입니다.",
+     "why": [
+      "인상 여부가 본인 시험 결과에 달림",
+      "시험 통과가 조건이라 자동 지급 아님",
+      "통과자 없던 사례가 있어 지문과 반대",
+      "관리자 재량이 아니므로 지문과 반대"
+     ],
+     "ev": "it depends on me passing an exam"
+    },
+    {
+     "q": "When do retention gains double?",
+     "type": "세부사항",
+     "choices": [
+      "When certified skills are put to actual use",
+      "When premiums exceed 8 percent",
+      "When exams are annual",
+      "When everyone qualifies"
+     ],
+     "a": 0,
+     "exKo": "순환 프로그램으로 인증 기술을 실제 활용할 때 효과가 배가됩니다.",
+     "why": [
+      "인증 기술을 실제 활용할 때 효과 배가",
+      "3~8%는 인상 폭일 뿐 조건 아님",
+      "시험 주기 언급 없음",
+      "아무도 통과 못한 사례의 단어 반복"
+     ],
+     "ev": "retention gains double when certified skills are actually exercised"
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "관광지 비수기 워케이션 유치 기사",
+   "passage": "REGIONAL ECONOMY — Seaside town Port Aria has turned its empty winter season into a remote-work destination, tripling November-to-March visitor revenue in two years. The 'Work by the Water' program bundles what remote workers actually need: certified fast internet in 60 participating cafes and guesthouses, a co-working hall in the renovated ferry terminal, and month-long lodging rates at half the summer price.\n\nThe town verified every venue's internet speed and posts live desk availability online — reliability, organizers found, matters more to remote workers than scenery. Local businesses adapted: restaurants added lunch specials on weekdays, the gym introduced monthly passes, and the ferry company converted a warehouse into event space for the visiting companies' team weeks.\n\nAverage stay is 24 days, and a fifth of winter workers return within a year — three have opened permanent businesses in town. Neighboring towns have sent delegations to copy the model, which Port Aria's mayor encourages: \"A remote-work coast helps every town on it.\"",
+   "questions": [
+    {
+     "q": "What did organizers find matters most to remote workers?",
+     "type": "세부사항",
+     "choices": [
+      "Reliable internet over scenery",
+      "Cheap food",
+      "Beach access",
+      "Nightlife"
+     ],
+     "a": 0,
+     "exKo": "원격 근무자에게는 경치보다 인터넷 신뢰성이 중요했습니다.",
+     "why": [
+      "경치보다 인터넷 신뢰성이 더 중요",
+      "평일 런치 특선은 상점의 대응일 뿐",
+      "경치보다 덜 중요하다 했으므로 반대",
+      "야간 문화 언급 없음"
+     ],
+     "ev": "reliability, organizers found, matters more to remote workers than scenery"
+    },
+    {
+     "q": "What sign of lasting impact does the article mention?",
+     "type": "세부사항",
+     "choices": [
+      "Three visitors opened permanent businesses",
+      "Hotels raised prices",
+      "Summer visits fell",
+      "The ferry line closed"
+     ],
+     "a": 0,
+     "exKo": "겨울 방문자 중 3명이 마을에 상시 사업체를 열었습니다.",
+     "why": [
+      "방문자 3명이 상시 사업체를 개업",
+      "여름의 절반 요금이라 지문과 반대",
+      "여름 방문 감소 언급 없음",
+      "페리사는 창고를 행사장으로 전환해 반대"
+     ],
+     "ev": "three have opened permanent businesses in town"
+    },
+    {
+     "q": "How does the mayor view neighboring towns copying the model?",
+     "type": "추론",
+     "choices": [
+      "Positively — a remote-work region benefits everyone",
+      "As unfair competition",
+      "With legal concern",
+      "Indifferently"
+     ],
+     "a": 0,
+     "exKo": "원격근무 해안이 형성되면 모든 마을에 이롭다며 환영합니다.",
+     "why": [
+      "모두에게 이롭다며 모방을 권장",
+      "시장이 권장하므로 지문과 반대",
+      "법적 문제 언급 없음",
+      "적극 권장이므로 무관심은 반대"
+     ],
+     "ev": "A remote-work coast helps every town on it."
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "고객사 요구 사양 변경 협의 문자",
+   "passage": "Anya Sokolova (10:30 A.M.)\nHeads-up: Delta Foods wants the jar labels waterproof now — their new filling line sprays mist. They asked if we can switch without moving the delivery date.\n\nBen Carter (10:34 A.M.)\nWaterproof stock we have. But their label design uses a foil accent — foil plus waterproof coating needs a different press, and that press is booked solid this week.\n\nAnya Sokolova (10:36 A.M.)\nOptions?\n\nBen Carter (10:38 A.M.)\nA: drop the foil, keep the date. B: keep foil, deliver four days late. C: split — plain waterproof labels for their first production run now, foil version for the rest next week.\n\nAnya Sokolova (10:40 A.M.)\nI'll pitch C. Their line test only needs 5,000 labels anyway.\n\nBen Carter (10:52 A.M.)\nDelta says yes to C. They called it 'the answer we hoped someone would think of.'\n\nAnya Sokolova (10:53 A.M.)\nBooking both runs now. Nice save, Ben.",
+   "questions": [
+    {
+     "q": "Why can't the full order switch immediately?",
+     "type": "세부사항",
+     "choices": [
+      "Foil plus waterproofing needs a fully booked press",
+      "Waterproof stock ran out",
+      "The design is lost",
+      "Delta canceled"
+     ],
+     "a": 0,
+     "exKo": "포일 장식과 방수 코팅을 함께 하려면 이번 주 예약이 꽉 찬 인쇄기가 필요합니다.",
+     "why": [
+      "필요한 인쇄기가 이번 주 예약 만료",
+      "방수 용지는 재고가 있어 지문과 반대",
+      "디자인 분실 언급 없음",
+      "납기 유지를 원했으므로 취소는 반대"
+     ],
+     "ev": "foil plus waterproof coating needs a different press, and that press is booked solid this week"
+    },
+    {
+     "q": "What does option C involve?",
+     "type": "세부사항",
+     "choices": [
+      "Plain waterproof labels first, foil version later",
+      "Canceling the foil forever",
+      "A late full delivery",
+      "Two suppliers"
+     ],
+     "a": 0,
+     "exKo": "1차 생산분은 방수 무포일로 먼저, 나머지는 다음 주 포일 버전으로 나눠 납품합니다.",
+     "why": [
+      "1차분은 무포일 방수, 나머지는 포일로 분할",
+      "포일은 다음 주 진행하므로 영구 취소 아님",
+      "전량 지연은 B안의 내용",
+      "공급업체 이원화 언급 없음"
+     ],
+     "ev": "C: split — plain waterproof labels for their first production run now, foil version for the rest next week."
+    },
+    {
+     "q": "Why does option C work for Delta?",
+     "type": "추론",
+     "choices": [
+      "Their line test needs only a small quantity",
+      "They dislike foil",
+      "They delayed their launch",
+      "They found another vendor"
+     ],
+     "a": 0,
+     "exKo": "라인 테스트에는 5,000장이면 충분해 우선 물량으로 해결됩니다.",
+     "why": [
+      "라인 테스트에 5,000장이면 충분",
+      "포일 버전을 유지하므로 지문과 반대",
+      "출시 연기 언급 없음",
+      "다른 업체 언급 없음"
+     ],
+     "ev": "Their line test only needs 5,000 labels anyway."
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "연말 결산 야근 식사 지원 문자",
+   "passage": "Priya Shah (5:45 P.M.)\nClose week starts Monday. Finance will run late Tuesday through Thursday — can we set up meal support like last quarter?\n\nMax Weber (5:48 P.M.)\nYes. Same setup? Dinner delivered 7 P.M. for whoever's still in, taxi vouchers after 10?\n\nPriya Shah (5:50 P.M.)\nSame, plus one change — last time everyone ordered individually and food arrived over 40 minutes. Let's do two group platters instead, one vegetarian.\n\nMax Weber (5:52 P.M.)\nSmarter. Headcount?\n\nPriya Shah (5:53 P.M.)\nTwelve Tuesday, likely eight Wednesday, four or five Thursday. I'll confirm each day by 3 P.M.\n\nMax Weber (5:55 P.M.)\nBooked. And HR asked me to remind managers: close week doesn't waive the rest rules — anyone working past midnight starts after 10 the next morning.\n\nPriya Shah (5:56 P.M.)\nAlready in the team calendar. Thanks, Max.",
+   "questions": [
+    {
+     "q": "What change is made from last quarter's setup?",
+     "type": "세부사항",
+     "choices": [
+      "Group platters replace individual orders",
+      "No taxi vouchers",
+      "Earlier dinners",
+      "Cash allowances"
+     ],
+     "a": 0,
+     "exKo": "개별 주문 대신 단체 플래터 2개(하나는 채식)로 바꿉니다."
+    },
+    {
+     "q": "Why was the change made?",
+     "type": "세부사항",
+     "choices": [
+      "Individual orders arrived over 40 minutes apart",
+      "Costs were too high",
+      "Food was wasted",
+      "Staff complained about menus"
+     ],
+     "a": 0,
+     "exKo": "지난번 개별 주문은 도착까지 40분 넘게 걸렸기 때문입니다."
+    },
+    {
+     "q": "What rule does HR emphasize?",
+     "type": "세부사항",
+     "choices": [
+      "Working past midnight means starting after 10 next day",
+      "No overtime pay",
+      "Taxis only before 10",
+      "Meals must be logged"
+     ],
+     "a": 0,
+     "exKo": "자정 넘겨 일하면 다음 날 10시 이후 출근하는 휴식 규정은 결산 주간에도 유효합니다."
+    }
+   ]
+  }
+ ]
 }
