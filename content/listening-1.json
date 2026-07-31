@@ -1,0 +1,684 @@
+{
+ "items": [
+  {
+   "qType": "When",
+   "q": "When does the workshop begin?",
+   "choices": [
+    "At ten o'clock tomorrow morning.",
+    "In the main conference room.",
+    "Yes, I attended it."
+   ],
+   "a": 0,
+   "exKo": "When 의문문에는 시점으로 답해야 합니다. (B)는 장소(Where) 응답이고, (C)는 의문사 의문문에 Yes로 답한 오답입니다.",
+   "why": [
+    "시각(ten o'clock)으로 답한 정확한 When 응답",
+    "장소 응답 — Where 질문에 어울림",
+    "의문사 의문문에 Yes/No로 답할 수 없음"
+   ],
+   "transKo": "워크숍은 언제 시작하나요?"
+  },
+  {
+   "qType": "When",
+   "q": "When is the report due?",
+   "choices": [
+    "By Friday afternoon.",
+    "On my desk.",
+    "It was very long."
+   ],
+   "a": 0,
+   "exKo": "마감 시점을 묻고 있으므로 By Friday afternoon(금요일 오후까지)이 정답입니다. (B)는 장소, (C)는 감상을 말하는 오답입니다.",
+   "why": [
+    "By Friday afternoon — 기한을 밝힌 시점 응답",
+    "On my desk는 위치 응답이라 When과 무관",
+    "보고서 길이 감상 — 마감 시점과 무관"
+   ],
+   "transKo": "보고서 마감은 언제인가요?"
+  },
+  {
+   "qType": "Where",
+   "q": "Where is the nearest post office?",
+   "choices": [
+    "Just around the corner.",
+    "Every day at nine.",
+    "About ten dollars."
+   ],
+   "a": 0,
+   "exKo": "Where 의문문에는 위치로 답해야 하므로 '모퉁이를 돌면 바로'가 정답입니다. (B)는 시간, (C)는 가격 응답입니다.",
+   "why": [
+    "around the corner — 위치를 알려주는 Where 응답",
+    "시각 응답이라 Where 질문에 부적합",
+    "금액 응답 — How much에 어울림"
+   ],
+   "transKo": "가장 가까운 우체국이 어디인가요?"
+  },
+  {
+   "qType": "Where",
+   "q": "Where should I put these boxes?",
+   "choices": [
+    "In the storage room, please.",
+    "Three boxes, I think.",
+    "Because they are heavy."
+   ],
+   "a": 0,
+   "exKo": "둘 곳을 묻고 있으므로 In the storage room이 정답입니다. (B)는 boxes를 반복한 연상 함정입니다.",
+   "why": [
+    "In the storage room — 장소를 지정한 응답",
+    "개수 응답 — How many에 어울림",
+    "이유 응답 — Why에 어울림"
+   ],
+   "transKo": "이 상자들을 어디에 두면 될까요?"
+  },
+  {
+   "qType": "Who",
+   "q": "Who is leading the training session today?",
+   "choices": [
+    "Ms. Alvarez from Human Resources.",
+    "In the second-floor training room.",
+    "It starts at two."
+   ],
+   "a": 0,
+   "exKo": "Who 의문문에는 사람으로 답해야 하므로 인사부의 알바레스 씨가 정답입니다. (B)는 장소, (C)는 시간 응답입니다.",
+   "why": [
+    "사람 이름과 소속으로 답한 Who 응답",
+    "장소 응답이라 Who와 무관",
+    "시각 응답이라 Who와 무관"
+   ],
+   "transKo": "오늘 교육을 진행하는 사람은 누구인가요?"
+  },
+  {
+   "qType": "Who",
+   "q": "Who ordered the office supplies?",
+   "choices": [
+    "I believe Tom did.",
+    "Some pens and paper.",
+    "Last Tuesday."
+   ],
+   "a": 0,
+   "exKo": "주문한 사람을 묻고 있으므로 Tom did가 정답입니다. (B)는 주문 품목, (C)는 시점을 말하는 오답입니다.",
+   "why": [
+    "Tom did — 행위자를 밝힌 Who 응답",
+    "주문 품목 응답 — What에 어울림",
+    "시점 응답 — When에 어울림"
+   ],
+   "transKo": "사무용품은 누가 주문했나요?"
+  },
+  {
+   "qType": "What",
+   "q": "What time does the bank close?",
+   "choices": [
+    "At four thirty on weekdays.",
+    "Near the subway station.",
+    "With my credit card."
+   ],
+   "a": 0,
+   "exKo": "What time은 시각을 묻는 표현이므로 At four thirty가 정답입니다. (B)는 위치 응답입니다.",
+   "why": [
+    "at four thirty — 폐점 시각을 밝힌 응답",
+    "위치 응답이라 시각 질문과 무관",
+    "결제 수단 응답 — How에 어울림"
+   ],
+   "transKo": "은행은 몇 시에 문을 닫나요?"
+  },
+  {
+   "qType": "What",
+   "q": "What did you think of the presentation?",
+   "choices": [
+    "It was very informative.",
+    "At the annual meeting.",
+    "He is a good presenter, too."
+   ],
+   "a": 0,
+   "exKo": "발표에 대한 의견을 묻고 있으므로 '유익했다'는 감상이 정답입니다. (C)는 presentation-presenter 연상 함정입니다.",
+   "why": [
+    "informative — 소감을 말한 의견 응답",
+    "발표 장소 응답이라 감상과 무관",
+    "presenter 반복 함정 — 소감이 아님"
+   ],
+   "transKo": "발표는 어땠다고 생각하세요?"
+  },
+  {
+   "qType": "Why",
+   "q": "Why was the meeting canceled?",
+   "choices": [
+    "Because the director is out sick.",
+    "In the meeting room.",
+    "No, I didn't cancel it."
+   ],
+   "a": 0,
+   "exKo": "이유를 묻고 있으므로 Because로 시작하는 응답이 정답입니다. (C)는 의문사 의문문에 No로 답한 오답입니다.",
+   "why": [
+    "Because로 시작해 취소 사유를 밝힌 응답",
+    "장소 응답이라 이유가 아님",
+    "의문사 의문문에 No로 답할 수 없음"
+   ],
+   "transKo": "회의는 왜 취소되었나요?"
+  },
+  {
+   "qType": "Why",
+   "q": "Why are you leaving early today?",
+   "choices": [
+    "I have a dentist appointment.",
+    "Around six in the evening.",
+    "Through the back door."
+   ],
+   "a": 0,
+   "exKo": "일찍 가는 이유를 묻고 있으므로 치과 예약이 있다는 응답이 정답입니다. (B)는 시간, (C)는 경로 응답입니다.",
+   "why": [
+    "치과 예약이라는 조퇴 사유를 밝힌 응답",
+    "시각 응답 — When에 어울림",
+    "경로 응답 — 이유가 아님"
+   ],
+   "transKo": "오늘 왜 일찍 퇴근하시나요?"
+  },
+  {
+   "qType": "How",
+   "q": "How do I get to the airport from here?",
+   "choices": [
+    "Take the express bus at Gate 3.",
+    "About two hours ago.",
+    "Twice a week."
+   ],
+   "a": 0,
+   "exKo": "방법·경로를 묻고 있으므로 급행버스를 타라는 응답이 정답입니다. (B)는 시점, (C)는 빈도 응답입니다.",
+   "why": [
+    "교통편과 탑승 위치를 알려준 방법 응답",
+    "과거 시점 응답이라 방법과 무관",
+    "빈도 응답 — How often에 어울림"
+   ],
+   "transKo": "여기서 공항까지 어떻게 가나요?"
+  },
+  {
+   "qType": "How",
+   "q": "How many people are coming to the luncheon?",
+   "choices": [
+    "Around twenty, I heard.",
+    "It was delicious.",
+    "At the Italian restaurant."
+   ],
+   "a": 0,
+   "exKo": "How many는 수를 묻는 표현이므로 '스무 명 정도'가 정답입니다. (B)는 luncheon에서 연상되는 음식 감상 함정입니다.",
+   "why": [
+    "Around twenty — 인원수를 밝힌 응답",
+    "음식 감상이라 인원과 무관",
+    "장소 응답 — Where에 어울림"
+   ],
+   "transKo": "오찬에 몇 분이나 오시나요?"
+  },
+  {
+   "qType": "일반의문문",
+   "q": "Did you finish the sales report?",
+   "choices": [
+    "Yes, I sent it to you this morning.",
+    "At the sales meeting.",
+    "He is a new salesperson."
+   ],
+   "a": 0,
+   "exKo": "Did로 묻는 일반의문문에는 Yes/No 응답이 자연스럽습니다. (B), (C)는 sales를 반복한 연상 함정입니다.",
+   "why": [
+    "Yes로 답하고 이미 보냈다고 부연한 응답",
+    "장소 응답이라 완료 여부가 아님",
+    "sales 반복 함정 — 답변이 되지 않음"
+   ],
+   "transKo": "영업 보고서는 다 작성하셨나요?"
+  },
+  {
+   "qType": "일반의문문",
+   "q": "Is the copier working now?",
+   "choices": [
+    "Yes, it was fixed an hour ago.",
+    "Twenty copies, please.",
+    "On the third floor."
+   ],
+   "a": 0,
+   "exKo": "복사기가 작동하는지 묻고 있으므로 '한 시간 전에 수리됐다'는 Yes 응답이 정답입니다. (B)는 copier-copies 연상 함정입니다.",
+   "why": [
+    "Yes와 함께 수리 완료 시점까지 밝힌 응답",
+    "복사 매수 요청이라 질문과 무관",
+    "위치 응답 — Where에 어울림"
+   ],
+   "transKo": "복사기는 지금 작동하나요?"
+  },
+  {
+   "qType": "일반의문문",
+   "q": "Do you need help carrying those files?",
+   "choices": [
+    "That would be great, thanks.",
+    "In the filing cabinet.",
+    "I read them yesterday."
+   ],
+   "a": 0,
+   "exKo": "도움을 제안하는 질문에는 수락(That would be great)이 자연스럽습니다. (B)는 files-filing cabinet 연상 함정입니다.",
+   "why": [
+    "제안을 감사히 수락한 자연스러운 응답",
+    "보관 장소 응답이라 제안과 무관",
+    "파일을 읽었다는 말은 제안과 무관"
+   ],
+   "transKo": "그 파일들 옮기는 것 도와드릴까요?"
+  },
+  {
+   "qType": "When",
+   "q": "When is the staff meeting scheduled?",
+   "choices": [
+    "At three o'clock this afternoon.",
+    "In the large conference room.",
+    "About the new project."
+   ],
+   "a": 0,
+   "exKo": "When 의문문에는 시점으로 답합니다. (B)는 장소, (C)는 주제 응답입니다.",
+   "why": [
+    "at three o'clock — 회의 시각을 밝힌 응답",
+    "장소 응답 — Where에 어울림",
+    "회의 주제 응답 — What에 어울림"
+   ],
+   "transKo": "직원 회의는 언제로 잡혀 있나요?"
+  },
+  {
+   "qType": "When",
+   "q": "When will the package arrive?",
+   "choices": [
+    "Sometime tomorrow afternoon.",
+    "By express mail.",
+    "To the front desk."
+   ],
+   "a": 0,
+   "exKo": "도착 시점을 묻고 있으므로 '내일 오후쯤'이 정답입니다. (B)는 방법, (C)는 장소 응답입니다.",
+   "why": [
+    "tomorrow afternoon — 도착 시점 응답",
+    "배송 수단 응답 — How에 어울림",
+    "배송지 응답 — Where에 어울림"
+   ],
+   "transKo": "소포는 언제 도착하나요?"
+  },
+  {
+   "qType": "When",
+   "q": "When did you send the invoice?",
+   "choices": [
+    "First thing this morning.",
+    "To the accounting office.",
+    "For the office supplies."
+   ],
+   "a": 0,
+   "exKo": "보낸 시점을 묻고 있으므로 '오늘 아침 일찍'이 정답입니다.",
+   "why": [
+    "First thing this morning — 과거 시점 응답",
+    "수신처 응답 — Where에 어울림",
+    "용도 응답이라 시점이 아님"
+   ],
+   "transKo": "청구서는 언제 보내셨나요?"
+  },
+  {
+   "qType": "Where",
+   "q": "Where can I get a copy of the schedule?",
+   "choices": [
+    "From the front desk.",
+    "Next Tuesday.",
+    "Twice a month."
+   ],
+   "a": 0,
+   "exKo": "어디서 구할 수 있는지 묻고 있으므로 장소 응답인 (A)가 정답입니다.",
+   "why": [
+    "From the front desk — 수령 장소 응답",
+    "시점 응답 — When에 어울림",
+    "빈도 응답 — How often에 어울림"
+   ],
+   "transKo": "일정표 사본은 어디서 받을 수 있나요?"
+  },
+  {
+   "qType": "Where",
+   "q": "Where is the training session being held?",
+   "choices": [
+    "In Room 204.",
+    "At nine thirty.",
+    "By the sales team."
+   ],
+   "a": 0,
+   "exKo": "장소를 묻는 질문에 In Room 204가 정답입니다. (B)는 시간, (C)는 주체 응답입니다.",
+   "why": [
+    "In Room 204 — 장소를 지정한 응답",
+    "시각 응답이라 장소가 아님",
+    "주체 응답 — Who에 어울림"
+   ],
+   "transKo": "교육은 어디에서 진행되나요?"
+  },
+  {
+   "qType": "Where",
+   "q": "Where did you park the delivery van?",
+   "choices": [
+    "Behind the warehouse.",
+    "Two large boxes.",
+    "Around noon."
+   ],
+   "a": 0,
+   "exKo": "주차 위치를 묻고 있으므로 '창고 뒤에'가 정답입니다.",
+   "why": [
+    "Behind the warehouse — 주차 위치 응답",
+    "수량 응답이라 위치가 아님",
+    "시점 응답 — When에 어울림"
+   ],
+   "transKo": "배송 차량을 어디에 주차하셨나요?"
+  },
+  {
+   "qType": "Who",
+   "q": "Who is giving the presentation today?",
+   "choices": [
+    "The new marketing manager.",
+    "In the auditorium.",
+    "About thirty minutes."
+   ],
+   "a": 0,
+   "exKo": "발표자를 묻고 있으므로 사람 응답인 (A)가 정답입니다.",
+   "why": [
+    "직책으로 사람을 특정한 Who 응답",
+    "장소 응답 — Where에 어울림",
+    "소요 시간 응답 — How long에 어울림"
+   ],
+   "transKo": "오늘 발표는 누가 하나요?"
+  },
+  {
+   "qType": "Who",
+   "q": "Who should I call about the broken heater?",
+   "choices": [
+    "The maintenance office.",
+    "Because it's cold.",
+    "On the second floor."
+   ],
+   "a": 0,
+   "exKo": "연락 대상을 묻고 있으므로 시설 관리실이 정답입니다. 부서명도 Who의 응답이 될 수 있습니다.",
+   "why": [
+    "담당 부서를 알려준 Who 응답",
+    "이유 응답 — Why에 어울림",
+    "위치 응답 — Where에 어울림"
+   ],
+   "transKo": "고장 난 난방기는 누구에게 연락해야 하나요?"
+  },
+  {
+   "qType": "Who",
+   "q": "Who's picking up the clients from the airport?",
+   "choices": [
+    "Mr. Kim volunteered to do it.",
+    "At Gate 7.",
+    "Their flight was delayed."
+   ],
+   "a": 0,
+   "exKo": "담당자를 묻고 있으므로 '김 씨가 자원했다'가 정답입니다.",
+   "why": [
+    "Mr. Kim이 자원했다고 사람을 밝힌 응답",
+    "탑승구 응답 — Where에 어울림",
+    "항공편 지연 설명이라 담당자가 아님"
+   ],
+   "transKo": "공항에서 고객들을 누가 모셔 오나요?"
+  },
+  {
+   "qType": "What",
+   "q": "What is the dress code for the banquet?",
+   "choices": [
+    "Business formal.",
+    "At the Grand Hotel.",
+    "Around fifty guests."
+   ],
+   "a": 0,
+   "exKo": "복장 규정을 묻고 있으므로 '비즈니스 정장'이 정답입니다.",
+   "why": [
+    "Business formal — 복장 규정을 밝힌 응답",
+    "연회 장소 응답 — Where에 어울림",
+    "하객 수 응답 — How many에 어울림"
+   ],
+   "transKo": "연회 복장 규정은 어떻게 되나요?"
+  },
+  {
+   "qType": "What",
+   "q": "What should I bring to the workshop?",
+   "choices": [
+    "Just a laptop and a notepad.",
+    "Since last Friday.",
+    "In the training room."
+   ],
+   "a": 0,
+   "exKo": "준비물을 묻고 있으므로 '노트북과 메모장'이 정답입니다.",
+   "why": [
+    "노트북과 메모장 — 준비물을 밝힌 응답",
+    "기간 응답 — Since에 어울림",
+    "장소 응답 — Where에 어울림"
+   ],
+   "transKo": "워크숍에 무엇을 가져가야 하나요?"
+  },
+  {
+   "qType": "Why",
+   "q": "Why is the parking lot closed today?",
+   "choices": [
+    "It's being repaved.",
+    "Near the main entrance.",
+    "For about fifty cars."
+   ],
+   "a": 0,
+   "exKo": "폐쇄 이유를 묻고 있으므로 '재포장 중'이라는 이유 응답이 정답입니다.",
+   "why": [
+    "재포장 공사 중이라는 폐쇄 사유 응답",
+    "위치 응답이라 이유가 아님",
+    "수용 대수 응답 — How many에 어울림"
+   ],
+   "transKo": "오늘 주차장은 왜 폐쇄됐나요?"
+  },
+  {
+   "qType": "Why",
+   "q": "Why did Mr. Silva leave the office early?",
+   "choices": [
+    "He had a client meeting downtown.",
+    "Usually by six o'clock.",
+    "On his desk."
+   ],
+   "a": 0,
+   "exKo": "일찍 떠난 이유를 묻고 있으므로 '시내 고객 미팅'이 정답입니다.",
+   "why": [
+    "시내 고객 미팅이라는 사유를 밝힌 응답",
+    "평소 퇴근 시각이라 오늘 사유가 아님",
+    "위치 응답이라 이유가 아님"
+   ],
+   "transKo": "Silva 씨는 왜 일찍 퇴근했나요?"
+  },
+  {
+   "qType": "How",
+   "q": "How long does the ferry ride take?",
+   "choices": [
+    "About forty-five minutes.",
+    "Every two hours.",
+    "From Pier 3."
+   ],
+   "a": 0,
+   "exKo": "How long은 소요 시간을 묻는 표현이므로 '약 45분'이 정답입니다. (B)는 빈도 응답입니다.",
+   "why": [
+    "forty-five minutes — 소요 시간 응답",
+    "운항 간격 응답 — How often에 어울림",
+    "출발지 응답 — Where에 어울림"
+   ],
+   "transKo": "페리로 얼마나 걸리나요?"
+  },
+  {
+   "qType": "How",
+   "q": "How much does the monthly membership cost?",
+   "choices": [
+    "Thirty dollars.",
+    "Since January.",
+    "At the fitness center."
+   ],
+   "a": 0,
+   "exKo": "How much는 가격을 묻는 표현이므로 30달러가 정답입니다.",
+   "why": [
+    "Thirty dollars — 금액을 밝힌 응답",
+    "시작 시점 응답 — Since에 어울림",
+    "장소 응답 — Where에 어울림"
+   ],
+   "transKo": "월 회원권은 얼마인가요?"
+  },
+  {
+   "qType": "How",
+   "q": "How do I sign up for the newsletter?",
+   "choices": [
+    "Just enter your email on our website.",
+    "Once a week.",
+    "It's very informative."
+   ],
+   "a": 0,
+   "exKo": "방법을 묻고 있으므로 웹사이트에서 이메일을 입력하라는 응답이 정답입니다.",
+   "why": [
+    "웹사이트에 이메일 입력이라는 방법 응답",
+    "발행 빈도 응답이라 신청 방법이 아님",
+    "감상 응답이라 방법이 아님"
+   ],
+   "transKo": "뉴스레터는 어떻게 신청하나요?"
+  },
+  {
+   "qType": "일반의문문",
+   "q": "Is there a pharmacy near the hotel?",
+   "choices": [
+    "Yes, right across the street.",
+    "At nine o'clock.",
+    "Three tablets a day."
+   ],
+   "a": 0,
+   "exKo": "위치 존재 여부를 묻는 질문에 Yes와 위치로 답한 (A)가 정답입니다. (C)는 pharmacy 연상 함정입니다.",
+   "why": [
+    "Yes와 함께 바로 길 건너라고 위치까지 알림",
+    "영업 시각 응답이라 존재 여부가 아님",
+    "복용법 응답 — pharmacy 연상 함정"
+   ],
+   "transKo": "호텔 근처에 약국이 있나요?"
+  },
+  {
+   "qType": "일반의문문",
+   "q": "Did you receive my email about the schedule change?",
+   "choices": [
+    "Yes, I read it this morning.",
+    "A new calendar.",
+    "To everyone in the office."
+   ],
+   "a": 0,
+   "exKo": "수신 여부를 묻는 질문에 Yes 응답이 자연스럽습니다.",
+   "why": [
+    "Yes와 함께 읽은 시점까지 밝힌 응답",
+    "달력 언급이라 수신 여부가 아님",
+    "수신 대상 응답이라 질문과 무관"
+   ],
+   "transKo": "일정 변경 관련 제 이메일 받으셨나요?"
+  },
+  {
+   "qType": "일반의문문",
+   "q": "Are you coming to the retirement party on Friday?",
+   "choices": [
+    "I wouldn't miss it.",
+    "Thirty years of service.",
+    "In the banquet hall."
+   ],
+   "a": 0,
+   "exKo": "참석 여부에 '절대 놓치지 않겠다'는 강한 긍정 응답이 정답입니다.",
+   "why": [
+    "절대 놓치지 않겠다 — Yes를 뜻하는 관용 응답",
+    "근속 연수 응답이라 참석 여부가 아님",
+    "장소 응답 — Where에 어울림"
+   ],
+   "transKo": "금요일 퇴임식에 오시나요?"
+  },
+  {
+   "qType": "일반의문문",
+   "q": "Can I exchange this shirt for a different size?",
+   "choices": [
+    "Sure, if you have the receipt.",
+    "It's on the second shelf.",
+    "A medium blue one."
+   ],
+   "a": 0,
+   "exKo": "교환 가능 여부에 조건부 승낙(영수증이 있다면)이 정답입니다.",
+   "why": [
+    "Sure와 함께 영수증이라는 조건을 덧붙인 응답",
+    "진열 위치 응답이라 교환 가능 여부가 아님",
+    "사이즈·색상 언급이라 답변이 되지 않음"
+   ],
+   "transKo": "이 셔츠를 다른 사이즈로 교환할 수 있나요?"
+  },
+  {
+   "qType": "일반의문문",
+   "q": "Would you like me to reserve a table for lunch?",
+   "choices": [
+    "That would be helpful, thanks.",
+    "The food was great.",
+    "At the corner table."
+   ],
+   "a": 0,
+   "exKo": "제안에 대한 수락 응답이 정답입니다. (B)는 아직 일어나지 않은 일에 대한 감상으로 모순됩니다.",
+   "why": [
+    "도움이 되겠다며 제안을 수락한 응답",
+    "음식 감상은 제안에 대한 답이 아님",
+    "좌석 위치 응답이라 제안과 무관"
+   ],
+   "transKo": "점심 식사 자리를 예약해 드릴까요?"
+  },
+  {
+   "qType": "평서문",
+   "q": "The copier is out of paper again.",
+   "choices": [
+    "I'll get some from the supply room.",
+    "Twenty copies, please.",
+    "No, it's a new model."
+   ],
+   "a": 0,
+   "exKo": "용지가 떨어졌다는 말에 가져오겠다는 해결 응답이 정답입니다.",
+   "why": [
+    "비품실에서 가져오겠다는 해결 제안 응답",
+    "복사 매수 요청이라 문제 해결이 아님",
+    "No 응답이 문맥상 맞지 않음"
+   ],
+   "transKo": "복사기에 또 종이가 떨어졌어요."
+  },
+  {
+   "qType": "평서문",
+   "q": "This report has a few spelling errors.",
+   "choices": [
+    "I'll correct them right away.",
+    "Ten pages long.",
+    "At the print shop."
+   ],
+   "a": 0,
+   "exKo": "오류 지적에 바로 고치겠다는 응답이 자연스럽습니다.",
+   "why": [
+    "바로 수정하겠다는 적절한 대응 응답",
+    "분량 응답이라 오타 지적과 무관",
+    "인쇄소 언급이라 수정과 무관"
+   ],
+   "transKo": "이 보고서에 오타가 몇 군데 있어요."
+  },
+  {
+   "qType": "평서문",
+   "q": "The bus to the convention center just left.",
+   "choices": [
+    "Another one comes in ten minutes.",
+    "A round-trip ticket.",
+    "It was crowded yesterday."
+   ],
+   "a": 0,
+   "exKo": "버스를 놓쳤다는 말에 다음 버스 정보를 주는 응답이 정답입니다.",
+   "why": [
+    "10분 뒤 다음 차가 온다는 대안 제시 응답",
+    "승차권 종류 언급이라 상황과 무관",
+    "어제 상황 언급이라 지금과 무관"
+   ],
+   "transKo": "컨벤션 센터로 가는 버스가 방금 떠났어요."
+  },
+  {
+   "qType": "평서문",
+   "q": "I can't find the key to the storage room.",
+   "choices": [
+    "The security guard has a spare one.",
+    "It's a large room.",
+    "Mostly office supplies."
+   ],
+   "a": 0,
+   "exKo": "열쇠를 못 찾는다는 말에 여분 열쇠의 위치를 알려주는 응답이 정답입니다.",
+   "why": [
+    "경비원에게 여분이 있다는 해결책 제시",
+    "창고 크기 언급이라 도움이 되지 않음",
+    "보관 물품 언급이라 열쇠와 무관"
+   ],
+   "transKo": "창고 열쇠를 못 찾겠어요."
+  }
+ ]
+}

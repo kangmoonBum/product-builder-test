@@ -1,0 +1,644 @@
+{
+ "passages": [
+  {
+   "kind": "이메일",
+   "title": "재고 실사 협조 요청 메일",
+   "passage": "From: Inventory Control\nTo: All Store Managers, Northeast Region\nSubject: Year-End Physical Inventory — January 7\n\nDear Managers,\n\nThe annual physical inventory count will take place on Sunday, January 7, when all stores are closed. Count teams of four will visit each store; managers must be present to open the store and verify the final tally.\n\nBefore the count: process all pending returns by January 5, clear receiving areas of unscanned stock, and print shelf labels for any relocated sections. Stores that completed these steps last year finished counting two hours faster on average.\n\nDiscrepancies above 0.5 percent of stock value trigger a recount of the affected categories the following weekend. Final results feed directly into the annual financial statements, so accuracy matters more than speed.\n\nPlease confirm your store's readiness in the operations portal by January 3.\n\nInventory Control Team",
+   "questions": [
+    {
+     "q": "Why was January 7 chosen for the count?",
+     "type": "추론",
+     "choices": [
+      "Stores are closed on that Sunday",
+      "Staff requested it",
+      "It is the fiscal year start",
+      "Count teams were only free then"
+     ],
+     "a": 0,
+     "exKo": "전 매장이 문을 닫는 일요일이라 실사가 가능합니다.",
+     "why": [
+      "전 매장 휴무일이라 실사일로 정함",
+      "직원 요청이라는 언급 없음",
+      "회계연도 시작일이라는 언급 없음",
+      "실사팀 일정 때문이라는 언급 없음"
+     ],
+     "ev": "on Sunday, January 7, when all stores are closed"
+    },
+    {
+     "q": "What benefit did prepared stores see last year?",
+     "type": "세부사항",
+     "choices": [
+      "Counting finished two hours faster",
+      "No recounts were needed",
+      "They got bonuses",
+      "They skipped verification"
+     ],
+     "a": 0,
+     "exKo": "사전 준비를 마친 매장은 평균 2시간 빨리 끝났습니다.",
+     "why": [
+      "사전 준비 매장이 평균 2시간 빨리 끝냄",
+      "재실사 면제라는 언급 없음",
+      "보너스 지급은 언급 없음",
+      "관리자 확인은 필수라 지문과 반대"
+     ],
+     "ev": "Stores that completed these steps last year finished counting two hours faster on average."
+    },
+    {
+     "q": "What happens if discrepancies exceed 0.5 percent?",
+     "type": "세부사항",
+     "choices": [
+      "Affected categories are recounted the next weekend",
+      "The store closes",
+      "The manager is replaced",
+      "Nothing happens"
+     ],
+     "a": 0,
+     "exKo": "재고 가치의 0.5%를 넘는 차이는 다음 주말 재실사 대상입니다.",
+     "why": [
+      "0.5% 초과 시 다음 주말 해당 품목 재실사",
+      "매장 폐쇄는 언급 없음",
+      "관리자 교체는 언급 없음",
+      "아무 조치 없다는 것은 지문과 반대"
+     ],
+     "ev": "Discrepancies above 0.5 percent of stock value trigger a recount of the affected categories the following weekend."
+    }
+   ]
+  },
+  {
+   "kind": "이메일",
+   "title": "고객 계약 해지 만류 메일",
+   "passage": "From: Account Management, Streamly Analytics\nTo: Jared Kim, Operations Director, Novacart\nSubject: Before You Go — A Proposal\n\nDear Mr. Kim,\n\nWe received your notice of non-renewal and understand budget pressure is the main driver. Before your access ends March 31, I would like to offer an alternative to full cancellation.\n\nOur new Essentials tier includes the dashboard and weekly reports your team uses most — based on your usage data, these account for over 80 percent of your activity — at 45 percent below your current plan. Advanced forecasting and the API would no longer be included, though they can be re-added anytime.\n\nIf you would like, I can also arrange a session with our analysts to export your historical data in whatever format your team needs — that service is free regardless of your decision.\n\nCould we talk for 15 minutes this week? If Essentials is not a fit, I will make the offboarding as smooth as possible.\n\nBest regards,\nTania Flores",
+   "questions": [
+    {
+     "q": "What is the main purpose of the email?",
+     "type": "주제·목적",
+     "choices": [
+      "To offer a cheaper plan instead of cancellation",
+      "To confirm the cancellation",
+      "To raise prices",
+      "To request feedback"
+     ],
+     "a": 0,
+     "exKo": "전면 해지 대신 45% 저렴한 하위 요금제를 제안하는 메일입니다.",
+     "why": [
+      "'alternative to full cancellation'이 하위 요금제 제안",
+      "해지를 막으려는 제안이므로 지문과 반대",
+      "45% 저렴한 요금제 제안이라 가격 인상은 반대",
+      "지문에 피드백 요청 언급 없음"
+     ],
+     "ev": "Before your access ends March 31, I would like to offer an alternative to full cancellation."
+    },
+    {
+     "q": "What supports the Essentials recommendation?",
+     "type": "세부사항",
+     "choices": [
+      "The customer's usage data",
+      "A market survey",
+      "Competitor pricing",
+      "Analyst opinions"
+     ],
+     "a": 0,
+     "exKo": "사용 데이터상 대시보드와 주간 보고서가 활동의 80% 이상이기 때문입니다.",
+     "why": [
+      "'based on your usage data'가 추천의 근거임을 명시",
+      "지문에 시장 조사 언급 없음",
+      "경쟁사 가격 비교 언급 없음",
+      "분석가는 데이터 내보내기 담당, 문맥이 다름"
+     ],
+     "ev": "based on your usage data, these account for over 80 percent of your activity"
+    },
+    {
+     "q": "What is offered free regardless of the decision?",
+     "type": "세부사항",
+     "choices": [
+      "Help exporting historical data",
+      "One month of service",
+      "The API",
+      "A training session"
+     ],
+     "a": 0,
+     "exKo": "결정과 무관하게 과거 데이터 내보내기 지원은 무료입니다.",
+     "why": [
+      "'that service'가 데이터 내보내기 지원을 가리키며 무료",
+      "한 달 무료 제공 언급 없음",
+      "API는 Essentials에서 빠지는 기능이라 반대",
+      "교육이 아니라 데이터 내보내기 세션"
+     ],
+     "ev": "I can also arrange a session with our analysts to export your historical data in whatever format your team needs — that service is free regardless of your decision"
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "구내 우체국 서비스 종료 공지",
+   "passage": "POSTAL COUNTER CLOSING — ALTERNATIVES AVAILABLE\n\nThe postal counter in the basement arcade will close permanently on June 30, as the national postal service consolidates small branches. We negotiated the following alternatives for building tenants:\n\n1. A self-service parcel locker will be installed by the west entrance in mid-June, handling stamped mail, prepaid parcels, and deliveries around the clock.\n2. A postal van will visit the loading dock Tuesdays and Thursdays, 11:30-1:00, for registered mail and international parcels requiring a clerk.\n3. The Main Street branch, a seven-minute walk, extends weekday hours to 7 p.m. starting July 1.\n\nCompany mailrooms should redirect bulk shipping contracts to their courier accounts before the closing date. Questions about the locker system may be sent to building services.\n\nBuilding Administration",
+   "questions": [
+    {
+     "q": "Why is the postal counter closing?",
+     "type": "세부사항",
+     "choices": [
+      "The postal service is consolidating small branches",
+      "The rent was too high",
+      "Few tenants used it",
+      "The building is renovating"
+     ],
+     "a": 0,
+     "exKo": "우정 당국이 소규모 지점을 통폐합하기 때문입니다.",
+     "why": [
+      "'consolidates small branches'가 폐쇄 이유",
+      "지문에 임대료 문제 언급 없음",
+      "지문에 이용자 수 부족 언급 없음",
+      "지문에 건물 개보수 언급 없음"
+     ],
+     "ev": "The postal counter in the basement arcade will close permanently on June 30, as the national postal service consolidates small branches."
+    },
+    {
+     "q": "What requires the postal van rather than the locker?",
+     "type": "세부사항",
+     "choices": [
+      "Registered mail and international parcels",
+      "Stamped mail",
+      "Prepaid parcels",
+      "Incoming deliveries"
+     ],
+     "a": 0,
+     "exKo": "등기와 국제 소포는 직원이 필요해 우편 차량을 이용해야 합니다.",
+     "why": [
+      "직원이 필요한 등기·국제 소포는 우편 차량 담당",
+      "우표 부착 우편물은 무인 사물함이 처리",
+      "선불 소포도 무인 사물함이 처리",
+      "택배 수령도 사물함이 24시간 처리"
+     ],
+     "ev": "A postal van will visit the loading dock Tuesdays and Thursdays, 11:30-1:00, for registered mail and international parcels requiring a clerk."
+    },
+    {
+     "q": "What will change at the Main Street branch?",
+     "type": "세부사항",
+     "choices": [
+      "Weekday hours extend to 7 p.m.",
+      "It will close too",
+      "It moves closer",
+      "It adds a locker"
+     ],
+     "a": 0,
+     "exKo": "7월 1일부터 평일 영업시간이 저녁 7시까지 연장됩니다.",
+     "why": [
+      "'extends weekday hours to 7 p.m.'이 그대로 정답",
+      "폐쇄되는 곳은 지하 우편 창구",
+      "도보 7분 거리이며 이전 언급 없음",
+      "사물함은 서쪽 출입구에 설치, 문맥이 다름"
+     ],
+     "ev": "The Main Street branch, a seven-minute walk, extends weekday hours to 7 p.m. starting July 1."
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "회의 문화 개선 지침 공지",
+   "passage": "MEETING GUIDELINES — EFFECTIVE IMMEDIATELY\n\nOur meeting audit found employees spend an average of 14 hours a week in meetings, and rate a third of that time as unnecessary. The following guidelines now apply:\n\n1. Default meeting length changes from 60 to 45 minutes, and from 30 to 25, leaving transition time between calls.\n2. Every invitation must state a purpose and desired outcome; invitations without them may be declined without explanation.\n3. Meetings with more than eight participants require an agenda distributed one day ahead.\n4. Recurring meetings expire quarterly and must be actively renewed by the owner.\n\nDecision meetings should end with owners and deadlines recorded in the minutes. Status updates belong in written form first; use meetings to discuss exceptions, not to read reports aloud.\n\nThe guidelines will be reviewed after three months against calendar data.\n\nOperations Excellence Team",
+   "questions": [
+    {
+     "q": "What did the meeting audit find?",
+     "type": "세부사항",
+     "choices": [
+      "A third of meeting time is rated unnecessary",
+      "Meetings are too short",
+      "Employees want more meetings",
+      "Agendas are always used"
+     ],
+     "a": 0,
+     "exKo": "주 14시간 회의 중 3분의 1이 불필요하다고 평가되었습니다.",
+     "why": [
+      "'a third of that time as unnecessary'가 결과",
+      "회의 시간을 줄이는 중이라 지문과 반대",
+      "회의를 줄이려는 지침이므로 반대",
+      "8명 초과 회의만 사전 안건 필요, 과도한 일반화"
+     ],
+     "ev": "Our meeting audit found employees spend an average of 14 hours a week in meetings, and rate a third of that time as unnecessary."
+    },
+    {
+     "q": "What may happen to invitations without a stated purpose?",
+     "type": "세부사항",
+     "choices": [
+      "They may be declined without explanation",
+      "They are auto-deleted",
+      "They go to managers",
+      "They become optional"
+     ],
+     "a": 0,
+     "exKo": "목적과 기대 결과가 없는 초대는 설명 없이 거절해도 됩니다.",
+     "why": [
+      "'may be declined without explanation'이 그대로 정답",
+      "지문에 자동 삭제 언급 없음",
+      "관리자에게 전달된다는 언급 없음",
+      "선택 참석으로 바뀐다는 언급 없음"
+     ],
+     "ev": "Every invitation must state a purpose and desired outcome; invitations without them may be declined without explanation."
+    },
+    {
+     "q": "What is said about status updates?",
+     "type": "세부사항",
+     "choices": [
+      "They belong in written form first",
+      "They need weekly meetings",
+      "They are canceled",
+      "They require slides"
+     ],
+     "a": 0,
+     "exKo": "상태 보고는 우선 문서로 공유하고 회의에서는 예외만 논의합니다.",
+     "why": [
+      "'belong in written form first'가 그대로 정답",
+      "문서를 우선하라는 것이므로 회의 요구는 반대",
+      "보고 자체를 없앤다는 언급 없음",
+      "지문에 슬라이드 요구 언급 없음"
+     ],
+     "ev": "Status updates belong in written form first; use meetings to discuss exceptions, not to read reports aloud."
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "프리미엄 사무 의자 광고",
+   "passage": "SITWELL AURA — THE CHAIR YOUR BACK HAS BEEN ASKING FOR\n\nYou sit 1,700 hours a year. The SitWell Aura makes every one of them count, with a spine-following backrest that moves as you lean and armrests adjustable in four directions.\n\nDeveloped with physical therapists and tested by 2,000 office workers over 18 months, the Aura reduced reported lower-back discomfort by 52 percent in our study group. The breathable mesh stays cool, and every material is certified low-emission for indoor air quality.\n\nAssembled in 10 minutes with two included tools. Try the Aura risk-free for 60 days — return shipping is on us if it's not love. Corporate volume pricing and showroom visits available. Your back will thank you at sitwell.com.",
+   "questions": [
+    {
+     "q": "How was the chair developed?",
+     "type": "세부사항",
+     "choices": [
+      "With physical therapists and long-term user testing",
+      "By copying competitors",
+      "Through online surveys",
+      "By furniture designers alone"
+     ],
+     "a": 0,
+     "exKo": "물리치료사와 공동 개발하고 2,000명이 18개월간 테스트했습니다.",
+     "why": [
+      "물리치료사 공동 개발과 18개월 테스트가 그대로 정답",
+      "지문에 경쟁사 모방 언급 없음",
+      "지문에 온라인 설문 언급 없음",
+      "가구 디자이너 단독 개발이 아니므로 반대"
+     ],
+     "ev": "Developed with physical therapists and tested by 2,000 office workers over 18 months"
+    },
+    {
+     "q": "What result came from the study group?",
+     "type": "세부사항",
+     "choices": [
+      "Lower-back discomfort fell 52 percent",
+      "Productivity doubled",
+      "Posture scores rose 18 percent",
+      "Sitting time increased"
+     ],
+     "a": 0,
+     "exKo": "요통 호소가 52% 감소했습니다.",
+     "why": [
+      "'reduced ... by 52 percent'가 연구 결과",
+      "지문에 생산성 두 배 언급 없음",
+      "18개월은 테스트 기간이지 자세 점수가 아님",
+      "지문에 착석 시간 증가 언급 없음"
+     ],
+     "ev": "the Aura reduced reported lower-back discomfort by 52 percent in our study group"
+    },
+    {
+     "q": "What does the 60-day trial include?",
+     "type": "세부사항",
+     "choices": [
+      "Free return shipping",
+      "A second chair",
+      "A desk discount",
+      "Monthly checkups"
+     ],
+     "a": 0,
+     "exKo": "마음에 들지 않으면 반품 배송비도 회사가 부담합니다.",
+     "why": [
+      "'return shipping is on us'가 무료 반품 배송을 뜻함",
+      "지문에 의자 추가 증정 언급 없음",
+      "지문에 책상 할인 언급 없음",
+      "지문에 정기 점검 언급 없음"
+     ],
+     "ev": "Try the Aura risk-free for 60 days — return shipping is on us if it's not love."
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "채용 박람회 참가 기업 모집 광고",
+   "passage": "RECRUIT AT THE HARBOR CAREER FAIR — MARCH 21-22\n\nMeet 5,000 candidates in two days. The Harbor Career Fair returns to the Exhibition Center with dedicated halls for technology, healthcare, logistics, and finance employers.\n\nBooth packages from $1,200 include furniture, power, Wi-Fi, and your logo in the fair app, which candidates use to book conversations with your recruiters in advance — last year, pre-booked meetings led to twice as many follow-up interviews as walk-ups.\n\nNew this year: a same-day interview suite bookable in hourly blocks, and an employer branding workshop on the evening before the fair. Early registration by January 31 saves 15 percent and guarantees hall preference. Half of last year's exhibitors rebooked on site — spaces go quickly. Register at harborfair.com/employers.",
+   "questions": [
+    {
+     "q": "What advantage did pre-booked meetings show?",
+     "type": "세부사항",
+     "choices": [
+      "Twice as many follow-up interviews as walk-ups",
+      "Lower booth costs",
+      "Better hall positions",
+      "Faster hiring paperwork"
+     ],
+     "a": 0,
+     "exKo": "사전 예약 미팅은 현장 방문보다 후속 면접 성사율이 2배였습니다.",
+     "why": [
+      "사전 예약이 현장 방문 대비 후속 면접 2배라고 명시",
+      "지문에 부스 비용 절감 언급 없음",
+      "홀 우선권은 조기 등록 혜택, 다른 문항의 정답",
+      "채용 서류 처리 속도 언급 없음"
+     ],
+     "ev": "last year, pre-booked meetings led to twice as many follow-up interviews as walk-ups"
+    },
+    {
+     "q": "What is new this year?",
+     "type": "세부사항",
+     "choices": [
+      "An interview suite and a branding workshop",
+      "A fifth industry hall",
+      "Free booths",
+      "A candidate fee"
+     ],
+     "a": 0,
+     "exKo": "당일 면접실 대여와 전야 브랜딩 워크숍이 신설되었습니다.",
+     "why": [
+      "'New this year'가 면접실과 워크숍 신설을 밝힘",
+      "산업별 홀은 기존 4개, 추가 언급 없음",
+      "부스는 1,200달러부터라 무료가 아님",
+      "지문에 구직자 참가비 언급 없음"
+     ],
+     "ev": "New this year: a same-day interview suite bookable in hourly blocks, and an employer branding workshop on the evening before the fair."
+    },
+    {
+     "q": "What does early registration guarantee?",
+     "type": "세부사항",
+     "choices": [
+      "A 15 percent discount and hall preference",
+      "Double booth space",
+      "App sponsorship",
+      "5,000 resumes"
+     ],
+     "a": 0,
+     "exKo": "1월 31일까지 등록 시 15% 할인과 홀 우선 배정을 받습니다.",
+     "why": [
+      "15% 할인과 홀 우선 배정이 그대로 정답",
+      "지문에 부스 면적 2배 언급 없음",
+      "지문에 앱 스폰서십 언급 없음",
+      "5,000명은 후보자 수이지 이력서 제공이 아님"
+     ],
+     "ev": "Early registration by January 31 saves 15 percent and guarantees hall preference."
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "중고 사무기기 리퍼브 시장 성장 기사",
+   "passage": "MARKET REPORT — Refurbished office electronics have moved from budget fallback to first choice for many firms, with the market growing 28 percent last year, according to industry tracker TechCycle. Laptops and monitors lead the category, typically selling at 40 to 60 percent of new prices with one-year warranties.\n\nBuyers cite two motives in surveys: cost, and sustainability targets that count avoided electronics waste. Several large companies now require managers to justify buying new when a certified refurbished option exists.\n\nSupply is the bottleneck. Refurbishers depend on corporate lease returns, and three-year lease cycles mean today's supply reflects purchases made during the last upgrade wave. TechCycle expects supply to loosen next year as pandemic-era fleets reach end of lease, potentially pushing prices down another 10 percent.",
+   "questions": [
+    {
+     "q": "How has the refurbished market changed?",
+     "type": "주제·목적",
+     "choices": [
+      "It became a first choice rather than a fallback",
+      "It shrank last year",
+      "It moved fully online",
+      "It lost warranty coverage"
+     ],
+     "a": 0,
+     "exKo": "리퍼브 제품이 차선책에서 우선 선택지로 바뀌며 28% 성장했습니다.",
+     "why": [
+      "'from budget fallback to first choice'가 변화를 설명",
+      "28% 성장했으므로 축소는 반대",
+      "지문에 온라인 전환 언급 없음",
+      "1년 보증이 제공되므로 반대"
+     ],
+     "ev": "Refurbished office electronics have moved from budget fallback to first choice for many firms, with the market growing 28 percent last year"
+    },
+    {
+     "q": "What do some large companies now require?",
+     "type": "세부사항",
+     "choices": [
+      "Justification for buying new over refurbished",
+      "Only new equipment",
+      "Two-year warranties",
+      "Monthly waste reports"
+     ],
+     "a": 0,
+     "exKo": "인증 리퍼브 제품이 있는데 새 제품을 살 경우 사유를 요구합니다.",
+     "why": [
+      "인증 리퍼브가 있으면 신제품 구매 사유를 요구",
+      "리퍼브 우선이므로 신제품만 구매는 반대",
+      "보증은 1년이라 2년은 틀림",
+      "월간 폐기물 보고 언급 없음"
+     ],
+     "ev": "Several large companies now require managers to justify buying new when a certified refurbished option exists."
+    },
+    {
+     "q": "Why is supply expected to loosen next year?",
+     "type": "세부사항",
+     "choices": [
+      "Pandemic-era fleets reach end of lease",
+      "New factories open",
+      "Prices are rising",
+      "Demand is falling"
+     ],
+     "a": 0,
+     "exKo": "팬데믹 시기 도입 장비들의 리스가 만료되기 때문입니다.",
+     "why": [
+      "팬데믹 시기 장비의 리스 만료가 공급 확대 이유",
+      "지문에 공장 신설 언급 없음",
+      "가격은 10% 더 내려갈 전망이라 반대",
+      "수요는 늘고 공급이 병목이므로 반대"
+     ],
+     "ev": "TechCycle expects supply to loosen next year as pandemic-era fleets reach end of lease"
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "지역 상점 공동 배송망 기사",
+   "passage": "PORTSMITH — Forty independent shops in the Old Quarter have pooled resources to launch a shared delivery service, promising same-day delivery within the city for orders placed by 2 p.m. A single van route collects from all participating stores twice daily, replacing the patchwork of individual courier arrangements.\n\nThe shops formed a cooperative to run the service, each paying a monthly fee based on parcel volume. Delivery costs per parcel have fallen by about a third, and two part-time drivers were hired full-time.\n\nThe cooperative's next step is a joint web storefront where customers can fill one basket from multiple shops — a bookstore order and a bakery order arriving in one box. A grant from the city's small business fund will cover the site's development, with launch targeted for the holiday season.",
+   "questions": [
+    {
+     "q": "What did the shops create together?",
+     "type": "주제·목적",
+     "choices": [
+      "A shared same-day delivery service",
+      "A joint loyalty card",
+      "A new shopping mall",
+      "A courier company merger"
+     ],
+     "a": 0,
+     "exKo": "40개 독립 상점이 공동 당일 배송망을 만들었습니다.",
+     "why": [
+      "40개 상점이 공동 당일 배송 서비스를 시작",
+      "지문에 공동 적립카드 언급 없음",
+      "지문에 쇼핑몰 건설 언급 없음",
+      "택배사 합병이 아니라 상점들의 협동조합"
+     ],
+     "ev": "Forty independent shops in the Old Quarter have pooled resources to launch a shared delivery service, promising same-day delivery within the city for orders placed by 2 p.m."
+    },
+    {
+     "q": "How are service costs divided?",
+     "type": "세부사항",
+     "choices": [
+      "Monthly fees based on parcel volume",
+      "Equal shares",
+      "By store size",
+      "By distance"
+     ],
+     "a": 0,
+     "exKo": "각 상점이 물량에 따라 월 회비를 냅니다.",
+     "why": [
+      "'a monthly fee based on parcel volume'이 분담 방식",
+      "균등 분담이 아니라 물량 기준",
+      "지문에 매장 규모 기준 언급 없음",
+      "지문에 거리 기준 언급 없음"
+     ],
+     "ev": "The shops formed a cooperative to run the service, each paying a monthly fee based on parcel volume."
+    },
+    {
+     "q": "What will the city grant fund?",
+     "type": "세부사항",
+     "choices": [
+      "Development of a joint web storefront",
+      "A second van",
+      "Driver salaries",
+      "Holiday decorations"
+     ],
+     "a": 0,
+     "exKo": "여러 상점을 한 바구니에 담는 공동 온라인 상점 개발에 쓰입니다.",
+     "why": [
+      "보조금이 공동 온라인 상점 개발비를 지원",
+      "지문에 차량 추가 구입 언급 없음",
+      "기사 정규직 전환은 있었지만 급여 지원은 아님",
+      "지문에 연말 장식 언급 없음"
+     ],
+     "ev": "A grant from the city's small business fund will cover the site's development"
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "행사장 케이터링 인원 변경 문자",
+   "passage": "Vera Stone (9:00 A.M.)\nMorning! Final headcount for Friday's client reception: we're at 85, up from the 70 we quoted you.\n\nChef Malik (9:10 A.M.)\n85 works. Same menu, or should we adjust? At that size I'd suggest two carving stations instead of one to avoid lines.\n\nVera Stone (9:12 A.M.)\nGood call. Budget impact?\n\nChef Malik (9:14 A.M.)\nThe extra 15 guests add $825 at the per-head rate. Second station adds $150 for staffing. I can offset some of that — the salmon is well priced this week, swapping it for the beef course saves about $200.\n\nVera Stone (9:17 A.M.)\nDo the swap. Net increase around $775 then?\n\nChef Malik (9:18 A.M.)\n$775 exactly. I'll send the revised contract by noon. Setup still 4 P.M., service at 6?\n\nVera Stone (9:19 A.M.)\nConfirmed. Thanks, Malik!",
+   "questions": [
+    {
+     "q": "Why does Chef Malik suggest a second carving station?",
+     "type": "세부사항",
+     "choices": [
+      "To avoid lines with more guests",
+      "To use extra staff",
+      "To cook the salmon",
+      "To fill the room"
+     ],
+     "a": 0,
+     "exKo": "85명 규모에서는 줄이 길어지는 것을 막기 위해서입니다.",
+     "why": [
+      "'to avoid lines'가 스테이션 추가 이유",
+      "인력은 오히려 150달러 추가되므로 반대",
+      "연어는 비용 절감용 메뉴 교체, 문맥이 다름",
+      "지문에 공간 채우기 언급 없음"
+     ],
+     "ev": "At that size I'd suggest two carving stations instead of one to avoid lines."
+    },
+    {
+     "q": "How does the chef reduce the added cost?",
+     "type": "세부사항",
+     "choices": [
+      "Swapping beef for well-priced salmon",
+      "Cutting a station",
+      "Using fewer staff",
+      "Shortening service"
+     ],
+     "a": 0,
+     "exKo": "이번 주 시세가 좋은 연어로 소고기 코스를 바꿔 200달러를 아낍니다.",
+     "why": [
+      "시세 좋은 연어로 소고기를 바꿔 200달러 절감",
+      "스테이션은 줄이는 게 아니라 추가",
+      "인력은 오히려 늘려 비용이 증가",
+      "서비스 시간 단축 언급 없음"
+     ],
+     "ev": "the salmon is well priced this week, swapping it for the beef course saves about $200"
+    },
+    {
+     "q": "What will the chef send by noon?",
+     "type": "세부사항",
+     "choices": [
+      "A revised contract",
+      "A tasting menu",
+      "An invoice",
+      "A staff list"
+     ],
+     "a": 0,
+     "exKo": "정오까지 수정 계약서를 보내기로 합니다.",
+     "why": [
+      "'the revised contract by noon'이 그대로 정답",
+      "지문에 시식 메뉴 언급 없음",
+      "청구서가 아니라 수정 계약서",
+      "지문에 직원 명단 언급 없음"
+     ],
+     "ev": "I'll send the revised contract by noon."
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "소프트웨어 버그 긴급 대응 문자",
+   "passage": "Chen Wei (3:12 P.M.)\nSupport is getting calls — customers on the annual plan see a $0 renewal price on the checkout page.\n\nRosa Marin (3:13 P.M.)\nChecking... confirmed. A currency update this morning broke the annual price display. Charging still works correctly — it's display only.\n\nChen Wei (3:15 P.M.)\nStill bad — customers screenshot $0 and expect it. Legal says displayed price can be binding in some markets.\n\nRosa Marin (3:17 P.M.)\nAgree. Two options: roll back the currency update (20 minutes, loses today's new exchange rates) or hotfix the display bug (about an hour).\n\nChen Wei (3:18 P.M.)\nRoll back now, hotfix properly after. Can we pause the renewal emails going out at 4?\n\nRosa Marin (3:19 P.M.)\nPausing them now. Rollback starting — I'll confirm when prices display correctly.\n\nChen Wei (3:20 P.M.)\nThanks. I'll draft a note for support to send anyone who saw the $0 price.",
+   "questions": [
+    {
+     "q": "What is the bug's actual effect?",
+     "type": "세부사항",
+     "choices": [
+      "Prices display wrongly but charging works",
+      "Customers are charged $0",
+      "Checkout is down",
+      "Emails fail to send"
+     ],
+     "a": 0,
+     "exKo": "결제는 정상이며 표시 가격만 0달러로 나오는 문제입니다.",
+     "why": [
+      "'Charging still works correctly'로 표시만 문제임을 확인",
+      "실제 청구는 정상이므로 반대",
+      "결제 페이지 중단 언급 없음",
+      "갱신 메일은 발송 예정이며 실패가 아님"
+     ],
+     "ev": "A currency update this morning broke the annual price display. Charging still works correctly — it's display only."
+    },
+    {
+     "q": "Why is the display bug still serious?",
+     "type": "세부사항",
+     "choices": [
+      "Displayed prices can be legally binding",
+      "Servers may crash",
+      "Exchange rates are wrong",
+      "Support is closed"
+     ],
+     "a": 0,
+     "exKo": "일부 시장에서는 표시 가격이 법적 구속력을 가질 수 있기 때문입니다.",
+     "why": [
+      "표시 가격이 법적 구속력을 가질 수 있다고 언급",
+      "지문에 서버 다운 언급 없음",
+      "환율은 최신이며 롤백 시 오늘 환율이 빠짐",
+      "고객지원은 전화를 받는 중이라 반대"
+     ],
+     "ev": "Legal says displayed price can be binding in some markets."
+    },
+    {
+     "q": "What immediate plan is chosen?",
+     "type": "세부사항",
+     "choices": [
+      "Roll back first, hotfix properly later",
+      "Hotfix immediately",
+      "Ignore until tomorrow",
+      "Take checkout offline"
+     ],
+     "a": 0,
+     "exKo": "20분 걸리는 롤백을 먼저 하고 이후 제대로 수정하기로 합니다.",
+     "why": [
+      "'Roll back now, hotfix properly after'가 결정된 계획",
+      "핫픽스는 롤백을 마친 뒤에 진행",
+      "즉시 조치하므로 지문과 반대",
+      "지문에 결제 중단 언급 없음"
+     ],
+     "ev": "Roll back now, hotfix properly after."
+    }
+   ]
+  }
+ ]
+}

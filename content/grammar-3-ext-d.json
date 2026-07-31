@@ -1,0 +1,1144 @@
+{
+ "items": [
+  {
+   "q": "The venture's success owes much to ___ timing.",
+   "type": "품사",
+   "choices": [
+    "fortune",
+    "fortuitous",
+    "fortuitously",
+    "fortuity of"
+   ],
+   "a": 1,
+   "transKo": "그 사업의 성공은 우연히 맞아떨어진 시기 덕이 크다.",
+   "exKo": "명사 timing을 수식하는 형용사 fortuitous가 정답입니다.",
+   "why": [
+    "명사(행운) — 명사 timing 앞 수식어 자리에 못 옴",
+    "형용사 — 명사 timing을 수식하는 자리 (정답)",
+    "부사 — 명사 timing을 수식할 수 없음",
+    "명사+of — to 뒤 구조가 성립하지 않는 함정"
+   ]
+  },
+  {
+   "q": "The counsel argued the point ___ but lost the motion.",
+   "type": "품사",
+   "choices": [
+    "eloquent",
+    "eloquently",
+    "eloquence",
+    "eloquential"
+   ],
+   "a": 1,
+   "transKo": "변호인은 논점을 설득력 있게 주장했지만 신청은 기각되었다.",
+   "exKo": "동사 argued를 수식하는 부사 eloquently가 정답입니다.",
+   "why": [
+    "형용사 — 동사 argued를 수식할 수 없음",
+    "부사 — 완전한 절 뒤에서 동사 argued 수식 (정답)",
+    "명사(웅변) — 목적어가 이미 있어 명사 자리 아님",
+    "실제로 없는 단어, 철자 유사 함정"
+   ]
+  },
+  {
+   "q": "Investor ___ over governance sparked the sell-off.",
+   "type": "품사",
+   "choices": [
+    "apprehend",
+    "apprehensive",
+    "apprehension",
+    "apprehensively"
+   ],
+   "a": 2,
+   "transKo": "지배 구조에 대한 투자자들의 불안이 매도세를 촉발했다.",
+   "exKo": "주어 자리의 명사 apprehension(불안)이 정답입니다.",
+   "why": [
+    "동사 원형 — 주어 자리에 동사는 올 수 없음",
+    "형용사 — 주어가 되는 명사 자리에 못 옴",
+    "명사(불안) — Investor와 이어진 주어 자리 (정답)",
+    "부사 — 문장의 주어 역할을 할 수 없음"
+   ]
+  },
+  {
+   "q": "The retreat produced a ___ workable roadmap.",
+   "type": "품사",
+   "choices": [
+    "surprising",
+    "surprisingly",
+    "surprised",
+    "surprise of"
+   ],
+   "a": 1,
+   "transKo": "워크숍에서 의외로 실행 가능한 로드맵이 나왔다.",
+   "exKo": "형용사 workable을 수식하는 부사 surprisingly가 정답입니다.",
+   "why": [
+    "현재분사형 형용사 — 형용사 workable 수식 불가",
+    "부사 — 뒤의 형용사 workable을 수식 (정답)",
+    "과거분사 — 형용사를 수식하는 기능이 없음",
+    "명사+of — 관사 a 뒤 구조가 성립하지 않음"
+   ]
+  },
+  {
+   "q": "The offer's ___ made further talks pointless.",
+   "type": "품사",
+   "choices": [
+    "finality",
+    "final",
+    "finally",
+    "finalize"
+   ],
+   "a": 0,
+   "transKo": "그 제안이 최종적이라는 점 때문에 추가 협상은 무의미해졌다.",
+   "exKo": "소유격 뒤 주어 명사 자리이므로 finality가 정답입니다.",
+   "why": [
+    "명사(최종성) — 소유격 뒤 주어 명사 자리 (정답)",
+    "형용사 — 소유격 뒤에서 단독 주어가 못 됨",
+    "부사 — 주어 자리에 올 수 없는 품사",
+    "동사 원형 — 소유격 뒤에 동사는 불가"
+   ]
+  },
+  {
+   "q": "The lab adheres to ___ strict documentation protocols.",
+   "type": "품사",
+   "choices": [
+    "notorious",
+    "notoriously",
+    "notoriety",
+    "noted of"
+   ],
+   "a": 1,
+   "transKo": "그 연구소는 악명 높을 만큼 엄격한 문서화 규약을 지킨다.",
+   "exKo": "형용사 strict를 수식하는 부사 notoriously가 정답입니다.",
+   "why": [
+    "형용사 — 뒤의 형용사 strict를 수식 못 함",
+    "부사 — 형용사 strict를 수식하는 자리 (정답)",
+    "명사(악명) — 뒤 형용사와 연결되지 않음",
+    "분사+of — 존재하지 않는 형태의 함정"
+   ]
+  },
+  {
+   "q": "Any ___ from the protocol must be logged.",
+   "type": "품사",
+   "choices": [
+    "deviate",
+    "deviant",
+    "deviation",
+    "deviating"
+   ],
+   "a": 2,
+   "transKo": "규약에서 벗어나는 어떤 사항도 기록되어야 한다.",
+   "exKo": "Any 뒤의 명사 자리이므로 deviation이 정답입니다.",
+   "why": [
+    "동사 원형 — Any 뒤 명사 자리에 올 수 없음",
+    "형용사·사람 명사(일탈자) — 문맥과 맞지 않음",
+    "명사(이탈) — Any의 수식을 받는 주어 (정답)",
+    "동명사·현재분사 — Any 뒤 단수 명사로 부자연"
+   ]
+  },
+  {
+   "q": "The campaign proved ___ effective among commuters.",
+   "type": "품사",
+   "choices": [
+    "particular",
+    "particularly",
+    "particularity",
+    "particulars"
+   ],
+   "a": 1,
+   "transKo": "그 캠페인은 통근자들 사이에서 특히 효과적이었다.",
+   "exKo": "형용사 effective를 수식하는 부사 particularly가 정답입니다.",
+   "why": [
+    "형용사 — 형용사 effective를 수식할 수 없음",
+    "부사 — 형용사 effective를 수식 (정답)",
+    "명사(특수성) — 뒤 형용사와 연결이 안 됨",
+    "복수명사 — 부사 자리에 명사는 불가"
+   ]
+  },
+  {
+   "q": "The board sought an ___ opinion on the valuation.",
+   "type": "품사",
+   "choices": [
+    "impartial",
+    "impartially",
+    "impartiality",
+    "impart"
+   ],
+   "a": 0,
+   "transKo": "이사회는 가치 평가에 대한 공정한 의견을 구했다.",
+   "exKo": "명사 opinion을 수식하는 형용사 impartial이 정답입니다.",
+   "why": [
+    "형용사 — 관사와 명사 사이 형용사 자리 (정답)",
+    "부사 — 명사 opinion을 수식할 수 없음",
+    "명사 — 명사 두 개가 나란히 올 수 없음",
+    "동사 원형 — 관사 an 뒤에 동사는 불가"
+   ]
+  },
+  {
+   "q": "The plant runs ___ around the clock in peak season.",
+   "type": "품사",
+   "choices": [
+    "virtual",
+    "virtually",
+    "virtues",
+    "virtuous"
+   ],
+   "a": 1,
+   "transKo": "성수기에 그 공장은 사실상 24시간 가동된다.",
+   "exKo": "부사구 around the clock을 수식하는 부사 virtually가 정답입니다.",
+   "why": [
+    "형용사 — 뒤의 전치사구를 수식할 수 없음",
+    "부사 — 부사구 around the clock 수식 (정답)",
+    "복수명사(미덕) — 자동사 runs 뒤 목적어 불가",
+    "형용사 — 부사가 필요한 자리에 못 옴"
+   ]
+  },
+  {
+   "q": "Her ___ for detail made the audit painless.",
+   "type": "품사",
+   "choices": [
+    "penchant",
+    "punchant",
+    "pendant",
+    "pennant"
+   ],
+   "a": 0,
+   "transKo": "디테일에 대한 그녀의 안목 덕분에 감사가 수월했다.",
+   "exKo": "penchant for(~에 대한 애호)의 명사 penchant가 정답입니다.",
+   "why": [
+    "명사(애호) — penchant for와 짝을 이룸 (정답)",
+    "실제로 없는 단어, 철자 유사 함정",
+    "명사(펜던트·장식) — 문맥에 맞지 않음",
+    "명사(삼각기·우승기) — 의미가 통하지 않음"
+   ]
+  },
+  {
+   "q": "The ruling set a ___ binding precedent.",
+   "type": "품사",
+   "choices": [
+    "nation",
+    "national",
+    "nationally",
+    "nationality"
+   ],
+   "a": 2,
+   "transKo": "그 판결은 전국적으로 구속력 있는 판례를 남겼다.",
+   "exKo": "형용사 binding을 수식하는 부사 nationally가 정답입니다.",
+   "why": [
+    "명사(국가) — 뒤 형용사 binding 수식 불가",
+    "형용사 — 형용사 binding을 수식할 수 없음",
+    "부사 — 분사형 형용사 binding을 수식 (정답)",
+    "명사(국적) — 관사 뒤 명사 나열이 어색함"
+   ]
+  },
+  {
+   "q": "Supplies remain ___ scarce in remote regions.",
+   "type": "품사",
+   "choices": [
+    "acute",
+    "acutely",
+    "acuteness",
+    "acuity"
+   ],
+   "a": 1,
+   "transKo": "외딴 지역에서는 물자가 극심하게 부족한 상태다.",
+   "exKo": "형용사 scarce를 수식하는 부사 acutely가 정답입니다.",
+   "why": [
+    "형용사 — 형용사 scarce를 수식할 수 없음",
+    "부사 — 형용사 scarce를 수식하는 자리 (정답)",
+    "명사(격렬함) — 뒤 형용사와 연결되지 않음",
+    "명사(예리함) — 부사 자리에 올 수 없음"
+   ]
+  },
+  {
+   "q": "The startup's ___ lies in its patented process.",
+   "type": "품사",
+   "choices": [
+    "appeal",
+    "appealing",
+    "appealed",
+    "appeals to"
+   ],
+   "a": 0,
+   "transKo": "그 스타트업의 매력은 특허받은 공정에 있다.",
+   "exKo": "소유격 뒤 주어 명사 자리이므로 appeal이 정답입니다.",
+   "why": [
+    "명사(매력) — 소유격 뒤 주어 명사 자리 (정답)",
+    "형용사·동명사 — 소유격 뒤 단독 주어로 부적절",
+    "과거형·과거분사 — 주어 자리에 올 수 없음",
+    "동사+전치사 — 본동사 lies가 이미 있어 중복"
+   ]
+  },
+  {
+   "q": "The counterbid was rejected as ___ low.",
+   "type": "품사",
+   "choices": [
+    "insult",
+    "insulting",
+    "insultingly",
+    "insulted"
+   ],
+   "a": 2,
+   "transKo": "그 대항 입찰은 모욕적일 만큼 낮다는 이유로 거부되었다.",
+   "exKo": "형용사 low를 수식하는 부사 insultingly가 정답입니다.",
+   "why": [
+    "명사·동사 — 형용사 low를 수식할 수 없음",
+    "형용사 — 다른 형용사 low를 수식하지 못함",
+    "부사 — 형용사 low를 수식하는 자리 (정답)",
+    "과거분사 — 형용사를 수식하는 기능이 없음"
+   ]
+  },
+  {
+   "q": "Only after the recount ___ the results certified.",
+   "type": "시제·형태",
+   "choices": [
+    "were",
+    "did",
+    "have",
+    "being"
+   ],
+   "a": 0,
+   "transKo": "재검표 후에야 결과가 공식 인증되었다.",
+   "exKo": "Only after가 문두에 온 수동태 도치이므로 were가 정답입니다.",
+   "why": [
+    "be동사 — Only 부사구 도치의 수동태 형태 (정답)",
+    "조동사 — 뒤에 동사원형이 와야 하므로 불가",
+    "조동사 — 완료형이면 been certified가 필요",
+    "현재분사 — 도치 자리의 본동사가 될 수 없음"
+   ]
+  },
+  {
+   "q": "The charter requires that a quorum ___ present.",
+   "type": "시제·형태",
+   "choices": [
+    "is",
+    "be",
+    "are",
+    "were"
+   ],
+   "a": 1,
+   "transKo": "정관은 의사 정족수가 충족될 것을 요구한다.",
+   "exKo": "require that절에는 동사원형 be를 씁니다.",
+   "why": [
+    "3인칭 현재형 — 당위의 that절에는 원형이 원칙",
+    "동사원형 — require의 that절 (should 생략) (정답)",
+    "복수 현재형 — 수 불일치이며 원형도 아님",
+    "과거형 — 당위 that절에 시제형은 쓰지 않음"
+   ]
+  },
+  {
+   "q": "___ the second audit, the figures would have stood.",
+   "type": "시제·형태",
+   "choices": [
+    "But for",
+    "Despite",
+    "Because of",
+    "Owing to"
+   ],
+   "a": 0,
+   "transKo": "2차 감사가 없었다면 그 수치는 그대로 유지되었을 것이다.",
+   "exKo": "But for(~이 없었다면)는 가정법과 함께 쓰입니다.",
+   "why": [
+    "전치사구(~이 없었다면) — 가정법 과거완료와 짝 (정답)",
+    "양보 전치사(~에도 불구하고) — 가정 의미가 없음",
+    "이유 전치사 — would have 가정법과 논리 충돌",
+    "이유 전치사(~때문에) — 가정법을 이끌지 못함"
+   ]
+  },
+  {
+   "q": "The chair proposed that voting ___ until May.",
+   "type": "시제·형태",
+   "choices": [
+    "defers",
+    "be deferred",
+    "is deferred",
+    "deferring"
+   ],
+   "a": 1,
+   "transKo": "의장은 표결을 5월로 미룰 것을 제안했다.",
+   "exKo": "제안 동사 뒤 that절에는 동사원형 수동태 be deferred가 옵니다.",
+   "why": [
+    "3인칭 현재형 — 원형이 필요하고 능동도 부적합",
+    "원형 수동태 — propose의 that절 형태 (정답)",
+    "현재형 수동태 — 당위 that절에는 원형이 필요",
+    "현재분사 — 단독으로 본동사가 될 수 없음"
+   ]
+  },
+  {
+   "q": "Hardly ___ the ink dried when disputes arose.",
+   "type": "시제·형태",
+   "choices": [
+    "had",
+    "has",
+    "was",
+    "did"
+   ],
+   "a": 0,
+   "transKo": "잉크가 마르기가 무섭게 분쟁이 일어났다.",
+   "exKo": "Hardly had A p.p. when B 도치 구문이므로 had가 정답입니다.",
+   "why": [
+    "조동사 — Hardly had S p.p. ~ when 도치 (정답)",
+    "현재완료 조동사 — 주절 arose와 시제 불일치",
+    "be동사 — dried는 능동 완료라 수동 불가",
+    "조동사 — 뒤에 동사원형이 와야 하므로 불가"
+   ]
+  },
+  {
+   "q": "The bonds are ___ to be repriced next week.",
+   "type": "시제·형태",
+   "choices": [
+    "schedule",
+    "scheduled",
+    "scheduling",
+    "schedules"
+   ],
+   "a": 1,
+   "transKo": "그 채권들은 다음 주에 가격이 재조정될 예정이다.",
+   "exKo": "be scheduled to do(~할 예정이다) 구조이므로 scheduled가 정답입니다.",
+   "why": [
+    "동사원형·명사 — be동사 뒤에 원형은 불가",
+    "과거분사 — be scheduled to do 구조 (정답)",
+    "현재분사 — 능동 진행이라 의미가 맞지 않음",
+    "3인칭 현재형 — are 뒤 본동사 중복이 됨"
+   ]
+  },
+  {
+   "q": "___ from three suppliers, the parts vary in tolerance.",
+   "type": "시제·형태",
+   "choices": [
+    "Sourcing",
+    "Sourced",
+    "To source",
+    "Source"
+   ],
+   "a": 1,
+   "transKo": "세 공급업체에서 조달된 부품들은 공차가 서로 다르다.",
+   "exKo": "부품은 조달되는 대상이므로 수동 분사 Sourced가 정답입니다.",
+   "why": [
+    "현재분사 — 부품이 조달하는 주체가 아니므로 불가",
+    "과거분사 — 부품은 조달되는 대상, 수동 분사 (정답)",
+    "to부정사 — 목적의 의미라 문맥과 맞지 않음",
+    "동사원형 — 명령문이 되어 뒤 주절과 충돌"
+   ]
+  },
+  {
+   "q": "The judge insisted that the exhibit ___ resealed.",
+   "type": "시제·형태",
+   "choices": [
+    "is",
+    "be",
+    "was",
+    "been"
+   ],
+   "a": 1,
+   "transKo": "판사는 증거물을 다시 봉인할 것을 고집했다.",
+   "exKo": "insist that절(당위)에는 동사원형 be를 씁니다.",
+   "why": [
+    "3인칭 현재형 — 당위 that절에는 원형이 필요",
+    "동사원형 — insist의 that절 (should 생략) (정답)",
+    "과거형 — 당위 that절에 시제형은 쓰지 않음",
+    "과거분사 — 앞에 have나 be 없이 단독 불가"
+   ]
+  },
+  {
+   "q": "Not once ___ the vendor miss a delivery window.",
+   "type": "시제·형태",
+   "choices": [
+    "did",
+    "has",
+    "does",
+    "was"
+   ],
+   "a": 0,
+   "transKo": "그 공급업체는 단 한 번도 납기 시간대를 놓치지 않았다.",
+   "exKo": "Not once가 문두에 온 도치이므로 did가 정답입니다.",
+   "why": [
+    "조동사 — 부정어 도치 구문에 원형 miss가 옴 (정답)",
+    "완료 조동사 — missed가 아닌 원형이라 불가",
+    "현재 조동사 — 과거 사실 서술 문맥과 불일치",
+    "be동사 — 뒤의 동사원형 miss와 결합 불가"
+   ]
+  },
+  {
+   "q": "The variance is too large ___ by rounding alone.",
+   "type": "시제·형태",
+   "choices": [
+    "to explain",
+    "to be explained",
+    "explaining",
+    "explained"
+   ],
+   "a": 1,
+   "transKo": "그 편차는 반올림만으로 설명되기에는 너무 크다.",
+   "exKo": "too ~ to be p.p.(~되기에는 너무 …한)의 수동형 to be explained가 정답입니다.",
+   "why": [
+    "능동 to부정사 — by 행위자와 함께면 수동이 필요",
+    "수동 to부정사 — too ~ to be p.p. 구조 (정답)",
+    "현재분사 — too 구문의 to 자리에 올 수 없음",
+    "과거분사 — to 없이 too 구문이 성립하지 않음"
+   ]
+  },
+  {
+   "q": "___ having signed, the client demanded new terms.",
+   "type": "시제·형태",
+   "choices": [
+    "Despite",
+    "Although",
+    "Because",
+    "Whereas"
+   ],
+   "a": 0,
+   "transKo": "이미 서명했음에도 그 고객은 새로운 조건을 요구했다.",
+   "exKo": "전치사 Despite + 동명사 구조가 정답입니다.",
+   "why": [
+    "전치사 — 동명사구 having signed 앞에 옴 (정답)",
+    "접속사 — 뒤에 주어+동사의 절이 필요함",
+    "접속사 — 절이 필요하고 의미도 양보라야 함",
+    "접속사 — 대조절을 이끌어야 하므로 불가"
+   ]
+  },
+  {
+   "q": "The results, ___ preliminary, point to a recovery.",
+   "type": "시제·형태",
+   "choices": [
+    "while",
+    "during",
+    "despite of",
+    "because"
+   ],
+   "a": 0,
+   "transKo": "예비 수치이긴 하지만 결과는 회복세를 가리킨다.",
+   "exKo": "while + 형용사(비록 ~이지만)의 축약 구문이 정답입니다.",
+   "why": [
+    "접속사 — while + 형용사 축약, 비록 ~이지만 (정답)",
+    "전치사(~동안) — 뒤에 명사가 와야 함",
+    "in spite of를 잘못 섞은 형태, 함정",
+    "접속사 — 절이 필요하고 의미도 맞지 않음"
+   ]
+  },
+  {
+   "q": "Failure ___ the covenant triggers early repayment.",
+   "type": "시제·형태",
+   "choices": [
+    "observe",
+    "to observe",
+    "observing",
+    "observed"
+   ],
+   "a": 1,
+   "transKo": "약정을 지키지 못하면 조기 상환 조항이 발동된다.",
+   "exKo": "failure to do(~하지 못함)가 빈출 구조입니다.",
+   "why": [
+    "동사원형 — 명사 Failure 뒤에 바로 못 옴",
+    "to부정사 — failure to do(~하지 못함) 구조 (정답)",
+    "동명사 — failure는 of 없이 동명사를 못 취함",
+    "과거분사 — 수동 의미라 문맥과 맞지 않음"
+   ]
+  },
+  {
+   "q": "The panel debated whether ___ the whistleblower publicly.",
+   "type": "시제·형태",
+   "choices": [
+    "credit",
+    "to credit",
+    "crediting of",
+    "credited"
+   ],
+   "a": 1,
+   "transKo": "위원단은 내부 고발자를 공개적으로 인정할지를 논의했다.",
+   "exKo": "whether to do(~할지 말지) 구조이므로 to credit이 정답입니다.",
+   "why": [
+    "동사원형 — whether 뒤 단독 원형은 불가",
+    "to부정사 — whether to do(~할지) 구조 (정답)",
+    "동명사+of — whether 뒤 형태로 부적절함",
+    "과거분사 — 뒤의 목적어를 취할 수 없음"
+   ]
+  },
+  {
+   "q": "___ good faith negotiations, the strike would continue.",
+   "type": "전치사·접속사",
+   "choices": [
+    "Absent",
+    "Unless",
+    "Without that",
+    "Despite that"
+   ],
+   "a": 0,
+   "transKo": "성실한 협상이 없다면 파업은 계속될 것이다.",
+   "exKo": "Absent + 명사(~이 없다면)는 격식체 전치사 용법입니다.",
+   "why": [
+    "전치사(~이 없다면) — 명사구 앞 격식체 용법 (정답)",
+    "접속사 — 뒤에 주어+동사의 절이 필요함",
+    "존재하지 않는 결합, without 관련 함정",
+    "뒤에 절이 와야 하고 가정 의미도 없음"
+   ]
+  },
+  {
+   "q": "The clause survives termination ___ expressly waived.",
+   "type": "전치사·접속사",
+   "choices": [
+    "unless",
+    "without",
+    "besides",
+    "despite"
+   ],
+   "a": 0,
+   "transKo": "명시적으로 포기되지 않는 한 그 조항은 계약 종료 후에도 존속한다.",
+   "exKo": "unless + (it is) 생략 구조가 정답입니다.",
+   "why": [
+    "접속사 — unless (it is) 생략, ~하지 않는 한 (정답)",
+    "전치사 — 뒤에 명사나 동명사가 와야 함",
+    "전치사(~외에도) — 분사 앞이며 의미도 불일치",
+    "전치사(~에도 불구하고) — 명사가 필요함"
+   ]
+  },
+  {
+   "q": "Costs were split ___ to each partner's stake.",
+   "type": "전치사·접속사",
+   "choices": [
+    "in proportion",
+    "proportional",
+    "proportionately of",
+    "by proportion of"
+   ],
+   "a": 0,
+   "transKo": "비용은 각 파트너의 지분에 비례해 분담되었다.",
+   "exKo": "in proportion to(~에 비례하여)가 빈출 표현입니다.",
+   "why": [
+    "전치사구 — in proportion to(~에 비례하여) (정답)",
+    "형용사 — 동사 split을 수식할 수 없음",
+    "부사+of — of와 결합하지 않는 잘못된 형태",
+    "존재하지 않는 관용구, 철자 유사 함정"
+   ]
+  },
+  {
+   "q": "___ the embargo lifts, exports stay suspended.",
+   "type": "전치사·접속사",
+   "choices": [
+    "Until",
+    "By",
+    "Within",
+    "Since of"
+   ],
+   "a": 0,
+   "transKo": "금수 조치가 해제될 때까지 수출은 중단 상태다.",
+   "exKo": "뒤에 절이 오고 '~할 때까지'의 접속사 Until이 정답입니다.",
+   "why": [
+    "접속사 — 뒤 절을 이끌어 ~할 때까지 (정답)",
+    "전치사(~까지) — 뒤에 절을 이끌 수 없음",
+    "전치사(~이내에) — 절을 이끌지 못함",
+    "because of와 혼동시킨 존재하지 않는 형태"
+   ]
+  },
+  {
+   "q": "The results beat forecasts ___ a wide margin.",
+   "type": "전치사·접속사",
+   "choices": [
+    "by",
+    "with",
+    "at",
+    "for"
+   ],
+   "a": 0,
+   "transKo": "실적은 큰 폭으로 전망치를 웃돌았다.",
+   "exKo": "차이의 정도를 나타내는 by a wide margin이 빈출 표현입니다.",
+   "why": [
+    "차이·정도의 전치사 — by a wide margin (정답)",
+    "동반·수단의 전치사 — 차이 표현에 못 씀",
+    "지점·비율의 전치사 — margin과 짝이 아님",
+    "목적·기간의 전치사 — 차이의 의미가 없음"
+   ]
+  },
+  {
+   "q": "___ to popular belief, the tax cut widened the deficit.",
+   "type": "전치사·접속사",
+   "choices": [
+    "Contrary",
+    "Opposite",
+    "Reverse",
+    "Counter of"
+   ],
+   "a": 0,
+   "transKo": "통념과 달리 감세는 적자를 키웠다.",
+   "exKo": "contrary to popular belief(통념과 달리)가 빈출 표현입니다.",
+   "why": [
+    "contrary to popular belief(통념과 달리) (정답)",
+    "형용사·전치사(맞은편의) — to와 관용구가 아님",
+    "명사·동사(역·뒤집다) — to 구조가 없음",
+    "counter to를 비튼 잘못된 결합, 함정"
+   ]
+  },
+  {
+   "q": "The permit lapses ___ effect on December 31.",
+   "type": "전치사·접속사",
+   "choices": [
+    "with",
+    "in",
+    "at",
+    "upon of"
+   ],
+   "a": 0,
+   "transKo": "그 허가는 12월 31일부로 효력이 소멸된다.",
+   "exKo": "with effect on(~부로 효력이 발생/소멸)이 격식체 표현입니다.",
+   "why": [
+    "with — with effect on/from(~부로 효력) 관용 전치사",
+    "in — in effect는 '사실상'이라는 뜻, 발효 시점 표현 아님",
+    "at — 시점 전치사, effect와 짝을 이루지 못함",
+    "upon of — 전치사 두 개가 겹친 비문 함정"
+   ]
+  },
+  {
+   "q": "Losses mounted ___ the point of insolvency.",
+   "type": "전치사·접속사",
+   "choices": [
+    "to",
+    "at",
+    "in",
+    "over of"
+   ],
+   "a": 0,
+   "transKo": "손실이 지급 불능 직전 수준까지 쌓였다.",
+   "exKo": "to the point of(~할 지경까지)가 정답입니다.",
+   "why": [
+    "to — to the point of(~할 지경까지) 관용 전치사구",
+    "at — at this point는 '이 시점에', 도달 의미 없음",
+    "in — 정도의 도달을 나타내는 전치사가 아님",
+    "over of — 전치사 중복, 문법상 불가능한 형태"
+   ]
+  },
+  {
+   "q": "The reforms apply ___ and above existing rules.",
+   "type": "전치사·접속사",
+   "choices": [
+    "over",
+    "under",
+    "beyond of",
+    "across to"
+   ],
+   "a": 0,
+   "transKo": "그 개혁안은 기존 규정에 더하여 적용된다.",
+   "exKo": "over and above(~에 더하여)가 빈출 표현입니다.",
+   "why": [
+    "over — over and above(~에 더하여) 관용 전치사구",
+    "under — '아래'라는 뜻으로 and above와 의미 모순",
+    "beyond of — 전치사 두 개가 겹친 비문",
+    "across to — 전치사 중복이며 관용구 형태도 아님"
+   ]
+  },
+  {
+   "q": "___ all accounts, the transition went smoothly.",
+   "type": "전치사·접속사",
+   "choices": [
+    "By",
+    "On",
+    "In",
+    "At"
+   ],
+   "a": 0,
+   "transKo": "모든 전언에 따르면 인수인계는 순조롭게 진행되었다.",
+   "exKo": "by all accounts(모든 이야기를 들어 보면)가 빈출 표현입니다.",
+   "why": [
+    "By — by all accounts(모든 이야기로 보아) 관용 전치사구",
+    "On — on account of 형태여야 하며 이 자리엔 불가",
+    "In — in all accounts는 관용 표현으로 쓰이지 않음",
+    "At — 지점 전치사, accounts와 결합하지 못함"
+   ]
+  },
+  {
+   "q": "The fine stands ___ appeal to the high court.",
+   "type": "전치사·접속사",
+   "choices": [
+    "pending",
+    "during",
+    "until to",
+    "besides"
+   ],
+   "a": 0,
+   "transKo": "고등 법원 항소가 진행되는 동안 벌금 부과는 유지된다.",
+   "exKo": "pending + 명사(~을 기다리는 동안)가 정답입니다.",
+   "why": [
+    "pending — 전치사 '~을 기다리는 동안', 명사 appeal 앞 적합",
+    "during — 전치사지만 기간 명사를 요구, 절차 대기 뜻 없음",
+    "until to — 전치사 두 개가 겹친 비문",
+    "besides — '~외에도'라는 뜻으로 문맥과 무관"
+   ]
+  },
+  {
+   "q": "The retailer will ___ prices to clear excess stock.",
+   "type": "어휘",
+   "choices": [
+    "slash",
+    "slice on",
+    "chop to",
+    "carve up"
+   ],
+   "a": 0,
+   "transKo": "소매업체는 초과 재고를 처분하기 위해 가격을 대폭 인하할 것이다.",
+   "exKo": "가격을 대폭 인하하다는 slash입니다.",
+   "why": [
+    "slash — 가격을 대폭 인하하다, prices를 직접 취하는 타동사",
+    "slice on — slice는 '얇게 썰다'이고 on이 붙어 비문",
+    "chop to — '자르다'에 to가 불필요, 가격 인하 관용 아님",
+    "carve up — '분할하다'라는 뜻으로 가격에는 쓰지 않음"
+   ]
+  },
+  {
+   "q": "The probe seeks to ___ who altered the ledger.",
+   "type": "어휘",
+   "choices": [
+    "pinpoint",
+    "pinhole",
+    "pin down to",
+    "pincer"
+   ],
+   "a": 0,
+   "transKo": "조사는 누가 장부를 수정했는지 정확히 밝혀내려 한다.",
+   "exKo": "정확히 짚어내다는 pinpoint입니다.",
+   "why": [
+    "pinpoint — 정확히 짚어내다, to부정사 뒤 동사원형 자리",
+    "pinhole — 명사 '바늘구멍', 동사 자리에 올 수 없음",
+    "pin down to — pin down은 맞지만 to가 붙어 비문",
+    "pincer — 명사 '집게', 동사로 쓰이지 않는 함정"
+   ]
+  },
+  {
+   "q": "The award ___ her decades of pro bono service.",
+   "type": "어휘",
+   "choices": [
+    "acknowledges",
+    "knowledges",
+    "acknowledges to",
+    "announces of"
+   ],
+   "a": 0,
+   "transKo": "그 상은 그녀의 수십 년간의 무료 변론 활동을 기린다.",
+   "exKo": "공로를 인정하다는 acknowledge입니다.",
+   "why": [
+    "acknowledges — 공로를 인정하다, 목적어를 직접 취하는 타동사",
+    "knowledges — knowledge는 불가산 명사로 동사형이 없음",
+    "acknowledges to — 타동사 뒤 to가 불필요한 철자 유사 함정",
+    "announces of — announce는 of를 취하지 않는 타동사"
+   ]
+  },
+  {
+   "q": "Counsel urged the board not to ___ the settlement offer.",
+   "type": "어휘",
+   "choices": [
+    "spurn",
+    "spur",
+    "spawn",
+    "sprawl"
+   ],
+   "a": 0,
+   "transKo": "변호인은 이사회에 합의 제안을 퇴짜 놓지 말라고 촉구했다.",
+   "exKo": "제안을 일축하다는 spurn입니다. spur(자극하다)와의 철자 함정 문제입니다.",
+   "why": [
+    "spurn — 제안을 일축하다, 문맥에 맞는 타동사",
+    "spur — '자극하다', 철자 유사 함정이며 뜻이 반대",
+    "spawn — '양산하다'라는 뜻으로 제안 거절과 무관",
+    "sprawl — '넓게 퍼지다', 자동사라 목적어를 못 취함"
+   ]
+  },
+  {
+   "q": "The upgrade will ___ the two legacy databases.",
+   "type": "어휘",
+   "choices": [
+    "unify",
+    "uniform",
+    "unite to",
+    "union"
+   ],
+   "a": 0,
+   "transKo": "업그레이드로 두 개의 기존 데이터베이스가 통합될 것이다.",
+   "exKo": "통합하다는 unify입니다.",
+   "why": [
+    "unify — 통합하다, 조동사 will 뒤 동사원형 자리",
+    "uniform — 형용사·명사 '균일한/제복', 동사 자리 불가",
+    "unite to — unite는 타동사라 to가 불필요한 비문",
+    "union — 명사 '연합', 동사로 쓰이지 않는 함정"
+   ]
+  },
+  {
+   "q": "Rumors of a breach sent clients ___ for the exits.",
+   "type": "어휘",
+   "choices": [
+    "scrambling",
+    "screaming to",
+    "scratching",
+    "scrapping"
+   ],
+   "a": 0,
+   "transKo": "보안 사고 소문에 고객들이 앞다투어 이탈했다.",
+   "exKo": "send A scrambling(~을 허둥지둥하게 만들다)이 자연스럽습니다.",
+   "why": [
+    "scrambling — 현재분사 목적보어, send A ~ing(허둥지둥하게 하다)",
+    "screaming to — 현재분사지만 to가 붙어 뒤의 for와 충돌",
+    "scratching — '긁다'라는 뜻으로 출구로 몰리는 문맥과 무관",
+    "scrapping — '폐기하다', 철자 유사 함정"
+   ]
+  },
+  {
+   "q": "The bank tightened lending to ___ its balance sheet.",
+   "type": "어휘",
+   "choices": [
+    "shore up",
+    "shore off",
+    "beach up",
+    "coast on"
+   ],
+   "a": 0,
+   "transKo": "은행은 재무 상태를 강화하기 위해 대출을 조였다.",
+   "exKo": "떠받치다·강화하다는 shore up입니다.",
+   "why": [
+    "shore up — 떠받치다·강화하다, to부정사 뒤 동사원형 구동사",
+    "shore off — 존재하지 않는 구동사, 철자 함정",
+    "beach up — beach는 '해변', 이런 구동사는 없음",
+    "coast on — '타성으로 나아가다', 강화 의미가 없음"
+   ]
+  },
+  {
+   "q": "The committee will ___ the merits of each proposal.",
+   "type": "어휘",
+   "choices": [
+    "weigh",
+    "scale",
+    "balance on",
+    "measure off"
+   ],
+   "a": 0,
+   "transKo": "위원회는 각 제안의 장단점을 따져 볼 것이다.",
+   "exKo": "저울질하다는 weigh입니다.",
+   "why": [
+    "weigh — 저울질하다·따져보다, 목적어를 직접 취하는 타동사",
+    "scale — '규모를 조정하다'라는 뜻으로 merits와 안 어울림",
+    "balance on — '~위에서 균형 잡다', 검토 의미가 아님",
+    "measure off — '재어서 구분하다'로 문맥이 맞지 않음"
+   ]
+  },
+  {
+   "q": "The verdict could ___ a wave of similar suits.",
+   "type": "어휘",
+   "choices": [
+    "trigger",
+    "pull",
+    "fire on",
+    "shoot"
+   ],
+   "a": 0,
+   "transKo": "그 평결은 유사 소송의 물결을 촉발할 수 있다.",
+   "exKo": "촉발하다는 trigger입니다.",
+   "why": [
+    "trigger — 촉발하다, 조동사 could 뒤 동사원형 자리",
+    "pull — '당기다'라는 뜻으로 소송 유발 의미가 없음",
+    "fire on — '~에 발포하다'로 문맥과 무관",
+    "shoot — '쏘다', 촉발한다는 뜻으로는 쓰이지 않음"
+   ]
+  },
+  {
+   "q": "The chain will ___ its loyalty scheme with tiered perks.",
+   "type": "어휘",
+   "choices": [
+    "revamp",
+    "rewind",
+    "review on",
+    "revert"
+   ],
+   "a": 0,
+   "transKo": "그 체인은 등급별 혜택으로 멤버십 제도를 개편할 것이다.",
+   "exKo": "개편하다는 revamp입니다.",
+   "why": [
+    "revamp — 개편하다, 조동사 will 뒤 동사원형으로 적합",
+    "rewind — '되감다'라는 뜻으로 제도 개편에 쓰지 않음",
+    "review on — review는 타동사이므로 on이 붙으면 비문",
+    "revert — 자동사 '되돌아가다', 목적어를 못 취함"
+   ]
+  },
+  {
+   "q": "The auditors ___ through years of shipping manifests.",
+   "type": "어휘",
+   "choices": [
+    "sifted",
+    "drifted",
+    "shifted",
+    "lifted"
+   ],
+   "a": 0,
+   "transKo": "감사관들은 수년 치 선적 명세서를 샅샅이 살폈다.",
+   "exKo": "sift through(~을 자세히 살피다)가 정답입니다. 유사 철자 함정 문제입니다.",
+   "why": [
+    "sifted — sift through(꼼꼼히 살피다)의 과거형 본동사",
+    "drifted — '떠다니다', 철자 유사 함정",
+    "shifted — '옮기다'라는 뜻으로 through와 어울리지 않음",
+    "lifted — '들어올리다', 서류를 검토한다는 뜻이 없음"
+   ]
+  },
+  {
+   "q": "The developer must ___ the wetlands ordinance.",
+   "type": "어휘",
+   "choices": [
+    "heed",
+    "hedge on",
+    "head to",
+    "herd"
+   ],
+   "a": 0,
+   "transKo": "개발업자는 습지 조례를 유념해 따라야 한다.",
+   "exKo": "주의를 기울이다는 heed입니다.",
+   "why": [
+    "heed — 주의를 기울이다, must 뒤 동사원형 타동사",
+    "hedge on — '~에 대해 얼버무리다', 준수 의미가 아님",
+    "head to — '~로 향하다'라 조례를 목적어로 못 씀",
+    "herd — '몰다'라는 뜻의 철자 유사 함정"
+   ]
+  },
+  {
+   "q": "The startup's growth ___ expectations for a third year.",
+   "type": "어휘",
+   "choices": [
+    "defied",
+    "denied",
+    "refused",
+    "defiled"
+   ],
+   "a": 0,
+   "transKo": "그 스타트업의 성장은 3년째 예상을 뛰어넘었다.",
+   "exKo": "defy expectations(예상을 뒤엎다)가 빈출 표현입니다.",
+   "why": [
+    "defied — defy expectations(예상을 뒤엎다) 빈출 표현의 과거형",
+    "denied — '부인하다'로 예상을 뒤엎는다는 뜻이 없음",
+    "refused — '거절하다', expectations를 목적어로 쓰지 않음",
+    "defiled — '더럽히다', 철자 유사 함정"
+   ]
+  },
+  {
+   "q": "New evidence may ___ the case for reopening the probe.",
+   "type": "어휘",
+   "choices": [
+    "strengthen",
+    "lengthen",
+    "straighten",
+    "tighten on"
+   ],
+   "a": 0,
+   "transKo": "새 증거는 조사 재개론에 힘을 실어 줄 수 있다.",
+   "exKo": "주장을 강화하다는 strengthen입니다.",
+   "why": [
+    "strengthen — 주장을 강화하다, 조동사 may 뒤 동사원형",
+    "lengthen — '길게 하다'라는 뜻의 철자 유사 함정",
+    "straighten — '바로잡다'로 the case와 어울리지 않음",
+    "tighten on — 타동사에 on이 붙어 비문이 된 함정"
+   ]
+  },
+  {
+   "q": "The insurer will ___ the premium for safe drivers.",
+   "type": "어휘",
+   "choices": [
+    "discount",
+    "dismount",
+    "discourse",
+    "disclaim"
+   ],
+   "a": 0,
+   "transKo": "보험사는 안전 운전자의 보험료를 할인해 줄 것이다.",
+   "exKo": "할인하다는 discount입니다.",
+   "why": [
+    "discount — 할인하다, will 뒤 동사원형인 타동사",
+    "dismount — '내리다'라는 뜻의 철자 유사 함정",
+    "discourse — '담화하다'로 보험료와 무관한 어휘",
+    "disclaim — '부인하다'로 할인의 의미가 없음"
+   ]
+  },
+  {
+   "q": "Management refused to ___ on the layoff rumors.",
+   "type": "어휘",
+   "choices": [
+    "comment",
+    "commend",
+    "comfort",
+    "commence"
+   ],
+   "a": 0,
+   "transKo": "경영진은 정리 해고 소문에 대한 언급을 거부했다.",
+   "exKo": "comment on(~에 대해 언급하다)이 정답입니다. 유사 철자 함정 문제입니다.",
+   "why": [
+    "comment — comment on(~에 대해 언급하다), to 뒤 동사원형",
+    "commend — '칭찬하다'라는 뜻의 철자 유사 함정",
+    "comfort — '위로하다'이며 on과 결합하지 않음",
+    "commence — '시작하다'로 문맥과 맞지 않음"
+   ]
+  },
+  {
+   "q": "The judgment will ___ interest until paid in full.",
+   "type": "어휘",
+   "choices": [
+    "accrue",
+    "accuse",
+    "accede",
+    "acquit"
+   ],
+   "a": 0,
+   "transKo": "판결금은 완납될 때까지 이자가 붙는다.",
+   "exKo": "이자가 발생하다는 accrue입니다. 유사 철자 함정 문제입니다.",
+   "why": [
+    "accrue — 이자가 발생·누적되다, will 뒤 동사원형",
+    "accuse — '고발하다', accuse A of B 형태로만 씀",
+    "accede — '동의하다'로 to를 필요로 하는 자동사",
+    "acquit — '무죄를 선고하다', 철자 유사 함정"
+   ]
+  },
+  {
+   "q": "The state moved to ___ the utility's rate hike.",
+   "type": "어휘",
+   "choices": [
+    "block",
+    "brick",
+    "lock on",
+    "stock"
+   ],
+   "a": 0,
+   "transKo": "주 정부는 공공요금 인상을 저지하는 조치에 나섰다.",
+   "exKo": "저지하다는 block입니다.",
+   "why": [
+    "block — 저지하다, to부정사 뒤 동사원형인 타동사",
+    "brick — '벽돌로 막다'로 인상 저지의 뜻이 아님",
+    "lock on — '고정·추적하다', 철자 유사 함정",
+    "stock — '재고를 채우다'로 문맥이 맞지 않음"
+   ]
+  },
+  {
+   "q": "The memoir ___ her rise from teller to CEO.",
+   "type": "어휘",
+   "choices": [
+    "chronicles",
+    "calendars",
+    "schedules",
+    "diaries"
+   ],
+   "a": 0,
+   "transKo": "그 회고록은 창구 직원에서 CEO가 되기까지의 여정을 기록한다.",
+   "exKo": "연대순으로 기록하다는 chronicle입니다.",
+   "why": [
+    "chronicles — 연대순으로 기록하다, 3인칭 단수 본동사",
+    "calendars — 명사 복수형이라 본동사로 쓰지 않음",
+    "schedules — '일정을 잡다'로 회고록 서술과 무관",
+    "diaries — 명사 복수형 '일기', 동사 자리 불가"
+   ]
+  },
+  {
+   "q": "The firms will ___ their patents to settle the dispute.",
+   "type": "어휘",
+   "choices": [
+    "cross-license",
+    "cross-examine",
+    "crossover",
+    "cross out"
+   ],
+   "a": 0,
+   "transKo": "두 회사는 분쟁 해결을 위해 특허를 상호 사용 허가할 것이다.",
+   "exKo": "특허를 서로 허가하다는 cross-license입니다.",
+   "why": [
+    "cross-license — 특허를 상호 허가하다, will 뒤 동사원형",
+    "cross-examine — '반대신문하다'로 특허 목적어와 불일치",
+    "crossover — 명사 '교차·전환', 동사 자리에 못 옴",
+    "cross out — '줄 그어 지우다'로 분쟁 해결 의미가 아님"
+   ]
+  }
+ ]
+}

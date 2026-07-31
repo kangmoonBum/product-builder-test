@@ -1,0 +1,644 @@
+{
+ "passages": [
+  {
+   "kind": "이메일",
+   "title": "야유회 날짜 투표 메일",
+   "passage": "From: HR Team\nTo: All Staff\nSubject: Vote for the Picnic Date\n\nHello everyone,\n\nOur spring company picnic will be at Maple Lake Park. Two dates are possible: Friday, May 16, or Friday, May 23.\n\nPlease vote for your preferred date on the intranet by this Thursday. The date with more votes wins, and we will announce it Friday morning. Lunch and games are on the company!\n\nHR Team",
+   "questions": [
+    {
+     "q": "What are staff asked to do?",
+     "type": "주제·목적",
+     "choices": [
+      "Vote for a picnic date",
+      "Book a park",
+      "Plan the games",
+      "Bring their lunch"
+     ],
+     "a": 0,
+     "exKo": "야유회 날짜 두 가지 중 하나에 투표해 달라는 요청입니다.",
+     "why": [
+      "사내망에서 선호 날짜에 투표하라는 요청",
+      "공원 예약은 이미 회사가 정해 둠",
+      "게임 준비가 아니라 날짜 투표를 요청함",
+      "점심은 회사 부담이므로 지문과 반대"
+     ],
+     "ev": "Please vote for your preferred date on the intranet by this Thursday."
+    },
+    {
+     "q": "Where will the picnic be held?",
+     "type": "세부사항",
+     "choices": [
+      "Maple Lake Park",
+      "The office roof",
+      "A hotel garden",
+      "City Hall Park"
+     ],
+     "a": 0,
+     "exKo": "will be at Maple Lake Park라고 명시합니다.",
+     "why": [
+      "야유회 장소가 Maple Lake Park라고 명시",
+      "사무실 옥상은 지문에 언급 없음",
+      "호텔 정원은 지문에 언급 없음",
+      "City Hall Park라는 장소는 지문에 없음"
+     ],
+     "ev": "Our spring company picnic will be at Maple Lake Park."
+    },
+    {
+     "q": "When will the date be announced?",
+     "type": "세부사항",
+     "choices": [
+      "Friday morning",
+      "Thursday evening",
+      "May 16",
+      "Next month"
+     ],
+     "a": 0,
+     "exKo": "we will announce it Friday morning에서 확인됩니다.",
+     "why": [
+      "금요일 오전에 확정 날짜를 발표한다고 명시",
+      "목요일은 투표 마감 시한(단어 반복 함정)",
+      "5월 16일은 후보 날짜 중 하나일 뿐",
+      "다음 달 발표라는 언급은 없음"
+     ],
+     "ev": "The date with more votes wins, and we will announce it Friday morning."
+    }
+   ]
+  },
+  {
+   "kind": "이메일",
+   "title": "결제 카드 만료 안내 메일",
+   "passage": "From: StreamBox\nTo: Aaron Miles\nSubject: Update Your Payment Card\n\nDear Mr. Miles,\n\nThe credit card on your StreamBox account expires at the end of this month. To keep watching without a break, please update your card details in Settings before June 30.\n\nIf the card is not updated, your account will be paused — your watch list and settings will be saved for 90 days.\n\nStreamBox Support",
+   "questions": [
+    {
+     "q": "Why was the email sent?",
+     "type": "주제·목적",
+     "choices": [
+      "A payment card is about to expire",
+      "A password was changed",
+      "A new show is available",
+      "An account was hacked"
+     ],
+     "a": 0,
+     "exKo": "등록된 카드가 이달 말 만료되어 갱신을 요청하는 메일입니다.",
+     "why": [
+      "카드 만료 임박을 알리고 갱신을 요청하는 메일",
+      "비밀번호 변경은 지문에 언급 없음",
+      "신작 공개 안내는 지문에 없음",
+      "계정 해킹은 지문에 언급 없음"
+     ],
+     "ev": "The credit card on your StreamBox account expires at the end of this month."
+    },
+    {
+     "q": "What happens if the card is not updated?",
+     "type": "세부사항",
+     "choices": [
+      "The account will be paused",
+      "The account is deleted",
+      "A fee is charged",
+      "Nothing changes"
+     ],
+     "a": 0,
+     "exKo": "your account will be paused라고 안내합니다.",
+     "why": [
+      "카드 미갱신 시 계정이 일시 정지된다고 명시",
+      "삭제가 아니라 일시 정지이며 정보는 보관됨",
+      "추가 요금 부과는 지문에 언급 없음",
+      "아무 변화 없다는 것은 지문과 반대"
+     ],
+     "ev": "If the card is not updated, your account will be paused"
+    },
+    {
+     "q": "How long will settings be saved?",
+     "type": "세부사항",
+     "choices": [
+      "90 days",
+      "30 days",
+      "One year",
+      "Forever"
+     ],
+     "a": 0,
+     "exKo": "saved for 90 days에서 확인됩니다.",
+     "why": [
+      "시청 목록과 설정이 90일간 보관된다고 명시",
+      "30일이라는 기간은 지문에 없음",
+      "1년 보관은 지문에 언급 없음",
+      "영구 보관은 90일 명시와 반대"
+     ],
+     "ev": "your watch list and settings will be saved for 90 days"
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "로비 리모델링 공사 공지",
+   "passage": "LOBBY RENOVATION\n\nThe main lobby will be renovated from July 7 to July 25. During this time, please enter the building through the east door, next to the cafe.\n\nThe front desk will move to the east hallway. Deliveries will also be received there. The new lobby will have more seating and a digital directory. We appreciate your patience.\n\nBuilding Management",
+   "questions": [
+    {
+     "q": "What is happening from July 7 to 25?",
+     "type": "주제·목적",
+     "choices": [
+      "The lobby is being renovated",
+      "The cafe is closing",
+      "The east door is being repaired",
+      "A new desk is being built"
+     ],
+     "a": 0,
+     "exKo": "로비 리모델링 공사 기간과 이용 안내를 담은 공지입니다.",
+     "why": [
+      "'will be renovated from July 7 to July 25'가 공사 기간을 명시",
+      "카페는 동쪽 문 위치 설명일 뿐 폐점 언급 없음",
+      "동쪽 문은 출입 경로일 뿐 수리 언급 없음",
+      "안내 데스크는 이동한다고만 했고 신설 언급 없음"
+     ],
+     "ev": "The main lobby will be renovated from July 7 to July 25."
+    },
+    {
+     "q": "How should people enter the building?",
+     "type": "세부사항",
+     "choices": [
+      "Through the east door",
+      "Through the main lobby",
+      "Through the garage",
+      "Through the cafe"
+     ],
+     "a": 0,
+     "exKo": "enter the building through the east door라고 안내합니다.",
+     "why": [
+      "'enter the building through the east door'가 직접 근거",
+      "메인 로비는 공사 중이므로 지문과 반대",
+      "주차장 출입에 대한 언급이 지문에 없음",
+      "카페는 동쪽 문 위치 설명일 뿐, 단어 반복 함정"
+     ],
+     "ev": "please enter the building through the east door, next to the cafe."
+    },
+    {
+     "q": "What will the new lobby have?",
+     "type": "세부사항",
+     "choices": [
+      "More seating and a digital directory",
+      "A bigger cafe",
+      "A new elevator",
+      "A delivery center"
+     ],
+     "a": 0,
+     "exKo": "more seating and a digital directory에서 확인됩니다.",
+     "why": [
+      "'more seating and a digital directory'가 그대로 대응",
+      "카페 확장에 대한 언급이 지문에 없음",
+      "새 엘리베이터 설치는 지문에 언급 없음",
+      "배송은 동쪽 복도에서 받는다고만 함, 센터 아님"
+     ],
+     "ev": "The new lobby will have more seating and a digital directory."
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "명절 배송 마감 공지",
+   "passage": "HOLIDAY SHIPPING DEADLINES\n\nTo receive packages before the holiday, please note our shipping deadlines: standard shipping orders by December 15, express orders by December 20.\n\nOrders placed after these dates will arrive after the holiday. Our customer center closes December 24 and 25 and reopens December 26 with normal hours.\n\nGiftly Shipping Team",
+   "questions": [
+    {
+     "q": "What is the notice about?",
+     "type": "주제·목적",
+     "choices": [
+      "Holiday shipping deadlines",
+      "A holiday sale",
+      "New shipping prices",
+      "A closed warehouse"
+     ],
+     "a": 0,
+     "exKo": "명절 전 배송을 위한 주문 마감일 안내입니다.",
+     "why": [
+      "명절 전 배송을 위한 주문 마감일 안내가 목적",
+      "할인 행사에 대한 언급이 지문에 없음",
+      "배송 요금 변경은 지문에 언급 없음",
+      "고객센터 휴무일 뿐 창고 폐쇄 언급 없음"
+     ],
+     "ev": "To receive packages before the holiday, please note our shipping deadlines"
+    },
+    {
+     "q": "By when should express orders be placed?",
+     "type": "세부사항",
+     "choices": [
+      "December 20",
+      "December 15",
+      "December 24",
+      "December 26"
+     ],
+     "a": 0,
+     "exKo": "express orders by December 20라고 명시합니다.",
+     "why": [
+      "'express orders by December 20'이 직접 근거",
+      "12월 15일은 일반 배송 마감일, 특급이 아님",
+      "12월 24일은 고객센터 휴무 시작일",
+      "12월 26일은 고객센터 업무 재개일"
+     ],
+     "ev": "express orders by December 20"
+    },
+    {
+     "q": "When does the customer center reopen?",
+     "type": "세부사항",
+     "choices": [
+      "December 26",
+      "December 24",
+      "January 2",
+      "December 25"
+     ],
+     "a": 0,
+     "exKo": "reopens December 26 with normal hours에서 확인됩니다.",
+     "why": [
+      "'reopens December 26'이 재개 날짜를 명시",
+      "12월 24일은 휴무 시작일이라 지문과 반대",
+      "1월 2일은 지문에 전혀 언급 없음",
+      "12월 25일 역시 휴무일이므로 오답"
+     ],
+     "ev": "reopens December 26 with normal hours"
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "공유 오피스 첫 달 할인 광고",
+   "passage": "WORKNEST — YOUR DESK IS WAITING\n\nTired of noisy cafes? WorkNest offers quiet desks, fast internet, and free meeting rooms in the heart of downtown.\n\nPlans start at $99 a month, and your first month is half price. Members get 24-hour access and free coffee. Book a free day pass on our website and try us out this week!",
+   "questions": [
+    {
+     "q": "What is WorkNest?",
+     "type": "주제·목적",
+     "choices": [
+      "A shared office space",
+      "A cafe",
+      "An internet company",
+      "A furniture store"
+     ],
+     "a": 0,
+     "exKo": "도심의 공유 오피스를 홍보하는 광고입니다.",
+     "why": [
+      "책상·인터넷·회의실 제공은 공유 오피스를 뜻함",
+      "카페는 비교 대상일 뿐, 단어 반복 함정",
+      "빠른 인터넷은 시설 중 하나일 뿐 통신사 아님",
+      "가구 판매에 대한 언급이 지문에 없음"
+     ],
+     "ev": "WorkNest offers quiet desks, fast internet, and free meeting rooms in the heart of downtown."
+    },
+    {
+     "q": "What discount do new members get?",
+     "type": "세부사항",
+     "choices": [
+      "Half price for the first month",
+      "$99 off",
+      "Free first year",
+      "Free upgrades"
+     ],
+     "a": 0,
+     "exKo": "your first month is half price라고 안내합니다.",
+     "why": [
+      "'your first month is half price'가 직접 근거",
+      "99달러는 할인액이 아니라 월 요금 시작가",
+      "1년 무료 제공은 지문에 언급 없음",
+      "업그레이드 무료 제공은 지문에 언급 없음"
+     ],
+     "ev": "your first month is half price"
+    },
+    {
+     "q": "How can people try WorkNest?",
+     "type": "세부사항",
+     "choices": [
+      "Book a free day pass online",
+      "Call for a tour",
+      "Visit without booking",
+      "Email the manager"
+     ],
+     "a": 0,
+     "exKo": "Book a free day pass on our website에서 확인됩니다.",
+     "why": [
+      "'Book a free day pass on our website'가 근거",
+      "전화로 견학 예약하라는 언급은 지문에 없음",
+      "예약 없이 방문하라는 내용은 지문과 반대",
+      "이메일 문의 방법은 지문에 언급 없음"
+     ],
+     "ev": "Book a free day pass on our website and try us out this week!"
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "어학원 점심시간 회화반 광고",
+   "passage": "LUNCHTIME ENGLISH AT TALK POINT ACADEMY\n\nToo busy for evening classes? Join our 40-minute lunchtime conversation classes, made for office workers.\n\nClasses meet Monday, Wednesday, and Friday at 12:10, right next to Central Plaza. Groups are small — six students at most. The first class is free. Monthly fee: $80. Bring your lunch; coffee is on us!",
+   "questions": [
+    {
+     "q": "Who are the classes designed for?",
+     "type": "주제·목적",
+     "choices": [
+      "Office workers",
+      "Students",
+      "Teachers",
+      "Travelers"
+     ],
+     "a": 0,
+     "exKo": "직장인을 위한 점심시간 영어 회화반 광고입니다.",
+     "why": [
+      "'made for office workers'가 대상을 직접 명시",
+      "학생 대상이라는 언급은 지문에 없음",
+      "교사 대상이라는 언급은 지문에 없음",
+      "여행자 대상이라는 언급은 지문에 없음"
+     ],
+     "ev": "Join our 40-minute lunchtime conversation classes, made for office workers."
+    },
+    {
+     "q": "How large are the classes?",
+     "type": "세부사항",
+     "choices": [
+      "Six students at most",
+      "Ten students",
+      "Twenty students",
+      "Any size"
+     ],
+     "a": 0,
+     "exKo": "six students at most라고 명시합니다.",
+     "why": [
+      "'six students at most'가 최대 인원을 명시",
+      "10명이라는 숫자는 지문에 언급 없음",
+      "20명이라는 숫자는 지문에 언급 없음",
+      "소규모로 인원을 제한하므로 지문과 반대"
+     ],
+     "ev": "Groups are small — six students at most."
+    },
+    {
+     "q": "What does the academy provide?",
+     "type": "세부사항",
+     "choices": [
+      "Coffee",
+      "Lunch",
+      "Textbooks",
+      "Parking"
+     ],
+     "a": 0,
+     "exKo": "Bring your lunch; coffee is on us에서 커피를 제공함을 알 수 있습니다.",
+     "why": [
+      "'coffee is on us'가 커피 무료 제공을 뜻함",
+      "점심은 각자 가져오라 했으므로 지문과 반대",
+      "교재 제공에 대한 언급이 지문에 없음",
+      "주차 제공에 대한 언급이 지문에 없음"
+     ],
+     "ev": "Bring your lunch; coffee is on us!"
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "구시가지 벽화 거리 기사",
+   "passage": "OLDPORT — Ten empty walls in the old market district now display large murals painted by local artists. The city paid for paint, and shop owners offered their walls.\n\nSince the murals appeared, weekend visitors to the district have increased by about 30 percent, according to the merchants association. Guided mural walks start next month, leaving from the clock tower every Saturday at 2 p.m.",
+   "questions": [
+    {
+     "q": "What is the article about?",
+     "type": "주제·목적",
+     "choices": [
+      "Murals bringing visitors to a district",
+      "A paint factory",
+      "A clock tower repair",
+      "An artist moving away"
+     ],
+     "a": 0,
+     "exKo": "구시가지 벽화가 방문객을 늘리고 있다는 기사입니다.",
+     "why": [
+      "구시장 지역 벽화와 그로 인한 방문객 증가가 주제",
+      "시가 페인트 값을 냈을 뿐 공장 언급 없음",
+      "시계탑은 투어 출발점일 뿐 수리 언급 없음",
+      "예술가가 떠났다는 언급은 지문에 없음"
+     ],
+     "ev": "Ten empty walls in the old market district now display large murals painted by local artists."
+    },
+    {
+     "q": "How much did weekend visitors increase?",
+     "type": "세부사항",
+     "choices": [
+      "About 30 percent",
+      "About 10 percent",
+      "They doubled",
+      "About 3 percent"
+     ],
+     "a": 0,
+     "exKo": "increased by about 30 percent라고 명시합니다.",
+     "why": [
+      "'increased by about 30 percent'가 직접 근거",
+      "10퍼센트라는 수치는 지문에 언급 없음",
+      "두 배 증가는 지문 수치를 넘는 과도한 확대",
+      "3퍼센트는 30퍼센트를 잘못 읽은 숫자 함정"
+     ],
+     "ev": "weekend visitors to the district have increased by about 30 percent"
+    },
+    {
+     "q": "What starts next month?",
+     "type": "세부사항",
+     "choices": [
+      "Guided mural walks",
+      "A painting contest",
+      "A new market",
+      "Night tours"
+     ],
+     "a": 0,
+     "exKo": "Guided mural walks start next month에서 확인됩니다.",
+     "why": [
+      "'Guided mural walks start next month'가 직접 근거",
+      "그림 대회 개최는 지문에 언급 없음",
+      "구시장 지역은 배경일 뿐 새 시장 언급 없음",
+      "투어는 토요일 오후 2시라 야간 투어와 반대"
+     ],
+     "ev": "Guided mural walks start next month, leaving from the clock tower every Saturday at 2 p.m."
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "중소기업 4일 근무 실험 기사",
+   "passage": "GRANTON — Design firm Blue Arrow has tested a four-day workweek for six months. Employees work Monday through Thursday, with the same pay as before.\n\nThe firm says projects were finished on time and sick days dropped by half. Customers noticed no difference in service. Blue Arrow will keep the schedule for another year and share results with other local businesses.",
+   "questions": [
+    {
+     "q": "What did Blue Arrow test?",
+     "type": "주제·목적",
+     "choices": [
+      "A four-day workweek",
+      "A new design tool",
+      "Lower salaries",
+      "Weekend service"
+     ],
+     "a": 0,
+     "exKo": "디자인 회사의 주 4일 근무 실험에 관한 기사입니다.",
+     "why": [
+      "'has tested a four-day workweek'가 그대로 대응",
+      "새 디자인 도구 시험은 지문에 언급 없음",
+      "임금은 이전과 같다고 했으므로 지문과 반대",
+      "월요일부터 목요일 근무라 주말 서비스와 무관"
+     ],
+     "ev": "Design firm Blue Arrow has tested a four-day workweek for six months."
+    },
+    {
+     "q": "What happened to sick days?",
+     "type": "세부사항",
+     "choices": [
+      "They dropped by half",
+      "They doubled",
+      "They stayed the same",
+      "They were canceled"
+     ],
+     "a": 0,
+     "exKo": "sick days dropped by half라고 명시합니다.",
+     "why": [
+      "'sick days dropped by half'가 절반 감소를 명시",
+      "두 배로 늘었다는 것은 지문과 정반대",
+      "변화가 없었던 것은 고객이 느낀 서비스 품질",
+      "병가 제도 폐지는 지문에 언급 없음"
+     ],
+     "ev": "sick days dropped by half"
+    },
+    {
+     "q": "What will the firm do next?",
+     "type": "세부사항",
+     "choices": [
+      "Keep the schedule for another year",
+      "Return to five days",
+      "Close on Mondays",
+      "Raise its prices"
+     ],
+     "a": 0,
+     "exKo": "keep the schedule for another year에서 확인됩니다.",
+     "why": [
+      "'keep the schedule for another year'가 향후 계획",
+      "주 5일 복귀는 지문 내용과 정반대",
+      "쉬는 날은 금요일이므로 월요일 휴무는 틀림",
+      "가격 인상에 대한 언급이 지문에 없음"
+     ],
+     "ev": "Blue Arrow will keep the schedule for another year and share results with other local businesses."
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "택시 합승 제안 문자",
+   "passage": "Fiona Cole (6:05 P.M.)\nHey Raj, are you going to the airport conference hotel tomorrow morning?\n\nRaj Mehta (6:07 P.M.)\nYes, my flight briefing is at 10.\n\nFiona Cole (6:08 P.M.)\nWant to share a taxi? We could split the $40 fare.\n\nRaj Mehta (6:09 P.M.)\nGood idea. Pick me up at my apartment at 8? It's on the way.\n\nFiona Cole (6:10 P.M.)\nPerfect. I'll book the taxi for 7:50 and text you when we're close.",
+   "questions": [
+    {
+     "q": "What does Ms. Cole suggest?",
+     "type": "주제·목적",
+     "choices": [
+      "Sharing a taxi",
+      "Changing hotels",
+      "Canceling a trip",
+      "Taking a bus"
+     ],
+     "a": 0,
+     "exKo": "택시를 같이 타고 요금을 나누자고 제안합니다.",
+     "why": [
+      "'Want to share a taxi'가 제안 내용 그 자체",
+      "호텔을 바꾸자는 언급은 지문에 없음",
+      "출장이나 일정 취소 언급은 지문에 없음",
+      "버스 이용에 대한 언급이 지문에 없음"
+     ],
+     "ev": "Want to share a taxi? We could split the $40 fare."
+    },
+    {
+     "q": "How much is the full fare?",
+     "type": "세부사항",
+     "choices": [
+      "$40",
+      "$20",
+      "$8",
+      "$50"
+     ],
+     "a": 0,
+     "exKo": "split the $40 fare에서 확인됩니다.",
+     "why": [
+      "'split the $40 fare'에서 전체 요금이 40달러",
+      "20달러는 나눠 낼 금액일 뿐 지문에 없음",
+      "8은 픽업 시각 8시를 가리키는 숫자 함정",
+      "50달러라는 금액은 지문에 언급 없음"
+     ],
+     "ev": "We could split the $40 fare."
+    },
+    {
+     "q": "What will Ms. Cole do?",
+     "type": "세부사항",
+     "choices": [
+      "Book the taxi and text when close",
+      "Drive her own car",
+      "Meet at the hotel",
+      "Pay the whole fare"
+     ],
+     "a": 0,
+     "exKo": "I'll book the taxi for 7:50 and text you when we're close라고 말합니다.",
+     "why": [
+      "'book the taxi for 7:50 and text you'가 그대로 대응",
+      "자기 차를 운전한다는 언급은 지문에 없음",
+      "호텔이 아니라 Raj의 아파트에서 태우기로 함",
+      "요금을 나누기로 했으므로 전액 부담은 반대"
+     ],
+     "ev": "I'll book the taxi for 7:50 and text you when we're close."
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "사무실 열쇠 전달 문자",
+   "passage": "Martin Hale (7:45 A.M.)\nMorning, Judy. I'm at the office but my key card is at home. Are you nearby?\n\nJudy Chen (7:47 A.M.)\nI'm 10 minutes away. Hang on!\n\nMartin Hale (7:48 A.M.)\nThanks. The cleaning crew let me into the lobby, but our floor is locked.\n\nJudy Chen (7:49 A.M.)\nNo worries. By the way, security can issue a one-day pass at the desk — for next time!\n\nMartin Hale (7:50 A.M.)\nGood to know. Coffee's on me today.",
+   "questions": [
+    {
+     "q": "What is Mr. Hale's problem?",
+     "type": "주제·목적",
+     "choices": [
+      "He left his key card at home",
+      "He lost his coffee",
+      "He is late for work",
+      "The lobby is locked"
+     ],
+     "a": 0,
+     "exKo": "카드 키를 집에 두고 와서 사무실 층에 들어가지 못하고 있습니다.",
+     "why": [
+      "'my key card is at home'이 문제 상황을 명시",
+      "커피는 고마움의 표시일 뿐, 단어 반복 함정",
+      "지각 여부에 대한 언급은 지문에 없음",
+      "로비는 이미 들어갔고 잠긴 곳은 사무실 층"
+     ],
+     "ev": "I'm at the office but my key card is at home."
+    },
+    {
+     "q": "Who let Mr. Hale into the lobby?",
+     "type": "세부사항",
+     "choices": [
+      "The cleaning crew",
+      "Judy",
+      "Security",
+      "A coworker"
+     ],
+     "a": 0,
+     "exKo": "The cleaning crew let me into the lobby에서 확인됩니다.",
+     "why": [
+      "'The cleaning crew let me into the lobby'가 직접 근거",
+      "Judy는 10분 거리에 있어 아직 도착 전",
+      "보안팀은 일일 출입증 관련 다른 문항의 정답",
+      "동료가 열어 주었다는 언급은 지문에 없음"
+     ],
+     "ev": "The cleaning crew let me into the lobby, but our floor is locked."
+    },
+    {
+     "q": "What does Ms. Chen suggest for next time?",
+     "type": "세부사항",
+     "choices": [
+      "Getting a one-day pass from security",
+      "Keeping a spare key",
+      "Calling her earlier",
+      "Waiting for the crew"
+     ],
+     "a": 0,
+     "exKo": "security can issue a one-day pass at the desk라고 알려 줍니다.",
+     "why": [
+      "'security can issue a one-day pass'가 제안 내용",
+      "여분 열쇠를 두라는 언급은 지문에 없음",
+      "더 일찍 연락하라는 조언은 지문에 없음",
+      "청소반을 기다리라는 제안은 지문에 없음"
+     ],
+     "ev": "security can issue a one-day pass at the desk — for next time!"
+    }
+   ]
+  }
+ ]
+}

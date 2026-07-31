@@ -1,0 +1,324 @@
+{
+ "passages": [
+  {
+   "kind": "이메일",
+   "title": "출장 일정 확정 메일",
+   "passage": "From: Daniel Wu, Travel Coordinator\nTo: Amelia Park\nSubject: Your trip to the Chicago trade show\n\nDear Ms. Park,\n\nYour travel arrangements for the National Retail Trade Show have been finalized. You will depart on Flight KA204 on Monday, October 7, at 8:15 a.m. and return on Thursday, October 10.\n\nI have booked three nights at the Lakeview Hotel, which is within walking distance of the convention center. Breakfast is included, and other meals can be claimed on your expense report with receipts.\n\nPlease note that the company credit card should be used for transportation only. If you have any questions, feel free to contact me at extension 402.\n\nBest regards,\nDaniel Wu",
+   "questions": [
+    {
+     "q": "Why was the email sent?",
+     "type": "주제·목적",
+     "choices": [
+      "To confirm travel arrangements",
+      "To request a expense report",
+      "To cancel a hotel booking",
+      "To advertise a trade show"
+     ],
+     "a": 0,
+     "exKo": "Your travel arrangements ... have been finalized라는 첫 문장에서 출장 준비가 확정되었음을 알리는 메일임을 알 수 있습니다.",
+     "why": [
+      "'have been finalized'가 출장 준비 확정 통보임",
+      "경비 보고서는 식사 정산 안내일 뿐 요청이 아님",
+      "호텔 3박을 예약했으므로 취소는 지문과 반대",
+      "박람회 홍보가 아니라 개인 출장 안내 메일"
+     ],
+     "ev": "Your travel arrangements for the National Retail Trade Show have been finalized."
+    },
+    {
+     "q": "What is indicated about the Lakeview Hotel?",
+     "type": "세부사항",
+     "choices": [
+      "It is near the convention center",
+      "It offers free dinner",
+      "It is far from the airport",
+      "It has a fitness center"
+     ],
+     "a": 0,
+     "exKo": "within walking distance of the convention center에서 컨벤션 센터와 가까움을 알 수 있습니다.",
+     "why": [
+      "'within walking distance'가 도보 거리임을 뜻함",
+      "무료 제공은 조식이며 저녁은 영수증 정산 대상",
+      "공항과의 거리는 지문에 언급되지 않음",
+      "피트니스 센터에 대한 언급은 지문에 없음"
+     ],
+     "ev": "I have booked three nights at the Lakeview Hotel, which is within walking distance of the convention center."
+    },
+    {
+     "q": "What can Ms. Park use the company credit card for?",
+     "type": "세부사항",
+     "choices": [
+      "Transportation",
+      "Meals",
+      "Souvenirs",
+      "Hotel upgrades"
+     ],
+     "a": 0,
+     "exKo": "the company credit card should be used for transportation only에서 교통비 전용임을 확인할 수 있습니다.",
+     "why": [
+      "'for transportation only'가 교통비 전용임을 명시",
+      "식사는 영수증과 함께 경비로 청구해야 함",
+      "기념품 구입에 대한 언급은 지문에 없음",
+      "호텔 업그레이드에 대한 언급은 지문에 없음"
+     ],
+     "ev": "the company credit card should be used for transportation only"
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "주차장 정책 변경 공지",
+   "passage": "IMPORTANT PARKING UPDATE\n\nEffective November 1, all employees who wish to park in the company garage must register their vehicles with the Facilities Department. Registered vehicles will receive a new electronic pass, which replaces the current paper permits.\n\nTo register, complete the online form on the company intranet by October 25. Passes will be distributed through department managers during the last week of October.\n\nVehicles without an electronic pass will not be able to enter the garage starting November 1. Visitor parking on Level 1 remains unchanged.\n\nFacilities Department",
+   "questions": [
+    {
+     "q": "What is the main purpose of the notice?",
+     "type": "주제·목적",
+     "choices": [
+      "To explain a new parking registration system",
+      "To announce garage repairs",
+      "To increase parking fees",
+      "To close the company garage"
+     ],
+     "a": 0,
+     "exKo": "차량을 등록해 전자 패스를 받아야 한다는 새로운 절차를 안내하는 공지입니다.",
+     "why": [
+      "차량 등록 의무와 전자 패스 발급 절차를 안내함",
+      "차고 수리 공사에 대한 언급은 지문에 없음",
+      "주차 요금 인상에 대한 언급은 지문에 없음",
+      "패스가 있으면 이용 가능하므로 폐쇄는 지문과 반대"
+     ],
+     "ev": "all employees who wish to park in the company garage must register their vehicles with the Facilities Department"
+    },
+    {
+     "q": "What should employees do by October 25?",
+     "type": "세부사항",
+     "choices": [
+      "Complete an online form",
+      "Pick up a paper permit",
+      "Contact their manager",
+      "Move their vehicles to Level 1"
+     ],
+     "a": 0,
+     "exKo": "complete the online form on the company intranet by October 25에서 확인할 수 있습니다.",
+     "why": [
+      "'complete the online form'과 마감일 10월 25일이 일치",
+      "종이 허가증은 대체되는 대상이라 지문과 반대",
+      "관리자는 패스 배부만 담당하며 연락 지시 없음",
+      "1층은 방문객 주차 구역이며 이동 지시 없음"
+     ],
+     "ev": "complete the online form on the company intranet by October 25"
+    },
+    {
+     "q": "What is suggested about visitor parking?",
+     "type": "추론",
+     "choices": [
+      "It will not be affected by the change",
+      "It will require an electronic pass",
+      "It will move to a different level",
+      "It will be discontinued"
+     ],
+     "a": 0,
+     "exKo": "Visitor parking on Level 1 remains unchanged에서 방문객 주차는 이번 변경의 영향을 받지 않음을 알 수 있습니다.",
+     "why": [
+      "'remains unchanged'가 변경 영향 없음을 뜻함",
+      "전자 패스는 직원 차량 대상이므로 지문과 반대",
+      "1층 그대로 유지되므로 층 이동은 지문과 반대",
+      "방문객 주차 중단에 대한 언급은 지문에 없음"
+     ],
+     "ev": "Visitor parking on Level 1 remains unchanged."
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "고객 방문 준비 채팅",
+   "passage": "Grace Chen (10:12): Jae, the Horizon Media team just moved their visit up to 2 o'clock today. Can we get the meeting room ready in time?\nJae Yoon (10:13): That's three hours earlier than planned! The room is being used for training until 1.\nGrace Chen (10:14): I know. Could you ask IT to set up the video equipment during the lunch break instead?\nJae Yoon (10:15): Good idea. I'll also move the catering order up. Sandwiches instead of a full lunch, probably.\nGrace Chen (10:16): Perfect. I'll print the proposal copies myself. Let's meet at the room at 1:30 for a final check.\nJae Yoon (10:17): See you there.",
+   "questions": [
+    {
+     "q": "At 10:13, what does Mr. Yoon imply when he writes, \"That's three hours earlier than planned!\"?",
+     "type": "추론",
+     "choices": [
+      "The schedule change may be difficult to manage",
+      "The clients arrived at the wrong time",
+      "The training was canceled",
+      "The meeting room is already prepared"
+     ],
+     "a": 0,
+     "exKo": "방이 1시까지 교육에 사용 중이라는 말이 이어지는 것으로 보아, 앞당겨진 일정에 대한 부담을 나타낸 표현임을 추론할 수 있습니다.",
+     "why": [
+      "1시까지 교육 사용이라 준비 시간이 촉박함을 뜻함",
+      "일정이 앞당겨진 것이며 고객은 아직 오지 않음",
+      "교육은 1시까지 예정대로 진행되므로 지문과 반대",
+      "지금부터 준비해야 하므로 준비 완료는 반대"
+     ],
+     "ev": "The room is being used for training until 1."
+    },
+    {
+     "q": "What will Ms. Chen do before the meeting?",
+     "type": "세부사항",
+     "choices": [
+      "Print copies of the proposal",
+      "Order the catering",
+      "Set up the video equipment",
+      "Lead the training session"
+     ],
+     "a": 0,
+     "exKo": "I'll print the proposal copies myself에서 그녀가 제안서 인쇄를 맡았음을 알 수 있습니다.",
+     "why": [
+      "'print the proposal copies myself'가 그녀의 몫",
+      "케이터링 주문 변경은 Yoon이 맡기로 함",
+      "영상 장비 설치는 IT에 요청할 사항임",
+      "교육 진행은 두 사람의 업무로 언급되지 않음"
+     ],
+     "ev": "I'll print the proposal copies myself."
+    },
+    {
+     "q": "When will the two writers meet?",
+     "type": "세부사항",
+     "choices": [
+      "At 1:30",
+      "At 2:00",
+      "At noon",
+      "At 10:15"
+     ],
+     "a": 0,
+     "exKo": "Let's meet at the room at 1:30 for a final check에서 1시 30분에 만나기로 했음을 확인할 수 있습니다.",
+     "why": [
+      "'meet at the room at 1:30'이 만날 시각을 명시",
+      "2시는 고객 방문 시각이라 다른 문항의 정답",
+      "정오에 만난다는 언급은 지문에 없음",
+      "10:15는 메시지를 보낸 시각일 뿐임"
+     ],
+     "ev": "Let's meet at the room at 1:30 for a final check."
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "지역 서점의 온라인 확장 기사",
+   "passage": "RIVERTON DAILY - Business Section\n\nPage & Co., a family-owned bookstore that has served Riverton for over thirty years, announced Tuesday that it will launch an online store next month.\n\nOwner Marcus Page said the decision came after loyal customers repeatedly asked for home delivery during the winter season. \"Our regulars kept telling us they wanted our recommendations without leaving home,\" he explained.\n\nThe online store will offer the shop's full inventory as well as staff-written reviews. Same-day delivery will be available within the city limits for orders placed before noon. Analysts note that small bookstores that added online services last year saw sales increase by an average of 18 percent.",
+   "questions": [
+    {
+     "q": "What is the article mainly about?",
+     "type": "주제·목적",
+     "choices": [
+      "A bookstore expanding its services online",
+      "A bookstore closing after thirty years",
+      "A new delivery company in Riverton",
+      "A rise in book prices"
+     ],
+     "a": 0,
+     "exKo": "30년 된 서점이 온라인 스토어를 연다는 발표가 기사의 중심 내용입니다.",
+     "why": [
+      "'will launch an online store'가 기사 핵심 내용",
+      "30년 영업은 맞지만 폐업이 아니라 사업 확장",
+      "당일 배송은 서점 서비스이며 배송 회사 아님",
+      "책값 인상에 대한 언급은 지문에 없음"
+     ],
+     "ev": "Page & Co., a family-owned bookstore that has served Riverton for over thirty years, announced Tuesday that it will launch an online store next month."
+    },
+    {
+     "q": "According to Mr. Page, why did the store decide to go online?",
+     "type": "세부사항",
+     "choices": [
+      "Customers requested home delivery",
+      "Competitors lowered their prices",
+      "The physical store was too small",
+      "The city offered financial support"
+     ],
+     "a": 0,
+     "exKo": "loyal customers repeatedly asked for home delivery 부분에서 단골손님들의 요청이 이유였음을 알 수 있습니다.",
+     "why": [
+      "'asked for home delivery'가 온라인 진출 이유임",
+      "경쟁사 가격 인하에 대한 언급은 지문에 없음",
+      "매장이 좁다는 언급은 지문에 나오지 않음",
+      "시의 재정 지원에 대한 언급은 지문에 없음"
+     ],
+     "ev": "loyal customers repeatedly asked for home delivery during the winter season"
+    },
+    {
+     "q": "What condition applies to same-day delivery?",
+     "type": "세부사항",
+     "choices": [
+      "Orders must be placed before noon",
+      "Orders must exceed fifty dollars",
+      "Customers must be members",
+      "Books must be in stock at the warehouse"
+     ],
+     "a": 0,
+     "exKo": "for orders placed before noon에서 정오 이전 주문이라는 조건을 확인할 수 있습니다.",
+     "why": [
+      "'orders placed before noon'이 당일 배송 조건임",
+      "최소 주문 금액 조건은 지문에 언급되지 않음",
+      "회원 가입 요건에 대한 언급은 지문에 없음",
+      "창고 재고 조건은 지문에 언급되지 않음"
+     ],
+     "ev": "Same-day delivery will be available within the city limits for orders placed before noon."
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "사무 공간 임대 광고",
+   "passage": "OFFICE SPACE AVAILABLE - HARBOR POINT TOWER\n\nModern office suites are now available for lease on the 8th and 9th floors of Harbor Point Tower, located in the heart of the financial district.\n\n- Suites from 90 to 400 square meters\n- High-speed internet and 24-hour security included\n- Two underground parking spaces per suite\n- Flexible lease terms starting at one year\n\nTenants who sign a three-year lease by December 31 will receive the first two months rent-free. To arrange a viewing, contact Hana Realty at 555-0177.",
+   "questions": [
+    {
+     "q": "What is included with each suite?",
+     "type": "세부사항",
+     "choices": [
+      "Two parking spaces",
+      "Free furniture",
+      "A private elevator",
+      "Cleaning services"
+     ],
+     "a": 0,
+     "exKo": "Two underground parking spaces per suite에서 스위트당 지하 주차 2면이 포함됨을 알 수 있습니다.",
+     "why": [
+      "'Two underground parking spaces per suite'가 일치",
+      "무료 가구 제공에 대한 언급은 지문에 없음",
+      "전용 엘리베이터에 대한 언급은 지문에 없음",
+      "청소 서비스에 대한 언급은 지문에 없음"
+     ],
+     "ev": "Two underground parking spaces per suite"
+    },
+    {
+     "q": "How can a tenant receive two months of free rent?",
+     "type": "세부사항",
+     "choices": [
+      "By signing a three-year lease by December 31",
+      "By paying a full year in advance",
+      "By renting both floors",
+      "By referring another tenant"
+     ],
+     "a": 0,
+     "exKo": "sign a three-year lease by December 31 조건을 충족하면 첫 두 달 임대료가 무료입니다.",
+     "why": [
+      "'three-year lease by December 31'이 혜택 조건임",
+      "1년치 선납 조건은 지문에 언급되지 않음",
+      "두 개 층 전체 임차 조건은 언급되지 않음",
+      "다른 임차인 소개 혜택은 지문에 없음"
+     ],
+     "ev": "Tenants who sign a three-year lease by December 31 will receive the first two months rent-free."
+    },
+    {
+     "q": "The word \"terms\" in the advertisement is closest in meaning to",
+     "type": "동의어",
+     "choices": [
+      "conditions",
+      "semesters",
+      "words",
+      "limits"
+     ],
+     "a": 0,
+     "exKo": "lease terms의 terms는 '계약 조건'이라는 뜻이므로 conditions가 가장 가깝습니다.",
+     "why": [
+      "lease terms는 임대 계약 조건이라 conditions가 적절",
+      "학기라는 뜻으로는 임대 계약 문맥에 맞지 않음",
+      "단어라는 사전적 뜻은 이 문맥과 무관함",
+      "기간 제한이 아니라 계약 조건을 가리킴"
+     ],
+     "ev": "Flexible lease terms starting at one year"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,644 @@
+{
+ "passages": [
+  {
+   "kind": "이메일",
+   "title": "신제품 출시 일정 조정 메일",
+   "passage": "From: Product Management\nTo: Launch Working Group\nSubject: Launch Date Moved to October 14\n\nTeam,\n\nAfter reviewing the beta test results, we are moving the launch of the Atlas app from September 23 to October 14. Two issues drove this decision: battery use on older phones remains above our target, and the sign-up flow confused several test users at the payment step.\n\nEngineering will deliver fixes by September 26, followed by a second beta round of two weeks. Marketing should hold all public materials until the new date is confirmed at the October 1 checkpoint; press partners will be notified individually this week.\n\nThe good news: testers rated the core features 4.6 out of 5, and early press interest is stronger than for any previous release. Three extra weeks protect that first impression.\n\nQuestions to the launch channel, please.\n\nDana Wolfe\nHead of Product",
+   "questions": [
+    {
+     "q": "Why was the launch postponed?",
+     "type": "세부사항",
+     "choices": [
+      "Battery use and a confusing sign-up flow",
+      "Weak press interest",
+      "A marketing delay",
+      "Low tester ratings"
+     ],
+     "a": 0,
+     "exKo": "구형 폰 배터리 소모와 결제 단계의 혼란, 두 가지 문제 때문입니다.",
+     "why": [
+      "배터리 소모와 결제 단계 혼란 두 가지가 연기 이유",
+      "언론 관심이 역대 최고라 했으므로 지문과 반대",
+      "마케팅은 자료 보류 대상일 뿐 지연 원인 아님",
+      "핵심 기능 평점이 4.6점이므로 지문과 반대"
+     ],
+     "ev": "Two issues drove this decision: battery use on older phones remains above our target, and the sign-up flow confused several test users at the payment step."
+    },
+    {
+     "q": "What happens after engineering delivers fixes?",
+     "type": "세부사항",
+     "choices": [
+      "A second two-week beta round",
+      "The public launch",
+      "A press conference",
+      "A price announcement"
+     ],
+     "a": 0,
+     "exKo": "수정 후 2주간 2차 베타 테스트를 진행합니다.",
+     "why": [
+      "'a second beta round of two weeks'가 그대로 근거",
+      "출시는 2차 베타와 점검 이후라 순서가 다름",
+      "기자회견 개최는 지문에 언급 없음",
+      "가격 발표는 지문에 언급 없음"
+     ],
+     "ev": "Engineering will deliver fixes by September 26, followed by a second beta round of two weeks."
+    },
+    {
+     "q": "What does Ms. Wolfe imply about the delay?",
+     "type": "추론",
+     "choices": [
+      "It protects the product's first impression",
+      "It will disappoint testers",
+      "It doubles the budget",
+      "It was marketing's fault"
+     ],
+     "a": 0,
+     "exKo": "3주의 여유가 좋은 첫인상을 지켜 준다고 강조합니다.",
+     "why": [
+      "3주 연기가 첫인상을 지켜 준다고 직접 언급",
+      "테스터 평가가 높았을 뿐 실망 언급은 없음",
+      "예산이 두 배가 된다는 언급은 지문에 없음",
+      "원인은 배터리와 가입 흐름이지 마케팅 탓 아님"
+     ],
+     "ev": "Three extra weeks protect that first impression."
+    }
+   ]
+  },
+  {
+   "kind": "이메일",
+   "title": "장기 근속 기념 행사 안내 메일",
+   "passage": "From: Office of the CEO\nTo: All Staff\nSubject: Celebrating 25 Years — Anniversary Week\n\nDear colleagues,\n\nNext month marks 25 years since our company shipped its first order from a rented garage. To celebrate, Anniversary Week runs June 9-13 with events at every site.\n\nHighlights include a history exhibition in each lobby, a Thursday food festival with dishes from the eight countries where we operate, and Friday afternoon off for all staff. Employees who have served 10, 15, and 20 years will be honored at Wednesday's ceremony, which will be streamed live for remote colleagues.\n\nWe are also giving back: for every employee who volunteers at least two hours with our community partners during June, the company will donate $100 to that organization.\n\nThank you for building this company. Details and schedules are on the anniversary intranet page.\n\nMartin Hoyt, CEO",
+   "questions": [
+    {
+     "q": "What happens on Friday of Anniversary Week?",
+     "type": "세부사항",
+     "choices": [
+      "Staff get the afternoon off",
+      "A food festival is held",
+      "A ceremony is streamed",
+      "An exhibition opens"
+     ],
+     "a": 0,
+     "exKo": "금요일 오후는 전 직원 휴무입니다.",
+     "why": [
+      "'Friday afternoon off for all staff'가 그대로 근거",
+      "음식 축제는 목요일이므로 요일이 다름",
+      "기념식 생중계는 수요일 일정",
+      "역사 전시는 각 로비에서 주간 내내 진행"
+     ],
+     "ev": "Friday afternoon off for all staff"
+    },
+    {
+     "q": "Who will be honored at the ceremony?",
+     "type": "세부사항",
+     "choices": [
+      "Employees with 10, 15, and 20 years of service",
+      "Retiring executives",
+      "The founding team",
+      "Community partners"
+     ],
+     "a": 0,
+     "exKo": "근속 10·15·20년 직원이 수요일 기념식에서 표창받습니다.",
+     "why": [
+      "근속 10·15·20년 직원 표창이라고 명시됨",
+      "퇴임 임원 표창은 지문에 언급 없음",
+      "창업 이야기는 나오지만 표창 대상은 아님",
+      "지역 파트너는 기부 대상이지 표창 대상 아님"
+     ],
+     "ev": "Employees who have served 10, 15, and 20 years will be honored at Wednesday's ceremony"
+    },
+    {
+     "q": "How does the company support employee volunteering?",
+     "type": "세부사항",
+     "choices": [
+      "Donating $100 per qualifying volunteer",
+      "Giving paid volunteer days",
+      "Matching donations",
+      "Hosting a charity dinner"
+     ],
+     "a": 0,
+     "exKo": "6월에 2시간 이상 봉사한 직원 1인당 100달러를 해당 단체에 기부합니다.",
+     "why": [
+      "봉사 2시간 이상 직원 1인당 100달러 기부와 일치",
+      "유급 봉사 휴가 제도는 지문에 언급 없음",
+      "직원 기부금 매칭이 아니라 회사가 직접 기부",
+      "자선 만찬 개최는 지문에 언급 없음"
+     ],
+     "ev": "for every employee who volunteers at least two hours with our community partners during June, the company will donate $100 to that organization"
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "전기차 충전소 설치 공지",
+   "passage": "EV CHARGING STATIONS — PARKING LEVEL 2\n\nEight electric vehicle charging points are now operating on parking level 2, near the west elevators. Charging is free for employees during a six-month introduction period; afterward, a per-hour fee comparable to public stations will apply.\n\nTo start charging, scan your employee badge at the unit. Sessions are limited to four hours so that more drivers can charge each day; the unit sends a phone alert 15 minutes before your session ends, and cars left connected after the limit may be moved by security.\n\nSpaces beside the chargers are for actively charging vehicles only. Demand will be reviewed monthly, and four more points will be added if average utilization stays above 80 percent.\n\nFacilities Team",
+   "questions": [
+    {
+     "q": "What happens after the six-month introduction period?",
+     "type": "세부사항",
+     "choices": [
+      "A per-hour fee will apply",
+      "Charging stays free",
+      "The stations close",
+      "Sessions become unlimited"
+     ],
+     "a": 0,
+     "exKo": "이후에는 공공 충전소 수준의 시간당 요금이 부과됩니다.",
+     "why": [
+      "6개월 후 시간당 요금이 부과된다고 명시됨",
+      "무료는 6개월 한정이므로 지문과 반대",
+      "충전소 폐쇄에 대한 언급은 지문에 없음",
+      "4시간 제한은 유지되므로 지문과 반대"
+     ],
+     "ev": "Charging is free for employees during a six-month introduction period; afterward, a per-hour fee comparable to public stations will apply."
+    },
+    {
+     "q": "Why are sessions limited to four hours?",
+     "type": "세부사항",
+     "choices": [
+      "So more drivers can charge daily",
+      "To save electricity",
+      "To protect batteries",
+      "Because of safety rules"
+     ],
+     "a": 0,
+     "exKo": "더 많은 운전자가 매일 충전할 수 있도록 하기 위해서입니다.",
+     "why": [
+      "더 많은 운전자가 매일 충전하도록 하려는 목적",
+      "전기 절약 목적이라는 언급은 지문에 없음",
+      "배터리 보호 목적이라는 근거는 지문에 없음",
+      "안전 규정 때문이라는 근거는 지문에 없음"
+     ],
+     "ev": "Sessions are limited to four hours so that more drivers can charge each day"
+    },
+    {
+     "q": "When will more charging points be added?",
+     "type": "세부사항",
+     "choices": [
+      "If utilization stays above 80 percent",
+      "Next month automatically",
+      "When fees begin",
+      "If security approves"
+     ],
+     "a": 0,
+     "exKo": "평균 이용률이 80%를 넘으면 4기를 추가합니다.",
+     "why": [
+      "평균 이용률 80% 초과가 증설의 조건",
+      "매달 검토할 뿐 자동 증설은 아님",
+      "요금 부과 시점과 증설 조건은 무관",
+      "보안팀은 차량 이동 담당이지 승인 권한 없음"
+     ],
+     "ev": "four more points will be added if average utilization stays above 80 percent"
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "문서 보존 연한 정책 공지",
+   "passage": "DOCUMENT RETENTION SCHEDULE — ANNUAL CLEANUP\n\nThe annual records cleanup runs November 3-14. Please review files in your team's shared drives against the retention schedule:\n\n- Routine correspondence: delete after 2 years\n- Project files: archive 5 years after project close\n- Contracts and financial records: retain 7 years, then transfer to central archive\n- Personnel records: managed by HR only — do not store copies locally\n\nArchived items move to cold storage, retrievable within 24 hours on request. The legal team must approve any deletion involving ongoing disputes; when in doubt, tag the folder 'legal-hold' and it will be excluded automatically.\n\nStorage costs fell 22 percent after last year's cleanup. Team compliance reports go to department heads December 1.\n\nRecords Management Office",
+   "questions": [
+    {
+     "q": "How long are contracts retained before transfer to the archive?",
+     "type": "세부사항",
+     "choices": [
+      "7 years",
+      "2 years",
+      "5 years",
+      "1 year"
+     ],
+     "a": 0,
+     "exKo": "계약서와 재무 기록은 7년 보관 후 중앙 보관소로 이관합니다.",
+     "why": [
+      "계약·재무 기록은 7년 보관 후 이관이라고 명시",
+      "2년은 일상 서신의 삭제 기준",
+      "5년은 프로젝트 파일 보관 기준",
+      "1년 기준은 지문에 언급 없음"
+     ],
+     "ev": "Contracts and financial records: retain 7 years, then transfer to central archive"
+    },
+    {
+     "q": "What should staff do when unsure about deleting disputed files?",
+     "type": "세부사항",
+     "choices": [
+      "Tag the folder 'legal-hold'",
+      "Delete them anyway",
+      "Email HR",
+      "Move them to cold storage"
+     ],
+     "a": 0,
+     "exKo": "'legal-hold' 태그를 붙이면 자동으로 삭제 대상에서 제외됩니다.",
+     "why": [
+      "'legal-hold' 태그를 붙이면 자동 제외된다고 안내",
+      "법무팀 승인이 필요하므로 지문과 반대",
+      "HR은 인사 기록 담당으로 문맥이 다름",
+      "콜드 스토리지는 보관 이관 절차일 뿐"
+     ],
+     "ev": "when in doubt, tag the folder 'legal-hold' and it will be excluded automatically"
+    },
+    {
+     "q": "What was the result of last year's cleanup?",
+     "type": "세부사항",
+     "choices": [
+      "Storage costs fell 22 percent",
+      "All records were archived",
+      "Compliance dropped",
+      "The archive was full"
+     ],
+     "a": 0,
+     "exKo": "작년 정리 후 저장 비용이 22% 감소했습니다.",
+     "why": [
+      "작년 정리 후 저장 비용 22% 감소와 일치",
+      "모든 기록을 보관한 것이 아니라 기준별 처리",
+      "준수율 하락에 대한 언급은 지문에 없음",
+      "보관소가 가득 찼다는 언급은 지문에 없음"
+     ],
+     "ev": "Storage costs fell 22 percent after last year's cleanup."
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "중소기업 사이버 보험 광고",
+   "passage": "SHIELDLINE — CYBER INSURANCE FOR SMALL BUSINESS\n\nOne ransomware attack costs a small business an average of $85,000 — yet most policies were written for factories, not laptops. ShieldLine covers what modern businesses actually face: data breaches, payment fraud, and system downtime.\n\nCoverage includes a 24-hour incident hotline, forensic specialists on site within two days, customer notification costs, and up to 30 days of lost-income protection. Our risk check, included free, scans your public systems and emails you a fix-it list before coverage even starts.\n\nPolicies from $60 a month for businesses under 50 staff. Answer twelve questions online and receive a quote in five minutes — no broker required. Protect your business at shieldline.com.",
+   "questions": [
+    {
+     "q": "What does the ad say about most existing policies?",
+     "type": "세부사항",
+     "choices": [
+      "They were written for factories, not modern businesses",
+      "They are too expensive",
+      "They cover cyber attacks well",
+      "They require brokers"
+     ],
+     "a": 0,
+     "exKo": "기존 보험은 노트북이 아닌 공장 시대에 맞춰 설계되었다고 지적합니다.",
+     "why": [
+      "'written for factories, not laptops'가 그대로 근거",
+      "월 60달러부터라 했을 뿐 비싸다는 지적은 없음",
+      "사이버 위험을 못 다룬다는 취지이므로 반대",
+      "브로커 불필요는 자사 강점이지 기존 보험 설명 아님"
+     ],
+     "ev": "yet most policies were written for factories, not laptops"
+    },
+    {
+     "q": "What does the free risk check do?",
+     "type": "세부사항",
+     "choices": [
+      "Scans public systems and sends a fix-it list",
+      "Trains employees",
+      "Installs antivirus software",
+      "Reviews old policies"
+     ],
+     "a": 0,
+     "exKo": "공개된 시스템을 점검해 개선 목록을 이메일로 보내 줍니다.",
+     "why": [
+      "공개 시스템을 점검해 개선 목록을 메일로 보냄",
+      "직원 교육 제공은 지문에 언급 없음",
+      "백신 설치 서비스는 지문에 언급 없음",
+      "기존 보험 검토 서비스는 지문에 언급 없음"
+     ],
+     "ev": "Our risk check, included free, scans your public systems and emails you a fix-it list before coverage even starts."
+    },
+    {
+     "q": "How can a business get a quote?",
+     "type": "세부사항",
+     "choices": [
+      "Answer twelve questions online",
+      "Call a broker",
+      "Visit an office",
+      "Submit financial records"
+     ],
+     "a": 0,
+     "exKo": "온라인에서 12개 질문에 답하면 5분 내 견적을 받습니다.",
+     "why": [
+      "온라인 12개 질문에 답하면 견적을 받음",
+      "브로커가 필요 없다고 했으므로 지문과 반대",
+      "사무실 방문 절차는 지문에 언급 없음",
+      "재무 자료 제출 요구는 지문에 언급 없음"
+     ],
+     "ev": "Answer twelve questions online and receive a quote in five minutes — no broker required."
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "사무실 이전 전문 업체 광고",
+   "passage": "OFFICEShift — RELOCATION WITHOUT THE DOWNTIME\n\nMoving 200 desks shouldn't mean losing a week of work. OfficeShift specializes in weekend office relocations: your team leaves Friday evening and starts Monday morning at the new address, everything connected and working.\n\nOur crews label, pack, move, and reinstall workstations, meeting rooms, and server equipment — with an IT technician on every truck. We photograph each desk before packing and rebuild it exactly, down to the monitor angle.\n\nMore than 400 office moves completed, with an average business interruption of zero working days. Free site survey and fixed-price quote — no hourly surprises. Book at officeshift.com or call 555-0199.",
+   "questions": [
+    {
+     "q": "What is OfficeShift's specialty?",
+     "type": "주제·목적",
+     "choices": [
+      "Weekend office moves with no lost workdays",
+      "Cheap residential moves",
+      "Furniture sales",
+      "IT consulting"
+     ],
+     "a": 0,
+     "exKo": "금요일 저녁부터 월요일 아침 사이에 끝내는 주말 사무실 이전이 전문입니다.",
+     "why": [
+      "주말 이전으로 월요일 정상 근무가 가능함",
+      "주택 이사나 저가 서비스 언급은 지문에 없음",
+      "가구 판매가 아니라 이전 서비스 업체",
+      "IT 기사가 동승할 뿐 컨설팅 업체는 아님"
+     ],
+     "ev": "OfficeShift specializes in weekend office relocations: your team leaves Friday evening and starts Monday morning at the new address"
+    },
+    {
+     "q": "Why is each desk photographed?",
+     "type": "세부사항",
+     "choices": [
+      "To rebuild it exactly as before",
+      "For insurance claims",
+      "For the company records",
+      "To count equipment"
+     ],
+     "a": 0,
+     "exKo": "모니터 각도까지 원래대로 재설치하기 위해 촬영합니다.",
+     "why": [
+      "모니터 각도까지 그대로 복원하려고 촬영함",
+      "보험 청구 목적이라는 언급은 지문에 없음",
+      "회사 기록용이라는 근거는 지문에 없음",
+      "장비 수량 파악 목적이라는 언급은 없음"
+     ],
+     "ev": "We photograph each desk before packing and rebuild it exactly, down to the monitor angle."
+    },
+    {
+     "q": "What is stated about pricing?",
+     "type": "세부사항",
+     "choices": [
+      "Fixed-price quotes with no hourly surprises",
+      "Hourly billing only",
+      "Prices double on weekends",
+      "Payment after 30 days"
+     ],
+     "a": 0,
+     "exKo": "고정가 견적이라 시간당 추가 요금이 없습니다.",
+     "why": [
+      "'fixed-price quote — no hourly surprises'와 일치",
+      "시간당 추가 요금이 없다고 했으므로 반대",
+      "주말 요금 인상은 지문에 언급 없음",
+      "30일 후 결제 조건은 지문에 언급 없음"
+     ],
+     "ev": "Free site survey and fixed-price quote — no hourly surprises."
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "폐호텔 오피스 전환 기사",
+   "passage": "DORSET CITY — The Grandview Hotel, closed for three years, will reopen in May as a flexible office building with 400 desks, developers announced Tuesday. Hotel rooms were combined in pairs to create private offices, while the ballroom becomes a shared event space.\n\nThe conversion cost roughly half of building new offices of similar size, and kept the 1920s facade that residents campaigned to protect. Pre-leasing has been strong: 70 percent of space is reserved, mostly by firms of two to twenty people leaving home-office setups.\n\nThe ground-floor restaurant will reopen to the public, and the former lobby bar becomes a cafe open to non-tenants. City planners say two more vacant buildings downtown are under study for similar conversions.",
+   "questions": [
+    {
+     "q": "What is happening to the Grandview Hotel?",
+     "type": "주제·목적",
+     "choices": [
+      "It is becoming a flexible office building",
+      "It is being demolished",
+      "It is reopening as a hotel",
+      "It is becoming apartments"
+     ],
+     "a": 0,
+     "exKo": "폐업한 호텔이 400석 규모의 공유 오피스로 전환됩니다.",
+     "why": [
+      "5월에 400석 공유 오피스로 재개장한다고 명시",
+      "1920년대 외관을 보존했으므로 철거와 반대",
+      "호텔이 아니라 오피스로 재개장하므로 반대",
+      "아파트 전환에 대한 언급은 지문에 없음"
+     ],
+     "ev": "The Grandview Hotel, closed for three years, will reopen in May as a flexible office building with 400 desks"
+    },
+    {
+     "q": "What advantage did conversion have over new construction?",
+     "type": "세부사항",
+     "choices": [
+      "It cost roughly half as much",
+      "It finished faster",
+      "It needed no permits",
+      "It added more floors"
+     ],
+     "a": 0,
+     "exKo": "신축 대비 절반 정도의 비용이 들었습니다.",
+     "why": [
+      "비슷한 규모 신축의 약 절반 비용이라고 명시",
+      "공사 기간이 빨랐다는 비교는 지문에 없음",
+      "인허가 면제에 대한 언급은 지문에 없음",
+      "층수를 늘렸다는 언급은 지문에 없음"
+     ],
+     "ev": "The conversion cost roughly half of building new offices of similar size"
+    },
+    {
+     "q": "Who has mostly reserved the space?",
+     "type": "세부사항",
+     "choices": [
+      "Small firms leaving home-office setups",
+      "Large corporations",
+      "Government agencies",
+      "Hotel operators"
+     ],
+     "a": 0,
+     "exKo": "재택 사무실에서 벗어나려는 2~20인 기업이 대부분입니다.",
+     "why": [
+      "2~20인 소규모 기업이 대부분 예약했다고 명시",
+      "대기업 임차에 대한 언급은 지문에 없음",
+      "정부 기관 입주는 지문에 언급 없음",
+      "호텔 운영사는 임차인으로 언급되지 않음"
+     ],
+     "ev": "mostly by firms of two to twenty people leaving home-office setups"
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "직원 추천 채용 확산 기사",
+   "passage": "WORKFORCE REPORT — Employee referral programs now account for a third of new hires at mid-sized companies, up from a fifth five years ago, staffing analysts said this week. Companies pay bonuses of $500 to $3,000 for successful referrals, usually after the new hire completes six months.\n\nThe appeal is practical: referred candidates accept offers more often, start sooner, and stay longer — 18 months longer on average, one study found. Recruiting costs per hire drop as job-board and agency fees shrink.\n\nAnalysts warn of a downside: teams built heavily on referrals can become uniform in background and thinking. Some firms now cap referral hires per department or pair the program with wider outreach to keep candidate pools diverse.",
+   "questions": [
+    {
+     "q": "How have referral programs changed in five years?",
+     "type": "세부사항",
+     "choices": [
+      "They grew from a fifth to a third of hires",
+      "They were mostly canceled",
+      "Bonuses were removed",
+      "They moved to agencies"
+     ],
+     "a": 0,
+     "exKo": "추천 채용 비중이 5분의 1에서 3분의 1로 늘었습니다.",
+     "why": [
+      "5년 전 5분의 1에서 현재 3분의 1로 늘어남",
+      "프로그램 폐지는 언급 없고 오히려 확대됨",
+      "보너스는 계속 지급되므로 지문과 반대",
+      "에이전시 비용은 오히려 줄었으므로 반대"
+     ],
+     "ev": "Employee referral programs now account for a third of new hires at mid-sized companies, up from a fifth five years ago"
+    },
+    {
+     "q": "When are referral bonuses usually paid?",
+     "type": "세부사항",
+     "choices": [
+      "After the new hire completes six months",
+      "On the hire date",
+      "After one year",
+      "Before the interview"
+     ],
+     "a": 0,
+     "exKo": "신입이 6개월 근속을 마친 뒤 지급되는 것이 일반적입니다.",
+     "why": [
+      "'after the new hire completes six months'가 근거",
+      "입사 당일 지급이라는 언급은 지문에 없음",
+      "1년이 아니라 6개월 근속이 기준",
+      "면접 전 지급은 지문에 언급 없음"
+     ],
+     "ev": "usually after the new hire completes six months"
+    },
+    {
+     "q": "What risk do analysts point out?",
+     "type": "세부사항",
+     "choices": [
+      "Teams may become uniform in background",
+      "Bonuses cost too much",
+      "Referrals quit sooner",
+      "Legal issues arise"
+     ],
+     "a": 0,
+     "exKo": "추천 위주 채용은 팀 구성이 비슷해지는 위험이 있습니다.",
+     "why": [
+      "배경과 사고가 획일화될 수 있다는 경고와 일치",
+      "채용 비용은 오히려 감소한다고 했으므로 반대",
+      "추천 입사자는 평균 18개월 더 오래 근무",
+      "법적 문제 발생은 지문에 언급 없음"
+     ],
+     "ev": "teams built heavily on referrals can become uniform in background and thinking"
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "계약서 서명 순서 확인 문자",
+   "passage": "Amira Hassan (2:30 P.M.)\nLegal approved the vendor contract with two small edits. Who signs first, us or them?\n\nFelix Grant (2:33 P.M.)\nSend it to them first — their CFO signs, then ours countersigns. Finance won't process the PO until both signatures are on it.\n\nAmira Hassan (2:35 P.M.)\nGot it. Their CFO is traveling until Thursday, though. The kickoff is Monday — is that a problem?\n\nFelix Grant (2:38 P.M.)\nAsk if they can sign electronically. Our system accepts e-signatures, and it takes five minutes from a phone.\n\nAmira Hassan (2:52 P.M.)\nThey just confirmed — CFO will e-sign tonight. I'll route it to our side tomorrow morning.\n\nFelix Grant (2:53 P.M.)\nPerfect. Kickoff stays on schedule then.",
+   "questions": [
+    {
+     "q": "What is the required signing order?",
+     "type": "세부사항",
+     "choices": [
+      "The vendor's CFO first, then our side",
+      "Our side first",
+      "Both at the kickoff",
+      "Order doesn't matter"
+     ],
+     "a": 0,
+     "exKo": "상대 CFO가 먼저 서명하고 우리 쪽이 반대 서명합니다.",
+     "why": [
+      "상대 CFO 서명 후 우리 쪽이 반대 서명하는 순서",
+      "우리가 먼저 서명하는 것이 아니므로 반대",
+      "킥오프 전에 서명이 끝나야 하므로 반대",
+      "순서를 명시했으므로 무관하다는 말은 반대"
+     ],
+     "ev": "Send it to them first — their CFO signs, then ours countersigns."
+    },
+    {
+     "q": "What problem did Ms. Hassan raise?",
+     "type": "세부사항",
+     "choices": [
+      "The vendor's CFO is traveling until Thursday",
+      "Legal rejected the contract",
+      "The PO was lost",
+      "The kickoff was canceled"
+     ],
+     "a": 0,
+     "exKo": "상대 CFO가 목요일까지 출장이라 서명이 늦어질 상황이었습니다.",
+     "why": [
+      "목요일까지 출장이라 서명 지연을 우려함",
+      "법무는 두 곳만 수정해 승인했으므로 반대",
+      "PO는 서명 후 처리 대기일 뿐 분실이 아님",
+      "킥오프는 예정대로 진행되므로 지문과 반대"
+     ],
+     "ev": "Their CFO is traveling until Thursday, though."
+    },
+    {
+     "q": "How was the issue resolved?",
+     "type": "세부사항",
+     "choices": [
+      "The CFO agreed to e-sign that night",
+      "The kickoff was delayed",
+      "Another executive signed",
+      "The edits were dropped"
+     ],
+     "a": 0,
+     "exKo": "CFO가 당일 밤 전자 서명하기로 하여 일정이 지켜졌습니다.",
+     "why": [
+      "CFO가 당일 밤 전자 서명하기로 확정함",
+      "킥오프 일정은 그대로 유지되므로 반대",
+      "다른 임원의 대리 서명은 언급 없음",
+      "법무 수정 사항 철회는 지문에 언급 없음"
+     ],
+     "ev": "They just confirmed — CFO will e-sign tonight."
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "매장 개점 준비 상황 문자",
+   "passage": "Nina Park (7:40 A.M.)\nOpening day minus 3! Status check: signage?\n\nLeo Costa (7:45 A.M.)\nInstalled last night. Looks great — sending photos.\n\nNina Park (7:46 A.M.)\nSaw them, love it. Card terminals?\n\nLeo Costa (7:48 A.M.)\nBoth tested with real transactions this morning. Receipt printer needed a new roll, all set now.\n\nNina Park (7:50 A.M.)\nStaff schedule for the weekend rush?\n\nLeo Costa (7:52 A.M.)\nSix on Saturday, five on Sunday. Two trained cashiers each day, and Mia can float between register and floor.\n\nNina Park (7:54 A.M.)\nLast thing — the opening promotion signs mention the free tote with $50 purchase. We have 300 totes, right?\n\nLeo Costa (7:55 A.M.)\n320 in the back room, counted yesterday. We're ready.",
+   "questions": [
+    {
+     "q": "What are the two people preparing for?",
+     "type": "주제·목적",
+     "choices": [
+      "A store opening in three days",
+      "A weekend sale",
+      "A staff meeting",
+      "An inventory audit"
+     ],
+     "a": 0,
+     "exKo": "3일 뒤 매장 개점을 앞두고 준비 상황을 점검하는 대화입니다.",
+     "why": [
+      "'Opening day minus 3'가 3일 뒤 개점을 뜻함",
+      "주말 인력 배치만 언급, 세일 행사는 없음",
+      "직원 회의에 대한 언급 없음",
+      "토트백 수량 확인일 뿐 재고 감사 아님"
+     ],
+     "ev": "Opening day minus 3! Status check: signage?"
+    },
+    {
+     "q": "What was fixed on the card terminals setup?",
+     "type": "세부사항",
+     "choices": [
+      "The receipt printer needed a new roll",
+      "A terminal was replaced",
+      "The software was updated",
+      "A cable was missing"
+     ],
+     "a": 0,
+     "exKo": "영수증 프린터에 새 용지를 넣어 해결했습니다.",
+     "why": [
+      "영수증 프린터 용지 교체로 해결했다고 명시",
+      "단말기 교체 언급 없음, 실거래 테스트만 함",
+      "소프트웨어 업데이트 언급 없음",
+      "케이블 관련 언급 없음"
+     ],
+     "ev": "Receipt printer needed a new roll, all set now."
+    },
+    {
+     "q": "What is the opening promotion?",
+     "type": "세부사항",
+     "choices": [
+      "A free tote with a $50 purchase",
+      "20 percent off everything",
+      "Free delivery",
+      "A prize drawing"
+     ],
+     "a": 0,
+     "exKo": "50달러 이상 구매 시 토트백 증정 프로모션입니다.",
+     "why": [
+      "50달러 구매 시 무료 토트백이 개점 프로모션",
+      "할인율에 대한 언급 없음",
+      "무료 배송에 대한 언급 없음",
+      "경품 추첨에 대한 언급 없음"
+     ],
+     "ev": "the opening promotion signs mention the free tote with $50 purchase"
+    }
+   ]
+  }
+ ]
+}

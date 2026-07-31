@@ -1,0 +1,1278 @@
+{
+ "words": [
+  {
+   "w": "abate",
+   "p": "동사",
+   "m": "약해지다, 완화되다",
+   "cat": "시설·사무",
+   "ex": "Shipping delays should <b>abate</b> after the holiday.",
+   "exKo": "배송 지연은 연휴 이후 완화될 것입니다."
+  },
+  {
+   "w": "abbreviate",
+   "p": "동사",
+   "m": "축약하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "abbreviation",
+     "k": "파생",
+     "m": "약어"
+    }
+   ],
+   "ex": "Please <b>abbreviate</b> department names in the chart.",
+   "exKo": "차트에서는 부서명을 축약해 주세요."
+  },
+  {
+   "w": "accentuate",
+   "p": "동사",
+   "m": "강조하다, 돋보이게 하다",
+   "cat": "마케팅",
+   "ex": "Warm lighting <b>accentuates</b> the wood interior.",
+   "exKo": "따뜻한 조명이 목재 인테리어를 돋보이게 합니다."
+  },
+  {
+   "w": "accredited",
+   "p": "형용사",
+   "m": "공인된",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "accreditation",
+     "k": "파생",
+     "m": "인가, 인증"
+    }
+   ],
+   "ex": "Choose an <b>accredited</b> training provider.",
+   "exKo": "공인된 교육 기관을 선택하세요."
+  },
+  {
+   "w": "adorn",
+   "p": "동사",
+   "m": "장식하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "be adorned with",
+     "k": "숙어",
+     "m": "~로 장식되다"
+    }
+   ],
+   "ex": "Fresh flowers <b>adorn</b> the reception desk daily.",
+   "exKo": "매일 생화가 안내 데스크를 장식합니다."
+  },
+  {
+   "w": "aggravate",
+   "p": "동사",
+   "m": "악화시키다",
+   "cat": "시설·사무",
+   "ex": "Skipping maintenance only <b>aggravates</b> the problem.",
+   "exKo": "정비를 거르면 문제만 악화됩니다."
+  },
+  {
+   "w": "airtight",
+   "p": "형용사",
+   "m": "밀폐된, 빈틈없는",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "airtight container",
+     "k": "숙어",
+     "m": "밀폐 용기"
+    }
+   ],
+   "ex": "Store the beans in an <b>airtight</b> container.",
+   "exKo": "원두는 밀폐 용기에 보관하세요."
+  },
+  {
+   "w": "allay",
+   "p": "동사",
+   "m": "(불안을) 가라앉히다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "allay fears",
+     "k": "숙어",
+     "m": "불안을 잠재우다"
+    }
+   ],
+   "ex": "A quick statement helped <b>allay</b> customer fears.",
+   "exKo": "신속한 발표가 고객 불안을 가라앉히는 데 도움이 되었습니다."
+  },
+  {
+   "w": "ambience",
+   "p": "명사",
+   "m": "분위기",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "cozy ambience",
+     "k": "숙어",
+     "m": "아늑한 분위기"
+    }
+   ],
+   "ex": "The cafe's cozy <b>ambience</b> attracts remote workers.",
+   "exKo": "그 카페의 아늑한 분위기가 원격 근무자들을 끌어들입니다."
+  },
+  {
+   "w": "anecdote",
+   "p": "명사",
+   "m": "일화",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "anecdotal",
+     "k": "파생",
+     "m": "일화적인"
+    }
+   ],
+   "ex": "The speaker opened with a funny <b>anecdote</b>.",
+   "exKo": "연사는 재미있는 일화로 시작했습니다."
+  },
+  {
+   "w": "annex",
+   "p": "명사",
+   "m": "별관, 부속 건물",
+   "cat": "시설·사무",
+   "ex": "The training rooms are in the west <b>annex</b>.",
+   "exKo": "교육실은 서쪽 별관에 있습니다."
+  },
+  {
+   "w": "anomaly",
+   "p": "명사",
+   "m": "이례적인 것, 변칙",
+   "cat": "재무·회계",
+   "ex": "The auditors flagged an <b>anomaly</b> in the ledger.",
+   "exKo": "감사인들이 원장에서 이례적인 항목을 발견했습니다."
+  },
+  {
+   "w": "antitrust",
+   "p": "형용사",
+   "m": "독점 금지의",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "antitrust law",
+     "k": "숙어",
+     "m": "독점 금지법"
+    }
+   ],
+   "ex": "The merger needs <b>antitrust</b> approval first.",
+   "exKo": "그 합병은 먼저 독점 금지 승인을 받아야 합니다."
+  },
+  {
+   "w": "apex",
+   "p": "명사",
+   "m": "정점, 꼭대기",
+   "cat": "마케팅",
+   "ex": "The tower's <b>apex</b> houses an observation deck.",
+   "exKo": "그 타워 꼭대기에는 전망대가 있습니다."
+  },
+  {
+   "w": "ardent",
+   "p": "형용사",
+   "m": "열렬한",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "ardent supporter",
+     "k": "숙어",
+     "m": "열렬한 지지자"
+    }
+   ],
+   "ex": "The chef has <b>ardent</b> supporters among critics.",
+   "exKo": "그 요리사는 평론가들 사이에 열렬한 지지자들이 있습니다."
+  },
+  {
+   "w": "ascribe",
+   "p": "동사",
+   "m": "~의 탓으로 돌리다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "ascribe A to B",
+     "k": "숙어",
+     "m": "A를 B의 덕/탓으로 보다"
+    }
+   ],
+   "ex": "Analysts <b>ascribe</b> the growth to mobile orders.",
+   "exKo": "분석가들은 그 성장을 모바일 주문 덕분으로 봅니다."
+  },
+  {
+   "w": "attire",
+   "p": "명사",
+   "m": "복장",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "business attire",
+     "k": "숙어",
+     "m": "비즈니스 정장"
+    }
+   ],
+   "ex": "Business <b>attire</b> is required at the reception.",
+   "exKo": "리셉션에서는 비즈니스 복장이 요구됩니다."
+  },
+  {
+   "w": "atypical",
+   "p": "형용사",
+   "m": "이례적인",
+   "cat": "시설·사무",
+   "ex": "The warm winter caused <b>atypical</b> sales patterns.",
+   "exKo": "따뜻한 겨울이 이례적인 판매 패턴을 낳았습니다."
+  },
+  {
+   "w": "authoritative",
+   "p": "형용사",
+   "m": "권위 있는",
+   "cat": "마케팅",
+   "ex": "The guide is the <b>authoritative</b> source on tax rules.",
+   "exKo": "그 지침서는 세무 규정에 관한 권위 있는 자료입니다."
+  },
+  {
+   "w": "backdrop",
+   "p": "명사",
+   "m": "배경",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "against the backdrop of",
+     "k": "숙어",
+     "m": "~을 배경으로"
+    }
+   ],
+   "ex": "The deal closed against a <b>backdrop</b> of rising rates.",
+   "exKo": "그 거래는 금리 상승을 배경으로 성사되었습니다."
+  },
+  {
+   "w": "ballpark",
+   "p": "명사",
+   "m": "대략적인 범위",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "ballpark figure",
+     "k": "숙어",
+     "m": "어림수, 대략적인 수치"
+    }
+   ],
+   "ex": "Give me a <b>ballpark</b> figure for the renovation.",
+   "exKo": "보수 공사의 대략적인 금액을 알려 주세요."
+  },
+  {
+   "w": "barrage",
+   "p": "명사",
+   "m": "세례, 연발",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "a barrage of questions",
+     "k": "숙어",
+     "m": "질문 세례"
+    }
+   ],
+   "ex": "The hotline faced a <b>barrage</b> of questions.",
+   "exKo": "상담 전화에 질문 세례가 쏟아졌습니다."
+  },
+  {
+   "w": "barter",
+   "p": "동사",
+   "m": "물물 교환하다",
+   "cat": "배송·주문",
+   "ex": "Local shops sometimes <b>barter</b> services with each other.",
+   "exKo": "지역 상점들은 가끔 서로 서비스를 물물 교환합니다."
+  },
+  {
+   "w": "benevolent",
+   "p": "형용사",
+   "m": "자애로운, 선의의",
+   "cat": "채용·인사",
+   "ex": "A <b>benevolent</b> donor funded the new library wing.",
+   "exKo": "한 선의의 기부자가 도서관 신관 건립 비용을 댔습니다."
+  },
+  {
+   "w": "bequeath",
+   "p": "동사",
+   "m": "물려주다, 유증하다",
+   "cat": "계약·법무",
+   "ex": "The founder <b>bequeathed</b> her shares to a foundation.",
+   "exKo": "창업자는 자신의 지분을 재단에 유증했습니다."
+  },
+  {
+   "w": "biannual",
+   "p": "형용사",
+   "m": "연 2회의",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "biennial",
+     "k": "동의",
+     "m": "2년마다의"
+    }
+   ],
+   "ex": "The <b>biannual</b> review happens in June and December.",
+   "exKo": "연 2회 평가는 6월과 12월에 진행됩니다."
+  },
+  {
+   "w": "blemish",
+   "p": "명사",
+   "m": "흠, 결점",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "without a blemish",
+     "k": "숙어",
+     "m": "흠 없이"
+    }
+   ],
+   "ex": "Each fruit is checked for <b>blemishes</b> before packing.",
+   "exKo": "포장 전에 과일마다 흠집 여부를 확인합니다."
+  },
+  {
+   "w": "boon",
+   "p": "명사",
+   "m": "요긴한 것, 혜택",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "a boon to",
+     "k": "숙어",
+     "m": "~에 큰 도움"
+    }
+   ],
+   "ex": "The new subway line is a <b>boon</b> for commuters.",
+   "exKo": "새 지하철 노선은 통근자들에게 큰 혜택입니다."
+  },
+  {
+   "w": "buoyant",
+   "p": "형용사",
+   "m": "활황의, 상승세의",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "buoyant market",
+     "k": "숙어",
+     "m": "활황 시장"
+    }
+   ],
+   "ex": "The housing market remains <b>buoyant</b> this spring.",
+   "exKo": "올봄 주택 시장은 여전히 활황입니다."
+  },
+  {
+   "w": "caliber",
+   "p": "명사",
+   "m": "역량, 수준",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "high-caliber",
+     "k": "파생",
+     "m": "뛰어난 역량의"
+    }
+   ],
+   "ex": "The intern showed the <b>caliber</b> of a senior analyst.",
+   "exKo": "그 인턴은 선임 분석가급의 역량을 보여 주었습니다."
+  },
+  {
+   "w": "canvass",
+   "p": "동사",
+   "m": "(의견을) 조사하다, 권유하다",
+   "cat": "마케팅",
+   "ex": "Volunteers <b>canvassed</b> shoppers about the new hours.",
+   "exKo": "자원봉사자들이 새 영업시간에 대해 쇼핑객 의견을 조사했습니다."
+  },
+  {
+   "w": "clamor",
+   "p": "명사",
+   "m": "아우성, 강력한 요구",
+   "cat": "마케팅",
+   "ex": "There is growing <b>clamor</b> for weekend service.",
+   "exKo": "주말 운영에 대한 요구가 커지고 있습니다."
+  },
+  {
+   "w": "coffer",
+   "p": "명사",
+   "m": "금고, (복수) 재원",
+   "cat": "재무·회계",
+   "ex": "The festival added millions to the city's <b>coffers</b>.",
+   "exKo": "그 축제는 시 재정에 수백만 달러를 보탰습니다."
+  },
+  {
+   "w": "cogent",
+   "p": "형용사",
+   "m": "설득력 있는",
+   "cat": "회의",
+   "ex": "She made a <b>cogent</b> case for hiring locally.",
+   "exKo": "그녀는 현지 채용에 대한 설득력 있는 논거를 폈습니다."
+  },
+  {
+   "w": "condone",
+   "p": "동사",
+   "m": "용납하다, 눈감아 주다",
+   "cat": "계약·법무",
+   "ex": "Management does not <b>condone</b> shortcuts on safety.",
+   "exKo": "경영진은 안전 절차 생략을 용납하지 않습니다."
+  },
+  {
+   "w": "confiscate",
+   "p": "동사",
+   "m": "압수하다",
+   "cat": "계약·법무",
+   "ex": "Customs <b>confiscated</b> the mislabeled goods.",
+   "exKo": "세관은 라벨이 잘못된 상품을 압수했습니다."
+  },
+  {
+   "w": "construe",
+   "p": "동사",
+   "m": "해석하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "be construed as",
+     "k": "숙어",
+     "m": "~로 해석되다"
+    }
+   ],
+   "ex": "Silence should not be <b>construed</b> as consent.",
+   "exKo": "침묵을 동의로 해석해서는 안 됩니다."
+  },
+  {
+   "w": "contravene",
+   "p": "동사",
+   "m": "위반하다",
+   "cat": "계약·법무",
+   "ex": "The ad was pulled for <b>contravening</b> labeling laws.",
+   "exKo": "그 광고는 표기법 위반으로 내려졌습니다."
+  },
+  {
+   "w": "corroborate",
+   "p": "동사",
+   "m": "뒷받침하다, 확증하다",
+   "cat": "계약·법무",
+   "ex": "Shipping records <b>corroborate</b> the driver's account.",
+   "exKo": "배송 기록이 기사의 진술을 뒷받침합니다."
+  },
+  {
+   "w": "crux",
+   "p": "명사",
+   "m": "핵심",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "the crux of the matter",
+     "k": "숙어",
+     "m": "문제의 핵심"
+    }
+   ],
+   "ex": "The <b>crux</b> of the dispute is the delivery date.",
+   "exKo": "분쟁의 핵심은 납기일입니다."
+  },
+  {
+   "w": "dampen",
+   "p": "동사",
+   "m": "위축시키다, 꺾다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "dampen demand",
+     "k": "숙어",
+     "m": "수요를 위축시키다"
+    }
+   ],
+   "ex": "Rising rates <b>dampened</b> demand for loans.",
+   "exKo": "금리 상승이 대출 수요를 위축시켰습니다."
+  },
+  {
+   "w": "debacle",
+   "p": "명사",
+   "m": "대실패",
+   "cat": "마케팅",
+   "ex": "The website crash turned the sale into a <b>debacle</b>.",
+   "exKo": "웹사이트 다운으로 그 세일은 대실패가 되었습니다."
+  },
+  {
+   "w": "deface",
+   "p": "동사",
+   "m": "외관을 훼손하다",
+   "cat": "시설·사무",
+   "ex": "Vandals <b>defaced</b> the new station mural.",
+   "exKo": "누군가 새 역 벽화를 훼손했습니다."
+  },
+  {
+   "w": "definitive",
+   "p": "형용사",
+   "m": "확정적인, 최종적인",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "definitive answer",
+     "k": "숙어",
+     "m": "확답"
+    }
+   ],
+   "ex": "The parties signed the <b>definitive</b> agreement Friday.",
+   "exKo": "당사자들은 금요일 최종 계약서에 서명했습니다."
+  },
+  {
+   "w": "deft",
+   "p": "형용사",
+   "m": "능숙한",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "deftly",
+     "k": "파생",
+     "m": "능숙하게"
+    }
+   ],
+   "ex": "Her <b>deft</b> handling of the complaint impressed everyone.",
+   "exKo": "그녀의 능숙한 불만 처리에 모두가 감탄했습니다."
+  },
+  {
+   "w": "delectable",
+   "p": "형용사",
+   "m": "아주 맛있는",
+   "cat": "출장·여행",
+   "ex": "The tasting menu features <b>delectable</b> local dishes.",
+   "exKo": "테이스팅 메뉴는 아주 맛있는 현지 요리로 구성됩니다."
+  },
+  {
+   "w": "delineate",
+   "p": "동사",
+   "m": "기술하다, 윤곽을 그리다",
+   "cat": "회의",
+   "ex": "The handbook <b>delineates</b> each role's duties.",
+   "exKo": "편람은 각 직무의 책임을 기술합니다."
+  },
+  {
+   "w": "denote",
+   "p": "동사",
+   "m": "나타내다, 의미하다",
+   "cat": "시설·사무",
+   "ex": "Red tags <b>denote</b> items on final sale.",
+   "exKo": "빨간 태그는 마지막 세일 상품을 나타냅니다."
+  },
+  {
+   "w": "deploy",
+   "p": "동사",
+   "m": "배치하다, 도입하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "deployment",
+     "k": "파생",
+     "m": "배치, 도입"
+    }
+   ],
+   "ex": "The chain <b>deployed</b> self-checkout in all stores.",
+   "exKo": "그 체인은 전 매장에 셀프 계산대를 도입했습니다."
+  },
+  {
+   "w": "deprive",
+   "p": "동사",
+   "m": "박탈하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "deprive A of B",
+     "k": "숙어",
+     "m": "A에게서 B를 빼앗다"
+    }
+   ],
+   "ex": "The outage <b>deprived</b> sellers of a full day's sales.",
+   "exKo": "장애로 판매자들은 하루치 매출을 잃었습니다."
+  },
+  {
+   "w": "derail",
+   "p": "동사",
+   "m": "탈선시키다, 좌초시키다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "derail negotiations",
+     "k": "숙어",
+     "m": "협상을 무산시키다"
+    }
+   ],
+   "ex": "A funding gap nearly <b>derailed</b> the expansion.",
+   "exKo": "자금 공백이 확장 계획을 거의 좌초시킬 뻔했습니다."
+  },
+  {
+   "w": "deter",
+   "p": "동사",
+   "m": "단념시키다, 억제하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "deterrent",
+     "k": "파생",
+     "m": "억제책"
+    }
+   ],
+   "ex": "Cameras <b>deter</b> shoplifting in the store.",
+   "exKo": "카메라는 매장 내 절도를 억제합니다."
+  },
+  {
+   "w": "detract",
+   "p": "동사",
+   "m": "손상시키다, 깎아내리다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "detract from",
+     "k": "숙어",
+     "m": "~의 가치를 떨어뜨리다"
+    }
+   ],
+   "ex": "The long wait <b>detracts</b> from the dining experience.",
+   "exKo": "긴 대기 시간이 식사 경험의 만족도를 떨어뜨립니다."
+  },
+  {
+   "w": "devoid",
+   "p": "형용사",
+   "m": "~이 없는",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "be devoid of",
+     "k": "숙어",
+     "m": "~이 결여되다"
+    }
+   ],
+   "ex": "The report was <b>devoid</b> of concrete numbers.",
+   "exKo": "그 보고서에는 구체적인 수치가 없었습니다."
+  },
+  {
+   "w": "dictate",
+   "p": "동사",
+   "m": "좌우하다, 지시하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "be dictated by",
+     "k": "숙어",
+     "m": "~에 의해 좌우되다"
+    }
+   ],
+   "ex": "Demand will <b>dictate</b> how many shifts we run.",
+   "exKo": "수요가 교대 운영 횟수를 좌우할 것입니다."
+  },
+  {
+   "w": "dilute",
+   "p": "동사",
+   "m": "희석하다, 약화시키다",
+   "cat": "재무·회계",
+   "ex": "Issuing new shares will <b>dilute</b> existing holdings.",
+   "exKo": "신주 발행은 기존 지분을 희석시킬 것입니다."
+  },
+  {
+   "w": "discard",
+   "p": "동사",
+   "m": "버리다, 폐기하다",
+   "cat": "시설·사무",
+   "ex": "<b>Discard</b> expired samples per the safety rules.",
+   "exKo": "안전 규정에 따라 기한이 지난 샘플은 폐기하세요."
+  },
+  {
+   "w": "disembark",
+   "p": "동사",
+   "m": "내리다, 하선하다",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "embark",
+     "k": "반의",
+     "m": "승선하다"
+    }
+   ],
+   "ex": "Passengers <b>disembark</b> from the rear doors first.",
+   "exKo": "승객들은 뒷문부터 하차합니다."
+  },
+  {
+   "w": "dismal",
+   "p": "형용사",
+   "m": "음울한, 형편없는",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "dismal results",
+     "k": "숙어",
+     "m": "저조한 실적"
+    }
+   ],
+   "ex": "The quarter ended with <b>dismal</b> foot traffic.",
+   "exKo": "그 분기는 형편없는 방문객 수로 마감했습니다."
+  },
+  {
+   "w": "dispel",
+   "p": "동사",
+   "m": "떨쳐 버리다, 없애다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "dispel doubts",
+     "k": "숙어",
+     "m": "의혹을 불식시키다"
+    }
+   ],
+   "ex": "A factory tour <b>dispelled</b> doubts about quality.",
+   "exKo": "공장 견학이 품질에 대한 의구심을 없앴습니다."
+  },
+  {
+   "w": "displace",
+   "p": "동사",
+   "m": "대체하다, 쫓아내다",
+   "cat": "채용·인사",
+   "ex": "Kiosks have <b>displaced</b> some counter roles.",
+   "exKo": "키오스크가 일부 카운터 업무를 대체했습니다."
+  },
+  {
+   "w": "disregard",
+   "p": "동사",
+   "m": "무시하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "please disregard",
+     "k": "숙어",
+     "m": "~을 무시해 주세요"
+    }
+   ],
+   "ex": "Please <b>disregard</b> the earlier invoice; a corrected one follows.",
+   "exKo": "앞서 보낸 송장은 무시해 주세요. 정정본이 곧 갑니다."
+  },
+  {
+   "w": "dissent",
+   "p": "명사",
+   "m": "반대 (의견)",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "dissenting opinion",
+     "k": "숙어",
+     "m": "반대 의견"
+    }
+   ],
+   "ex": "The plan passed with only one <b>dissent</b>.",
+   "exKo": "그 계획은 반대 한 표만으로 통과되었습니다."
+  },
+  {
+   "w": "distort",
+   "p": "동사",
+   "m": "왜곡하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "distortion",
+     "k": "파생",
+     "m": "왜곡"
+    }
+   ],
+   "ex": "Selective data can <b>distort</b> the sales picture.",
+   "exKo": "선별된 데이터는 매출 상황을 왜곡할 수 있습니다."
+  },
+  {
+   "w": "diverge",
+   "p": "동사",
+   "m": "갈라지다, 달라지다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "divergent",
+     "k": "파생",
+     "m": "상이한"
+    }
+   ],
+   "ex": "The partners' visions began to <b>diverge</b>.",
+   "exKo": "동업자들의 비전이 갈라지기 시작했습니다."
+  },
+  {
+   "w": "downplay",
+   "p": "동사",
+   "m": "경시하다, 축소해 말하다",
+   "cat": "마케팅",
+   "ex": "The maker tried to <b>downplay</b> the defect reports.",
+   "exKo": "제조사는 결함 보고를 축소하려 했습니다."
+  },
+  {
+   "w": "dubious",
+   "p": "형용사",
+   "m": "의심스러운",
+   "cat": "계약·법무",
+   "ex": "Auditors questioned the <b>dubious</b> expense claims.",
+   "exKo": "감사인들은 의심스러운 경비 청구에 의문을 제기했습니다."
+  },
+  {
+   "w": "duplicate",
+   "p": "동사",
+   "m": "복제하다, 중복되다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "duplication",
+     "k": "파생",
+     "m": "중복"
+    },
+    {
+     "w": "in duplicate",
+     "k": "숙어",
+     "m": "두 부로"
+    }
+   ],
+   "ex": "Do not <b>duplicate</b> entries in the ledger.",
+   "exKo": "원장에 항목을 중복 기입하지 마세요."
+  },
+  {
+   "w": "elated",
+   "p": "형용사",
+   "m": "매우 기뻐하는",
+   "cat": "채용·인사",
+   "ex": "The team was <b>elated</b> by the award news.",
+   "exKo": "팀은 수상 소식에 매우 기뻐했습니다."
+  },
+  {
+   "w": "elude",
+   "p": "동사",
+   "m": "빠져나가다, 달성되지 않다",
+   "cat": "마케팅",
+   "ex": "A patent deal continued to <b>elude</b> the two firms.",
+   "exKo": "특허 합의는 두 회사 사이에서 계속 이뤄지지 않았습니다."
+  },
+  {
+   "w": "emit",
+   "p": "동사",
+   "m": "배출하다, 내뿜다",
+   "cat": "시설·사무",
+   "ex": "The new boiler <b>emits</b> far less carbon.",
+   "exKo": "새 보일러는 탄소를 훨씬 적게 배출합니다."
+  },
+  {
+   "w": "emphatic",
+   "p": "형용사",
+   "m": "단호한, 강조하는",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "emphatically",
+     "k": "파생",
+     "m": "단호히"
+    }
+   ],
+   "ex": "The director was <b>emphatic</b> about the deadline.",
+   "exKo": "이사는 마감일에 대해 단호했습니다."
+  },
+  {
+   "w": "enduring",
+   "p": "형용사",
+   "m": "오래가는, 지속되는",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "endure",
+     "k": "파생",
+     "m": "견디다, 지속되다"
+    }
+   ],
+   "ex": "The shop built an <b>enduring</b> bond with locals.",
+   "exKo": "그 가게는 지역민들과 오래가는 유대를 쌓았습니다."
+  },
+  {
+   "w": "enrich",
+   "p": "동사",
+   "m": "풍부하게 하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "enrichment",
+     "k": "파생",
+     "m": "풍부화, 강화"
+    }
+   ],
+   "ex": "Guest lectures <b>enrich</b> the training program.",
+   "exKo": "초청 강연이 교육 프로그램을 풍부하게 합니다."
+  },
+  {
+   "w": "enthrall",
+   "p": "동사",
+   "m": "매료시키다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "enthralling",
+     "k": "파생",
+     "m": "매혹적인"
+    }
+   ],
+   "ex": "The light show <b>enthralled</b> the opening-night crowd.",
+   "exKo": "조명 쇼가 개장 첫날 관중을 매료시켰습니다."
+  },
+  {
+   "w": "equilibrium",
+   "p": "명사",
+   "m": "균형",
+   "cat": "재무·회계",
+   "ex": "Prices found a new <b>equilibrium</b> after the tariff.",
+   "exKo": "관세 이후 가격은 새로운 균형을 찾았습니다."
+  },
+  {
+   "w": "ergonomic",
+   "p": "형용사",
+   "m": "인체 공학적인",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "ergonomic chair",
+     "k": "숙어",
+     "m": "인체 공학 의자"
+    }
+   ],
+   "ex": "<b>Ergonomic</b> keyboards reduced wrist complaints.",
+   "exKo": "인체 공학 키보드가 손목 통증 호소를 줄였습니다."
+  },
+  {
+   "w": "err",
+   "p": "동사",
+   "m": "실수하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "err on the side of caution",
+     "k": "숙어",
+     "m": "신중을 기하다"
+    }
+   ],
+   "ex": "When unsure, <b>err</b> on the side of caution.",
+   "exKo": "확신이 없을 때는 신중한 쪽으로 판단하세요."
+  },
+  {
+   "w": "erode",
+   "p": "동사",
+   "m": "침식하다, 잠식하다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "erosion",
+     "k": "파생",
+     "m": "침식"
+    },
+    {
+     "w": "erode profits",
+     "k": "숙어",
+     "m": "이익을 잠식하다"
+    }
+   ],
+   "ex": "Cheap imports <b>eroded</b> the firm's market share.",
+   "exKo": "값싼 수입품이 그 회사의 시장 점유율을 잠식했습니다."
+  },
+  {
+   "w": "eschew",
+   "p": "동사",
+   "m": "피하다, 삼가다",
+   "cat": "회의",
+   "ex": "The brand <b>eschews</b> plastic packaging entirely.",
+   "exKo": "그 브랜드는 플라스틱 포장을 전적으로 피합니다."
+  },
+  {
+   "w": "esteemed",
+   "p": "형용사",
+   "m": "존경받는",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "esteemed colleague",
+     "k": "숙어",
+     "m": "존경하는 동료"
+    }
+   ],
+   "ex": "An <b>esteemed</b> professor will judge the finals.",
+   "exKo": "존경받는 교수가 결선을 심사할 예정입니다."
+  },
+  {
+   "w": "evict",
+   "p": "동사",
+   "m": "퇴거시키다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "eviction",
+     "k": "파생",
+     "m": "퇴거"
+    }
+   ],
+   "ex": "The landlord moved to <b>evict</b> the delinquent tenant.",
+   "exKo": "임대인은 연체 세입자에 대한 퇴거 절차에 들어갔습니다."
+  },
+  {
+   "w": "evoke",
+   "p": "동사",
+   "m": "불러일으키다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "evoke nostalgia",
+     "k": "숙어",
+     "m": "향수를 불러일으키다"
+    }
+   ],
+   "ex": "The retro packaging <b>evokes</b> the brand's early days.",
+   "exKo": "복고풍 포장은 브랜드 초창기를 떠올리게 합니다."
+  },
+  {
+   "w": "excavate",
+   "p": "동사",
+   "m": "발굴하다, 파다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "excavation",
+     "k": "파생",
+     "m": "발굴"
+    }
+   ],
+   "ex": "Crews <b>excavated</b> the site for the new parking garage.",
+   "exKo": "작업반이 새 주차장 건설을 위해 부지를 팠습니다."
+  },
+  {
+   "w": "faze",
+   "p": "동사",
+   "m": "동요시키다",
+   "cat": "채용·인사",
+   "ex": "Tough questions never seem to <b>faze</b> her.",
+   "exKo": "어려운 질문도 그녀를 동요시키지 못하는 듯합니다."
+  },
+  {
+   "w": "fickle",
+   "p": "형용사",
+   "m": "변덕스러운",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "fickle consumers",
+     "k": "숙어",
+     "m": "변덕스러운 소비자"
+    }
+   ],
+   "ex": "Fashion retail depends on <b>fickle</b> consumer tastes.",
+   "exKo": "패션 소매업은 변덕스러운 소비자 취향에 좌우됩니다."
+  },
+  {
+   "w": "figuratively",
+   "p": "부사",
+   "m": "비유적으로",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "literally",
+     "k": "반의",
+     "m": "문자 그대로"
+    }
+   ],
+   "ex": "The launch was, <b>figuratively</b> speaking, a rocket ride.",
+   "exKo": "그 출시는 비유적으로 말하면 로켓 발사 같았습니다."
+  },
+  {
+   "w": "finesse",
+   "p": "명사",
+   "m": "기교, 수완",
+   "cat": "채용·인사",
+   "ex": "She handled the refund dispute with great <b>finesse</b>.",
+   "exKo": "그녀는 환불 분쟁을 뛰어난 수완으로 처리했습니다."
+  },
+  {
+   "w": "flimsy",
+   "p": "형용사",
+   "m": "조잡한, 얄팍한",
+   "cat": "배송·주문",
+   "ex": "Customers complained about the <b>flimsy</b> packaging.",
+   "exKo": "고객들은 조잡한 포장에 대해 불만을 제기했습니다."
+  },
+  {
+   "w": "footprint",
+   "p": "명사",
+   "m": "발자국, 영향 범위",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "carbon footprint",
+     "k": "숙어",
+     "m": "탄소 발자국"
+    }
+   ],
+   "ex": "The firm aims to shrink its carbon <b>footprint</b>.",
+   "exKo": "그 회사는 탄소 발자국을 줄이는 것을 목표로 합니다."
+  },
+  {
+   "w": "forestall",
+   "p": "동사",
+   "m": "미연에 방지하다",
+   "cat": "계약·법무",
+   "ex": "Extra stock was ordered to <b>forestall</b> shortages.",
+   "exKo": "품절을 미연에 방지하려고 재고를 추가 주문했습니다."
+  },
+  {
+   "w": "franchisor",
+   "p": "명사",
+   "m": "가맹 본부",
+   "cat": "계약·법무",
+   "ex": "The <b>franchisor</b> provides training and marketing support.",
+   "exKo": "가맹 본부는 교육과 마케팅 지원을 제공합니다."
+  },
+  {
+   "w": "fraught",
+   "p": "형용사",
+   "m": "~투성이인",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "fraught with risk",
+     "k": "숙어",
+     "m": "위험투성이인"
+    }
+   ],
+   "ex": "The negotiation was <b>fraught</b> with legal risks.",
+   "exKo": "그 협상은 법적 위험투성이였습니다."
+  },
+  {
+   "w": "frenzy",
+   "p": "명사",
+   "m": "광란, 열풍",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "buying frenzy",
+     "k": "숙어",
+     "m": "구매 열풍"
+    }
+   ],
+   "ex": "The limited drop sparked a buying <b>frenzy</b>.",
+   "exKo": "한정판 출시가 구매 열풍을 일으켰습니다."
+  },
+  {
+   "w": "gargantuan",
+   "p": "형용사",
+   "m": "거대한",
+   "cat": "재무·회계",
+   "ex": "Moving the plant is a <b>gargantuan</b> undertaking.",
+   "exKo": "공장 이전은 거대한 작업입니다."
+  },
+  {
+   "w": "glean",
+   "p": "동사",
+   "m": "(정보를) 수집하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "glean insights",
+     "k": "숙어",
+     "m": "통찰을 얻다"
+    }
+   ],
+   "ex": "We <b>glean</b> insights from thousands of reviews.",
+   "exKo": "수천 건의 리뷰에서 통찰을 수집합니다."
+  },
+  {
+   "w": "grapple",
+   "p": "동사",
+   "m": "씨름하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "grapple with",
+     "k": "숙어",
+     "m": "~와 씨름하다"
+    }
+   ],
+   "ex": "Retailers <b>grapple</b> with rising delivery costs.",
+   "exKo": "소매업체들은 상승하는 배송비와 씨름하고 있습니다."
+  },
+  {
+   "w": "gratuitous",
+   "p": "형용사",
+   "m": "불필요한, 무료의",
+   "cat": "마케팅",
+   "ex": "The report avoids <b>gratuitous</b> technical detail.",
+   "exKo": "그 보고서는 불필요한 기술적 세부 사항을 피합니다."
+  },
+  {
+   "w": "gravitas",
+   "p": "명사",
+   "m": "무게감, 진지함",
+   "cat": "채용·인사",
+   "ex": "The veteran chair lends <b>gravitas</b> to the panel.",
+   "exKo": "베테랑 의장이 패널에 무게감을 더합니다."
+  },
+  {
+   "w": "grueling",
+   "p": "형용사",
+   "m": "녹초로 만드는",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "grueling schedule",
+     "k": "숙어",
+     "m": "살인적인 일정"
+    }
+   ],
+   "ex": "The audit season involves <b>grueling</b> overtime.",
+   "exKo": "감사 시즌에는 녹초가 되는 야근이 이어집니다."
+  },
+  {
+   "w": "hardy",
+   "p": "형용사",
+   "m": "강인한, 튼튼한",
+   "cat": "배송·주문",
+   "ex": "The <b>hardy</b> crates survive rough sea transport.",
+   "exKo": "그 튼튼한 상자들은 거친 해상 운송을 견딥니다."
+  },
+  {
+   "w": "harness",
+   "p": "동사",
+   "m": "활용하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "harness technology",
+     "k": "숙어",
+     "m": "기술을 활용하다"
+    }
+   ],
+   "ex": "The mill <b>harnesses</b> river power for its machines.",
+   "exKo": "그 공장은 기계 가동에 강물의 힘을 활용합니다."
+  },
+  {
+   "w": "hasty",
+   "p": "형용사",
+   "m": "성급한",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "hastily",
+     "k": "파생",
+     "m": "급히"
+    },
+    {
+     "w": "hasten",
+     "k": "파생",
+     "m": "서두르다, 앞당기다"
+    }
+   ],
+   "ex": "A <b>hasty</b> decision now could cost us the contract.",
+   "exKo": "지금의 성급한 결정은 계약을 잃게 할 수 있습니다."
+  },
+  {
+   "w": "hedge",
+   "p": "동사",
+   "m": "위험을 분산하다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "hedge against inflation",
+     "k": "숙어",
+     "m": "인플레이션에 대비하다"
+    }
+   ],
+   "ex": "The importer <b>hedges</b> against currency swings.",
+   "exKo": "그 수입업체는 환율 변동 위험을 분산합니다."
+  }
+ ]
+}

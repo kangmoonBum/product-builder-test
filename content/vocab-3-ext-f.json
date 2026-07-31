@@ -1,0 +1,1230 @@
+{
+ "words": [
+  {
+   "w": "in light of",
+   "p": "숙어",
+   "m": "~을 고려하여",
+   "cat": "회의",
+   "ex": "<b>In light of</b> the storm, the event moved indoors.",
+   "exKo": "폭풍을 고려하여 행사는 실내로 옮겨졌습니다."
+  },
+  {
+   "w": "on behalf of",
+   "p": "숙어",
+   "m": "~을 대표하여, 대신하여",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "behalf",
+     "k": "파생",
+     "m": "이익, 편"
+    }
+   ],
+   "ex": "She accepted the award <b>on behalf of</b> the whole team.",
+   "exKo": "그녀는 팀 전체를 대표하여 상을 받았습니다."
+  },
+  {
+   "w": "with regard to",
+   "p": "숙어",
+   "m": "~에 관하여",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "in this regard",
+     "k": "숙어",
+     "m": "이 점에 있어서"
+    }
+   ],
+   "ex": "<b>With regard to</b> your inquiry, please see the attached quote.",
+   "exKo": "귀하의 문의에 관하여 첨부된 견적서를 참조해 주세요."
+  },
+  {
+   "w": "in lieu of",
+   "p": "숙어",
+   "m": "~ 대신에",
+   "cat": "계약·법무",
+   "ex": "Employees may take time off <b>in lieu of</b> overtime pay.",
+   "exKo": "직원들은 초과 근무 수당 대신 휴가를 쓸 수 있습니다."
+  },
+  {
+   "w": "as of",
+   "p": "숙어",
+   "m": "~부로, ~ 현재로",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "as of today",
+     "k": "숙어",
+     "m": "오늘부로"
+    }
+   ],
+   "ex": "<b>As of</b> May 1, the new rates apply.",
+   "exKo": "5월 1일부로 새 요금이 적용됩니다."
+  },
+  {
+   "w": "in the event of",
+   "p": "숙어",
+   "m": "~의 경우에는",
+   "cat": "계약·법무",
+   "ex": "<b>In the event of</b> a delay, we will notify you by text.",
+   "exKo": "지연이 발생하는 경우 문자로 알려 드립니다."
+  },
+  {
+   "w": "at your earliest convenience",
+   "p": "숙어",
+   "m": "가급적 빨리",
+   "cat": "시설·사무",
+   "ex": "Please confirm the order <b>at your earliest convenience</b>.",
+   "exKo": "가급적 빨리 주문을 확정해 주시기 바랍니다."
+  },
+  {
+   "w": "on short notice",
+   "p": "숙어",
+   "m": "급히, 촉박하게 알리고",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "until further notice",
+     "k": "숙어",
+     "m": "추후 공지까지"
+    }
+   ],
+   "ex": "Thanks for covering the shift <b>on short notice</b>.",
+   "exKo": "급한 요청에도 근무를 대신해 줘서 고맙습니다."
+  },
+  {
+   "w": "in observance of",
+   "p": "숙어",
+   "m": "~을 기념하여 (휴무 등)",
+   "cat": "시설·사무",
+   "ex": "The office is closed Monday <b>in observance of</b> the holiday.",
+   "exKo": "공휴일을 기념하여 월요일에 사무실은 휴무입니다."
+  },
+  {
+   "w": "to date",
+   "p": "숙어",
+   "m": "지금까지",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "year to date",
+     "k": "숙어",
+     "m": "연초부터 현재까지"
+    }
+   ],
+   "ex": "<b>To date</b>, we have shipped ten thousand units.",
+   "exKo": "지금까지 1만 개를 출하했습니다."
+  },
+  {
+   "w": "in a row",
+   "p": "숙어",
+   "m": "연속으로",
+   "cat": "재무·회계",
+   "ex": "Sales rose for five quarters <b>in a row</b>.",
+   "exKo": "매출이 5분기 연속 증가했습니다."
+  },
+  {
+   "w": "on hand",
+   "p": "숙어",
+   "m": "보유 중인, 참석한",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "stock on hand",
+     "k": "숙어",
+     "m": "보유 재고"
+    }
+   ],
+   "ex": "We keep spare parts <b>on hand</b> for urgent repairs.",
+   "exKo": "긴급 수리에 대비해 예비 부품을 보유하고 있습니다."
+  },
+  {
+   "w": "at stake",
+   "p": "숙어",
+   "m": "위태로운, 걸려 있는",
+   "cat": "계약·법무",
+   "ex": "A major contract is <b>at stake</b> in this bid.",
+   "exKo": "이번 입찰에는 대형 계약이 걸려 있습니다."
+  },
+  {
+   "w": "across the board",
+   "p": "숙어",
+   "m": "전면적으로",
+   "cat": "재무·회계",
+   "ex": "Prices were cut ten percent <b>across the board</b>.",
+   "exKo": "가격이 전면적으로 10퍼센트 인하되었습니다."
+  },
+  {
+   "w": "in effect",
+   "p": "숙어",
+   "m": "시행 중인, 사실상",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "come into effect",
+     "k": "숙어",
+     "m": "발효되다"
+    }
+   ],
+   "ex": "The summer schedule is now <b>in effect</b>.",
+   "exKo": "하계 일정이 현재 시행 중입니다."
+  },
+  {
+   "w": "on the premises",
+   "p": "숙어",
+   "m": "구내에서",
+   "cat": "시설·사무",
+   "ex": "Smoking is banned <b>on the premises</b>.",
+   "exKo": "구내에서는 흡연이 금지됩니다."
+  },
+  {
+   "w": "out of print",
+   "p": "숙어",
+   "m": "절판된",
+   "cat": "마케팅",
+   "ex": "The first edition has long been <b>out of print</b>.",
+   "exKo": "초판은 오래전에 절판되었습니다."
+  },
+  {
+   "w": "per diem",
+   "p": "숙어",
+   "m": "일당, 하루 경비",
+   "cat": "재무·회계",
+   "ex": "Travelers receive a <b>per diem</b> for meals.",
+   "exKo": "출장자는 식비 일당을 받습니다."
+  },
+  {
+   "w": "pro rata",
+   "p": "숙어",
+   "m": "비례하여",
+   "cat": "재무·회계",
+   "ex": "Bonuses are paid <b>pro rata</b> for part-time staff.",
+   "exKo": "시간제 직원의 보너스는 비례하여 지급됩니다."
+  },
+  {
+   "w": "ad hoc",
+   "p": "숙어",
+   "m": "임시의, 즉석의",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "ad hoc committee",
+     "k": "숙어",
+     "m": "임시 위원회"
+    }
+   ],
+   "ex": "An <b>ad hoc</b> committee handled the complaint.",
+   "exKo": "임시 위원회가 그 불만 사항을 처리했습니다."
+  },
+  {
+   "w": "status quo",
+   "p": "숙어",
+   "m": "현상 유지",
+   "cat": "회의",
+   "ex": "The board voted to keep the <b>status quo</b>.",
+   "exKo": "이사회는 현상 유지를 결정했습니다."
+  },
+  {
+   "w": "vice versa",
+   "p": "숙어",
+   "m": "반대의 경우도 마찬가지",
+   "cat": "회의",
+   "ex": "Sales supports marketing, and <b>vice versa</b>.",
+   "exKo": "영업은 마케팅을 지원하며, 그 반대도 마찬가지입니다."
+  },
+  {
+   "w": "back and forth",
+   "p": "숙어",
+   "m": "왕복으로, 오가는",
+   "cat": "회의",
+   "ex": "After much <b>back and forth</b>, they agreed on terms.",
+   "exKo": "많은 협의가 오간 끝에 조건에 합의했습니다."
+  },
+  {
+   "w": "by and large",
+   "p": "숙어",
+   "m": "대체로",
+   "cat": "회의",
+   "ex": "<b>By and large</b>, the launch went smoothly.",
+   "exKo": "대체로 출시는 순조로웠습니다."
+  },
+  {
+   "w": "in due course",
+   "p": "숙어",
+   "m": "적절한 시기에",
+   "cat": "회의",
+   "ex": "Results will be announced <b>in due course</b>.",
+   "exKo": "결과는 적절한 시기에 발표될 것입니다."
+  },
+  {
+   "w": "on a par with",
+   "p": "숙어",
+   "m": "~와 동등한",
+   "cat": "마케팅",
+   "ex": "The service is <b>on a par with</b> five-star hotels.",
+   "exKo": "그 서비스는 5성급 호텔과 동등한 수준입니다."
+  },
+  {
+   "w": "second to none",
+   "p": "숙어",
+   "m": "최고의, 누구에게도 뒤지지 않는",
+   "cat": "마케팅",
+   "ex": "Our after-sales support is <b>second to none</b>.",
+   "exKo": "저희 사후 지원은 최고 수준입니다."
+  },
+  {
+   "w": "state-of-the-art",
+   "p": "형용사",
+   "m": "최신식의",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "state-of-the-art facility",
+     "k": "숙어",
+     "m": "최신 시설"
+    }
+   ],
+   "ex": "The lab features <b>state-of-the-art</b> equipment.",
+   "exKo": "그 연구소는 최신식 장비를 갖추고 있습니다."
+  },
+  {
+   "w": "up and running",
+   "p": "숙어",
+   "m": "정상 가동 중인",
+   "cat": "시설·사무",
+   "ex": "The new website is finally <b>up and running</b>.",
+   "exKo": "새 웹사이트가 드디어 정상 가동 중입니다."
+  },
+  {
+   "w": "behind schedule",
+   "p": "숙어",
+   "m": "일정보다 늦은",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "ahead of schedule",
+     "k": "반의",
+     "m": "일정보다 빠른"
+    }
+   ],
+   "ex": "The renovation is two weeks <b>behind schedule</b>.",
+   "exKo": "보수 공사가 일정보다 2주 늦어졌습니다."
+  },
+  {
+   "w": "around the clock",
+   "p": "숙어",
+   "m": "24시간 내내",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "round-the-clock service",
+     "k": "숙어",
+     "m": "24시간 서비스"
+    }
+   ],
+   "ex": "Support staff work <b>around the clock</b>.",
+   "exKo": "지원팀은 24시간 내내 근무합니다."
+  },
+  {
+   "w": "in the black",
+   "p": "숙어",
+   "m": "흑자인",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "in the red",
+     "k": "반의",
+     "m": "적자인"
+    }
+   ],
+   "ex": "The cafe is finally <b>in the black</b> this year.",
+   "exKo": "그 카페는 올해 마침내 흑자입니다."
+  },
+  {
+   "w": "break even",
+   "p": "숙어",
+   "m": "손익분기점에 이르다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "break-even point",
+     "k": "파생",
+     "m": "손익분기점"
+    }
+   ],
+   "ex": "The store expects to <b>break even</b> by December.",
+   "exKo": "매장은 12월까지 손익분기점에 이를 것으로 예상합니다."
+  },
+  {
+   "w": "cut corners",
+   "p": "숙어",
+   "m": "(비용·절차를) 대충 줄이다",
+   "cat": "배송·주문",
+   "ex": "Never <b>cut corners</b> on safety inspections.",
+   "exKo": "안전 점검에서 절차를 대충 줄여서는 안 됩니다."
+  },
+  {
+   "w": "on the rise",
+   "p": "숙어",
+   "m": "상승세인",
+   "cat": "재무·회계",
+   "ex": "Demand for delivery lockers is <b>on the rise</b>.",
+   "exKo": "배송 보관함 수요가 상승세입니다."
+  },
+  {
+   "w": "take stock of",
+   "p": "숙어",
+   "m": "~을 점검하다",
+   "cat": "회의",
+   "ex": "Year-end is a time to <b>take stock of</b> our progress.",
+   "exKo": "연말은 우리의 진행 상황을 점검할 때입니다."
+  },
+  {
+   "w": "touch base with",
+   "p": "숙어",
+   "m": "~와 잠깐 연락하다",
+   "cat": "회의",
+   "ex": "I will <b>touch base with</b> the vendor tomorrow.",
+   "exKo": "내일 협력업체와 잠깐 연락해 보겠습니다."
+  },
+  {
+   "w": "keep track of",
+   "p": "숙어",
+   "m": "~을 계속 파악하다",
+   "cat": "시설·사무",
+   "ex": "The app helps drivers <b>keep track of</b> fuel costs.",
+   "exKo": "그 앱은 기사들이 유류비를 계속 파악하도록 돕습니다."
+  },
+  {
+   "w": "iron out",
+   "p": "숙어",
+   "m": "(문제를) 해결하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "iron out the details",
+     "k": "숙어",
+     "m": "세부 사항을 조율하다"
+    }
+   ],
+   "ex": "Let's <b>iron out</b> the contract details this week.",
+   "exKo": "이번 주에 계약 세부 사항을 매듭지읍시다."
+  },
+  {
+   "w": "roll out",
+   "p": "숙어",
+   "m": "출시하다",
+   "cat": "마케팅",
+   "ex": "The bank will <b>roll out</b> the new app in stages.",
+   "exKo": "그 은행은 새 앱을 단계적으로 출시할 예정입니다."
+  },
+  {
+   "w": "phase in",
+   "p": "숙어",
+   "m": "단계적으로 도입하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "phase out",
+     "k": "반의",
+     "m": "단계적으로 폐지하다"
+    }
+   ],
+   "ex": "The new uniforms will be <b>phased in</b> over a year.",
+   "exKo": "새 유니폼은 1년에 걸쳐 단계적으로 도입됩니다."
+  },
+  {
+   "w": "scale up",
+   "p": "숙어",
+   "m": "확대하다",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "scale down",
+     "k": "반의",
+     "m": "축소하다"
+    }
+   ],
+   "ex": "The bakery must <b>scale up</b> to meet online orders.",
+   "exKo": "그 빵집은 온라인 주문을 감당하려면 규모를 키워야 합니다."
+  },
+  {
+   "w": "factor in",
+   "p": "숙어",
+   "m": "~을 감안하다",
+   "cat": "재무·회계",
+   "ex": "Remember to <b>factor in</b> shipping when pricing.",
+   "exKo": "가격 책정 시 배송비를 감안하는 것을 잊지 마세요."
+  },
+  {
+   "w": "account for",
+   "p": "숙어",
+   "m": "~을 차지하다, 설명하다",
+   "cat": "재무·회계",
+   "ex": "Exports <b>account for</b> half of total revenue.",
+   "exKo": "수출이 전체 매출의 절반을 차지합니다."
+  },
+  {
+   "w": "bank on",
+   "p": "숙어",
+   "m": "~을 믿다, 기대다",
+   "cat": "재무·회계",
+   "ex": "We are <b>banking on</b> strong holiday sales.",
+   "exKo": "우리는 견조한 연휴 매출을 기대하고 있습니다."
+  },
+  {
+   "w": "cater to",
+   "p": "숙어",
+   "m": "~의 요구를 충족시키다",
+   "cat": "마케팅",
+   "ex": "The menu <b>caters to</b> vegetarian diners as well.",
+   "exKo": "그 메뉴는 채식 손님의 요구도 충족시킵니다."
+  },
+  {
+   "w": "draw up",
+   "p": "숙어",
+   "m": "(문서를) 작성하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "draw up a contract",
+     "k": "숙어",
+     "m": "계약서를 작성하다"
+    }
+   ],
+   "ex": "Legal will <b>draw up</b> the new agreement.",
+   "exKo": "법무팀이 새 계약서를 작성할 것입니다."
+  },
+  {
+   "w": "follow up on",
+   "p": "숙어",
+   "m": "~의 후속 조치를 하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "follow-up",
+     "k": "파생",
+     "m": "후속 (조치)"
+    }
+   ],
+   "ex": "Please <b>follow up on</b> the unanswered quotes.",
+   "exKo": "회신 없는 견적 건들의 후속 조치를 해 주세요."
+  },
+  {
+   "w": "hand over",
+   "p": "숙어",
+   "m": "인계하다",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "handover",
+     "k": "파생",
+     "m": "인수인계"
+    }
+   ],
+   "ex": "She will <b>hand over</b> her duties before the transfer.",
+   "exKo": "그녀는 전보 전에 업무를 인계할 것입니다."
+  },
+  {
+   "w": "lay off",
+   "p": "숙어",
+   "m": "해고하다",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "layoffs",
+     "k": "파생",
+     "m": "정리 해고"
+    }
+   ],
+   "ex": "The plant had to <b>lay off</b> forty workers.",
+   "exKo": "그 공장은 40명을 해고해야 했습니다."
+  },
+  {
+   "w": "opt for",
+   "p": "숙어",
+   "m": "~을 선택하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "opt out of",
+     "k": "숙어",
+     "m": "~에서 빠지다"
+    },
+    {
+     "w": "opt in",
+     "k": "숙어",
+     "m": "참여를 선택하다"
+    }
+   ],
+   "ex": "Most customers <b>opt for</b> the annual plan.",
+   "exKo": "대부분의 고객은 연간 요금제를 선택합니다."
+  },
+  {
+   "w": "pass up",
+   "p": "숙어",
+   "m": "(기회를) 놓치다, 거절하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "pass up an opportunity",
+     "k": "숙어",
+     "m": "기회를 지나치다"
+    }
+   ],
+   "ex": "Don't <b>pass up</b> the early-bird discount.",
+   "exKo": "조기 등록 할인 기회를 놓치지 마세요."
+  },
+  {
+   "w": "pull off",
+   "p": "숙어",
+   "m": "해내다",
+   "cat": "회의",
+   "ex": "The team <b>pulled off</b> the launch in record time.",
+   "exKo": "팀은 기록적인 시간 안에 출시를 해냈습니다."
+  },
+  {
+   "w": "put forward",
+   "p": "숙어",
+   "m": "제안하다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "put forward a proposal",
+     "k": "숙어",
+     "m": "제안을 내놓다"
+    }
+   ],
+   "ex": "She <b>put forward</b> a plan to cut waste.",
+   "exKo": "그녀는 낭비를 줄일 방안을 제안했습니다."
+  },
+  {
+   "w": "rule out",
+   "p": "숙어",
+   "m": "배제하다",
+   "cat": "회의",
+   "ex": "We cannot <b>rule out</b> further price increases.",
+   "exKo": "추가 가격 인상을 배제할 수 없습니다."
+  },
+  {
+   "w": "set aside",
+   "p": "숙어",
+   "m": "따로 떼어 두다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "set aside funds",
+     "k": "숙어",
+     "m": "자금을 마련해 두다"
+    }
+   ],
+   "ex": "<b>Set aside</b> funds for equipment repairs.",
+   "exKo": "장비 수리를 위한 자금을 따로 떼어 두세요."
+  },
+  {
+   "w": "single out",
+   "p": "숙어",
+   "m": "특별히 지목하다",
+   "cat": "채용·인사",
+   "ex": "The CEO <b>singled out</b> the support team for praise.",
+   "exKo": "CEO는 지원팀을 특별히 지목해 칭찬했습니다."
+  },
+  {
+   "w": "sort out",
+   "p": "숙어",
+   "m": "정리하다, 해결하다",
+   "cat": "시설·사무",
+   "ex": "IT will <b>sort out</b> the login issue today.",
+   "exKo": "IT팀이 오늘 로그인 문제를 해결할 것입니다."
+  },
+  {
+   "w": "spell out",
+   "p": "숙어",
+   "m": "명확히 설명하다",
+   "cat": "계약·법무",
+   "ex": "The contract <b>spells out</b> each party's duties.",
+   "exKo": "계약서는 각 당사자의 의무를 명확히 설명합니다."
+  },
+  {
+   "w": "step down",
+   "p": "숙어",
+   "m": "사임하다",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "step down as CEO",
+     "k": "숙어",
+     "m": "CEO직에서 물러나다"
+    }
+   ],
+   "ex": "The chairman will <b>step down</b> in March.",
+   "exKo": "회장은 3월에 사임할 예정입니다."
+  },
+  {
+   "w": "step up",
+   "p": "숙어",
+   "m": "강화하다, 나서다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "step up efforts",
+     "k": "숙어",
+     "m": "노력을 강화하다"
+    }
+   ],
+   "ex": "Security was <b>stepped up</b> during the summit.",
+   "exKo": "정상 회담 기간에 보안이 강화되었습니다."
+  },
+  {
+   "w": "tap into",
+   "p": "숙어",
+   "m": "(시장을) 개척하다, 활용하다",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "tap into a market",
+     "k": "숙어",
+     "m": "시장을 공략하다"
+    }
+   ],
+   "ex": "The brand hopes to <b>tap into</b> the senior market.",
+   "exKo": "그 브랜드는 시니어 시장을 개척하고자 합니다."
+  },
+  {
+   "w": "wind down",
+   "p": "숙어",
+   "m": "서서히 종료하다",
+   "cat": "계약·법무",
+   "ex": "The firm will <b>wind down</b> its paper catalog business.",
+   "exKo": "그 회사는 종이 카탈로그 사업을 서서히 접을 예정입니다."
+  },
+  {
+   "w": "write up",
+   "p": "숙어",
+   "m": "(보고서를) 작성하다",
+   "cat": "시설·사무",
+   "ex": "Please <b>write up</b> the incident before you leave.",
+   "exKo": "퇴근 전에 사건 보고서를 작성해 주세요."
+  },
+  {
+   "w": "zero in on",
+   "p": "숙어",
+   "m": "~에 초점을 맞추다",
+   "cat": "마케팅",
+   "ex": "The ads <b>zero in on</b> first-time home buyers.",
+   "exKo": "그 광고는 생애 첫 주택 구매자에 초점을 맞춥니다."
+  },
+  {
+   "w": "abreast",
+   "p": "부사",
+   "m": "나란히, (정보에) 밝은",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "keep abreast of",
+     "k": "숙어",
+     "m": "~의 최신 정보를 유지하다"
+    }
+   ],
+   "ex": "Newsletters keep members <b>abreast</b> of rule changes.",
+   "exKo": "뉴스레터는 회원들이 규정 변경을 놓치지 않게 해 줍니다."
+  },
+  {
+   "w": "aforementioned",
+   "p": "형용사",
+   "m": "앞서 언급한",
+   "cat": "계약·법무",
+   "ex": "The <b>aforementioned</b> fees are non-refundable.",
+   "exKo": "앞서 언급한 수수료는 환불되지 않습니다."
+  },
+  {
+   "w": "albatross",
+   "p": "명사",
+   "m": "골칫거리, 부담",
+   "cat": "재무·회계",
+   "ex": "The unused lease became an <b>albatross</b> for the firm.",
+   "exKo": "쓰지 않는 임대 계약은 회사의 골칫거리가 되었습니다."
+  },
+  {
+   "w": "allure",
+   "p": "명사",
+   "m": "매력",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "alluring",
+     "k": "파생",
+     "m": "매혹적인"
+    }
+   ],
+   "ex": "The seaside town's <b>allure</b> draws weekend crowds.",
+   "exKo": "그 해변 마을의 매력이 주말 인파를 끌어들입니다."
+  },
+  {
+   "w": "antiquated",
+   "p": "형용사",
+   "m": "구식의",
+   "cat": "시설·사무",
+   "ex": "The <b>antiquated</b> filing system slows everything down.",
+   "exKo": "구식 문서 관리 시스템이 모든 일을 늦춥니다."
+  },
+  {
+   "w": "archaic",
+   "p": "형용사",
+   "m": "낡은, 폐물이 된",
+   "cat": "시설·사무",
+   "ex": "The <b>archaic</b> fax process was finally retired.",
+   "exKo": "낡은 팩스 절차가 마침내 폐지되었습니다."
+  },
+  {
+   "w": "assiduous",
+   "p": "형용사",
+   "m": "근면 성실한",
+   "cat": "채용·인사",
+   "ex": "Her <b>assiduous</b> preparation impressed the panel.",
+   "exKo": "그녀의 성실한 준비가 심사단에 깊은 인상을 주었습니다."
+  },
+  {
+   "w": "avidly",
+   "p": "부사",
+   "m": "열심히, 열렬히",
+   "cat": "마케팅",
+   "ex": "Fans <b>avidly</b> awaited the sequel's release.",
+   "exKo": "팬들은 속편 출시를 열렬히 기다렸습니다."
+  },
+  {
+   "w": "bane",
+   "p": "명사",
+   "m": "골칫거리",
+   "cat": "시설·사무",
+   "ex": "Spam calls are the <b>bane</b> of the sales team.",
+   "exKo": "스팸 전화는 영업팀의 골칫거리입니다."
+  },
+  {
+   "w": "bemoan",
+   "p": "동사",
+   "m": "한탄하다",
+   "cat": "회의",
+   "ex": "Retailers <b>bemoan</b> the rising cost of rent.",
+   "exKo": "소매업자들은 치솟는 임대료를 한탄합니다."
+  },
+  {
+   "w": "bounty",
+   "p": "명사",
+   "m": "풍부함, 포상금",
+   "cat": "배송·주문",
+   "ex": "The market offers a <b>bounty</b> of fresh produce.",
+   "exKo": "그 시장은 신선한 농산물이 풍부합니다."
+  },
+  {
+   "w": "brevity",
+   "p": "명사",
+   "m": "간결함",
+   "cat": "회의",
+   "ex": "The memo was praised for its <b>brevity</b>.",
+   "exKo": "그 메모는 간결함으로 호평을 받았습니다."
+  },
+  {
+   "w": "brink",
+   "p": "명사",
+   "m": "직전, 벼랑 끝",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "on the brink of",
+     "k": "숙어",
+     "m": "~ 직전에"
+    }
+   ],
+   "ex": "The chain was on the <b>brink</b> of insolvency.",
+   "exKo": "그 체인은 지급 불능 직전이었습니다."
+  },
+  {
+   "w": "catapult",
+   "p": "동사",
+   "m": "단숨에 끌어올리다",
+   "cat": "마케팅",
+   "ex": "One viral post <b>catapulted</b> the shop to fame.",
+   "exKo": "바이럴 게시물 하나가 그 가게를 단숨에 유명하게 만들었습니다."
+  },
+  {
+   "w": "conceive",
+   "p": "동사",
+   "m": "구상하다, 생각해 내다",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "conceive of",
+     "k": "숙어",
+     "m": "~을 상상하다"
+    }
+   ],
+   "ex": "The campaign was <b>conceived</b> over a single lunch.",
+   "exKo": "그 캠페인은 점심 한 끼 자리에서 구상되었습니다."
+  },
+  {
+   "w": "confluence",
+   "p": "명사",
+   "m": "합류, (요인의) 결합",
+   "cat": "회의",
+   "ex": "A <b>confluence</b> of factors drove prices up.",
+   "exKo": "여러 요인의 결합이 가격을 끌어올렸습니다."
+  },
+  {
+   "w": "copious",
+   "p": "형용사",
+   "m": "방대한",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "copious notes",
+     "k": "숙어",
+     "m": "방대한 메모"
+    }
+   ],
+   "ex": "She took <b>copious</b> notes during the audit.",
+   "exKo": "그녀는 감사 중에 방대한 메모를 남겼습니다."
+  },
+  {
+   "w": "defunct",
+   "p": "형용사",
+   "m": "현존하지 않는, 폐지된",
+   "cat": "계약·법무",
+   "ex": "The <b>defunct</b> airline's routes were absorbed by rivals.",
+   "exKo": "사라진 항공사의 노선은 경쟁사들이 흡수했습니다."
+  },
+  {
+   "w": "deluge",
+   "p": "명사",
+   "m": "쇄도, 폭주",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "a deluge of complaints",
+     "k": "숙어",
+     "m": "불만 폭주"
+    }
+   ],
+   "ex": "A <b>deluge</b> of orders crashed the website.",
+   "exKo": "주문 폭주로 웹사이트가 다운되었습니다."
+  },
+  {
+   "w": "dilapidated",
+   "p": "형용사",
+   "m": "허물어져 가는",
+   "cat": "시설·사무",
+   "ex": "The <b>dilapidated</b> depot will be rebuilt next year.",
+   "exKo": "허물어져 가는 차고는 내년에 재건축됩니다."
+  },
+  {
+   "w": "dissipate",
+   "p": "동사",
+   "m": "흩어지다, 사라지다",
+   "cat": "재무·회계",
+   "ex": "Concerns <b>dissipated</b> once the audit cleared.",
+   "exKo": "감사가 무혐의로 끝나자 우려가 사라졌습니다."
+  },
+  {
+   "w": "eclectic",
+   "p": "형용사",
+   "m": "다방면의, 절충적인",
+   "cat": "마케팅",
+   "ex": "The shop stocks an <b>eclectic</b> mix of goods.",
+   "exKo": "그 가게는 다방면의 다양한 상품을 갖추고 있습니다."
+  },
+  {
+   "w": "elusive",
+   "p": "형용사",
+   "m": "잡기 어려운, 달성하기 어려운",
+   "cat": "마케팅",
+   "ex": "Profitability remained <b>elusive</b> for the startup.",
+   "exKo": "그 스타트업에게 흑자는 여전히 잡기 어려웠습니다."
+  },
+  {
+   "w": "emblematic",
+   "p": "형용사",
+   "m": "상징적인",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "be emblematic of",
+     "k": "숙어",
+     "m": "~을 상징하다"
+    }
+   ],
+   "ex": "The tower is <b>emblematic</b> of the city's growth.",
+   "exKo": "그 타워는 도시 성장의 상징입니다."
+  },
+  {
+   "w": "engrossed",
+   "p": "형용사",
+   "m": "몰두한",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "be engrossed in",
+     "k": "숙어",
+     "m": "~에 몰두하다"
+    }
+   ],
+   "ex": "He was <b>engrossed</b> in the quarterly figures.",
+   "exKo": "그는 분기 실적 수치에 몰두해 있었습니다."
+  },
+  {
+   "w": "ebb",
+   "p": "동사",
+   "m": "약해지다, 빠지다",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "ebb and flow",
+     "k": "숙어",
+     "m": "성쇠, 기복"
+    }
+   ],
+   "ex": "Demand tends to <b>ebb</b> after the holidays.",
+   "exKo": "수요는 연휴가 지나면 약해지는 경향이 있습니다."
+  },
+  {
+   "w": "fervent",
+   "p": "형용사",
+   "m": "열렬한",
+   "cat": "마케팅",
+   "ex": "The brand has a <b>fervent</b> fan community.",
+   "exKo": "그 브랜드에는 열렬한 팬 커뮤니티가 있습니다."
+  },
+  {
+   "w": "fledgling",
+   "p": "형용사",
+   "m": "신생의, 신출내기의",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "fledgling company",
+     "k": "숙어",
+     "m": "신생 기업"
+    }
+   ],
+   "ex": "The <b>fledgling</b> airline operates just three routes.",
+   "exKo": "그 신생 항공사는 단 세 개 노선만 운항합니다."
+  },
+  {
+   "w": "foray",
+   "p": "명사",
+   "m": "진출, 시도",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "foray into",
+     "k": "숙어",
+     "m": "~로의 진출"
+    }
+   ],
+   "ex": "This is the brand's first <b>foray</b> into cosmetics.",
+   "exKo": "이번이 그 브랜드의 첫 화장품 진출입니다."
+  },
+  {
+   "w": "fruition",
+   "p": "명사",
+   "m": "결실",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "come to fruition",
+     "k": "숙어",
+     "m": "결실을 맺다"
+    }
+   ],
+   "ex": "Years of planning came to <b>fruition</b> at the opening.",
+   "exKo": "수년의 계획이 개장과 함께 결실을 맺었습니다."
+  },
+  {
+   "w": "heyday",
+   "p": "명사",
+   "m": "전성기",
+   "cat": "마케팅",
+   "ex": "In its <b>heyday</b>, the mall drew huge crowds.",
+   "exKo": "전성기에 그 쇼핑몰은 엄청난 인파를 끌었습니다."
+  },
+  {
+   "w": "impasse",
+   "p": "명사",
+   "m": "교착 상태",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "reach an impasse",
+     "k": "숙어",
+     "m": "교착 상태에 빠지다"
+    }
+   ],
+   "ex": "The wage talks reached an <b>impasse</b>.",
+   "exKo": "임금 협상은 교착 상태에 빠졌습니다."
+  },
+  {
+   "w": "impetus",
+   "p": "명사",
+   "m": "추진력, 자극",
+   "cat": "마케팅",
+   "ex": "The tax break gave fresh <b>impetus</b> to investment.",
+   "exKo": "감세가 투자에 새로운 추진력을 주었습니다."
+  },
+  {
+   "w": "inroads",
+   "p": "명사",
+   "m": "진출, 잠식",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "make inroads into",
+     "k": "숙어",
+     "m": "~에 진출하다"
+    }
+   ],
+   "ex": "The app made <b>inroads</b> into the delivery market.",
+   "exKo": "그 앱은 배달 시장에 진출해 자리를 잡았습니다."
+  },
+  {
+   "w": "linchpin",
+   "p": "명사",
+   "m": "핵심, 요체",
+   "cat": "채용·인사",
+   "ex": "The logistics hub is the <b>linchpin</b> of our network.",
+   "exKo": "그 물류 허브는 우리 네트워크의 핵심입니다."
+  },
+  {
+   "w": "maiden",
+   "p": "형용사",
+   "m": "첫, 처녀의",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "maiden voyage",
+     "k": "숙어",
+     "m": "첫 항해"
+    }
+   ],
+   "ex": "The ship's <b>maiden</b> voyage sold out months ahead.",
+   "exKo": "그 배의 첫 항해는 몇 달 전에 매진되었습니다."
+  },
+  {
+   "w": "nascent",
+   "p": "형용사",
+   "m": "초기의, 태동하는",
+   "cat": "마케팅",
+   "ex": "The <b>nascent</b> drone industry is drawing investors.",
+   "exKo": "태동하는 드론 산업이 투자자들을 끌어들이고 있습니다."
+  },
+  {
+   "w": "outset",
+   "p": "명사",
+   "m": "시작",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "at the outset",
+     "k": "숙어",
+     "m": "처음부터"
+    },
+    {
+     "w": "from the outset",
+     "k": "숙어",
+     "m": "시작부터"
+    }
+   ],
+   "ex": "Set clear goals at the <b>outset</b> of the project.",
+   "exKo": "프로젝트 시작 시점에 명확한 목표를 세우세요."
+  },
+  {
+   "w": "plethora",
+   "p": "명사",
+   "m": "과다, 아주 많음",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "a plethora of",
+     "k": "숙어",
+     "m": "수많은"
+    }
+   ],
+   "ex": "Shoppers face a <b>plethora</b> of phone plans.",
+   "exKo": "쇼핑객들은 너무 많은 요금제와 마주합니다."
+  },
+  {
+   "w": "quandary",
+   "p": "명사",
+   "m": "진퇴양난",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "in a quandary",
+     "k": "숙어",
+     "m": "난처한 상황에"
+    }
+   ],
+   "ex": "The recall left retailers in a <b>quandary</b>.",
+   "exKo": "리콜로 소매업체들은 진퇴양난에 빠졌습니다."
+  },
+  {
+   "w": "stalwart",
+   "p": "명사",
+   "m": "충실한 지지자, 중견",
+   "cat": "채용·인사",
+   "ex": "She is a <b>stalwart</b> of the local business council.",
+   "exKo": "그녀는 지역 상공 협의회의 중견 인사입니다."
+  },
+  {
+   "w": "stint",
+   "p": "명사",
+   "m": "(일한) 기간",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "a two-year stint",
+     "k": "숙어",
+     "m": "2년간의 근무"
+    }
+   ],
+   "ex": "After a two-year <b>stint</b> abroad, he returned to HQ.",
+   "exKo": "2년간의 해외 근무 후 그는 본사로 복귀했습니다."
+  },
+  {
+   "w": "vanguard",
+   "p": "명사",
+   "m": "선봉",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "at the vanguard of",
+     "k": "숙어",
+     "m": "~의 선두에서"
+    }
+   ],
+   "ex": "The lab is at the <b>vanguard</b> of battery research.",
+   "exKo": "그 연구소는 배터리 연구의 선봉에 있습니다."
+  },
+  {
+   "w": "watershed",
+   "p": "명사",
+   "m": "분수령",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "watershed moment",
+     "k": "숙어",
+     "m": "분수령이 되는 순간"
+    }
+   ],
+   "ex": "The merger was a <b>watershed</b> moment for the industry.",
+   "exKo": "그 합병은 업계의 분수령이 된 순간이었습니다."
+  },
+  {
+   "w": "zenith",
+   "p": "명사",
+   "m": "정점",
+   "cat": "마케팅",
+   "ex": "The brand reached its <b>zenith</b> in the nineties.",
+   "exKo": "그 브랜드는 90년대에 정점에 도달했습니다."
+  }
+ ]
+}

@@ -1,0 +1,644 @@
+{
+ "passages": [
+  {
+   "kind": "이메일",
+   "title": "면접 일정 확정 메일",
+   "passage": "From: Recruiting Team\nTo: Diego Ramos\nSubject: Interview on March 12\n\nDear Mr. Ramos,\n\nThank you for applying for the office assistant position. Your interview is scheduled for Tuesday, March 12, at 2 p.m. at our headquarters, 10 Birch Avenue, Room 501.\n\nPlease bring one copy of your resume and a photo ID. The interview will last about 45 minutes. Reply to confirm you can attend.\n\nBest regards,\nRecruiting Team",
+   "questions": [
+    {
+     "q": "What position did Mr. Ramos apply for?",
+     "type": "세부사항",
+     "choices": [
+      "Office assistant",
+      "Recruiter",
+      "Security guard",
+      "Sales manager"
+     ],
+     "a": 0,
+     "exKo": "applying for the office assistant position에서 확인됩니다.",
+     "why": [
+      "'the office assistant position'이 지원 직무",
+      "Recruiting Team은 메일 발신자 — 단어 반복 함정",
+      "경비직에 지원했다는 언급이 지문에 없음",
+      "영업 관리자직은 지문에 언급 없음"
+     ],
+     "ev": "Thank you for applying for the office assistant position."
+    },
+    {
+     "q": "What should Mr. Ramos bring?",
+     "type": "세부사항",
+     "choices": [
+      "A resume and a photo ID",
+      "Two references",
+      "A laptop",
+      "A portfolio"
+     ],
+     "a": 0,
+     "exKo": "bring one copy of your resume and a photo ID라고 안내합니다.",
+     "why": [
+      "'your resume and a photo ID'가 지참물 두 가지",
+      "추천서 두 부를 요구한 언급이 지문에 없음",
+      "노트북을 가져오라는 언급이 지문에 없음",
+      "포트폴리오 지참 요구는 지문에 없음"
+     ],
+     "ev": "Please bring one copy of your resume and a photo ID."
+    },
+    {
+     "q": "What is Mr. Ramos asked to do?",
+     "type": "세부사항",
+     "choices": [
+      "Reply to confirm attendance",
+      "Call Room 501",
+      "Arrive an hour early",
+      "Email his schedule"
+     ],
+     "a": 0,
+     "exKo": "Reply to confirm you can attend라고 요청합니다.",
+     "why": [
+      "'Reply to confirm'이 참석 확인 회신 요청",
+      "Room 501은 면접 장소일 뿐 전화 요청 없음",
+      "한 시간 일찍 오라는 언급이 지문에 없음",
+      "일정을 이메일로 보내라는 요청은 없음"
+     ],
+     "ev": "Reply to confirm you can attend."
+    }
+   ]
+  },
+  {
+   "kind": "이메일",
+   "title": "전기요금 자동이체 안내 메일",
+   "passage": "From: City Power\nTo: Nora Wells\nSubject: Automatic Payment Started\n\nDear Ms. Wells,\n\nAutomatic payment for your electricity bill has been set up successfully. Starting next month, your bill will be paid from your bank account on the 25th of each month.\n\nYou will still receive a bill by email five days before payment so you can check the amount. To stop automatic payment, log in to your account at any time.\n\nCity Power Billing",
+   "questions": [
+    {
+     "q": "What does the email confirm?",
+     "type": "주제·목적",
+     "choices": [
+      "Automatic bill payment has started",
+      "A bill is overdue",
+      "A meter will be replaced",
+      "An account was closed"
+     ],
+     "a": 0,
+     "exKo": "전기요금 자동이체 설정이 완료되었음을 알리는 메일입니다.",
+     "why": [
+      "'has been set up successfully'가 자동이체 개시 확인",
+      "요금 연체를 알리는 내용은 지문에 없음",
+      "계량기 교체 언급이 지문에 전혀 없음",
+      "계좌 해지가 아니라 자동이체 시작 — 지문과 반대"
+     ],
+     "ev": "Automatic payment for your electricity bill has been set up successfully."
+    },
+    {
+     "q": "When will bills be paid?",
+     "type": "세부사항",
+     "choices": [
+      "On the 25th of each month",
+      "On the 5th of each month",
+      "Every week",
+      "At the end of the year"
+     ],
+     "a": 0,
+     "exKo": "paid from your bank account on the 25th of each month라고 명시합니다.",
+     "why": [
+      "'on the 25th of each month'가 출금일을 명시",
+      "5일은 청구서 발송 시점과 혼동한 숫자",
+      "매주 결제된다는 언급이 지문에 없음",
+      "연말 일괄 결제라는 언급이 지문에 없음"
+     ],
+     "ev": "your bill will be paid from your bank account on the 25th of each month"
+    },
+    {
+     "q": "When will Ms. Wells receive the bill by email?",
+     "type": "세부사항",
+     "choices": [
+      "Five days before payment",
+      "After payment",
+      "On payment day",
+      "Once a year"
+     ],
+     "a": 0,
+     "exKo": "five days before payment에서 확인됩니다.",
+     "why": [
+      "'five days before payment'가 청구서 수신 시점",
+      "결제 후가 아니라 결제 전 — 지문과 반대",
+      "결제 당일이 아니라 5일 전임",
+      "매달 받으므로 연 1회는 지문과 반대"
+     ],
+     "ev": "You will still receive a bill by email five days before payment"
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "복사기 사용 교육 공지",
+   "passage": "NEW COPIER TRAINING\n\nThe new copiers on floors 2 and 4 have features many staff have asked about, such as scanning to email and double-sided booklet printing.\n\nShort training sessions will be held in Room 210 on Wednesday at 10 a.m., 1 p.m., and 3 p.m. Each session lasts 20 minutes and covers the same content, so attend any one of them.\n\nOffice Support",
+   "questions": [
+    {
+     "q": "What is the notice about?",
+     "type": "주제·목적",
+     "choices": [
+      "Training for new copiers",
+      "Buying new copiers",
+      "A room change",
+      "An email problem"
+     ],
+     "a": 0,
+     "exKo": "새 복사기 사용법 교육을 안내하는 공지입니다.",
+     "why": [
+      "'Short training sessions'가 새 복사기 교육 안내임을 보여 줌",
+      "복사기 구매에 관한 언급이 지문에 없음",
+      "Room 210은 교육 장소 — 단어 반복 함정",
+      "이메일 스캔은 기능 소개이지 문제 발생 아님"
+     ],
+     "ev": "Short training sessions will be held in Room 210 on Wednesday at 10 a.m., 1 p.m., and 3 p.m."
+    },
+    {
+     "q": "How long is each session?",
+     "type": "세부사항",
+     "choices": [
+      "20 minutes",
+      "1 hour",
+      "10 minutes",
+      "Half a day"
+     ],
+     "a": 0,
+     "exKo": "Each session lasts 20 minutes라고 명시합니다.",
+     "why": [
+      "'lasts 20 minutes'가 회당 소요 시간",
+      "한 시간이라는 언급이 지문에 없음",
+      "10분이 아니라 20분 — 숫자 혼동",
+      "반나절 진행한다는 언급이 지문에 없음"
+     ],
+     "ev": "Each session lasts 20 minutes and covers the same content"
+    },
+    {
+     "q": "What is true about the three sessions?",
+     "type": "세부사항",
+     "choices": [
+      "They cover the same content",
+      "They must all be attended",
+      "They are on different days",
+      "They are for managers only"
+     ],
+     "a": 0,
+     "exKo": "covers the same content, so attend any one of them에서 확인됩니다.",
+     "why": [
+      "'covers the same content'가 내용이 동일함을 명시",
+      "아무거나 하나만 들으라 했으므로 지문과 반대",
+      "셋 다 수요일에 열리므로 지문과 반대",
+      "관리자 대상이라는 제한은 지문에 없음"
+     ],
+     "ev": "covers the same content, so attend any one of them"
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "자전거 보관소 이용 공지",
+   "passage": "BICYCLE PARKING NOTICE\n\nThe new bicycle room in the basement is now open. It has space for 60 bikes, a repair stand, and a tire pump.\n\nRegister your bike at the security desk to receive a free access sticker. Bikes may not be parked in the lobby or stairways for safety reasons. Overnight parking is allowed on weekdays only.\n\nBuilding Management",
+   "questions": [
+    {
+     "q": "What has opened in the basement?",
+     "type": "주제·목적",
+     "choices": [
+      "A bicycle room",
+      "A repair shop",
+      "A storage locker",
+      "A gym"
+     ],
+     "a": 0,
+     "exKo": "지하에 자전거 보관소가 문을 열었다는 공지입니다.",
+     "why": [
+      "'bicycle room in the basement'가 개방된 시설",
+      "repair stand는 내부 설비일 뿐 수리점 아님",
+      "보관 사물함이라는 언급이 지문에 없음",
+      "체육관에 관한 언급이 지문에 전혀 없음"
+     ],
+     "ev": "The new bicycle room in the basement is now open."
+    },
+    {
+     "q": "How can staff get an access sticker?",
+     "type": "세부사항",
+     "choices": [
+      "Register their bike at the security desk",
+      "Buy one at the shop",
+      "Email building management",
+      "Show a receipt"
+     ],
+     "a": 0,
+     "exKo": "Register your bike at the security desk라고 안내합니다.",
+     "why": [
+      "'Register ... at the security desk'가 발급 절차",
+      "무료로 준다고 했으므로 구매는 지문과 반대",
+      "이메일로 신청하라는 언급이 지문에 없음",
+      "영수증 제시 요구는 지문에 언급 없음"
+     ],
+     "ev": "Register your bike at the security desk to receive a free access sticker."
+    },
+    {
+     "q": "Where are bikes NOT allowed?",
+     "type": "세부사항",
+     "choices": [
+      "In the lobby and stairways",
+      "In the basement",
+      "At the repair stand",
+      "Outside the building"
+     ],
+     "a": 0,
+     "exKo": "not be parked in the lobby or stairways에서 확인됩니다.",
+     "why": [
+      "'may not be parked in the lobby or stairways'가 금지 구역",
+      "지하는 정식 보관 장소 — 지문과 반대",
+      "수리대는 이용 가능한 설비 — 단어 반복 함정",
+      "건물 밖 주차 금지 언급은 지문에 없음"
+     ],
+     "ev": "Bikes may not be parked in the lobby or stairways for safety reasons."
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "이력서 사진 스튜디오 광고",
+   "passage": "LOOK YOUR BEST — PHOTO ONE STUDIO\n\nNeed a photo for your resume or company profile? Our professional package includes hair touch-up, three outfit changes, and five edited photos, all for $35.\n\nPhotos are ready for download within 24 hours. Walk-ins welcome on weekdays; weekend visits require a booking. Located across from the East Mall bus stop.",
+   "questions": [
+    {
+     "q": "What is being advertised?",
+     "type": "주제·목적",
+     "choices": [
+      "A photo studio package",
+      "A hair salon",
+      "A clothing store",
+      "A bus service"
+     ],
+     "a": 0,
+     "exKo": "이력서·프로필 사진 촬영 패키지를 홍보하는 광고입니다.",
+     "why": [
+      "이력서·프로필 사진 촬영 서비스를 홍보하는 광고",
+      "헤어 손질은 패키지 일부 — 일부만 맞고 나머지 틀림",
+      "의상 변경은 촬영 서비스이지 옷 가게 아님",
+      "버스 정류장은 위치 설명 — 단어 반복 함정"
+     ],
+     "ev": "Need a photo for your resume or company profile?"
+    },
+    {
+     "q": "What is included for $35?",
+     "type": "세부사항",
+     "choices": [
+      "Touch-up, outfit changes, and five edited photos",
+      "A printed album",
+      "Ten photos and a frame",
+      "A video profile"
+     ],
+     "a": 0,
+     "exKo": "hair touch-up, three outfit changes, and five edited photos가 포함됩니다.",
+     "why": [
+      "'includes' 뒤 세 항목이 35달러 구성 그대로",
+      "인화 앨범 제공 언급이 지문에 없음",
+      "사진은 다섯 장이고 액자 언급도 없음",
+      "영상 프로필 제작은 지문에 언급 없음"
+     ],
+     "ev": "Our professional package includes hair touch-up, three outfit changes, and five edited photos, all for $35."
+    },
+    {
+     "q": "What is required for weekend visits?",
+     "type": "세부사항",
+     "choices": [
+      "A booking",
+      "Extra payment",
+      "A company card",
+      "Nothing"
+     ],
+     "a": 0,
+     "exKo": "weekend visits require a booking이라고 명시합니다.",
+     "why": [
+      "'weekend visits require a booking'이 주말 조건",
+      "추가 요금에 관한 언급이 지문에 없음",
+      "법인 카드가 필요하다는 언급이 없음",
+      "예약 없이 가능한 것은 평일 — 지문과 반대"
+     ],
+     "ev": "Walk-ins welcome on weekdays; weekend visits require a booking."
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "중고 노트북 보상판매 광고",
+   "passage": "TRADE IN, TRADE UP — TECH HARBOR\n\nBring your old laptop to Tech Harbor and get up to $200 off a new model. Any brand is accepted, working or not.\n\nOur staff moves your files to the new laptop for free — it takes about an hour. Every new laptop comes with a two-year warranty. Visit any of our three city stores; no appointment needed.",
+   "questions": [
+    {
+     "q": "What does the store offer for old laptops?",
+     "type": "주제·목적",
+     "choices": [
+      "Up to $200 off a new model",
+      "Free repairs",
+      "Cash payment only",
+      "Recycling stickers"
+     ],
+     "a": 0,
+     "exKo": "중고 노트북을 가져오면 새 제품을 최대 200달러 할인해 줍니다.",
+     "why": [
+      "'up to $200 off a new model'이 보상 혜택",
+      "무료 수리를 해 준다는 언급이 지문에 없음",
+      "현금으로 지급한다는 언급이 지문에 없음",
+      "재활용 스티커에 관한 언급이 전혀 없음"
+     ],
+     "ev": "Bring your old laptop to Tech Harbor and get up to $200 off a new model."
+    },
+    {
+     "q": "What do staff do for free?",
+     "type": "세부사항",
+     "choices": [
+      "Move files to the new laptop",
+      "Clean the old laptop",
+      "Deliver the laptop",
+      "Extend the warranty"
+     ],
+     "a": 0,
+     "exKo": "moves your files to the new laptop for free라고 안내합니다.",
+     "why": [
+      "'moves your files ... for free'가 무료 서비스",
+      "옛 노트북 청소 언급이 지문에 없음",
+      "배송 서비스에 관한 언급이 지문에 없음",
+      "보증은 기본 2년이며 연장 언급은 없음"
+     ],
+     "ev": "Our staff moves your files to the new laptop for free"
+    },
+    {
+     "q": "What comes with every new laptop?",
+     "type": "세부사항",
+     "choices": [
+      "A two-year warranty",
+      "A free bag",
+      "A printer",
+      "Extra memory"
+     ],
+     "a": 0,
+     "exKo": "comes with a two-year warranty에서 확인됩니다.",
+     "why": [
+      "'comes with a two-year warranty'가 기본 제공 사항",
+      "무료 가방 증정은 지문에 언급 없음",
+      "프린터를 함께 준다는 언급이 없음",
+      "메모리 추가 제공은 지문에 언급 없음"
+     ],
+     "ev": "Every new laptop comes with a two-year warranty."
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "조용한 열차 칸 도입 기사",
+   "passage": "METRO REGION — Starting April 1, the last car of every Green Line train will be a quiet car. Phone calls, music without headphones, and loud talking will not be allowed there.\n\nThe railway tested the idea for one month after riders requested it. Nine out of ten passengers surveyed supported making it permanent. Signs and floor stickers will mark the quiet car clearly.",
+   "questions": [
+    {
+     "q": "What will happen on April 1?",
+     "type": "주제·목적",
+     "choices": [
+      "Quiet cars will be introduced",
+      "Train fares will rise",
+      "A new line will open",
+      "Headphones will be sold"
+     ],
+     "a": 0,
+     "exKo": "4월 1일부터 마지막 칸이 '조용한 칸'으로 운영됩니다.",
+     "why": [
+      "'Starting April 1 ... will be a quiet car'가 시행 내용",
+      "요금 인상에 관한 언급이 지문에 없음",
+      "새 노선 개통은 지문에 언급 없음",
+      "헤드폰은 규정 설명용 — 단어 반복 함정"
+     ],
+     "ev": "Starting April 1, the last car of every Green Line train will be a quiet car."
+    },
+    {
+     "q": "Why did the railway test the idea?",
+     "type": "세부사항",
+     "choices": [
+      "Riders requested it",
+      "The city required it",
+      "Other cities did it",
+      "Trains were too empty"
+     ],
+     "a": 0,
+     "exKo": "after riders requested it에서 확인됩니다.",
+     "why": [
+      "'after riders requested it'이 시범 운영 계기",
+      "시가 요구했다는 언급이 지문에 없음",
+      "다른 도시 사례는 지문에 언급 없음",
+      "열차가 한산해서라는 이유는 언급 없음"
+     ],
+     "ev": "The railway tested the idea for one month after riders requested it."
+    },
+    {
+     "q": "How many surveyed passengers supported the change?",
+     "type": "세부사항",
+     "choices": [
+      "Nine out of ten",
+      "Half",
+      "One out of ten",
+      "All of them"
+     ],
+     "a": 0,
+     "exKo": "Nine out of ten passengers surveyed supported making it permanent라고 명시합니다.",
+     "why": [
+      "'Nine out of ten'이 찬성 비율을 그대로 제시",
+      "절반이라는 수치는 지문에 언급 없음",
+      "10명 중 1명은 찬성 수치를 뒤집은 함정",
+      "전원 찬성은 아니므로 과도한 일반화"
+     ],
+     "ev": "Nine out of ten passengers surveyed supported making it permanent."
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "반려동물 동반 카페 성업 기사",
+   "passage": "BROOKSIDE — Pet-friendly cafe Paws & Coffee celebrated its first anniversary this week. The cafe has a fenced play area for dogs and serves special pet snacks alongside regular coffee.\n\nOwner Grace Kim said weekends are fully booked a week ahead. The cafe also hosts a free pet health talk by a local vet on the first Monday of each month.",
+   "questions": [
+    {
+     "q": "What is special about Paws & Coffee?",
+     "type": "주제·목적",
+     "choices": [
+      "It is a pet-friendly cafe",
+      "It serves only pet food",
+      "It is run by a vet",
+      "It opened this week"
+     ],
+     "a": 0,
+     "exKo": "반려동물 동반이 가능한 카페에 관한 기사입니다.",
+     "why": [
+      "'Pet-friendly cafe'가 이 카페의 특징",
+      "일반 커피도 판매하므로 지문과 반대",
+      "수의사는 월례 강연자일 뿐 운영자 아님",
+      "이번 주는 1주년이지 개업 시점이 아님"
+     ],
+     "ev": "Pet-friendly cafe Paws & Coffee celebrated its first anniversary this week."
+    },
+    {
+     "q": "What happens on the first Monday of each month?",
+     "type": "세부사항",
+     "choices": [
+      "A free pet health talk",
+      "A dog show",
+      "A coffee tasting",
+      "A birthday party"
+     ],
+     "a": 0,
+     "exKo": "a free pet health talk by a local vet라고 명시합니다.",
+     "why": [
+      "'first Monday of each month'에 무료 건강 강연",
+      "도그쇼 개최는 지문에 언급 없음",
+      "커피 시음 행사는 지문에 언급 없음",
+      "1주년은 이번 주 소식 — 다른 문항의 내용"
+     ],
+     "ev": "hosts a free pet health talk by a local vet on the first Monday of each month"
+    },
+    {
+     "q": "What did the owner say about weekends?",
+     "type": "세부사항",
+     "choices": [
+      "They are fully booked a week ahead",
+      "They are quiet",
+      "They are for members only",
+      "They have longer hours"
+     ],
+     "a": 0,
+     "exKo": "weekends are fully booked a week ahead에서 확인됩니다.",
+     "why": [
+      "'fully booked a week ahead'가 주말 예약 상황",
+      "한산하다는 것은 만석이라는 지문과 반대",
+      "회원 전용 운영은 지문에 언급 없음",
+      "영업시간 연장은 지문에 언급 없음"
+     ],
+     "ev": "Owner Grace Kim said weekends are fully booked a week ahead."
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "발표 자료 인쇄 부탁 문자",
+   "passage": "Iris Park (8:45 A.M.)\nMorning, Ken! I'm stuck on the subway. Could you print 12 copies of the sales slides on my desk? The meeting is at 9:30.\n\nKen Adams (8:47 A.M.)\nSure. Color or black and white?\n\nIris Park (8:48 A.M.)\nColor, please. And could you staple them?\n\nKen Adams (8:50 A.M.)\nDone by 9:15. I'll leave them in Meeting Room 2.\n\nIris Park (8:51 A.M.)\nYou're the best. I should arrive by 9:20.",
+   "questions": [
+    {
+     "q": "Why can't Ms. Park print the slides herself?",
+     "type": "세부사항",
+     "choices": [
+      "She is stuck on the subway",
+      "Her printer is broken",
+      "She lost the file",
+      "She is in a meeting"
+     ],
+     "a": 0,
+     "exKo": "I'm stuck on the subway라고 상황을 설명합니다.",
+     "why": [
+      "'stuck on the subway'가 직접 못 하는 이유",
+      "프린터 고장은 지문에 언급 없음",
+      "파일을 잃어버렸다는 언급이 지문에 없음",
+      "회의는 9시 30분 예정이라 아직 참석 전"
+     ],
+     "ev": "I'm stuck on the subway."
+    },
+    {
+     "q": "How many copies are needed?",
+     "type": "세부사항",
+     "choices": [
+      "12",
+      "2",
+      "9",
+      "30"
+     ],
+     "a": 0,
+     "exKo": "print 12 copies of the sales slides에서 확인됩니다.",
+     "why": [
+      "'print 12 copies'가 필요한 부수를 명시",
+      "2는 Meeting Room 2의 숫자 — 단어 반복 함정",
+      "9는 9시대 시각과 혼동한 숫자",
+      "30은 회의 시각 9:30과 혼동한 숫자"
+     ],
+     "ev": "Could you print 12 copies of the sales slides on my desk?"
+    },
+    {
+     "q": "Where will Mr. Adams leave the copies?",
+     "type": "세부사항",
+     "choices": [
+      "In Meeting Room 2",
+      "On her desk",
+      "At the front desk",
+      "In the printer room"
+     ],
+     "a": 0,
+     "exKo": "I'll leave them in Meeting Room 2라고 말합니다.",
+     "why": [
+      "'leave them in Meeting Room 2'가 전달 장소",
+      "책상은 원본 슬라이드가 있던 곳",
+      "안내데스크는 지문에 언급 없음",
+      "인쇄실에 둔다는 언급이 지문에 없음"
+     ],
+     "ev": "I'll leave them in Meeting Room 2."
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "케이터링 수량 변경 문자",
+   "passage": "Sunrise Catering (1:30 P.M.)\nHello! Confirming your order for tomorrow: 30 lunch sets for the workshop at Hilldale Office, delivery at 11:45 A.M.\n\nPaul Weber (1:40 P.M.)\nHi, actually five more people registered. Can we change it to 35 sets?\n\nSunrise Catering (1:42 P.M.)\nOf course. 35 sets at the same price per set. Delivery time stays 11:45.\n\nPaul Weber (1:43 P.M.)\nPerfect, thank you!",
+   "questions": [
+    {
+     "q": "Why does Mr. Weber write to the caterer?",
+     "type": "주제·목적",
+     "choices": [
+      "To increase the order size",
+      "To cancel the order",
+      "To change the delivery place",
+      "To ask about the menu"
+     ],
+     "a": 0,
+     "exKo": "참석자가 늘어 도시락 수량을 35개로 변경하려는 것입니다.",
+     "why": [
+      "'change it to 35 sets'가 수량 증가 요청",
+      "취소가 아니라 수량 변경 — 지문과 반대",
+      "배달 장소 변경 언급이 지문에 없음",
+      "메뉴를 문의하는 내용은 지문에 없음"
+     ],
+     "ev": "Can we change it to 35 sets?"
+    },
+    {
+     "q": "Why are more lunch sets needed?",
+     "type": "세부사항",
+     "choices": [
+      "Five more people registered",
+      "Some sets were damaged",
+      "The workshop got longer",
+      "Prices went down"
+     ],
+     "a": 0,
+     "exKo": "five more people registered라고 이유를 밝힙니다.",
+     "why": [
+      "'five more people registered'가 증량 이유",
+      "도시락 파손에 관한 언급이 지문에 없음",
+      "워크숍이 길어졌다는 언급이 없음",
+      "가격 인하 언급 없고 단가는 그대로"
+     ],
+     "ev": "actually five more people registered"
+    },
+    {
+     "q": "What stays the same?",
+     "type": "세부사항",
+     "choices": [
+      "The delivery time",
+      "The number of sets",
+      "The office location changing",
+      "The total price"
+     ],
+     "a": 0,
+     "exKo": "Delivery time stays 11:45에서 배달 시간은 그대로임을 알 수 있습니다.",
+     "why": [
+      "'Delivery time stays 11:45'가 그대로임을 명시",
+      "세트 수는 30에서 35로 바뀜 — 지문과 반대",
+      "사무실 위치 변경은 지문에 언급 없음",
+      "수량이 늘었으므로 총액은 그대로일 수 없음"
+     ],
+     "ev": "Delivery time stays 11:45."
+    }
+   ]
+  }
+ ]
+}

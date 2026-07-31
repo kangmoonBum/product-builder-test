@@ -1,0 +1,222 @@
+{
+ "passages": [
+  {
+   "kind": "이메일",
+   "title": "회의 일정 변경 안내",
+   "passage": "From: Sarah Kim\nTo: All Staff\nSubject: Weekly Meeting\n\nDear team,\n\nPlease note that this week's staff meeting has been moved from Wednesday to Thursday at 10 a.m. because the projector in Room 302 is being repaired. The meeting will still be held in Room 302, and the repair will be finished by Wednesday evening.\n\nPlease bring your weekly reports as usual.\n\nThank you,\nSarah Kim\nOffice Manager",
+   "questions": [
+    {
+     "q": "What is the main purpose of the email?",
+     "type": "주제·목적",
+     "choices": [
+      "To announce a schedule change",
+      "To request a new projector",
+      "To introduce a new employee",
+      "To cancel the weekly meeting"
+     ],
+     "a": 0,
+     "exKo": "첫 문장에서 회의가 수요일에서 목요일로 옮겨졌다고 알리고 있으므로 일정 변경 공지가 목적입니다.",
+     "why": [
+      "'moved from Wednesday to Thursday'가 일정 변경 공지임",
+      "프로젝터는 수리 중일 뿐 구매 요청 언급 없음",
+      "신입 사원 소개 내용은 지문에 나오지 않음",
+      "회의는 목요일에 열리므로 취소는 지문과 반대"
+     ],
+     "ev": "Please note that this week's staff meeting has been moved from Wednesday to Thursday at 10 a.m."
+    },
+    {
+     "q": "Why was the meeting moved?",
+     "type": "세부사항",
+     "choices": [
+      "A projector is being repaired",
+      "The manager is on vacation",
+      "Room 302 is too small",
+      "A client visit was arranged"
+     ],
+     "a": 0,
+     "exKo": "because the projector in Room 302 is being repaired 부분에서 프로젝터 수리가 이유임을 알 수 있습니다.",
+     "why": [
+      "because절이 프로젝터 수리를 이유로 직접 밝힘",
+      "관리자 휴가에 대한 언급은 지문에 없음",
+      "회의실은 그대로이며 크기 문제 언급 없음",
+      "고객 방문 일정은 지문에 없는 내용임"
+     ],
+     "ev": "because the projector in Room 302 is being repaired"
+    },
+    {
+     "q": "What are employees asked to bring?",
+     "type": "세부사항",
+     "choices": [
+      "Their weekly reports",
+      "Their laptops",
+      "Their ID badges",
+      "Their lunch"
+     ],
+     "a": 0,
+     "exKo": "마지막 부분의 Please bring your weekly reports as usual에서 확인할 수 있습니다.",
+     "why": [
+      "bring your weekly reports가 그대로 대응됨",
+      "노트북을 가져오라는 언급은 지문에 없음",
+      "출입증 지참에 대한 언급은 지문에 없음",
+      "점심을 가져오라는 내용은 지문에 없음"
+     ],
+     "ev": "Please bring your weekly reports as usual."
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "엘리베이터 점검 안내",
+   "passage": "NOTICE TO ALL TENANTS\n\nThe main elevator in Building A will be out of service on Saturday, May 14, from 9 a.m. to 5 p.m. for its annual safety inspection.\n\nDuring this time, please use the stairs or the service elevator located at the rear of the building. We apologize for any inconvenience.\n\nGreenfield Building Management",
+   "questions": [
+    {
+     "q": "What is the notice mainly about?",
+     "type": "주제·목적",
+     "choices": [
+      "An elevator inspection",
+      "A new building opening",
+      "A parking rule change",
+      "A fire drill schedule"
+     ],
+     "a": 0,
+     "exKo": "본문 첫 문장에서 연례 안전 점검(annual safety inspection)으로 엘리베이터가 운행 중단된다고 안내하고 있습니다.",
+     "why": [
+      "annual safety inspection이 엘리베이터 점검을 뜻함",
+      "새 건물 개관에 대한 언급은 지문에 없음",
+      "주차 규정 변경 내용은 지문에 나오지 않음",
+      "소방 훈련 일정은 지문에 없는 내용임"
+     ],
+     "ev": "The main elevator in Building A will be out of service on Saturday, May 14, from 9 a.m. to 5 p.m. for its annual safety inspection."
+    },
+    {
+     "q": "What are tenants advised to do on May 14?",
+     "type": "세부사항",
+     "choices": [
+      "Use the service elevator or stairs",
+      "Stay home all day",
+      "Park in a different lot",
+      "Call the management office"
+     ],
+     "a": 0,
+     "exKo": "please use the stairs or the service elevator 부분에서 계단이나 화물용 엘리베이터를 이용하라고 안내합니다.",
+     "why": [
+      "계단이나 화물용 엘리베이터 이용을 직접 권함",
+      "하루 종일 집에 있으라는 언급은 지문에 없음",
+      "다른 주차장을 쓰라는 안내는 지문에 없음",
+      "관리사무소에 전화하라는 안내는 지문에 없음"
+     ],
+     "ev": "please use the stairs or the service elevator located at the rear of the building"
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "레스토랑 개업 할인 광고",
+   "passage": "GRAND OPENING - BELLA KITCHEN\n\nVisit Bella Kitchen, the newest Italian restaurant on Maple Street!\n\nTo celebrate our opening, all pasta dishes are 20% off until June 30. We are open every day from 11 a.m. to 10 p.m.\n\nReservations are recommended for groups of six or more. Call 555-0134 or book online at bellakitchen.com.",
+   "questions": [
+    {
+     "q": "What is being advertised?",
+     "type": "주제·목적",
+     "choices": [
+      "A new restaurant",
+      "A cooking class",
+      "A food delivery app",
+      "A grocery store sale"
+     ],
+     "a": 0,
+     "exKo": "the newest Italian restaurant라는 표현에서 새로 문을 연 식당 광고임을 알 수 있습니다.",
+     "why": [
+      "the newest Italian restaurant가 신규 식당 광고임을 보여줌",
+      "요리 강습에 대한 언급은 지문에 없음",
+      "음식 배달 앱은 지문에 나오지 않는 내용",
+      "식료품점 세일이 아니라 식당 개업 광고임"
+     ],
+     "ev": "Visit Bella Kitchen, the newest Italian restaurant on Maple Street!"
+    },
+    {
+     "q": "How long is the discount available?",
+     "type": "세부사항",
+     "choices": [
+      "Until June 30",
+      "For one week",
+      "Until May 14",
+      "Every weekend"
+     ],
+     "a": 0,
+     "exKo": "all pasta dishes are 20% off until June 30에서 6월 30일까지임을 확인할 수 있습니다.",
+     "why": [
+      "until June 30이 할인 종료 시점을 명시함",
+      "일주일이라는 기간은 지문에 언급되지 않음",
+      "5월 14일이라는 날짜는 지문에 나오지 않음",
+      "주말 한정 할인이라는 언급은 지문에 없음"
+     ],
+     "ev": "all pasta dishes are 20% off until June 30"
+    },
+    {
+     "q": "Who is advised to make a reservation?",
+     "type": "세부사항",
+     "choices": [
+      "Groups of six or more",
+      "All customers",
+      "Weekend visitors",
+      "First-time guests"
+     ],
+     "a": 0,
+     "exKo": "Reservations are recommended for groups of six or more에서 6인 이상 단체에게 예약을 권장하고 있습니다.",
+     "why": [
+      "groups of six or more가 6인 이상 단체를 뜻함",
+      "모든 손님이 아니라 6인 이상만 해당됨",
+      "주말 방문객이라는 조건은 지문에 없음",
+      "첫 방문 고객이라는 조건은 지문에 없음"
+     ],
+     "ev": "Reservations are recommended for groups of six or more."
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "사무용품 주문 문자",
+   "passage": "Mina Lee: Hi Tom, do we have any printer paper left in the storage room?\nTom Carter: Let me check. ... Only two boxes.\nMina Lee: That won't last the week. Could you order five more boxes?\nTom Carter: Sure. Should I use the same supplier as last time?\nMina Lee: Yes, they were the cheapest. Please ask them to deliver by Friday.\nTom Carter: Will do. I'll send you the order confirmation.",
+   "questions": [
+    {
+     "q": "What problem does Ms. Lee mention?",
+     "type": "세부사항",
+     "choices": [
+      "Printer paper is running low",
+      "The printer is broken",
+      "A delivery was lost",
+      "The storage room is locked"
+     ],
+     "a": 0,
+     "exKo": "용지가 두 박스밖에 없어 이번 주를 버티지 못한다(That won't last the week)는 내용에서 용지 부족이 문제임을 알 수 있습니다.",
+     "why": [
+      "두 박스로는 한 주도 못 버틴다는 말이 부족을 뜻함",
+      "프린터 고장에 대한 언급은 지문에 없음",
+      "배송이 분실됐다는 내용은 지문에 없음",
+      "창고 문이 잠겼다는 언급은 지문에 없음"
+     ],
+     "ev": "That won't last the week. Could you order five more boxes?"
+    },
+    {
+     "q": "What will Mr. Carter most likely do next?",
+     "type": "추론",
+     "choices": [
+      "Place an order with the supplier",
+      "Repair the printer",
+      "Visit the storage room again",
+      "Call a different company"
+     ],
+     "a": 0,
+     "exKo": "다섯 박스를 주문해 달라는 요청에 Sure라고 답하고 주문 확인서를 보내겠다고 했으므로, 다음 행동은 주문임을 추론할 수 있습니다.",
+     "why": [
+      "Sure로 수락하고 공급업체를 확인하므로 주문이 이어짐",
+      "프린터 수리는 지문에 없는 내용임",
+      "창고는 이미 확인했으므로 다음 행동이 아님",
+      "같은 업체를 쓰기로 했으므로 지문과 반대"
+     ],
+     "ev": "Sure. Should I use the same supplier as last time?"
+    }
+   ]
+  }
+ ]
+}

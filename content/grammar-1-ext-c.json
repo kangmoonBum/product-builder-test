@@ -1,0 +1,1125 @@
+{
+ "items": [
+  {
+   "q": "The waiting area has ___ seating for thirty people.",
+   "type": "품사",
+   "choices": [
+    "comfort",
+    "comfortable",
+    "comfortably",
+    "comforts"
+   ],
+   "a": 1,
+   "transKo": "대기실에는 30명이 앉을 수 있는 편안한 좌석이 있다.",
+   "exKo": "명사 seating을 수식하는 형용사 comfortable이 정답입니다.",
+   "why": [
+    "comfort — 명사 편안함, 명사 seating을 수식하기 부자연",
+    "형용사 — 명사 seating을 수식하는 형용사 자리",
+    "comfortably — 부사, 명사를 수식할 수 없음",
+    "comforts — 복수 명사, 명사 앞 수식어 자리에 부적합"
+   ]
+  },
+  {
+   "q": "Ms. Ito checked the order list ___ before printing it.",
+   "type": "품사",
+   "choices": [
+    "twice",
+    "two",
+    "second",
+    "twiceness"
+   ],
+   "a": 0,
+   "transKo": "이토 씨는 인쇄 전에 주문 목록을 두 번 확인했다.",
+   "exKo": "동사 checked를 수식하는 부사 twice(두 번)가 정답입니다.",
+   "why": [
+    "twice — 부사 두 번, 동사 checked를 수식하는 자리",
+    "two — 수사, 명사를 수식할 뿐 동사 수식 불가",
+    "second — 서수 형용사, 횟수를 나타내는 부사가 아님",
+    "twiceness — 존재하지 않는 단어, 철자 유사 함정"
+   ]
+  },
+  {
+   "q": "The airline sent a text about the ___ of Flight 82.",
+   "type": "품사",
+   "choices": [
+    "delay",
+    "delayed",
+    "delaying",
+    "delays of"
+   ],
+   "a": 0,
+   "transKo": "항공사는 82편의 지연에 관한 문자를 보냈다.",
+   "exKo": "관사 the와 of 사이의 명사 자리이므로 delay가 정답입니다.",
+   "why": [
+    "delay — 명사 지연, 관사 the와 of 사이 명사 자리",
+    "delayed — 과거분사, the 뒤 명사 자리를 채울 수 없음",
+    "delaying — 동명사, 사건을 뜻하는 명사 delay가 적절",
+    "delays of — of 중복, 뒤의 of Flight와 겹쳐 불가"
+   ]
+  },
+  {
+   "q": "Winter coats are now available at a ___ price.",
+   "type": "품사",
+   "choices": [
+    "reduce",
+    "reduced",
+    "reduction",
+    "reducing"
+   ],
+   "a": 1,
+   "transKo": "겨울 코트가 이제 할인된 가격에 판매됩니다.",
+   "exKo": "명사 price를 수식하는 '할인된'이라는 수동 의미의 과거분사 reduced가 정답입니다.",
+   "why": [
+    "reduce — 동사원형, 관사와 명사 사이에 올 수 없음",
+    "과거분사 — 할인된, 명사 price를 수동 의미로 수식",
+    "reduction — 명사 할인, 명사 price를 직접 수식하기 어색",
+    "reducing — 현재분사 능동 의미, '할인된 가격'과 불일치"
+   ]
+  },
+  {
+   "q": "The intern organized the files ___ by date.",
+   "type": "품사",
+   "choices": [
+    "neat",
+    "neatly",
+    "neatness",
+    "neaten"
+   ],
+   "a": 1,
+   "transKo": "인턴은 파일을 날짜별로 깔끔하게 정리했다.",
+   "exKo": "동사 organized를 수식하는 부사 neatly가 정답입니다.",
+   "why": [
+    "neat — 형용사, 동사 organized를 수식할 수 없음",
+    "부사 — 동사 organized를 수식하는 부사 자리",
+    "neatness — 명사 깔끔함, 동사를 수식할 수 없음",
+    "neaten — 동사원형, 본동사가 이미 있어 불가"
+   ]
+  },
+  {
+   "q": "Every ___ receives a welcome kit on the first day.",
+   "type": "품사",
+   "choices": [
+    "employ",
+    "employee",
+    "employment",
+    "employed"
+   ],
+   "a": 1,
+   "transKo": "모든 직원은 첫날 웰컴 키트를 받는다.",
+   "exKo": "Every 뒤의 단수 명사 자리이며 사람을 뜻하는 employee가 정답입니다.",
+   "why": [
+    "employ — 동사 고용하다, Every 뒤 명사 자리에 불가",
+    "명사(사람) — Every 뒤 단수 명사 자리로 적합",
+    "employment — 추상명사 고용, 키트를 받을 수 없음",
+    "employed — 과거분사, Every 뒤 명사 자리를 못 채움"
+   ]
+  },
+  {
+   "q": "The market is ___ crowded on Saturday mornings.",
+   "type": "품사",
+   "choices": [
+    "usual",
+    "usually",
+    "usualness",
+    "used"
+   ],
+   "a": 1,
+   "transKo": "그 시장은 토요일 아침이면 대개 붐빈다.",
+   "exKo": "형용사 crowded를 수식하는 부사 usually가 정답입니다.",
+   "why": [
+    "usual — 형용사, 형용사 crowded를 수식할 수 없음",
+    "부사 — 형용사 crowded를 수식하는 부사 자리",
+    "usualness — 명사 평범함, 수식어로 쓸 수 없음",
+    "used — 과거분사 중고의/익숙한, 문맥과 불일치"
+   ]
+  },
+  {
+   "q": "Sign up early to secure your ___ in the class.",
+   "type": "품사",
+   "choices": [
+    "place",
+    "placing",
+    "placed",
+    "placement of"
+   ],
+   "a": 0,
+   "transKo": "수업 자리를 확보하려면 일찍 신청하세요.",
+   "exKo": "소유격 your 뒤의 명사 자리이므로 place(자리)가 정답입니다.",
+   "why": [
+    "place — 명사 자리, 소유격 your 뒤 명사 자리",
+    "placing — 동명사 배치하기, your 뒤에서 의미가 어색",
+    "placed — 과거분사, 소유격 뒤 명사 자리를 못 채움",
+    "placement of — 뒤에 in이 이어져 of가 갈 곳이 없음"
+   ]
+  },
+  {
+   "q": "The mechanic gave the car a ___ inspection.",
+   "type": "품사",
+   "choices": [
+    "quick",
+    "quickly",
+    "quicken",
+    "quickness"
+   ],
+   "a": 0,
+   "transKo": "정비공은 차를 신속하게 점검했다.",
+   "exKo": "명사 inspection을 수식하는 형용사 quick이 정답입니다.",
+   "why": [
+    "quick — 형용사, 관사와 명사 사이 형용사 자리",
+    "quickly — 부사, 명사 inspection을 수식할 수 없음",
+    "quicken — 동사 빨라지다, 수식어 자리에 불가",
+    "quickness — 명사 신속함, 명사 앞 수식어로 부자연"
+   ]
+  },
+  {
+   "q": "Our support team replies to emails ___ .",
+   "type": "품사",
+   "choices": [
+    "prompt",
+    "promptly",
+    "promptness",
+    "prompted"
+   ],
+   "a": 1,
+   "transKo": "저희 지원팀은 이메일에 신속히 답변합니다.",
+   "exKo": "동사 replies를 수식하는 부사 promptly가 정답입니다.",
+   "why": [
+    "prompt — 형용사, 동사 replies를 수식할 수 없음",
+    "부사 — 동사 replies를 수식하는 부사 자리",
+    "promptness — 명사 신속함, 문장 끝 수식어로 불가",
+    "prompted — 과거분사, 본동사가 이미 있어 불가"
+   ]
+  },
+  {
+   "q": "The apartment includes a ___ parking space.",
+   "type": "품사",
+   "choices": [
+    "reserve",
+    "reserved",
+    "reservation",
+    "reserving"
+   ],
+   "a": 1,
+   "transKo": "그 아파트에는 지정 주차 공간이 포함되어 있다.",
+   "exKo": "명사 parking space를 수식하는 과거분사 reserved(지정된)가 정답입니다.",
+   "why": [
+    "reserve — 동사원형, 관사 뒤 수식어 자리에 불가",
+    "과거분사 — 지정된, 명사구를 수동 의미로 수식",
+    "reservation — 명사 예약, 명사 앞 수식어로 어색",
+    "reserving — 현재분사 능동 의미, 지정된 자리와 불일치"
+   ]
+  },
+  {
+   "q": "The singer thanked the audience for their ___ .",
+   "type": "품사",
+   "choices": [
+    "support",
+    "supportive",
+    "supported",
+    "supporting"
+   ],
+   "a": 0,
+   "transKo": "가수는 관객들의 성원에 감사를 표했다.",
+   "exKo": "소유격 their 뒤의 명사 자리이므로 support(성원)가 정답입니다.",
+   "why": [
+    "support — 명사 성원/지지, 소유격 their 뒤 명사 자리",
+    "supportive — 형용사, 소유격 뒤 명사 자리에 불가",
+    "supported — 과거분사, 명사 자리를 채울 수 없음",
+    "supporting — 현재분사, 수식할 명사가 뒤에 없음"
+   ]
+  },
+  {
+   "q": "The road crew worked ___ through the night.",
+   "type": "품사",
+   "choices": [
+    "tireless",
+    "tirelessly",
+    "tired",
+    "tiredness"
+   ],
+   "a": 1,
+   "transKo": "도로 작업반은 밤새 지칠 줄 모르고 일했다.",
+   "exKo": "동사 worked를 수식하는 부사 tirelessly가 정답입니다.",
+   "why": [
+    "tireless — 형용사, 동사 worked를 수식할 수 없음",
+    "부사 — 동사 worked를 수식하는 부사 자리",
+    "tired — 형용사 피곤한, 동사를 수식할 수 없음",
+    "tiredness — 명사 피로, 동사 뒤 수식어로 불가"
+   ]
+  },
+  {
+   "q": "Enter your ___ code at the bottom of the screen.",
+   "type": "품사",
+   "choices": [
+    "confirm",
+    "confirmed",
+    "confirmation",
+    "confirming"
+   ],
+   "a": 2,
+   "transKo": "화면 하단에 확인 코드를 입력하세요.",
+   "exKo": "명사 code와 결합하는 복합 명사 confirmation code(확인 코드)가 정답입니다.",
+   "why": [
+    "confirm — 동사, 명사 code 앞 수식 자리에 불가",
+    "confirmed — 과거분사, 관용 복합명사는 confirmation code",
+    "명사 — code와 결합하는 복합명사 confirmation code",
+    "confirming — 현재분사 능동 의미, code 수식에 부적합"
+   ]
+  },
+  {
+   "q": "The park is a ___ spot for company picnics.",
+   "type": "품사",
+   "choices": [
+    "popularity",
+    "popular",
+    "popularly",
+    "popularize"
+   ],
+   "a": 1,
+   "transKo": "그 공원은 회사 야유회 장소로 인기가 많다.",
+   "exKo": "명사 spot을 수식하는 형용사 popular가 정답입니다.",
+   "why": [
+    "popularity — 명사 인기, 명사 spot 수식으로 부자연",
+    "형용사 — 관사와 명사 사이 형용사 자리",
+    "popularly — 부사, 명사 spot을 수식할 수 없음",
+    "popularize — 동사 대중화하다, 수식어 자리에 불가"
+   ]
+  },
+  {
+   "q": "The florist ___ fresh flowers to the office every Monday.",
+   "type": "시제·형태",
+   "choices": [
+    "deliver",
+    "delivers",
+    "delivering",
+    "is delivered"
+   ],
+   "a": 1,
+   "transKo": "꽃집은 매주 월요일 사무실로 신선한 꽃을 배달한다.",
+   "exKo": "반복되는 일이므로 현재시제이며 주어가 단수이므로 delivers가 정답입니다.",
+   "why": [
+    "deliver — 동사원형, 3인칭 단수 주어와 수 불일치",
+    "3인칭 단수 현재형 — every Monday 반복 습관에 맞음",
+    "delivering — 현재분사, 단독으로 본동사가 될 수 없음",
+    "is delivered — 수동태, 뒤에 목적어 flowers가 있어 불가"
+   ]
+  },
+  {
+   "q": "The board ___ the budget at yesterday's session.",
+   "type": "시제·형태",
+   "choices": [
+    "approves",
+    "approved",
+    "will approve",
+    "approving"
+   ],
+   "a": 1,
+   "transKo": "이사회는 어제 회의에서 예산을 승인했다.",
+   "exKo": "yesterday's session이라는 과거 표현이 있으므로 과거시제 approved가 정답입니다.",
+   "why": [
+    "approves — 현재형, yesterday라는 과거 시점과 불일치",
+    "과거형 — yesterday's session에 맞는 과거시제",
+    "will approve — 미래형, 과거 시점 표현과 충돌",
+    "approving — 현재분사, 단독으로 본동사가 될 수 없음"
+   ]
+  },
+  {
+   "q": "Ms. Beck ___ with a client at the moment.",
+   "type": "시제·형태",
+   "choices": [
+    "meets",
+    "met",
+    "is meeting",
+    "has met"
+   ],
+   "a": 2,
+   "transKo": "벡 씨는 지금 고객과 만나는 중이다.",
+   "exKo": "at the moment와 함께 진행 중인 동작이므로 현재진행형 is meeting이 정답입니다.",
+   "why": [
+    "meets — 현재형 반복 습관, at the moment와 불일치",
+    "met — 과거형, 현재 시점 표현과 시제 불일치",
+    "현재진행형 — at the moment와 어울리는 진행 중 동작",
+    "has met — 현재완료, 완료 의미라 진행 상황과 불일치"
+   ]
+  },
+  {
+   "q": "New menus ___ every season at the bistro.",
+   "type": "시제·형태",
+   "choices": [
+    "introduce",
+    "introduced",
+    "are introduced",
+    "introducing"
+   ],
+   "a": 2,
+   "transKo": "그 식당에서는 계절마다 새 메뉴가 선보인다.",
+   "exKo": "메뉴는 소개되는 대상이므로 수동태 are introduced가 정답입니다.",
+   "why": [
+    "introduce — 동사원형 능동, 목적어가 없어 불가",
+    "introduced — 과거형, every season의 반복과 시제 불일치",
+    "현재 수동태 — 메뉴는 소개되는 대상이므로 정답",
+    "introducing — 현재분사, 단독으로 본동사가 될 수 없음"
+   ]
+  },
+  {
+   "q": "Mr. Adeyemi ___ the company shuttle since 2015.",
+   "type": "시제·형태",
+   "choices": [
+    "drives",
+    "drove",
+    "has driven",
+    "driving"
+   ],
+   "a": 2,
+   "transKo": "아데예미 씨는 2015년부터 회사 셔틀을 운전해 왔다.",
+   "exKo": "since + 과거 시점과 함께 쓰는 현재완료 has driven이 정답입니다.",
+   "why": [
+    "drives — 현재형, since + 과거 시점과 함께 쓸 수 없음",
+    "drove — 과거형, since와 짝을 이루지 못함",
+    "현재완료 — since 2015와 함께 쓰는 계속 용법",
+    "driving — 현재분사, 단독으로 본동사가 될 수 없음"
+   ]
+  },
+  {
+   "q": "___ the door gently; it closes on its own.",
+   "type": "시제·형태",
+   "choices": [
+    "Push",
+    "Pushes",
+    "Pushing",
+    "Pushed"
+   ],
+   "a": 0,
+   "transKo": "문을 살짝 미세요. 저절로 닫힙니다.",
+   "exKo": "명령문이므로 동사원형 Push가 정답입니다.",
+   "why": [
+    "동사원형 — 주어 없는 명령문의 첫머리 자리",
+    "Pushes — 3인칭 단수 현재형, 명령문에 쓸 수 없음",
+    "Pushing — 동명사/현재분사, 명령문 동사 자리에 불가",
+    "Pushed — 과거형/과거분사, 명령문에 쓸 수 없음"
+   ]
+  },
+  {
+   "q": "The crowd ___ when the singer appeared on stage.",
+   "type": "시제·형태",
+   "choices": [
+    "cheer",
+    "cheers",
+    "was cheering",
+    "cheered"
+   ],
+   "a": 3,
+   "transKo": "가수가 무대에 등장하자 관중이 환호했다.",
+   "exKo": "when절의 과거 사건에 이어진 동작이므로 과거시제 cheered가 자연스럽습니다.",
+   "why": [
+    "cheer — 동사원형, 단수 취급 주어 crowd와 수 불일치",
+    "cheers — 현재형, when절의 과거시제와 불일치",
+    "was cheering — 과거진행형, 이어진 반응 묘사로 어색",
+    "과거형 — when절 과거 사건에 이어진 동작이라 정답"
+   ]
+  },
+  {
+   "q": "Lunch ___ in the banquet hall tomorrow.",
+   "type": "시제·형태",
+   "choices": [
+    "serves",
+    "served",
+    "will be served",
+    "serving"
+   ],
+   "a": 2,
+   "transKo": "점심은 내일 연회장에서 제공될 것이다.",
+   "exKo": "점심은 제공되는 대상이고 tomorrow가 있으므로 미래 수동태 will be served가 정답입니다.",
+   "why": [
+    "serves — 현재형 능동, 점심은 제공되는 대상이라 불가",
+    "served — 과거형, tomorrow와 시제가 맞지 않음",
+    "미래 수동태 — tomorrow + 제공받는 대상이므로 정답",
+    "serving — 현재분사, 단독으로 본동사가 될 수 없음"
+   ]
+  },
+  {
+   "q": "Thank you for ___ our store today.",
+   "type": "시제·형태",
+   "choices": [
+    "visit",
+    "visiting",
+    "visited",
+    "to visit"
+   ],
+   "a": 1,
+   "transKo": "오늘 저희 매장을 방문해 주셔서 감사합니다.",
+   "exKo": "전치사 for 뒤에는 동명사 visiting이 옵니다.",
+   "why": [
+    "visit — 동사원형, 전치사 for 뒤에 올 수 없음",
+    "동명사 — 전치사 for의 목적어 자리",
+    "visited — 과거형/과거분사, 전치사의 목적어가 될 수 없음",
+    "to visit — to부정사, 전치사 for의 목적어로 쓸 수 없음"
+   ]
+  },
+  {
+   "q": "The printer ___ strange noises since this morning.",
+   "type": "시제·형태",
+   "choices": [
+    "makes",
+    "made",
+    "has been making",
+    "will make"
+   ],
+   "a": 2,
+   "transKo": "프린터가 오늘 아침부터 이상한 소리를 내고 있다.",
+   "exKo": "since this morning과 함께 계속되는 상황이므로 현재완료 진행형 has been making이 정답입니다.",
+   "why": [
+    "makes — 현재형, since this morning과 함께 쓸 수 없음",
+    "made — 과거형, since가 이끄는 계속 의미와 불일치",
+    "현재완료진행형 — since this morning의 계속 상황에 맞음",
+    "will make — 미래형, 과거부터 이어진 상황과 불일치"
+   ]
+  },
+  {
+   "q": "The parking garage is ___ the office tower.",
+   "type": "전치사·접속사",
+   "choices": [
+    "behind",
+    "among",
+    "during",
+    "until"
+   ],
+   "a": 0,
+   "transKo": "주차장은 사무실 건물 뒤에 있다.",
+   "exKo": "위치를 나타내는 전치사 behind(~ 뒤에)가 정답입니다.",
+   "why": [
+    "behind — 위치 전치사 ~ 뒤에, 건물 위치를 나타내 정답",
+    "among — 셋 이상 사이에, 단수 명사와 함께 쓸 수 없음",
+    "during — 시간 전치사 ~ 동안, 위치를 나타낼 수 없음",
+    "until — 시간 전치사 ~까지, 위치 표현에 쓸 수 없음"
+   ]
+  },
+  {
+   "q": "The report is due ___ the end of the month.",
+   "type": "전치사·접속사",
+   "choices": [
+    "by",
+    "until",
+    "since",
+    "onto"
+   ],
+   "a": 0,
+   "transKo": "보고서는 월말까지 제출해야 한다.",
+   "exKo": "완료 기한을 나타내는 by가 정답입니다.",
+   "why": [
+    "전치사 by — 완료 기한 '~까지'를 나타내는 자리",
+    "전치사 until — 동작의 계속을 뜻해 마감 기한과 안 맞음",
+    "전치사 since — '~이래로', 과거 시점부터의 계속을 뜻함",
+    "전치사 onto — '~위로', 시간 표현에는 쓸 수 없음"
+   ]
+  },
+  {
+   "q": "We moved the meeting ___ Monday to Wednesday.",
+   "type": "전치사·접속사",
+   "choices": [
+    "from",
+    "of",
+    "at",
+    "for"
+   ],
+   "a": 0,
+   "transKo": "회의를 월요일에서 수요일로 옮겼다.",
+   "exKo": "from A to B(A에서 B로) 구문의 from이 정답입니다.",
+   "why": [
+    "전치사 from — from A to B(A에서 B로) 구문의 짝",
+    "전치사 of — 소유·소속을 나타내 출발점 표시 불가",
+    "전치사 at — 한 시점을 가리켜 to와 짝을 이루지 못함",
+    "전치사 for — 기간·목적을 나타내 출발점에 못 씀"
+   ]
+  },
+  {
+   "q": "___ you finish the form, hand it to the clerk.",
+   "type": "전치사·접속사",
+   "choices": [
+    "When",
+    "During",
+    "Despite",
+    "Because of"
+   ],
+   "a": 0,
+   "transKo": "양식을 다 작성하면 직원에게 제출하세요.",
+   "exKo": "뒤에 절이 오고 '~할 때'의 의미인 접속사 When이 정답입니다.",
+   "why": [
+    "접속사 When — 뒤에 완전한 절이 오는 '~할 때' 자리",
+    "전치사 During — 뒤에 명사만 오고 절을 이끌 수 없음",
+    "전치사 Despite — 양보 의미이며 절을 이끌지 못함",
+    "전치사구 Because of — 뒤에 명사구가 와야 함"
+   ]
+  },
+  {
+   "q": "The event was postponed ___ heavy snow.",
+   "type": "전치사·접속사",
+   "choices": [
+    "due to",
+    "because",
+    "since",
+    "as though"
+   ],
+   "a": 0,
+   "transKo": "행사는 폭설 때문에 연기되었다.",
+   "exKo": "뒤에 명사구가 오므로 전치사구 due to가 정답입니다.",
+   "why": [
+    "전치사구 due to — 뒤 명사구 heavy snow와 결합해 이유 표시",
+    "접속사 because — 뒤에 주어+동사 절이 필요함",
+    "접속사 since — 이유를 뜻하지만 뒤에 절이 와야 함",
+    "접속사 as though — '마치 ~인 듯', 절 필요하고 의미도 부적합"
+   ]
+  },
+  {
+   "q": "You may not enter ___ you have an appointment.",
+   "type": "전치사·접속사",
+   "choices": [
+    "unless",
+    "without",
+    "despite",
+    "among"
+   ],
+   "a": 0,
+   "transKo": "예약이 없으면 입장할 수 없습니다.",
+   "exKo": "뒤에 절이 오고 '~하지 않는 한'의 의미인 접속사 unless가 정답입니다.",
+   "why": [
+    "접속사 unless — 뒤 절을 이끌며 '~하지 않는 한'",
+    "전치사 without — 뒤에 명사만 오고 절을 못 이끔",
+    "전치사 despite — 양보 의미이며 절을 이끌 수 없음",
+    "전치사 among — '~사이에', 절도 못 이끌고 의미도 안 맞음"
+   ]
+  },
+  {
+   "q": "The cafe is popular ___ students and office workers.",
+   "type": "전치사·접속사",
+   "choices": [
+    "among",
+    "between",
+    "during",
+    "inside of"
+   ],
+   "a": 0,
+   "transKo": "그 카페는 학생들과 직장인들 사이에서 인기가 많다.",
+   "exKo": "여러 사람으로 이루어진 집단에는 among을 씁니다.",
+   "why": [
+    "전치사 among — 셋 이상 집단 사이를 나타내는 자리",
+    "전치사 between — 보통 둘 사이를 가리켜 집단에 부적합",
+    "전치사 during — 기간을 뜻해 사람 명사와 안 어울림",
+    "전치사구 inside of — 내부 위치를 뜻해 문맥에 안 맞음"
+   ]
+  },
+  {
+   "q": "Neither the manager ___ the staff knew about the change.",
+   "type": "전치사·접속사",
+   "choices": [
+    "nor",
+    "or",
+    "and",
+    "but also"
+   ],
+   "a": 0,
+   "transKo": "매니저도 직원들도 그 변경 사항을 알지 못했다.",
+   "exKo": "neither A nor B 상관접속사 구문이므로 nor가 정답입니다.",
+   "why": [
+    "상관접속사 nor — neither A nor B 구문의 짝",
+    "등위접속사 or — either와 짝이라 neither와 안 맞음",
+    "등위접속사 and — 상관접속사 neither의 짝이 될 수 없음",
+    "상관접속사 but also — not only와 짝이라 부적합"
+   ]
+  },
+  {
+   "q": "Please remain seated ___ the bus comes to a stop.",
+   "type": "전치사·접속사",
+   "choices": [
+    "until",
+    "by",
+    "within",
+    "toward"
+   ],
+   "a": 0,
+   "transKo": "버스가 완전히 멈출 때까지 자리에 앉아 계세요.",
+   "exKo": "뒤에 절이 오고 '~할 때까지'의 의미인 접속사 until이 정답입니다.",
+   "why": [
+    "접속사 until — 뒤 절을 이끄는 '~할 때까지' 자리",
+    "전치사 by — 절을 못 이끌고 완료 기한을 뜻함",
+    "전치사 within — 뒤에 기간 명사가 와야 하며 절 불가",
+    "전치사 toward — 방향을 뜻해 절을 이끌 수 없음"
+   ]
+  },
+  {
+   "q": "The mall is closed ___ renovation this month.",
+   "type": "전치사·접속사",
+   "choices": [
+    "for",
+    "while",
+    "when",
+    "although"
+   ],
+   "a": 0,
+   "transKo": "쇼핑몰은 이번 달 보수 공사로 문을 닫는다.",
+   "exKo": "뒤에 명사가 오며 이유·목적을 나타내는 전치사 for가 정답입니다.",
+   "why": [
+    "전치사 for — 뒤 명사 renovation과 결합해 이유·목적 표시",
+    "접속사 while — 뒤에 주어+동사 절이 필요함",
+    "접속사 when — 절을 이끌어야 하므로 명사 앞에 못 옴",
+    "접속사 although — 양보 절을 이끌며 명사만 올 수 없음"
+   ]
+  },
+  {
+   "q": "Customers can ___ their points for gift cards.",
+   "type": "어휘",
+   "choices": [
+    "exchange",
+    "change into",
+    "replace",
+    "convert on"
+   ],
+   "a": 0,
+   "transKo": "고객들은 포인트를 상품권으로 교환할 수 있다.",
+   "exKo": "exchange A for B(A를 B로 교환하다) 구문이 정답입니다.",
+   "why": [
+    "동사 exchange — '교환하다', exchange A for B 구문",
+    "구동사 change into — '~로 바뀌다', for가 아닌 into와 짝",
+    "동사 replace — '대체하다', replace A with B 구조",
+    "convert on — convert는 into와 쓰며 on은 틀린 전치사"
+   ]
+  },
+  {
+   "q": "The hotel can ___ up to 200 wedding guests.",
+   "type": "어휘",
+   "choices": [
+    "accommodate",
+    "reside",
+    "dwell",
+    "inhabit"
+   ],
+   "a": 0,
+   "transKo": "그 호텔은 최대 200명의 하객을 수용할 수 있다.",
+   "exKo": "수용하다의 의미인 accommodate가 정답입니다.",
+   "why": [
+    "동사 accommodate — '수용하다', 인원을 목적어로 취함",
+    "동사 reside — '거주하다', 자동사라 목적어 불가",
+    "동사 dwell — '살다', 자동사로 in이 필요함",
+    "동사 inhabit — '~에 서식하다', 장소를 목적어로 함"
+   ]
+  },
+  {
+   "q": "Please ___ an appointment before visiting the lab.",
+   "type": "어휘",
+   "choices": [
+    "make",
+    "do",
+    "take",
+    "give"
+   ],
+   "a": 0,
+   "transKo": "실험실 방문 전에 예약을 잡아 주세요.",
+   "exKo": "make an appointment(예약하다)가 올바른 연어입니다.",
+   "why": [
+    "동사 make — make an appointment(예약하다) 연어",
+    "동사 do — '하다', appointment와 결합하지 않는 연어",
+    "동사 take — '가지다', 예약을 만드는 의미가 없음",
+    "동사 give — '주다', give an appointment는 어색한 결합"
+   ]
+  },
+  {
+   "q": "The store decided to ___ its opening hours.",
+   "type": "어휘",
+   "choices": [
+    "extend",
+    "expand to",
+    "enlarge",
+    "stretch on"
+   ],
+   "a": 0,
+   "transKo": "매장은 영업시간을 연장하기로 결정했다.",
+   "exKo": "시간을 연장하다는 extend입니다.",
+   "why": [
+    "동사 extend — '연장하다', 시간·기간을 늘릴 때 씀",
+    "구동사 expand to — '확장되다', to가 불필요하고 규모에 씀",
+    "동사 enlarge — '크게 하다', 크기·면적에 쓰여 시간과 부적합",
+    "구동사 stretch on — '길게 이어지다', 자동사라 목적어 불가"
+   ]
+  },
+  {
+   "q": "We ___ all major credit cards.",
+   "type": "어휘",
+   "choices": [
+    "accept",
+    "receive",
+    "agree",
+    "admit"
+   ],
+   "a": 0,
+   "transKo": "저희는 모든 주요 신용 카드를 받습니다.",
+   "exKo": "카드 결제를 받다는 accept가 자연스럽습니다.",
+   "why": [
+    "동사 accept — '받아들이다', 카드 결제 수용의 표준 표현",
+    "동사 receive — '수령하다', 수동적 받음이라 결제에 어색",
+    "동사 agree — '동의하다', 자동사로 to/with가 필요함",
+    "동사 admit — '인정하다', 카드를 목적어로 하기에 부적합"
+   ]
+  },
+  {
+   "q": "The manual will help you ___ the copier quickly.",
+   "type": "어휘",
+   "choices": [
+    "operate",
+    "behave",
+    "perform to",
+    "conduct on"
+   ],
+   "a": 0,
+   "transKo": "이 설명서는 복사기를 빨리 다루는 데 도움이 될 것이다.",
+   "exKo": "기계를 조작하다는 operate입니다.",
+   "why": [
+    "동사 operate — '조작하다', 기계를 다룰 때 쓰는 타동사",
+    "동사 behave — '행동하다', 자동사라 기계 목적어 불가",
+    "perform to — '수행하다', to가 불필요하고 기계와 안 어울림",
+    "conduct on — '실시하다', on이 붙어 구조가 틀림"
+   ]
+  },
+  {
+   "q": "Guests may ___ the fitness center for free.",
+   "type": "어휘",
+   "choices": [
+    "use",
+    "spend",
+    "take on",
+    "wear"
+   ],
+   "a": 0,
+   "transKo": "투숙객은 피트니스 센터를 무료로 이용할 수 있다.",
+   "exKo": "시설을 이용하다는 use입니다.",
+   "why": [
+    "동사 use — '이용하다', 시설 이용에 쓰는 기본 동사",
+    "동사 spend — '쓰다', 돈·시간을 목적어로 하는 동사",
+    "구동사 take on — '떠맡다', 시설 이용 의미가 없음",
+    "동사 wear — '입다', 착용 동사라 문맥에 안 맞음"
+   ]
+  },
+  {
+   "q": "The bakery ___ fresh bread every two hours.",
+   "type": "어휘",
+   "choices": [
+    "bakes",
+    "boils",
+    "fries up",
+    "melts"
+   ],
+   "a": 0,
+   "transKo": "그 빵집은 두 시간마다 신선한 빵을 굽는다.",
+   "exKo": "빵과 어울리는 동사는 bakes(굽다)입니다.",
+   "why": [
+    "동사 bakes — '굽다', 빵을 만드는 데 맞는 동사",
+    "동사 boils — '끓이다', 액체 조리라 빵과 안 어울림",
+    "구동사 fries up — '튀기다', 기름 조리라 제빵과 무관",
+    "동사 melts — '녹이다', 고체를 액화하는 동사로 부적합"
+   ]
+  },
+  {
+   "q": "Don't ___ to bring your ID card tomorrow.",
+   "type": "어휘",
+   "choices": [
+    "forget",
+    "miss",
+    "lose",
+    "avoid"
+   ],
+   "a": 0,
+   "transKo": "내일 신분증을 가져오는 것을 잊지 마세요.",
+   "exKo": "forget to do(~할 것을 잊다)가 정답입니다.",
+   "why": [
+    "동사 forget — forget to do(~할 것을 잊다) 구문",
+    "동사 miss — '놓치다', 동명사를 목적어로 취함",
+    "동사 lose — '잃다', 물건이 목적어라 to부정사 불가",
+    "동사 avoid — '피하다', 동명사를 목적어로 취함"
+   ]
+  },
+  {
+   "q": "The city will ___ free shuttle buses during the festival.",
+   "type": "어휘",
+   "choices": [
+    "provide",
+    "give in",
+    "donate to",
+    "award on"
+   ],
+   "a": 0,
+   "transKo": "시는 축제 기간에 무료 셔틀버스를 제공할 것이다.",
+   "exKo": "서비스를 제공하다는 provide입니다.",
+   "why": [
+    "동사 provide — '제공하다', 서비스 제공에 쓰는 타동사",
+    "구동사 give in — '굴복하다', 제공 의미가 전혀 없음",
+    "donate to — '기부하다', to 뒤에 대상이 와야 해 구조 오류",
+    "award on — '수여하다', on이 붙어 어법에 맞지 않음"
+   ]
+  },
+  {
+   "q": "Please ___ your hands before returning to work.",
+   "type": "어휘",
+   "choices": [
+    "wash",
+    "clean up on",
+    "rinse to",
+    "soak"
+   ],
+   "a": 0,
+   "transKo": "업무에 복귀하기 전에 손을 씻어 주세요.",
+   "exKo": "wash one's hands(손을 씻다)가 자연스럽습니다.",
+   "why": [
+    "동사 wash — '씻다', wash one's hands 연어",
+    "clean up on — '치우다', on이 붙어 구조가 틀림",
+    "rinse to — '헹구다', to가 불필요한 잘못된 결합",
+    "동사 soak — '담그다', 물에 불리는 뜻이라 문맥에 부적합"
+   ]
+  },
+  {
+   "q": "The workshop will ___ about two hours.",
+   "type": "어휘",
+   "choices": [
+    "last",
+    "stay",
+    "spend",
+    "continue on"
+   ],
+   "a": 0,
+   "transKo": "워크숍은 약 두 시간 동안 진행될 것이다.",
+   "exKo": "지속되다의 의미인 last가 정답입니다.",
+   "why": [
+    "동사 last — '지속되다', 시간 길이와 함께 쓰는 자동사",
+    "동사 stay — '머무르다', 장소·상태 유지라 기간에 어색",
+    "동사 spend — '쓰다', 주어가 사람이어야 하는 타동사",
+    "구동사 continue on — '계속 나아가다', 시간 길이를 못 취함"
+   ]
+  },
+  {
+   "q": "You can ___ money at the currency counter.",
+   "type": "어휘",
+   "choices": [
+    "exchange for",
+    "exchange",
+    "trade on",
+    "switch to"
+   ],
+   "a": 1,
+   "transKo": "환전 창구에서 돈을 환전할 수 있습니다.",
+   "exKo": "exchange money(환전하다)가 올바른 표현입니다.",
+   "why": [
+    "exchange for — for 뒤에 교환 대상이 와야 해 구조 오류",
+    "동사 exchange — '환전하다', money를 바로 목적어로 취함",
+    "구동사 trade on — '이용하다', 환전 의미가 없음",
+    "구동사 switch to — '~로 바꾸다', to 뒤 대상이 빠짐"
+   ]
+  },
+  {
+   "q": "The receptionist will ___ you to the meeting room.",
+   "type": "어휘",
+   "choices": [
+    "direct",
+    "point",
+    "aim",
+    "indicate to"
+   ],
+   "a": 0,
+   "transKo": "접수 담당자가 회의실로 안내해 드릴 것입니다.",
+   "exKo": "길을 안내하다는 direct가 자연스럽습니다.",
+   "why": [
+    "동사 direct — '안내하다', direct A to B 구문에 맞음",
+    "동사 point — '가리키다', 자동사로 to가 필요함",
+    "동사 aim — '겨냥하다', 목표를 향하는 뜻이라 부적합",
+    "indicate to — '나타내다', 사람을 목적어로 못 취함"
+   ]
+  },
+  {
+   "q": "Our staff can ___ any questions about the menu.",
+   "type": "어휘",
+   "choices": [
+    "answer",
+    "reply",
+    "respond",
+    "solve to"
+   ],
+   "a": 0,
+   "transKo": "저희 직원이 메뉴에 관한 어떤 질문에도 답해 드립니다.",
+   "exKo": "answer + 목적어 구조가 맞습니다. reply/respond는 to가 필요합니다.",
+   "why": [
+    "동사 answer — '답하다', questions를 바로 취하는 타동사",
+    "동사 reply — '답하다', 자동사라 to가 있어야 함",
+    "동사 respond — '응답하다', 자동사라 to가 있어야 함",
+    "solve to — '해결하다', to가 불필요하고 질문과 안 어울림"
+   ]
+  },
+  {
+   "q": "Remember to ___ your library books on time.",
+   "type": "어휘",
+   "choices": [
+    "return",
+    "turn",
+    "refund",
+    "restore"
+   ],
+   "a": 0,
+   "transKo": "도서관 책을 제때 반납하는 것을 기억하세요.",
+   "exKo": "책을 반납하다는 return입니다.",
+   "why": [
+    "동사 return — '반납하다', 빌린 책을 돌려줄 때 씀",
+    "동사 turn — '돌리다', 방향 전환이라 반납 의미 없음",
+    "동사 refund — '환불하다', 돈을 돌려주는 뜻이라 부적합",
+    "동사 restore — '복원하다', 원상 복구 의미로 안 맞음"
+   ]
+  },
+  {
+   "q": "The store will ___ its doors at 8 p.m. tonight.",
+   "type": "어휘",
+   "choices": [
+    "close",
+    "shut off",
+    "finish",
+    "end up"
+   ],
+   "a": 0,
+   "transKo": "매장은 오늘 밤 8시에 문을 닫습니다.",
+   "exKo": "close its doors(문을 닫다)가 자연스럽습니다.",
+   "why": [
+    "동사 close — '닫다', close its doors 연어",
+    "구동사 shut off — '차단하다', 전원·물을 끊는 뜻",
+    "동사 finish — '끝내다', doors를 목적어로 못 취함",
+    "구동사 end up — '결국 ~되다', 자동사구라 목적어 불가"
+   ]
+  },
+  {
+   "q": "A staff member will ___ you with your luggage.",
+   "type": "어휘",
+   "choices": [
+    "assist",
+    "support on",
+    "aid to",
+    "serve for"
+   ],
+   "a": 0,
+   "transKo": "직원이 짐 드는 것을 도와드릴 것입니다.",
+   "exKo": "assist A with B(A가 B 하는 것을 돕다) 구문이 정답입니다.",
+   "why": [
+    "동사 assist — assist A with B(A를 도와주다) 구문",
+    "support on — '지지하다', on이 붙어 어법에 맞지 않음",
+    "aid to — '돕다', to가 불필요한 잘못된 결합",
+    "serve for — '제공하다', for가 붙어 구조가 틀림"
+   ]
+  },
+  {
+   "q": "Please ___ this message to the whole team.",
+   "type": "어휘",
+   "choices": [
+    "forward",
+    "advance",
+    "progress",
+    "proceed"
+   ],
+   "a": 0,
+   "transKo": "이 메시지를 팀 전체에 전달해 주세요.",
+   "exKo": "메시지를 전달하다는 forward입니다.",
+   "why": [
+    "동사 forward — '전달하다', 메시지를 넘길 때 쓰는 타동사",
+    "동사 advance — '진전시키다', 메시지 전달 의미가 없음",
+    "동사 progress — '진행되다', 자동사라 목적어 불가",
+    "동사 proceed — '나아가다', 자동사라 목적어를 못 취함"
+   ]
+  },
+  {
+   "q": "The garden cafe ___ a view of the river.",
+   "type": "어휘",
+   "choices": [
+    "offers",
+    "looks",
+    "views to",
+    "sees"
+   ],
+   "a": 0,
+   "transKo": "그 가든 카페는 강 전망을 제공한다.",
+   "exKo": "전망을 제공하다는 offers a view가 자연스럽습니다.",
+   "why": [
+    "동사 offers — '제공하다', offer a view(전망을 제공하다) 연어",
+    "동사 looks — '보다', 자동사로 at/out이 필요함",
+    "views to — '보다', to가 불필요하고 주어도 사람이어야 함",
+    "동사 sees — '보다', 사람의 시각 행위라 카페 주어에 부적합"
+   ]
+  },
+  {
+   "q": "Use the side door while we ___ the lobby floor.",
+   "type": "어휘",
+   "choices": [
+    "wax",
+    "melt",
+    "boil",
+    "dust off"
+   ],
+   "a": 0,
+   "transKo": "로비 바닥에 왁스 작업을 하는 동안 옆문을 이용해 주세요.",
+   "exKo": "바닥과 어울리는 동사는 wax(왁스칠하다)입니다.",
+   "why": [
+    "동사 wax — '왁스칠하다', 바닥 관리 작업에 맞는 동사",
+    "동사 melt — '녹이다', 고체 액화 동사라 바닥과 무관",
+    "동사 boil — '끓이다', 액체 가열이라 문맥에 안 맞음",
+    "구동사 dust off — '먼지를 털다', 물건에 쓰며 바닥엔 어색"
+   ]
+  },
+  {
+   "q": "The manager will ___ the schedule on the notice board.",
+   "type": "어휘",
+   "choices": [
+    "post",
+    "mail",
+    "stamp",
+    "pack"
+   ],
+   "a": 0,
+   "transKo": "매니저가 게시판에 일정을 게시할 것이다.",
+   "exKo": "게시판에 게시하다는 post입니다.",
+   "why": [
+    "동사 post — '게시하다', 게시판에 붙일 때 쓰는 동사",
+    "동사 mail — '우편으로 보내다', 게시판 게시와 무관",
+    "동사 stamp — '도장을 찍다', 게시 의미가 없음",
+    "동사 pack — '포장하다', 짐을 싸는 뜻이라 부적합"
+   ]
+  },
+  {
+   "q": "Passengers must ___ their tickets to the driver.",
+   "type": "어휘",
+   "choices": [
+    "show",
+    "teach",
+    "express",
+    "display on"
+   ],
+   "a": 0,
+   "transKo": "승객들은 기사에게 표를 보여 주어야 한다.",
+   "exKo": "표를 제시하다는 show가 자연스럽습니다.",
+   "why": [
+    "동사 show — '제시하다', 표를 보여줄 때 쓰는 타동사",
+    "동사 teach — '가르치다', 표를 목적어로 못 취함",
+    "동사 express — '표현하다', 감정·생각에 쓰이는 동사",
+    "display on — '전시하다', on이 붙어 구조가 틀림"
+   ]
+  },
+  {
+   "q": "We hope you ___ your stay at our resort.",
+   "type": "어휘",
+   "choices": [
+    "enjoy",
+    "please",
+    "delight",
+    "satisfy"
+   ],
+   "a": 0,
+   "transKo": "저희 리조트에서의 숙박이 즐거우시기를 바랍니다.",
+   "exKo": "enjoy one's stay(숙박을 즐기다)가 빈출 표현입니다.",
+   "why": [
+    "동사 enjoy — enjoy one's stay(숙박을 즐기다) 빈출 연어",
+    "동사 please — '기쁘게 하다', 목적어가 사람이어야 함",
+    "동사 delight — '기쁘게 하다', 사람을 목적어로 하는 타동사",
+    "동사 satisfy — '만족시키다', 사람을 목적어로 하는 타동사"
+   ]
+  }
+ ]
+}

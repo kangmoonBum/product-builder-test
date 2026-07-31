@@ -1,0 +1,644 @@
+{
+ "passages": [
+  {
+   "kind": "이메일",
+   "title": "명함 주문 확인 메일",
+   "passage": "From: Print Express\nTo: Laura Bell\nSubject: Order Confirmation #4471\n\nDear Ms. Bell,\n\nThank you for your order of 200 business cards. Your cards will be ready for pickup on Friday after 2 p.m. at our shop on Oak Street.\n\nIf you would like delivery to your office instead, reply to this email by Thursday noon. Delivery costs $4.\n\nBest regards,\nPrint Express Customer Service",
+   "questions": [
+    {
+     "q": "What did Ms. Bell order?",
+     "type": "세부사항",
+     "choices": [
+      "Business cards",
+      "Posters",
+      "Envelopes",
+      "Name tags"
+     ],
+     "a": 0,
+     "exKo": "your order of 200 business cards에서 주문품이 명함임을 알 수 있습니다.",
+     "why": [
+      "'your order of 200 business cards'가 주문품을 명시",
+      "포스터 인쇄 언급 없음",
+      "봉투 주문 언급 없음",
+      "이름표 언급 없음"
+     ],
+     "ev": "Thank you for your order of 200 business cards."
+    },
+    {
+     "q": "When can the order be picked up?",
+     "type": "세부사항",
+     "choices": [
+      "Friday after 2 p.m.",
+      "Thursday at noon",
+      "Friday morning",
+      "Monday after 2 p.m."
+     ],
+     "a": 0,
+     "exKo": "ready for pickup on Friday after 2 p.m.이라고 안내합니다.",
+     "why": [
+      "'ready for pickup on Friday after 2 p.m.'와 일치",
+      "목요일 정오는 배송 요청 회신 기한",
+      "오후 2시 이후이므로 금요일 오전은 지문과 반대",
+      "월요일은 지문에 언급 없음"
+     ],
+     "ev": "Your cards will be ready for pickup on Friday after 2 p.m. at our shop on Oak Street."
+    },
+    {
+     "q": "What should Ms. Bell do to get delivery?",
+     "type": "세부사항",
+     "choices": [
+      "Reply to the email by Thursday noon",
+      "Call the shop on Friday",
+      "Visit the shop on Oak Street",
+      "Pay $4 at pickup"
+     ],
+     "a": 0,
+     "exKo": "배송을 원하면 목요일 정오까지 회신하라고 되어 있습니다.",
+     "why": [
+      "'reply to this email by Thursday noon'이 배송 신청 방법",
+      "전화로 문의하라는 언급 없음",
+      "매장 방문은 픽업 방식이라 배송과 반대",
+      "4달러는 배송비지만 픽업 시 결제한다는 말 없음"
+     ],
+     "ev": "If you would like delivery to your office instead, reply to this email by Thursday noon."
+    }
+   ]
+  },
+  {
+   "kind": "이메일",
+   "title": "신입사원 환영 점심 초대 메일",
+   "passage": "From: Kevin Moore\nTo: Sales Team\nSubject: Welcome Lunch for Nina\n\nHi team,\n\nOur new team member, Nina Torres, starts on Monday. To welcome her, we will have lunch together at Bella Pasta at noon on Tuesday. The company will pay for the meal.\n\nPlease reply by Friday so I can reserve a table. Let me know if you have any food allergies.\n\nThanks,\nKevin",
+   "questions": [
+    {
+     "q": "Why is the lunch being held?",
+     "type": "주제·목적",
+     "choices": [
+      "To welcome a new team member",
+      "To celebrate a sales record",
+      "To say goodbye to Kevin",
+      "To discuss a new project"
+     ],
+     "a": 0,
+     "exKo": "새 팀원 Nina를 환영하기 위한 점심 자리입니다.",
+     "why": [
+      "'To welcome her'가 신입 환영이 목적임을 밝힘",
+      "판매 기록 축하 언급 없음",
+      "Kevin의 송별 언급 없음",
+      "새 프로젝트 논의 언급 없음"
+     ],
+     "ev": "To welcome her, we will have lunch together at Bella Pasta at noon on Tuesday."
+    },
+    {
+     "q": "When will the lunch take place?",
+     "type": "세부사항",
+     "choices": [
+      "Tuesday at noon",
+      "Monday at noon",
+      "Friday evening",
+      "Tuesday evening"
+     ],
+     "a": 0,
+     "exKo": "at Bella Pasta at noon on Tuesday라고 명시되어 있습니다.",
+     "why": [
+      "'at noon on Tuesday'가 점심 시점을 그대로 제시",
+      "월요일은 Nina의 출근일이지 점심 날 아님",
+      "금요일은 회신 기한일 뿐 행사일 아님",
+      "요일은 맞지만 저녁이 아니라 정오"
+     ],
+     "ev": "we will have lunch together at Bella Pasta at noon on Tuesday"
+    },
+    {
+     "q": "Why should team members reply by Friday?",
+     "type": "세부사항",
+     "choices": [
+      "So a table can be reserved",
+      "So the menu can be printed",
+      "So Nina can be introduced",
+      "So the company can pay"
+     ],
+     "a": 0,
+     "exKo": "Please reply by Friday so I can reserve a table에서 이유를 알 수 있습니다.",
+     "why": [
+      "'so I can reserve a table'가 회신을 요청한 이유",
+      "메뉴판 인쇄 언급 없음",
+      "Nina 소개는 회신 목적으로 언급되지 않음",
+      "회사 부담은 이미 정해진 사실이라 이유 아님"
+     ],
+     "ev": "Please reply by Friday so I can reserve a table."
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "구내식당 메뉴 변경 공지",
+   "passage": "CAFETERIA NOTICE\n\nStarting next week, the staff cafeteria will offer a new salad bar every day. The soup station will move next to the window, and a vegetarian main dish will be added to the daily menu.\n\nLunch hours stay the same: 11:30 a.m. to 1:30 p.m. Menu cards are posted at the entrance each morning.\n\nCafeteria Services",
+   "questions": [
+    {
+     "q": "What is the notice mainly about?",
+     "type": "주제·목적",
+     "choices": [
+      "Changes to the cafeteria menu",
+      "New lunch hours",
+      "A cafeteria closing",
+      "A cooking contest"
+     ],
+     "a": 0,
+     "exKo": "샐러드바 신설 등 구내식당 메뉴 변경을 알리는 공지입니다.",
+     "why": [
+      "샐러드바 신설 등 식당 메뉴 변경이 공지 핵심",
+      "점심시간은 그대로라 지문과 반대",
+      "식당 폐쇄 언급 없음",
+      "요리 대회 언급 없음"
+     ],
+     "ev": "Starting next week, the staff cafeteria will offer a new salad bar every day."
+    },
+    {
+     "q": "What will be added to the daily menu?",
+     "type": "세부사항",
+     "choices": [
+      "A vegetarian main dish",
+      "A dessert station",
+      "A coffee machine",
+      "A breakfast set"
+     ],
+     "a": 0,
+     "exKo": "a vegetarian main dish will be added라고 명시합니다.",
+     "why": [
+      "'a vegetarian main dish will be added'와 그대로 일치",
+      "디저트 코너 언급 없음",
+      "커피 머신 언급 없음",
+      "조식 세트 언급 없음"
+     ],
+     "ev": "a vegetarian main dish will be added to the daily menu"
+    },
+    {
+     "q": "What is indicated about lunch hours?",
+     "type": "세부사항",
+     "choices": [
+      "They will not change",
+      "They will start earlier",
+      "They will be shorter",
+      "They will end at noon"
+     ],
+     "a": 0,
+     "exKo": "Lunch hours stay the same에서 시간 변경이 없음을 알 수 있습니다.",
+     "why": [
+      "'stay the same'이 시간 변경 없음을 뜻함",
+      "더 일찍 시작한다는 말은 지문과 반대",
+      "시간 단축도 stay the same과 반대",
+      "종료는 정오가 아니라 오후 1시 30분"
+     ],
+     "ev": "Lunch hours stay the same: 11:30 a.m. to 1:30 p.m."
+    }
+   ]
+  },
+  {
+   "kind": "공지",
+   "title": "사무실 재활용 규칙 공지",
+   "passage": "RECYCLING REMINDER\n\nPlease use the correct bins in the break room. Blue bins are for paper only. Yellow bins are for plastic bottles and cans. Food waste goes in the green bin next to the sink.\n\nLast month, many bins were mixed, and the building charged us an extra cleaning fee. Let's keep our office clean and avoid extra costs.\n\nOffice Administration",
+   "questions": [
+    {
+     "q": "What is the purpose of the notice?",
+     "type": "주제·목적",
+     "choices": [
+      "To remind staff of recycling rules",
+      "To announce new bins",
+      "To introduce a cleaning company",
+      "To change break room hours"
+     ],
+     "a": 0,
+     "exKo": "분리수거함을 올바르게 사용하자는 재활용 규칙 안내입니다.",
+     "why": [
+      "'use the correct bins'가 분리수거 규칙 안내 목적",
+      "새 쓰레기통 도입 언급 없음",
+      "청소 업체를 소개하는 내용 없음",
+      "휴게실 이용 시간 변경 언급 없음"
+     ],
+     "ev": "Please use the correct bins in the break room."
+    },
+    {
+     "q": "What are the yellow bins for?",
+     "type": "세부사항",
+     "choices": [
+      "Plastic bottles and cans",
+      "Paper only",
+      "Food waste",
+      "Glass bottles"
+     ],
+     "a": 0,
+     "exKo": "Yellow bins are for plastic bottles and cans라고 되어 있습니다.",
+     "why": [
+      "'plastic bottles and cans'가 노란 통 용도와 일치",
+      "종이 전용은 파란 통이라 색이 다름",
+      "음식물은 초록 통이라 색이 다름",
+      "유리병은 지문에 언급 없음"
+     ],
+     "ev": "Yellow bins are for plastic bottles and cans."
+    },
+    {
+     "q": "What happened last month?",
+     "type": "세부사항",
+     "choices": [
+      "An extra cleaning fee was charged",
+      "The green bin was removed",
+      "The break room was closed",
+      "New rules were introduced"
+     ],
+     "a": 0,
+     "exKo": "쓰레기가 섞여 건물 측이 추가 청소비를 청구했다고 설명합니다.",
+     "why": [
+      "'charged us an extra cleaning fee'가 지난달 일",
+      "초록 통을 없앴다는 언급 없음",
+      "휴게실 폐쇄 언급 없음",
+      "규칙은 새로 도입이 아니라 다시 알리는 것"
+     ],
+     "ev": "Last month, many bins were mixed, and the building charged us an extra cleaning fee."
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "피트니스 센터 아침 회원권 광고",
+   "passage": "EARLY BIRD SPECIAL — FIT ZONE GYM\n\nJoin Fit Zone this month and pay only $25 per month for our morning membership. Use the gym any day from 6 a.m. to 11 a.m., including weekends.\n\nThe price includes group classes, lockers, and towels. Sign up at the front desk or on our website. Offer ends June 30.\n\nStart your day strong with Fit Zone!",
+   "questions": [
+    {
+     "q": "What is being advertised?",
+     "type": "주제·목적",
+     "choices": [
+      "A morning gym membership",
+      "A new gym location",
+      "Personal training lessons",
+      "A weekend sports event"
+     ],
+     "a": 0,
+     "exKo": "월 25달러의 아침 전용 회원권을 홍보하는 광고입니다.",
+     "why": [
+      "'our morning membership'이 광고 대상임을 명시",
+      "새 지점 개설 언급 없음",
+      "개인 레슨이 아니라 그룹 수업만 포함",
+      "주말 이용 가능일 뿐 스포츠 행사 아님"
+     ],
+     "ev": "Join Fit Zone this month and pay only $25 per month for our morning membership."
+    },
+    {
+     "q": "What is included in the price?",
+     "type": "세부사항",
+     "choices": [
+      "Group classes, lockers, and towels",
+      "A personal trainer",
+      "Free parking",
+      "Protein drinks"
+     ],
+     "a": 0,
+     "exKo": "includes group classes, lockers, and towels라고 명시합니다.",
+     "why": [
+      "'group classes, lockers, and towels'와 그대로 일치",
+      "개인 트레이너 제공 언급 없음",
+      "무료 주차 언급 없음",
+      "단백질 음료 언급 없음"
+     ],
+     "ev": "The price includes group classes, lockers, and towels."
+    },
+    {
+     "q": "When does the offer end?",
+     "type": "세부사항",
+     "choices": [
+      "June 30",
+      "June 6",
+      "At the end of the year",
+      "This weekend"
+     ],
+     "a": 0,
+     "exKo": "Offer ends June 30에서 확인할 수 있습니다.",
+     "why": [
+      "'Offer ends June 30'이 종료일을 명시",
+      "6시는 이용 시작 시각이지 종료일 아님",
+      "연말까지라는 언급 없음",
+      "이번 주말 종료라는 언급 없음"
+     ],
+     "ev": "Offer ends June 30."
+    }
+   ]
+  },
+  {
+   "kind": "광고",
+   "title": "이사 업체 봄 할인 광고",
+   "passage": "MOVING THIS SPRING? CALL EASY MOVERS!\n\nBook your move in March or April and get 15% off our standard rate. Our friendly team packs, moves, and unpacks your boxes safely.\n\nWe offer free boxes for moves within the city. Get a free price quote by phone or on our website in under five minutes.\n\nEasy Movers — moving made simple since 2010.",
+   "questions": [
+    {
+     "q": "What service is being advertised?",
+     "type": "주제·목적",
+     "choices": [
+      "A moving company",
+      "A box supplier",
+      "A cleaning service",
+      "A storage building"
+     ],
+     "a": 0,
+     "exKo": "이사 업체 Easy Movers의 봄 할인 광고입니다.",
+     "why": [
+      "짐을 싸고 옮기고 풀어주는 이사 업체 광고",
+      "무료 박스는 혜택일 뿐 박스 판매업체 아님",
+      "청소 서비스 언급 없음",
+      "보관 창고 언급 없음"
+     ],
+     "ev": "Our friendly team packs, moves, and unpacks your boxes safely."
+    },
+    {
+     "q": "How can customers get 15% off?",
+     "type": "세부사항",
+     "choices": [
+      "By booking in March or April",
+      "By paying in cash",
+      "By moving within the city",
+      "By packing their own boxes"
+     ],
+     "a": 0,
+     "exKo": "Book your move in March or April and get 15% off라고 안내합니다.",
+     "why": [
+      "'Book your move in March or April'가 할인 조건",
+      "현금 결제 조건 언급 없음",
+      "시내 이사는 무료 박스 조건이지 할인 조건 아님",
+      "포장은 업체가 해주므로 지문과 반대"
+     ],
+     "ev": "Book your move in March or April and get 15% off our standard rate."
+    },
+    {
+     "q": "What is offered for moves within the city?",
+     "type": "세부사항",
+     "choices": [
+      "Free boxes",
+      "Free unpacking",
+      "A free truck",
+      "Same-day service"
+     ],
+     "a": 0,
+     "exKo": "free boxes for moves within the city에서 확인됩니다.",
+     "why": [
+      "'free boxes for moves within the city'와 일치",
+      "짐 풀기는 기본 서비스일 뿐 시내 한정 혜택 아님",
+      "무료 트럭 제공 언급 없음",
+      "당일 서비스 언급 없음"
+     ],
+     "ev": "We offer free boxes for moves within the city."
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "주말 농산물 시장 개장 기사",
+   "passage": "OAKDALE — A farmers market will open in Central Park every Saturday starting May 3. About 30 local farms will sell fresh vegetables, fruit, and cheese from 8 a.m. to 1 p.m.\n\nCity officials hope the market will bring more visitors to downtown shops. Parking near the park will be free on market days. The market will run until the end of October.",
+   "questions": [
+    {
+     "q": "What is the article about?",
+     "type": "주제·목적",
+     "choices": [
+      "A new weekly farmers market",
+      "A park construction project",
+      "A downtown parking problem",
+      "A cheese-making farm"
+     ],
+     "a": 0,
+     "exKo": "5월 3일부터 매주 토요일 열리는 농산물 시장 소식입니다.",
+     "why": [
+      "매주 토요일 열리는 농산물 시장 개장이 기사 핵심",
+      "공원 공사 언급 없음",
+      "주차는 무료 제공이라 문제로 다뤄지지 않음",
+      "치즈는 판매 품목 중 하나일 뿐"
+     ],
+     "ev": "A farmers market will open in Central Park every Saturday starting May 3."
+    },
+    {
+     "q": "How many farms will take part?",
+     "type": "세부사항",
+     "choices": [
+      "About 30",
+      "About 13",
+      "About 50",
+      "About 8"
+     ],
+     "a": 0,
+     "exKo": "About 30 local farms will sell...에서 확인할 수 있습니다.",
+     "why": [
+      "'About 30 local farms'가 참여 농가 수를 명시",
+      "13은 지문에 없는 숫자",
+      "50은 지문에 없는 숫자",
+      "8은 시장 시작 시각이지 농가 수 아님"
+     ],
+     "ev": "About 30 local farms will sell fresh vegetables, fruit, and cheese from 8 a.m. to 1 p.m."
+    },
+    {
+     "q": "What will be free on market days?",
+     "type": "세부사항",
+     "choices": [
+      "Parking near the park",
+      "Vegetables for children",
+      "Bus rides downtown",
+      "Entry tickets"
+     ],
+     "a": 0,
+     "exKo": "Parking near the park will be free on market days라고 명시합니다.",
+     "why": [
+      "'Parking near the park will be free'와 일치",
+      "어린이 무료 채소 언급 없음",
+      "무료 버스 운행 언급 없음",
+      "입장권 자체가 언급되지 않음"
+     ],
+     "ev": "Parking near the park will be free on market days."
+    }
+   ]
+  },
+  {
+   "kind": "기사",
+   "title": "사무용품점 배달 로봇 도입 기사",
+   "passage": "MILLBROOK — Office supply store Deskmart began using two small delivery robots this week. The robots carry orders to offices within one kilometer of the store.\n\nCustomers order online, and the robot arrives in about 25 minutes. A code sent to the customer's phone opens the lid. Store manager Rita Gomez said the robots help during busy hours, and delivery staff now handle only larger orders.",
+   "questions": [
+    {
+     "q": "What is the article mainly about?",
+     "type": "주제·목적",
+     "choices": [
+      "A store using delivery robots",
+      "A new phone application",
+      "A robot factory opening",
+      "A store moving downtown"
+     ],
+     "a": 0,
+     "exKo": "사무용품점이 배달 로봇 2대를 도입했다는 기사입니다.",
+     "why": [
+      "배달 로봇 2대 도입이 기사 전체 주제",
+      "온라인 주문일 뿐 새 앱 출시 언급 없음",
+      "로봇 공장 설립 언급 없음",
+      "매장 이전 언급 없음"
+     ],
+     "ev": "Office supply store Deskmart began using two small delivery robots this week."
+    },
+    {
+     "q": "How do customers open the robot's lid?",
+     "type": "세부사항",
+     "choices": [
+      "With a code sent to their phone",
+      "With a store membership card",
+      "By calling the store",
+      "With a key from the driver"
+     ],
+     "a": 0,
+     "exKo": "A code sent to the customer's phone opens the lid에서 확인됩니다.",
+     "why": [
+      "'A code sent to the customer's phone'이 개방 방법",
+      "회원 카드 사용 언급 없음",
+      "매장에 전화한다는 언급 없음",
+      "기사에게 열쇠를 받는다는 언급 없음"
+     ],
+     "ev": "A code sent to the customer's phone opens the lid."
+    },
+    {
+     "q": "What do delivery staff do now?",
+     "type": "세부사항",
+     "choices": [
+      "Handle only larger orders",
+      "Repair the robots",
+      "Take online orders",
+      "Work at the register"
+     ],
+     "a": 0,
+     "exKo": "delivery staff now handle only larger orders라고 설명합니다.",
+     "why": [
+      "'handle only larger orders'가 현재 업무를 설명",
+      "로봇 수리 담당 언급 없음",
+      "주문은 고객이 온라인으로 직접 함",
+      "계산대 근무 언급 없음"
+     ],
+     "ev": "delivery staff now handle only larger orders"
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "우산 분실물 문의 문자",
+   "passage": "Front Desk (10:05 A.M.)\nHello, this is the front desk. A blue umbrella was found in Meeting Room C. Is it yours?\n\nJake Woo (10:07 A.M.)\nYes! I was looking for it everywhere. Thank you!\n\nFront Desk (10:08 A.M.)\nGreat. We'll keep it at the desk. You can pick it up anytime today.\n\nJake Woo (10:09 A.M.)\nI'll come down at lunchtime. Thanks again!",
+   "questions": [
+    {
+     "q": "Why did the front desk send the message?",
+     "type": "주제·목적",
+     "choices": [
+      "To ask about a found umbrella",
+      "To report a broken door",
+      "To schedule a meeting",
+      "To deliver a package"
+     ],
+     "a": 0,
+     "exKo": "회의실에서 발견된 파란 우산의 주인을 찾는 메시지입니다.",
+     "why": [
+      "'Is it yours?'로 습득한 우산 주인을 확인함",
+      "문 고장 신고 언급 없음",
+      "회의실은 발견 장소일 뿐 일정 조율 아님",
+      "택배 전달 언급 없음"
+     ],
+     "ev": "A blue umbrella was found in Meeting Room C. Is it yours?"
+    },
+    {
+     "q": "Where was the umbrella found?",
+     "type": "세부사항",
+     "choices": [
+      "In Meeting Room C",
+      "At the front desk",
+      "In the lobby",
+      "In the elevator"
+     ],
+     "a": 0,
+     "exKo": "found in Meeting Room C에서 확인됩니다.",
+     "why": [
+      "'found in Meeting Room C'가 발견 장소",
+      "프런트는 보관 장소이지 발견 장소가 아님",
+      "로비는 지문에 언급 없음",
+      "엘리베이터는 지문에 언급 없음"
+     ],
+     "ev": "A blue umbrella was found in Meeting Room C."
+    },
+    {
+     "q": "When will Mr. Woo pick up the umbrella?",
+     "type": "세부사항",
+     "choices": [
+      "At lunchtime",
+      "Right away",
+      "Tomorrow morning",
+      "After work"
+     ],
+     "a": 0,
+     "exKo": "I'll come down at lunchtime이라고 답합니다.",
+     "why": [
+      "'I'll come down at lunchtime'이 수령 시점",
+      "지금 바로 내려가겠다고 하지 않음",
+      "오늘 중 수령 가능하므로 내일 아침은 반대",
+      "퇴근 후에 오겠다는 언급 없음"
+     ],
+     "ev": "I'll come down at lunchtime."
+    }
+   ]
+  },
+  {
+   "kind": "문자메시지",
+   "title": "복사용지 재고 확인 문자",
+   "passage": "Emma Ford (3:40 P.M.)\nHi Raj, do we have more copy paper? The cabinet on our floor is empty.\n\nRaj Patel (3:42 P.M.)\nThere should be some in the storage room on the 3rd floor. Shelf B.\n\nEmma Ford (3:45 P.M.)\nJust checked — only two boxes left.\n\nRaj Patel (3:46 P.M.)\nOkay, take one and I'll order more today. It usually arrives in two days.\n\nEmma Ford (3:47 P.M.)\nPerfect, thanks!",
+   "questions": [
+    {
+     "q": "What is Ms. Ford looking for?",
+     "type": "주제·목적",
+     "choices": [
+      "Copy paper",
+      "A storage key",
+      "Printer ink",
+      "An empty cabinet"
+     ],
+     "a": 0,
+     "exKo": "복사용지가 떨어져 재고를 찾고 있습니다.",
+     "why": [
+      "'do we have more copy paper'가 찾는 물품을 밝힘",
+      "창고 열쇠를 찾는다는 언급 없음",
+      "프린터 잉크 언급 없음",
+      "빈 캐비닛은 상황 설명일 뿐 찾는 대상 아님"
+     ],
+     "ev": "Hi Raj, do we have more copy paper?"
+    },
+    {
+     "q": "How many boxes are left in the storage room?",
+     "type": "세부사항",
+     "choices": [
+      "Two",
+      "Three",
+      "None",
+      "Ten"
+     ],
+     "a": 0,
+     "exKo": "only two boxes left라고 보고합니다.",
+     "why": [
+      "'only two boxes left'가 남은 수량을 명시",
+      "3은 창고가 있는 층수이지 상자 수 아님",
+      "비어 있는 것은 사무실 캐비닛이지 창고가 아님",
+      "10은 지문에 없는 숫자"
+     ],
+     "ev": "Just checked — only two boxes left."
+    },
+    {
+     "q": "What will Mr. Patel do today?",
+     "type": "세부사항",
+     "choices": [
+      "Order more paper",
+      "Move the cabinet",
+      "Visit the 3rd floor",
+      "Call the supplier to complain"
+     ],
+     "a": 0,
+     "exKo": "I'll order more today에서 확인됩니다.",
+     "why": [
+      "'I'll order more today'가 오늘 할 일을 명시",
+      "캐비닛을 옮긴다는 언급 없음",
+      "3층에 가서 확인한 사람은 Ford임",
+      "공급업체에 항의한다는 언급 없음"
+     ],
+     "ev": "Okay, take one and I'll order more today."
+    }
+   ]
+  }
+ ]
+}

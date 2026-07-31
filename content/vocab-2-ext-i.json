@@ -1,0 +1,748 @@
+{
+ "words": [
+  {
+   "w": "abide",
+   "p": "동사",
+   "m": "준수하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "abide by",
+     "k": "숙어",
+     "m": "~을 준수하다"
+    }
+   ],
+   "ex": "All vendors must <b>abide</b> by the market rules.",
+   "exKo": "모든 판매자는 시장 규칙을 준수해야 합니다."
+  },
+  {
+   "w": "acclimate",
+   "p": "동사",
+   "m": "적응하다",
+   "cat": "채용·인사",
+   "ex": "Give new staff a week to <b>acclimate</b> to the schedule.",
+   "exKo": "신입 직원이 일정에 적응하도록 일주일을 주세요."
+  },
+  {
+   "w": "aisle seat",
+   "p": "명사",
+   "m": "통로 쪽 좌석",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "window seat",
+     "k": "반의",
+     "m": "창가 좌석"
+    }
+   ],
+   "ex": "I prefer an <b>aisle seat</b> on long flights.",
+   "exKo": "장거리 비행에서는 통로 쪽 좌석을 선호합니다."
+  },
+  {
+   "w": "amenity",
+   "p": "명사",
+   "m": "편의 시설",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "hotel amenities",
+     "k": "숙어",
+     "m": "호텔 편의 시설"
+    }
+   ],
+   "ex": "The hotel's <b>amenities</b> include a gym and a pool.",
+   "exKo": "호텔 편의 시설로 체육관과 수영장이 있습니다."
+  },
+  {
+   "w": "apparel",
+   "p": "명사",
+   "m": "의류",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "sports apparel",
+     "k": "숙어",
+     "m": "스포츠 의류"
+    }
+   ],
+   "ex": "The store's sports <b>apparel</b> section doubled in size.",
+   "exKo": "그 매장의 스포츠 의류 코너가 두 배로 커졌습니다."
+  },
+  {
+   "w": "artifact",
+   "p": "명사",
+   "m": "유물, 공예품",
+   "cat": "마케팅",
+   "ex": "The museum displays <b>artifacts</b> from the old port.",
+   "exKo": "박물관은 옛 항구의 유물을 전시합니다."
+  },
+  {
+   "w": "attentive",
+   "p": "형용사",
+   "m": "세심한, 주의 깊은",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "attentive service",
+     "k": "숙어",
+     "m": "세심한 서비스"
+    }
+   ],
+   "ex": "The <b>attentive</b> staff refilled drinks without being asked.",
+   "exKo": "세심한 직원들이 요청 없이도 음료를 채워 주었습니다."
+  },
+  {
+   "w": "beneficiary",
+   "p": "명사",
+   "m": "수혜자",
+   "cat": "재무·회계",
+   "ex": "Please name a <b>beneficiary</b> on the insurance form.",
+   "exKo": "보험 양식에 수혜자를 지정해 주세요."
+  },
+  {
+   "w": "bounce",
+   "p": "동사",
+   "m": "튀다, (수표가) 부도나다",
+   "cat": "재무·회계",
+   "ex": "The check <b>bounced</b> due to insufficient funds.",
+   "exKo": "잔액 부족으로 수표가 부도났습니다."
+  },
+  {
+   "w": "by-product",
+   "p": "명사",
+   "m": "부산물",
+   "cat": "배송·주문",
+   "ex": "The plant sells sawdust as a <b>by-product</b>.",
+   "exKo": "그 공장은 부산물인 톱밥을 판매합니다."
+  },
+  {
+   "w": "carousel",
+   "p": "명사",
+   "m": "수하물 컨베이어",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "baggage carousel",
+     "k": "숙어",
+     "m": "수하물 수취대"
+    }
+   ],
+   "ex": "Your bags will arrive at <b>carousel</b> five.",
+   "exKo": "수하물은 5번 컨베이어로 나옵니다."
+  },
+  {
+   "w": "chronological",
+   "p": "형용사",
+   "m": "시간 순서의",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "in chronological order",
+     "k": "숙어",
+     "m": "시간순으로"
+    }
+   ],
+   "ex": "File the invoices in <b>chronological</b> order.",
+   "exKo": "송장을 시간 순서로 정리하세요."
+  },
+  {
+   "w": "circuit",
+   "p": "명사",
+   "m": "회로, 순회",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "circuit breaker",
+     "k": "숙어",
+     "m": "차단기"
+    }
+   ],
+   "ex": "An overloaded <b>circuit</b> caused the outage.",
+   "exKo": "과부하된 회로가 정전을 일으켰습니다."
+  },
+  {
+   "w": "clearance",
+   "p": "명사",
+   "m": "재고 정리, 허가",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "clearance sale",
+     "k": "숙어",
+     "m": "재고 정리 세일"
+    }
+   ],
+   "ex": "All winter coats are on <b>clearance</b> this week.",
+   "exKo": "이번 주 모든 겨울 코트가 재고 정리 세일 중입니다."
+  },
+  {
+   "w": "cohesive",
+   "p": "형용사",
+   "m": "결속력 있는",
+   "cat": "채용·인사",
+   "ex": "Team retreats build a more <b>cohesive</b> workforce.",
+   "exKo": "팀 워크숍은 더 결속력 있는 조직을 만듭니다."
+  },
+  {
+   "w": "collectively",
+   "p": "부사",
+   "m": "집단으로, 총괄하여",
+   "cat": "회의",
+   "ex": "The stores <b>collectively</b> raised ten thousand dollars.",
+   "exKo": "매장들이 총 1만 달러를 함께 모금했습니다."
+  },
+  {
+   "w": "congratulatory",
+   "p": "형용사",
+   "m": "축하의",
+   "cat": "회의",
+   "ex": "She received <b>congratulatory</b> messages from clients.",
+   "exKo": "그녀는 고객들의 축하 메시지를 받았습니다."
+  },
+  {
+   "w": "conjunction",
+   "p": "명사",
+   "m": "결합, 접속사",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "in conjunction with",
+     "k": "숙어",
+     "m": "~와 함께"
+    }
+   ],
+   "ex": "The sale runs in <b>conjunction</b> with the festival.",
+   "exKo": "세일은 축제와 연계하여 진행됩니다."
+  },
+  {
+   "w": "consulate",
+   "p": "명사",
+   "m": "영사관",
+   "cat": "출장·여행",
+   "ex": "Renew your passport at the nearest <b>consulate</b>.",
+   "exKo": "가까운 영사관에서 여권을 갱신하세요."
+  },
+  {
+   "w": "copyright",
+   "p": "명사",
+   "m": "저작권",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "copyrighted",
+     "k": "파생",
+     "m": "저작권 보호를 받는"
+    }
+   ],
+   "ex": "The images are protected by <b>copyright</b>.",
+   "exKo": "그 이미지들은 저작권으로 보호됩니다."
+  },
+  {
+   "w": "cornerstone",
+   "p": "명사",
+   "m": "주춧돌, 초석",
+   "cat": "마케팅",
+   "ex": "Trust is the <b>cornerstone</b> of our brand.",
+   "exKo": "신뢰는 우리 브랜드의 초석입니다."
+  },
+  {
+   "w": "culinary",
+   "p": "형용사",
+   "m": "요리의",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "culinary school",
+     "k": "숙어",
+     "m": "요리 학교"
+    }
+   ],
+   "ex": "She studied at a famous <b>culinary</b> school.",
+   "exKo": "그녀는 유명 요리 학교에서 공부했습니다."
+  },
+  {
+   "w": "decisive",
+   "p": "형용사",
+   "m": "결단력 있는, 결정적인",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "decisively",
+     "k": "파생",
+     "m": "단호하게"
+    }
+   ],
+   "ex": "Quick, <b>decisive</b> action prevented a bigger loss.",
+   "exKo": "빠르고 결단력 있는 조치가 더 큰 손실을 막았습니다."
+  },
+  {
+   "w": "designation",
+   "p": "명사",
+   "m": "지정, 직함",
+   "cat": "채용·인사",
+   "ex": "The area received a heritage <b>designation</b>.",
+   "exKo": "그 지역은 문화유산 지정을 받았습니다."
+  },
+  {
+   "w": "dispute",
+   "p": "명사",
+   "m": "분쟁, 논쟁",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "labor dispute",
+     "k": "숙어",
+     "m": "노사 분쟁"
+    }
+   ],
+   "ex": "The billing <b>dispute</b> was settled amicably.",
+   "exKo": "청구 분쟁은 원만히 해결되었습니다."
+  },
+  {
+   "w": "eatery",
+   "p": "명사",
+   "m": "음식점",
+   "cat": "출장·여행",
+   "ex": "A popular <b>eatery</b> opened near the office.",
+   "exKo": "사무실 근처에 인기 있는 음식점이 문을 열었습니다."
+  },
+  {
+   "w": "embark",
+   "p": "동사",
+   "m": "착수하다, 승선하다",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "embark on",
+     "k": "숙어",
+     "m": "~에 착수하다"
+    }
+   ],
+   "ex": "The firm will <b>embark</b> on a new export project.",
+   "exKo": "그 회사는 새 수출 프로젝트에 착수할 예정입니다."
+  },
+  {
+   "w": "emblem",
+   "p": "명사",
+   "m": "상징, 엠블럼",
+   "cat": "마케팅",
+   "ex": "The team's <b>emblem</b> appears on every uniform.",
+   "exKo": "팀 엠블럼이 모든 유니폼에 새겨져 있습니다."
+  },
+  {
+   "w": "finalize",
+   "p": "동사",
+   "m": "마무리하다, 확정하다",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "finalize the details",
+     "k": "숙어",
+     "m": "세부 사항을 확정하다"
+    }
+   ],
+   "ex": "Let's <b>finalize</b> the agenda by Thursday.",
+   "exKo": "목요일까지 안건을 확정합시다."
+  },
+  {
+   "w": "floral",
+   "p": "형용사",
+   "m": "꽃의",
+   "cat": "마케팅",
+   "rel": [
+    {
+     "w": "floral arrangement",
+     "k": "숙어",
+     "m": "꽃꽂이"
+    }
+   ],
+   "ex": "The lobby features a large <b>floral</b> arrangement.",
+   "exKo": "로비에는 큰 꽃 장식이 있습니다."
+  },
+  {
+   "w": "fundraiser",
+   "p": "명사",
+   "m": "모금 행사",
+   "cat": "재무·회계",
+   "ex": "The school's <b>fundraiser</b> exceeded its goal.",
+   "exKo": "학교 모금 행사가 목표를 초과 달성했습니다."
+  },
+  {
+   "w": "gratuity",
+   "p": "명사",
+   "m": "팁, 봉사료",
+   "cat": "출장·여행",
+   "rel": [
+    {
+     "w": "tip",
+     "k": "동의",
+     "m": "팁"
+    }
+   ],
+   "ex": "A ten percent <b>gratuity</b> is added for large groups.",
+   "exKo": "단체 손님에게는 10퍼센트 봉사료가 추가됩니다."
+  },
+  {
+   "w": "horticulture",
+   "p": "명사",
+   "m": "원예(학)",
+   "cat": "시설·사무",
+   "ex": "The park hires experts in <b>horticulture</b>.",
+   "exKo": "그 공원은 원예 전문가를 채용합니다."
+  },
+  {
+   "w": "hospitable",
+   "p": "형용사",
+   "m": "환대하는",
+   "cat": "출장·여행",
+   "ex": "The staff were warm and <b>hospitable</b> throughout our stay.",
+   "exKo": "머무는 내내 직원들이 따뜻하게 환대해 주었습니다."
+  },
+  {
+   "w": "incidental",
+   "p": "형용사",
+   "m": "부수적인",
+   "cat": "재무·회계",
+   "rel": [
+    {
+     "w": "incidental expenses",
+     "k": "숙어",
+     "m": "잡비"
+    }
+   ],
+   "ex": "Keep receipts for <b>incidental</b> expenses too.",
+   "exKo": "부수적인 비용의 영수증도 보관하세요."
+  },
+  {
+   "w": "inspiring",
+   "p": "형용사",
+   "m": "고무적인, 영감을 주는",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "inspire",
+     "k": "파생",
+     "m": "영감을 주다"
+    },
+    {
+     "w": "inspiration",
+     "k": "파생",
+     "m": "영감"
+    }
+   ],
+   "ex": "The founder gave an <b>inspiring</b> talk to the interns.",
+   "exKo": "창업자가 인턴들에게 고무적인 강연을 했습니다."
+  },
+  {
+   "w": "interim",
+   "p": "형용사",
+   "m": "임시의, 잠정의",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "interim director",
+     "k": "숙어",
+     "m": "임시 이사"
+    }
+   ],
+   "ex": "She will serve as <b>interim</b> manager until March.",
+   "exKo": "그녀는 3월까지 임시 매니저를 맡습니다."
+  },
+  {
+   "w": "inventive",
+   "p": "형용사",
+   "m": "창의적인",
+   "cat": "마케팅",
+   "ex": "The ad agency is known for <b>inventive</b> campaigns.",
+   "exKo": "그 광고 대행사는 창의적인 캠페인으로 유명합니다."
+  },
+  {
+   "w": "keynote",
+   "p": "명사",
+   "m": "기조 (연설)",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "keynote speaker",
+     "k": "숙어",
+     "m": "기조연설자"
+    }
+   ],
+   "ex": "The <b>keynote</b> speech opens the conference at nine.",
+   "exKo": "기조연설이 9시에 콘퍼런스의 문을 엽니다."
+  },
+  {
+   "w": "mock",
+   "p": "형용사",
+   "m": "모의의",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "mock interview",
+     "k": "숙어",
+     "m": "모의 면접"
+    }
+   ],
+   "ex": "Candidates complete a <b>mock</b> sales call.",
+   "exKo": "지원자들은 모의 영업 전화를 수행합니다."
+  },
+  {
+   "w": "notary",
+   "p": "명사",
+   "m": "공증인",
+   "cat": "계약·법무",
+   "rel": [
+    {
+     "w": "notarize",
+     "k": "파생",
+     "m": "공증하다"
+    }
+   ],
+   "ex": "Have the document signed before a <b>notary</b>.",
+   "exKo": "그 서류는 공증인 앞에서 서명하세요."
+  },
+  {
+   "w": "novice",
+   "p": "명사",
+   "m": "초보자",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "beginner",
+     "k": "동의",
+     "m": "초보자"
+    }
+   ],
+   "ex": "The class welcomes <b>novices</b> with no experience.",
+   "exKo": "그 수업은 경험이 없는 초보자를 환영합니다."
+  },
+  {
+   "w": "obstruct",
+   "p": "동사",
+   "m": "막다, 방해하다",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "obstruction",
+     "k": "파생",
+     "m": "방해(물)"
+    }
+   ],
+   "ex": "Do not <b>obstruct</b> the fire exit with boxes.",
+   "exKo": "상자로 비상구를 막지 마세요."
+  },
+  {
+   "w": "ovation",
+   "p": "명사",
+   "m": "열렬한 박수",
+   "cat": "회의",
+   "rel": [
+    {
+     "w": "standing ovation",
+     "k": "숙어",
+     "m": "기립 박수"
+    }
+   ],
+   "ex": "The retiring chef received a standing <b>ovation</b>.",
+   "exKo": "은퇴하는 요리사는 기립 박수를 받았습니다."
+  },
+  {
+   "w": "paycheck",
+   "p": "명사",
+   "m": "급여 (수표)",
+   "cat": "재무·회계",
+   "ex": "Your first <b>paycheck</b> arrives at month-end.",
+   "exKo": "첫 급여는 월말에 지급됩니다."
+  },
+  {
+   "w": "periodic",
+   "p": "형용사",
+   "m": "주기적인",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "periodically",
+     "k": "파생",
+     "m": "주기적으로"
+    }
+   ],
+   "ex": "The elevator gets <b>periodic</b> safety checks.",
+   "exKo": "엘리베이터는 주기적인 안전 점검을 받습니다."
+  },
+  {
+   "w": "perishables",
+   "p": "명사",
+   "m": "상하기 쉬운 식품",
+   "cat": "배송·주문",
+   "ex": "Store <b>perishables</b> in the cooler immediately.",
+   "exKo": "상하기 쉬운 식품은 즉시 냉장고에 보관하세요."
+  },
+  {
+   "w": "plausible",
+   "p": "형용사",
+   "m": "그럴듯한",
+   "cat": "회의",
+   "ex": "The delay has a <b>plausible</b> explanation.",
+   "exKo": "그 지연에는 그럴듯한 이유가 있습니다."
+  },
+  {
+   "w": "porter",
+   "p": "명사",
+   "m": "짐꾼, 포터",
+   "cat": "출장·여행",
+   "ex": "A <b>porter</b> carried our bags to the room.",
+   "exKo": "포터가 우리 짐을 객실까지 옮겨 주었습니다."
+  },
+  {
+   "w": "quota",
+   "p": "명사",
+   "m": "할당량",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "sales quota",
+     "k": "숙어",
+     "m": "판매 할당량"
+    }
+   ],
+   "ex": "The team met its monthly sales <b>quota</b> early.",
+   "exKo": "그 팀은 월 판매 할당량을 일찍 달성했습니다."
+  },
+  {
+   "w": "ream",
+   "p": "명사",
+   "m": "(종이) 연, 500장 묶음",
+   "cat": "시설·사무",
+   "rel": [
+    {
+     "w": "a ream of paper",
+     "k": "숙어",
+     "m": "종이 한 묶음"
+    }
+   ],
+   "ex": "Order five <b>reams</b> of printer paper.",
+   "exKo": "프린터 용지 다섯 연을 주문해 주세요."
+  },
+  {
+   "w": "runner-up",
+   "p": "명사",
+   "m": "준우승자, 2위",
+   "cat": "마케팅",
+   "ex": "The <b>runner-up</b> receives a gift certificate.",
+   "exKo": "준우승자는 상품권을 받습니다."
+  },
+  {
+   "w": "sabbatical",
+   "p": "명사",
+   "m": "안식 휴가",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "take a sabbatical",
+     "k": "숙어",
+     "m": "안식 휴가를 가다"
+    }
+   ],
+   "ex": "The professor is on <b>sabbatical</b> this semester.",
+   "exKo": "그 교수는 이번 학기 안식 휴가 중입니다."
+  },
+  {
+   "w": "showroom",
+   "p": "명사",
+   "m": "전시장, 쇼룸",
+   "cat": "마케팅",
+   "ex": "Visit our <b>showroom</b> to see the full sofa line.",
+   "exKo": "소파 전 제품을 보시려면 쇼룸을 방문하세요."
+  },
+  {
+   "w": "stakeholder",
+   "p": "명사",
+   "m": "이해관계자",
+   "cat": "계약·법무",
+   "ex": "All <b>stakeholders</b> reviewed the draft agreement.",
+   "exKo": "모든 이해관계자가 계약 초안을 검토했습니다."
+  },
+  {
+   "w": "stationary",
+   "p": "형용사",
+   "m": "정지한, 고정된",
+   "cat": "시설·사무",
+   "ex": "Keep the ladder <b>stationary</b> while I climb.",
+   "exKo": "제가 올라가는 동안 사다리를 고정해 주세요."
+  },
+  {
+   "w": "streamlined",
+   "p": "형용사",
+   "m": "간소화된, 유선형의",
+   "cat": "시설·사무",
+   "ex": "The <b>streamlined</b> checkout cut waiting times.",
+   "exKo": "간소화된 계산 절차가 대기 시간을 줄였습니다."
+  },
+  {
+   "w": "tuition",
+   "p": "명사",
+   "m": "수업료, 등록금",
+   "cat": "채용·인사",
+   "rel": [
+    {
+     "w": "tuition reimbursement",
+     "k": "숙어",
+     "m": "학비 지원"
+    }
+   ],
+   "ex": "The company covers <b>tuition</b> for job-related courses.",
+   "exKo": "회사는 직무 관련 강좌의 수업료를 지원합니다."
+  },
+  {
+   "w": "understaffed",
+   "p": "형용사",
+   "m": "인력이 부족한",
+   "cat": "채용·인사",
+   "ex": "The clinic is <b>understaffed</b> on weekends.",
+   "exKo": "그 병원은 주말에 인력이 부족합니다."
+  },
+  {
+   "w": "waitstaff",
+   "p": "명사",
+   "m": "종업원들 (총칭)",
+   "cat": "출장·여행",
+   "ex": "The <b>waitstaff</b> wear black aprons with the logo.",
+   "exKo": "종업원들은 로고가 새겨진 검은 앞치마를 입습니다."
+  },
+  {
+   "w": "warranty",
+   "p": "명사",
+   "m": "보증(서)",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "under warranty",
+     "k": "숙어",
+     "m": "보증 기간 중인"
+    },
+    {
+     "w": "extended warranty",
+     "k": "숙어",
+     "m": "연장 보증"
+    }
+   ],
+   "ex": "The blender comes with a two-year <b>warranty</b>.",
+   "exKo": "그 블렌더에는 2년 보증이 제공됩니다."
+  },
+  {
+   "w": "wholesaler",
+   "p": "명사",
+   "m": "도매업자",
+   "cat": "배송·주문",
+   "rel": [
+    {
+     "w": "retailer",
+     "k": "반의",
+     "m": "소매업자"
+    }
+   ],
+   "ex": "We buy directly from a produce <b>wholesaler</b>.",
+   "exKo": "우리는 농산물 도매업자에게서 직접 구매합니다."
+  }
+ ]
+}
